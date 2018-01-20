@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_lock_h1">22.0sp</dimen>
+    <dimen name="app_lock_h2">15.0sp</dimen>
+    <dimen name="app_lock_h3">13.5sp</dimen>
+    <dimen name="app_lock_h4">12.0sp</dimen>
+    <dimen name="bookshelf_gridview_item_horizontalSpacing">5.0dip</dimen>
+    <dimen name="bookshelf_gridview_item_with">96.0dip</dimen>
+    <dimen name="detail_play_seekbar_thumb_pad">0.0dip</dimen>
+    <dimen name="layoutheight_login_banner">100.0dip</dimen>
+    <dimen name="paddingAccount_large">12.0dip</dimen>
+    <dimen name="paddingAccount_normal">5.0dip</dimen>
+    <dimen name="paddingAccount_small">3.0dip</dimen>
+    <dimen name="paddingAccount_xlarge">18.0dip</dimen>
+    <dimen name="splash_top_font_size">21.0sp</dimen>
+    <dimen name="wifi_tip_font_size">12.0sp</dimen>
+    <dimen name="bksh_recommend_content_size">12.0sp</dimen>
+    <dimen name="cloud_book_shelf_window_content_bottom">110.0dip</dimen>
+    <dimen name="cloud_book_shelf_window_content_height">241.0dip</dimen>
+    <dimen name="cloud_book_shelf_window_content_top">74.0dip</dimen>
+    <dimen name="cloud_book_shelf_window_content_width">270.0dip</dimen>
+    <dimen name="cloud_book_shelf_window_icon_height">156.0dip</dimen>
+    <dimen name="cloud_book_shelf_window_icon_width">207.0dip</dimen>
+    <dimen name="delete_padding_right">5.0dip</dimen>
+    <dimen name="download_bottom_button">80.0dip</dimen>
+    <dimen name="download_bottom_checkbox_txt">10.0sp</dimen>
+    <dimen name="download_bottom_margin">2.0dip</dimen>
+    <dimen name="download_bottom_txt">12.0sp</dimen>
+    <dimen name="download_checkbox_width">80.0dip</dimen>
+    <dimen name="local_book_add_shelf_width">114.0dip</dimen>
+    <dimen name="local_book_delete_book_width">50.0dip</dimen>
+    <dimen name="local_book_font_size_medium_">12.0sp</dimen>
+    <dimen name="paddingAccount_xxlarge">28.0dip</dimen>
+    <dimen name="paddingAccount_xxxlarge">25.0dip</dimen>
+    <dimen name="splash_category_icon_top">9.0dip</dimen>
+    <dimen name="guide_view_text_size">12.0sp</dimen>
+</resources>

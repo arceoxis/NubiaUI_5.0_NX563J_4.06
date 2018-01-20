@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">删除%1$s个会话</item>
+        <item quantity="one">删除1个会话</item>
+    </plurals>
+</resources>

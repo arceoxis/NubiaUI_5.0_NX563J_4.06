@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">فلش نور</string>
+    <string name="close">بستن</string>
+    <string name="nocamere">Conflicts with camera</string>
+    <string name="keepon">Slide up to turn on the flashlight</string>
+    <string name="allkeepon">Flashlight is turned on</string>
+</resources>

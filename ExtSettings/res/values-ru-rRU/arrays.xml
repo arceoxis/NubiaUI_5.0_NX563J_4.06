@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_hotspot_mode_entries">
+        <item>Всегда</item>
+        <item>Выключить при простое в 5 мин</item>
+        <item>Выключить при простое в 10 мин</item>
+    </string-array>
+    <string-array name="wifi_hotspot_mode_entryValues">
+        <item>Always</item>
+        <item>Turn_off_5min</item>
+        <item>Turn_off_10min</item>
+    </string-array>
+</resources>

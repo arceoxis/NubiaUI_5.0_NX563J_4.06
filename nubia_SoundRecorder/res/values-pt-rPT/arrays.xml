@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Claro, 320kbps, mp3</item>
+        <item>Padrão, 128kbps, mp3</item>
+        <item>Espaço-eficiente, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Claro</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Telefone/neoRecorder</item>
+        <item>SD Cartão/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Telefone/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Melodia de chamada de entrada</item>
+        <item>Melodia de Alarme</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>Cartõ SIM1</item>
+        <item>Cartõ SIM2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Tirar foto</item>
+        <item>Selecionar uma foto de Galeria</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Ver foto</item>
+        <item>Deletar foto</item>
+        <item>Tirar uma nova foto</item>
+        <item>Selecionar uma nova foto de Galeria</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Guardar imergir</item>
+        <item>Guardar separar</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Classificar por tempo</item>
+        <item>Classificar por etiqueta</item>
+        <item>Classificar por duração</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>кітайская (GBK)</item>
+        <item>кітайская (Big5)</item>
+        <item>японская (ISO-2022-JP)</item>
+        <item>японская (SHIFT_JIS)</item>
+        <item>японская (EUC-JP)</item>
+        <item>Карэйская (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Заўсёды ўключана</item>
+        <item>Па запыце</item>
+        <item>Адключана</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Бягучая старонка</item>
+        <item>Пустая старонка</item>
+        <item>Старонка па змаўчанню</item>
+        <item>Самыя наведв. сайты</item>
+        <item>Іншае</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Дробны</item>
+        <item>Маленькі</item>
+        <item>Звычайны</item>
+        <item>Вялікі</item>
+        <item>Вельмі вялікі</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Далёка</item>
+        <item>Сярэдні</item>
+        <item>Закрыць</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Ніколі</item>
+        <item>Толькі па Wi-Fi</item>
+        <item>Заўсёды</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Ніколі</item>
+        <item>Толькі па Wi-Fi</item>
+        <item>Заўсёды</item>
+    </string-array>
+</resources>

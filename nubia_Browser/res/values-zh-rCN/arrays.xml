@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>拉丁语-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>中文 (GBK)</item>
+        <item>中文 (Big5)</item>
+        <item>日语 (ISO-2022-JP)</item>
+        <item>日语 (SHIFT_JIS)</item>
+        <item>日语 (EUC-JP)</item>
+        <item>韩语 (EUC-KR)</item>
+        <item>自动识别</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>baidu_cn</item>
+        <item>yahoo_cn</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>永远打开</item>
+        <item>需要时</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>当前页面</item>
+        <item>空白页面</item>
+        <item>默认页面</item>
+        <item>常用网站</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>已拦截%s</item>
+        <item>已拦截%1$s与%2$s</item>
+        <item>已拦截%1$s，%2$s与2$s</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>最小</item>
+        <item>小</item>
+        <item>正常</item>
+        <item>大</item>
+        <item>最大</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>远</item>
+        <item>中</item>
+        <item>近</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>永不</item>
+        <item>仅在连接 Wi-Fi 网络时</item>
+        <item>总是</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>小号</item>
+        <item>默认</item>
+        <item>大号</item>
+        <item>超大号</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>永不</item>
+        <item>仅在连接 Wi-Fi 网络时</item>
+        <item>一律</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>总是拒绝</item>
+        <item>24小时内允许</item>
+        <item>总是允许</item>
+        <item>总是询问</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>电脑</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+        <item>privacy_clear_cookies</item>
+        <item>privacy_clear_form_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>输入历史</item>
+        <item>浏览历史</item>
+        <item>缓存文件</item>
+        <item>Cookies数据</item>
+        <item>表单密码</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>show_security_warnings</item>
+        <item>do_not_track</item>
+        <item>accept_cookies</item>
+        <item>save_formdata</item>
+        <item>enable_geolocation</item>
+        <item>remember_passwords</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>显示安全警告</item>
+        <item>不跟踪</item>
+        <item>接受 Cookie</item>
+        <item>记住窗体数据</item>
+        <item>启用位置信息功能</item>
+        <item>记住密码</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>block_popup_windows</item>
+        <item>open_in_background</item>
+        <item>enable_javascript</item>
+        <item>allow_media_downloads</item>
+        <item>load_images</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>Block pop-ups</item>
+        <item>在后方打开</item>
+        <item>启用 JavaScript</item>
+        <item>允许多媒体下载</item>
+        <item>加载图片</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+    </string-array>
+    <string-array name="screen_settings">
+        <item>跟随系统</item>
+        <item>锁定横屏</item>
+        <item>锁定竖屏</item>
+    </string-array>
+    <string-array name="info_flow_type">
+        <item>默认更新</item>
+        <item>仅WiFi下更新</item>
+        <item>简版展示</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>移动网络</item>
+    </string-array>
+    <string-array name="weather_aqi_info">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>严重污染</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="weather_loadings">
+        <item>天气正在获取地理位置</item>
+        <item>天气正在获取地理位置.</item>
+        <item>天气正在获取地理位置..</item>
+        <item>天气正在获取地理位置...</item>
+    </string-array>
+    <string-array name="weather_info_array">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>阵雨</item>
+        <item>雷阵雨</item>
+        <item>雷阵雨伴有冰雹</item>
+        <item>雨夹雪</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>雾</item>
+        <item>冻雨</item>
+        <item>沙尘暴</item>
+        <item>小到中雨</item>
+        <item>中到大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨到大暴雨</item>
+        <item>大暴雨到特大暴雨</item>
+        <item>小到中雪</item>
+        <item>中到大雪</item>
+        <item>大到暴雪</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>浓雾</item>
+        <item>雪</item>
+        <item>强浓雾</item>
+        <item>霾</item>
+        <item>中度霾</item>
+        <item>重度霾</item>
+        <item>严重霾</item>
+        <item>大雾</item>
+        <item>特强浓雾</item>
+        <item>无</item>
+    </string-array>
+</resources>

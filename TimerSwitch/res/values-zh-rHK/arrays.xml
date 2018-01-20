@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>%1$s 設定為由現在起 1 分鐘內。</item>
+        <item>%1$s 設定為 %2$s。</item>
+        <item>%1$s 設定為由現在起的 %3$s。</item>
+        <item>%1$s 設定為 %2$s及 %3$s。</item>
+        <item>%1$s 設定為由現在起的 %4$s。</item>
+        <item>%1$s 設定為由現在起的 %2$s及 %4$s。</item>
+        <item>%1$s 設定為由現在起的 %3$s及 %4$s。</item>
+        <item>%1$s 設定為由現在起的 %2$s，%3$s，及 %4$s。</item>
+    </string-array>
+</resources>

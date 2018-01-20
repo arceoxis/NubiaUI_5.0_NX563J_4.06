@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_page_tab_texts">
+        <item>Follow</item>
+    </string-array>
+    <string-array name="first_page_tab_texts_with_special_following">
+        <item>特别关注</item>
+        <item>订阅</item>
+        <item>圈子</item>
+    </string-array>
+    <string-array name="login_text_array">
+        <item>Sina Weibo</item>
+        <item>QQ</item>
+        <item>WeChat</item>
+        <item>neoShare account</item>
+    </string-array>
+    <string-array name="main_tab_texts">
+        <item>Homepage</item>
+        <item>Discover</item>
+        <item></item>
+        <item>Messages</item>
+        <item>Me</item>
+    </string-array>
+    <string-array name="message_tab_texts">
+        <item>Messages</item>
+        <item>Notifications</item>
+    </string-array>
+    <string-array name="province_name">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Tianjin</item>
+        <item>Chongqing</item>
+        <item>Zhejiang</item>
+        <item>Jiangsu</item>
+        <item>Anhui</item>
+        <item>Fujian</item>
+        <item>Jiangxi</item>
+        <item>Hunan</item>
+        <item>Shandong</item>
+        <item>Henan</item>
+        <item>Inner Mongolia</item>
+        <item>Hubei</item>
+        <item>Ningxia</item>
+        <item>Sinkiang</item>
+        <item>Guangxi</item>
+        <item>Tibet</item>
+        <item>Hainan</item>
+        <item>Guangdong</item>
+        <item>Sichuan</item>
+        <item>Hebei</item>
+        <item>Guizhou</item>
+        <item>Yunnan</item>
+        <item>Shanxi</item>
+        <item>Liaoning</item>
+        <item>Shaanxi</item>
+        <item>Jilin</item>
+        <item>Gansu</item>
+        <item>Heilongjiang</item>
+        <item>Qinghai</item>
+    </string-array>
+    <string-array name="search_tab_texts">
+        <item>User</item>
+        <item>Label</item>
+        <item>Photo</item>
+        <item>Circle</item>
+        <item>Topic</item>
+    </string-array>
+    <array name="img_text_colors">
+        <item>@color/img_text_color1</item>
+        <item>@color/img_text_color2</item>
+        <item>@color/img_text_color3</item>
+        <item>@color/img_text_color4</item>
+        <item>@color/img_text_color5</item>
+        <item>@color/img_text_color6</item>
+        <item>@color/img_text_color7</item>
+        <item>@color/img_text_color8</item>
+        <item>@color/img_text_color9</item>
+        <item>@color/img_text_color10</item>
+        <item>@color/img_text_color11</item>
+        <item>@color/img_text_color12</item>
+        <item>@color/img_text_color13</item>
+        <item>@color/img_text_color14</item>
+        <item>@color/img_text_color15</item>
+        <item>@color/img_text_color16</item>
+        <item>@color/img_text_color17</item>
+        <item>@color/img_text_color18</item>
+        <item>@color/img_text_color19</item>
+        <item>@color/img_text_color20</item>
+        <item>@color/img_text_color21</item>
+        <item>@color/img_text_color22</item>
+        <item>@color/img_text_color23</item>
+        <item>@color/img_text_color24</item>
+        <item>@color/img_text_color25</item>
+        <item>@color/img_text_color26</item>
+    </array>
+    <array name="medal">
+        <item>@drawable/medal1</item>
+        <item>@drawable/medal2</item>
+        <item>@drawable/medal3</item>
+        <item>@drawable/medal4</item>
+        <item>@drawable/medal5</item>
+        <item>@drawable/medal6</item>
+        <item>@drawable/medal7</item>
+        <item>@drawable/medal8</item>
+    </array>
+    <string-array name="not_support_video_480_product_list">
+        <item>541</item>
+        <item>535</item>
+    </string-array>
+</resources>

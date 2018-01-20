@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wfd 서비스</string>
+    <string name="perm_label">QC Wi-Fi 디스플레이 스택</string>
+    <string name="perm_desc">Qualcomm Wi-Fi 디스플레이 스택 API 액세스</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Jelas, 320kbps, mp3</item>
+        <item>Standard, 128kbps, mp3</item>
+        <item>Ruang-cekap, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Jelas</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Telefon/neoRecorder</item>
+        <item>Kad SD/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Telefon/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Nada dering panggilan masuk</item>
+        <item>Penggera Nada Dering</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>Kad SIM 1</item>
+        <item>Kad SIM 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Mengambil gambar</item>
+        <item>Pilih foto dari Galeri</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Lihat foto</item>
+        <item>Padam foto</item>
+        <item>Mengambil gambar baru</item>
+        <item>Pilih gambar baru dari Galeri</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Simpan bergabung</item>
+        <item>Simpan berasingan</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Ditapis oleh masa</item>
+        <item>Jenis mengikut label</item>
+        <item>Ditapis oleh tempoh</item>
+    </string-array>
+</resources>

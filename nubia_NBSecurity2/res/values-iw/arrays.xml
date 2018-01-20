@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>הודעות טקסט דואר זבל</item>
+        <item>שיחות טלפון מטרידות</item>
+        <item>ניהול בלוק</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>"מה התאריך הוא אמי 's יום הולדת?"</item>
+        <item>"מה התאריך הוא אבי 's יום הולדת?"</item>
+        <item>מי הוא האדם החשוב ביותר בחיי?</item>
+        <item>איזה מקום אתה הכי רוצה ללכת?</item>
+        <item>מהו הצבע האהוב עליי?</item>
+        <item>איזה יום הוא היום החשוב ביותר בחיי?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>קבל רשימה לבנה רק</item>
+        <item>חסום את רשימת החסומים בלבד</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0.0</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>ספאם SMS</item>
+        <item>שיחות קראנק</item>
+        <item>מנהל חסימות</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>אחרון</item>
+        <item>איש קשר</item>
+        <item>SMS</item>
+        <item>מדריך ל</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>SMS</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>ניהול רשימת החסומים</item>
+        <item>הגדרות חסימה</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>מחק</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>חסום הכול</item>
+        <item>חסום מרשימת החסומים</item>
+        <item>חסום אנשים לא מזוהים</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>שִׂיחָה</item>
+        <item>הוסף לרשימה שחורה</item>
+        <item>מחיקת אנשי קשר</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>להסיר מספר שחור</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>מוּתָר</item>
+        <item>היתעלם</item>
+        <item>תמיד תשאל</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>פְּרָטִיוּת</item>
+        <item>אבטחה</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>מיקום משוער</item>
+        <item>מיקום מדויק</item>
+        <item>"ג'י.פי. אס"</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>שנא אנשי קשר</item>
+        <item>קרא את יומן השיחות</item>
+        <item>שנה את יומן השיחות</item>
+        <item>קרא יומן</item>
+        <item>שנה את לוח שנה</item>
+        <item>סריקת WLAN</item>
+        <item>הוֹדָעָה</item>
+        <item>סריקת רשת ניידת</item>
+        <item>בצע שיחות</item>
+        <item>קרא SMS / MMS</item>
+        <item>שלח SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS חירום</item>
+        <item>קבל MMS</item>
+        <item>קבל WAPב דחיפה</item>
+        <item>שלח SMS</item>
+        <item>שלח ICC SMS</item>
+        <item>כתוב ICC SMS</item>
+        <item>לשנות הגדרות</item>
+        <item>הצג חלון פופ-אפ</item>
+        <item>הודעות גישה</item>
+        <item>מַצלֵמָה</item>
+        <item>הקלט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>הפעל WLAN</item>
+        <item>הפעל Bluetooth</item>
+        <item>הפעל נתונים ניידים</item>
+        <item>שלח MMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>לשלוח MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>שינוי אנשי קשר</item>
+        <item>קרא ביומן השיחות</item>
+        <item>שנה את יומן השיחות</item>
+        <item>קרא יומן</item>
+        <item>שינוי לוח השנה</item>
+        <item>מקום</item>
+        <item>פרסם התראה</item>
+        <item>מקום</item>
+        <item>לבצע שיחות</item>
+        <item>קרא SMS / MMS</item>
+        <item>שלח SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS</item>
+        <item>קבלת MMS</item>
+        <item>קבל SMS</item>
+        <item>שלח SMS</item>
+        <item>קראו SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>שינוי הגדרות</item>
+        <item>מוקפץ חלון ראווה</item>
+        <item>גש אל התראות</item>
+        <item>מַצלֵמָה</item>
+        <item>הקלט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנת לוח</item>
+        <item>הפעל WLAN</item>
+        <item>הפעל Bluetooth</item>
+        <item>הפעל נתונים ניידים</item>
+        <item>שליחת MMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>שלח MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>מיקום משוער</item>
+        <item>מיקום מדויק</item>
+        <item>"ג'י.פי. אס"</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>שנה אנשי קשר</item>
+        <item>קרא את יומן השיחות</item>
+        <item>שנה את יומן השיחות</item>
+        <item>קרא יומן</item>
+        <item>לשנות את לוח שנה</item>
+        <item>סריקת WLAN</item>
+        <item>הוֹדָעָה</item>
+        <item>סריקת רשת ניידת</item>
+        <item>לבצע שיחות</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS חירום</item>
+        <item>קבל MMS</item>
+        <item>קבל WAP בדחיפה</item>
+        <item>שלח SMS</item>
+        <item>קרא ICC SMS</item>
+        <item>כתוב ICC SMS</item>
+        <item>שנה הגדרות</item>
+        <item>הצג חלון פופ-אפ</item>
+        <item>הודעות גישה</item>
+        <item>מַצלֵמָה</item>
+        <item>הקלט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>כפתורי מדיה</item>
+        <item>מיקוד אודיו</item>
+        <item>עוצמת שמע</item>
+        <item>עוצמת קול</item>
+        <item>עוצמת צלצול</item>
+        <item>עוצמת תקשורת</item>
+        <item>עוצמת אזעקה</item>
+        <item>עוצמת ההודעה</item>
+        <item>עוצמת Bluetooth</item>
+        <item>השאר ער</item>
+        <item>מיקום צג</item>
+        <item>נטר קבל מיקום שתמתמש במתח גבוהה</item>
+        <item>הפעל WLAN</item>
+        <item>הפעל Bluetooth</item>
+        <item>הפעל נתונים ניידים</item>
+        <item>שלח MMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב MMS</item>
+        <item>התחלה אוטומטית</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>שנה אנשי קשר</item>
+        <item>קרא ביומן השיחות</item>
+        <item>לשנות את יומן השיחות</item>
+        <item>קרא יומן</item>
+        <item>שינוי לוח השנה</item>
+        <item>מקום</item>
+        <item>פרסם התראה</item>
+        <item>מקום</item>
+        <item>בצע שיחות</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS</item>
+        <item>קבלת MMS</item>
+        <item>קבל SMS</item>
+        <item>שלח SMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>שינוי הגדרות</item>
+        <item>הצג חלון פופ-אפ</item>
+        <item>גש אל התראות</item>
+        <item>מַצלֵמָה</item>
+        <item>הלקט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>כפתורי מדיה</item>
+        <item>מוקד אודיו</item>
+        <item>עוצמת שמע ראשית</item>
+        <item>עוצמת תא</item>
+        <item>עוצמת צלצול</item>
+        <item>נפעוצמתח מדיה</item>
+        <item>עוצמת אזעקה</item>
+        <item>עוצמת קול של התראות</item>
+        <item>עוצמת Bluetooth</item>
+        <item>הישאר ער</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>הפעל WLAN</item>
+        <item>הפעל Bluetooth</item>
+        <item>הפעל נתונים ניידים</item>
+        <item>שליחת MMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב MMS</item>
+        <item>התחלה אוטומטית</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>מיקום משוער</item>
+        <item>מיקום מדויק</item>
+        <item>"ג'י.פי. אס"</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>כתוב אנשי קשר</item>
+        <item>קרא את יומן השיחות</item>
+        <item>כתוב ליומן הישחות</item>
+        <item>קרא יומן</item>
+        <item>שנה את לוח שנה</item>
+        <item>סריקת WLAN</item>
+        <item>הוֹדָעָה</item>
+        <item>סריקת רשת ניידת</item>
+        <item>שיחת טלפון</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS חירום</item>
+        <item>קבל MMS</item>
+        <item>קבל WAP בדחיפה</item>
+        <item>שלח SMS</item>
+        <item>קרא ICC SMS</item>
+        <item>כתוב ICC SMS</item>
+        <item>לשנות הגדרות</item>
+        <item>המג חלון פופ-אפ</item>
+        <item>הודעות גישה</item>
+        <item>מַצלֵמָה</item>
+        <item>הקלט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>כפתורי מדיה</item>
+        <item>מוקד אודיו</item>
+        <item>עוצמת שמע</item>
+        <item>עוצמת קול</item>
+        <item>עוצמת צלצול</item>
+        <item>עוצמת תקשורת</item>
+        <item>עוצמת אזעקה</item>
+        <item>עוצמת ההודעה</item>
+        <item>עוצמת Bluetooth</item>
+        <item>הישאר ער</item>
+        <item>עקוב אחרי המיקום</item>
+        <item>עקוב אחר המיקום בדיוק גבוהה</item>
+        <item>לקבל נתונים סטטיסטיים לגבי שימוש</item>
+        <item>השתק / ביטול השתקה של מיקרופון</item>
+        <item>חלון טוסט</item>
+        <item>תקשורת פרויקט</item>
+        <item>הפעל VPN</item>
+        <item>הפעל WLAN</item>
+        <item>הפעל Bluetooth</item>
+        <item>שלח MMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב MMS</item>
+        <item>התחלה אוטומטית</item>
+        <item>הרחב NFC</item>
+        <item>מחק SMS</item>
+        <item>מחק MMS</item>
+        <item>מחק אנשי קשר</item>
+        <item>מחק יומן שיחות</item>
+        <item>הפעל נתונים ניידים</item>
+        <item>להתקין קיצור</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>כתוב אנשי קשר</item>
+        <item>קרא ביומן השיחות</item>
+        <item>שיחה כתובה ביומן</item>
+        <item>קרא יומן</item>
+        <item>שינוי לוח השנה</item>
+        <item>מקום</item>
+        <item>פרסם התראה</item>
+        <item>מקום</item>
+        <item>שיחת טלפון</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל MMS</item>
+        <item>קבל SMS</item>
+        <item>שלח SMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>שינוי הגדרות</item>
+        <item>הצג חלון פופ-אפ</item>
+        <item>גש אל התראות</item>
+        <item>מַצלֵמָה</item>
+        <item>הקלט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>כפתורי מדיה</item>
+        <item>מוקד אודיו</item>
+        <item>עוצמת שמע ראשי</item>
+        <item>עוצמת קול</item>
+        <item>עוצמת צלצול</item>
+        <item>עוצמת מדיה</item>
+        <item>עוצמת מעורר</item>
+        <item>עוצמת קול של התראות</item>
+        <item>עוצמת Bluetooth</item>
+        <item>הישאר ער</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>קבל נתונים סטטיסטיים לגבי שימוש</item>
+        <item>השתק / ביטול השתקה של מיקרופון</item>
+        <item>חלון טוסט</item>
+        <item>תקשורת פרויקט</item>
+        <item>הפעל VPN</item>
+        <item>הפעל WLAN</item>
+        <item>הפעל Bluetooth</item>
+        <item>שלח MMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב MMS</item>
+        <item>התחלה אוטומטית</item>
+        <item>הרחב NFC</item>
+        <item>מחק SMS</item>
+        <item>מחק MMS</item>
+        <item>מחיקת אנשי קשר</item>
+        <item>מחק יומן שיחות</item>
+        <item>שינוי נתונים</item>
+        <item>להתקין קיצור</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>רוטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>שנה אנשי קשר</item>
+        <item>קרא ביומן השיחות</item>
+        <item>שנה את יומן השיחות</item>
+        <item>קרא יומן</item>
+        <item>שינוי לוח השנה</item>
+        <item>מקום</item>
+        <item>פרסם התראה</item>
+        <item>מקום</item>
+        <item>שיחת טלפון</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל SMS</item>
+        <item>קבל MMS</item>
+        <item>קבל SMS</item>
+        <item>שלח SMS</item>
+        <item>קרא SMS / MMS</item>
+        <item>כתוב SMS</item>
+        <item>שינוי הגדרות</item>
+        <item>הצג חלון פופ-אפ</item>
+        <item>גש אל התראות</item>
+        <item>מַצלֵמָה</item>
+        <item>הקלט אודיו</item>
+        <item>נגן אודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>כפתורי מדיה</item>
+        <item>מוקד אודיו</item>
+        <item>עוצמת שמע ראשי</item>
+        <item>עוצמת קול</item>
+        <item>עוצמת צלצול</item>
+        <item>עוצמת מדיה</item>
+        <item>עוצמת מעורר</item>
+        <item>עוצמת קול של התראות</item>
+        <item>עוצמת Bluetooth</item>
+        <item>הישאר ער</item>
+        <item>מקום</item>
+        <item>מקום</item>
+        <item>קבל נתונים סטטיסטיים לגבי שימוש</item>
+        <item>שתקה / ביטול השתקת המיקרופון</item>
+        <item>חלון טוסט</item>
+        <item>תקשורת פרויקט</item>
+        <item>הפעל VPN</item>
+        <item>כתוב לרקע</item>
+        <item>מבנה מסייע</item>
+        <item>מסך מסייע</item>
+        <item>קרא את מצב הטלפון</item>
+        <item>הוספת דואר קולי</item>
+        <item>השתמש בsip</item>
+        <item>עבד שיחות יוצאות</item>
+        <item>שימוש בטביעת אצבע</item>
+        <item>חיישני גוף</item>
+        <item>קרא שידורים סלולריים</item>
+        <item>מיקום מדומה</item>
+        <item>קרא אחסון חיצוני</item>
+        <item>קרא אחסון חיצוני</item>
+        <item>הפעל מסך</item>
+        <item>קרא חשבונות</item>
+        <item>שינוי wlan</item>
+        <item>שינוי Bluetooth</item>
+        <item>שלח MMS</item>
+        <item>כתוב MMS</item>
+        <item>מחר SMS</item>
+        <item>מחק MMS</item>
+        <item>להסיר חוזים</item>
+        <item>למחוק יומן שיחות</item>
+        <item>להתקין קיצור</item>
+        <item>רץ ברקע</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>הרשאות</item>
+        <item>יישום</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>מחלקת אבטחה</item>
+        <item>מחלקה בסיסיה</item>
+        <item>מחלקתהודעה</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>שִׂיחָה</item>
+        <item>אנשי קשר</item>
+        <item>הודעות</item>
+        <item>MMS</item>
+        <item>מידע מיקום</item>
+        <item>לוּחַ שָׁנָה</item>
+        <item>MIC</item>
+        <item>מַצלֵמָה</item>
+        <item>חיישן גוף</item>
+        <item>שטח אחסון</item>
+        <item>שינוי Wifi</item>
+        <item>שינוי Blutooth</item>
+        <item>שינוי הגדרות</item>
+        <item>התקן קיצור</item>
+        <item>הצג חלון פופ-אפ</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>אשר</item>
+        <item>שאל</item>
+        <item>אסור</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>התר</item>
+        <item>אסור</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>מחלקה פרטיות</item>
+        <item>מחלקה בסיסית</item>
+        <item>מחלקת הודעות</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>הוספה ידנית אפליקציות המתחילות באופן אוטומאי</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>שלח</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>כיול ידני בלבד</item>
+        <item>כיול אוטומטי כל יום</item>
+        <item>כיול אוטומטי כל שלושה ימים</item>
+        <item>כיול אוטומטי בכל שבוע</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>השמד את כל הרישומים</item>
+        <item>קָדִימָה</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>לְהוֹסִיף</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>הזמן חבר להצטרף למשחק מחבואים זכה כוכבים בעת השלמת תרגולים למניעת גניבות!</item>
+        <item>"1. תן לחברים שלך להסתיר הטלפון שלך n "</item>
+        <item>2. בואו לחפש אותו, מצאתי אותו n</item>
+        <item>3. אני לא יכול למצוא אותו. מה עליי לעשות? n</item>
+        <item>4. יש לך את זה! תאמין בnubia NeoSafe!</item>
+        <item>5. השתמש בטלפון אחר לשלוח הודעת טקסט המכילה 信 牛 盾 לטלפון שלך, ופעל בהתאם להוראות n</item>
+        <item>בסדר, יש לי כוכבים ביד. זה כל כך פשוט! אל תדאגו איפה אתה שם את הטלפון שלך! זכור כי מכשיר הטלפון שלך חייב להיות מופעל כדי לקבל הודעת טקסט. N הראה אותו לחברים שלך עכשיו!</item>
+    </string-array>
+</resources>

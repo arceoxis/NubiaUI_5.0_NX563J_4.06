@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="antiAliasingType">
+        <enum name="coverage" value="2" />
+        <enum name="multisample" value="1" />
+    </attr>
+    <attr name="bitsAlpha" format="integer" />
+    <attr name="bitsBlue" format="integer" />
+    <attr name="bitsDepth" format="integer" />
+    <attr name="bitsGreen" format="integer" />
+    <attr name="bitsRed" format="integer" />
+    <attr name="frameRate" format="float" />
+    <attr name="isTransparent" format="boolean" />
+    <attr name="multiSampleCount" format="integer" />
+    <attr name="renderMode">
+        <enum name="RENDER_CONTINUOUS" value="1" />
+        <enum name="RENDER_WHEN_DIRTY" value="0" />
+    </attr>
+    <attr name="usedTextureView" format="boolean" />
+    <attr name="iconSize" format="dimension" />
+    <attr name="max_width" format="dimension" />
+    <attr name="ci_radius" format="dimension" />
+    <attr name="ci_margin" format="dimension" />
+    <attr name="ci_background" format="integer|color" />
+    <attr name="ci_selected_background" format="integer|color" />
+    <attr name="ci_gravity">
+        <enum name="center" value="1" />
+        <enum name="left" value="0" />
+        <enum name="right" value="2" />
+    </attr>
+    <attr name="ci_mode">
+        <enum name="inside" value="0" />
+        <enum name="outside" value="1" />
+        <enum name="solo" value="2" />
+    </attr>
+    <attr name="needCircle" format="boolean" />
+    <attr name="mRingWidth" format="dimension" />
+    <attr name="isBigV" format="integer" />
+    <attr name="isExpert" format="boolean" />
+    <attr name="ringColor" format="integer" />
+    <attr name="gifMoviewViewStyle" format="reference" />
+    <attr name="radius" format="dimension" />
+    <attr name="margin" format="dimension" />
+    <attr name="background" format="color" />
+    <attr name="selected_background" format="color" />
+    <attr name="gravity">
+        <enum name="center" value="1" />
+        <enum name="left" value="0" />
+        <enum name="right" value="2" />
+    </attr>
+    <attr name="mode">
+        <enum name="inside" value="0" />
+        <enum name="outside" value="1" />
+        <enum name="normal" value="2" />
+    </attr>
+    <attr name="multiMode" format="boolean" />
+    <attr name="gif" format="reference" />
+    <attr name="paused" format="boolean" />
+    <attr name="StringToShow" format="reference" />
+    <attr name="TextSize" format="dimension" />
+    <attr name="TextColor" format="integer" />
+    <attr name="SlideColor" format="integer" />
+    <attr name="likeCountVisible" format="boolean" />
+    <attr name="likeCountTextSize" format="dimension" />
+    <attr name="likeCountPaddingLeft" format="dimension" />
+    <attr name="pstsIndicatorColor" format="color" />
+    <attr name="pstsUnderlineColor" format="color" />
+    <attr name="pstsDividerColor" format="color" />
+    <attr name="pstsIndicatorHeight" format="dimension" />
+    <attr name="pstsUnderlineHeight" format="dimension" />
+    <attr name="pstsDividerPadding" format="dimension" />
+    <attr name="pstsTabPaddingLeftRight" format="dimension" />
+    <attr name="pstsScrollOffset" format="dimension" />
+    <attr name="pstsTabBackground" format="reference" />
+    <attr name="pstsShouldExpand" format="boolean" />
+    <attr name="pstsTextAllCaps" format="boolean" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="both" value="0x00000003" />
+        <flag name="disabled" value="0x00000000" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="flip" value="0x00000001" />
+        <flag name="rotate" value="0x00000000" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+    <attr name="layoutManager" format="string" />
+    <attr name="spanCount" format="integer" />
+    <attr name="reverseLayout" format="boolean" />
+    <attr name="stackFromEnd" format="boolean" />
+    <attr name="roundColor" format="color" />
+    <attr name="roundProgressColor" format="color" />
+    <attr name="roundWidth" format="dimension" />
+    <attr name="max" format="integer" />
+    <attr name="elemSize" format="dimension" />
+    <attr name="elemEndSize" format="dimension" />
+    <attr name="leftViewId" format="reference" />
+    <attr name="rightViewId" format="reference" />
+    <attr name="contentViewId" format="reference" />
+    <attr name="lineMargin" format="dimension" />
+    <attr name="tagMargin" format="dimension" />
+    <attr name="textPaddingLeft" format="dimension" />
+    <attr name="textPaddingRight" format="dimension" />
+    <attr name="textPaddingTop" format="dimension" />
+    <attr name="textPaddingBottom" format="dimension" />
+    <attr name="refreshType">
+        <enum name="circles" value="1" />
+        <enum name="material" value="0" />
+        <enum name="ring" value="3" />
+        <enum name="smartisan" value="4" />
+        <enum name="water_drop" value="2" />
+    </attr>
+    <attr name="refreshColors" format="reference" />
+    <attr name="refreshColor" format="reference" />
+</resources>

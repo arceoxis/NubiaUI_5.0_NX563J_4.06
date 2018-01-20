@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>مسح، 320kbps، mp3</item>
+        <item>قياسي، 128kbps، mp3</item>
+        <item>المساحة فعالة، 12.8kbps، amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>مسح، 320kbps، mp3</item>
+        <item>قياسي، 128kbps، mp3</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>الهاتف/ المسجل</item>
+        <item>بطاقة/مسجل SD</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>الهاتف/ المسجل</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>نغمة رنين المكالمة الواردة</item>
+        <item>نغمة المنبه</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>بطاقة SIM 1</item>
+        <item>بطاقة SIM 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>التقاط صورة</item>
+        <item>اختر صورة من المعرض</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>عرض الصورة</item>
+        <item>حذف الصورة</item>
+        <item>التقط صورة جديدة</item>
+        <item>اختر صورة جديدة من المعرض</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>حفظ الدمج</item>
+        <item>حفظ مستقل</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>ترتيب حسب الوقت</item>
+        <item>تصنيف حسب العلامات الدلالية</item>
+        <item>تصنيف حسب المدة</item>
+    </string-array>
+</resources>

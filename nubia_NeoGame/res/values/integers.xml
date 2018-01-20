@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="lv_default_circle_indicator_orientation">0</integer>
+    <integer name="lv_default_title_indicator_footer_indicator_style">2</integer>
+    <integer name="lv_default_title_indicator_line_position">0</integer>
+    <integer name="lv_default_underline_indicator_fade_delay">300</integer>
+    <integer name="lv_default_underline_indicator_fade_length">400</integer>
+    <integer name="animation_default_duration">300</integer>
+</resources>

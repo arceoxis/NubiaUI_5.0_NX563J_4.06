@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <item name="android:textColorPrimary">@color/nubia_primary_text_material_light</item>
+        <item name="android:textColorSecondary">@color/nubia_secondary_text_material_light</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.Nubia.Large</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.Nubia.Medium</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.Nubia.Small</item>
+        <item name="android:buttonStyle">@style/Widget.flycow.Button</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/nubia_scrollbar_handle_horizontal</item>
+        <item name="android:scrollbarThumbVertical">@drawable/nubia_scrollbar_handle_vertical</item>
+        <item name="android:listViewStyle">@style/Widget.Nubia.ListView</item>
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">@color/nubia_primary_text_material_light</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Nubia.Activity</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:alertDialogTheme">@style/Flycow.Dialog</item>
+        <item name="buttonBackground">@drawable/nubia_btn_default_material</item>
+        <item name="textAppearanceExtraSmall">@style/TextAppearance.Nubia.ExtraSmall</item>
+    </style>
+    <style name="ActivityTitleStyle" parent="@style/FlycowTextViewStyle">
+        <item name="android:textSize">@dimen/nubia_text_size_extralarge</item>
+    </style>
+    <style name="Animation.Nubia.Activity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/nubia_activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/nubia_activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/nubia_activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/nubia_activity_close_exit</item>
+        <item name="android:taskOpenEnterAnimation">@anim/nubia_task_open_enter</item>
+        <item name="android:taskOpenExitAnimation">@anim/nubia_task_open_exit</item>
+        <item name="android:taskCloseEnterAnimation">@anim/nubia_task_close_enter</item>
+        <item name="android:taskCloseExitAnimation">@anim/nubia_task_close_exit</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/nubia_task_open_enter</item>
+        <item name="android:taskToFrontExitAnimation">@anim/nubia_task_open_exit</item>
+        <item name="android:taskToBackEnterAnimation">@anim/nubia_task_close_enter</item>
+        <item name="android:taskToBackExitAnimation">@anim/nubia_task_close_exit</item>
+        <item name="android:fragmentOpenEnterAnimation">@animator/nubia_fragment_open_enter</item>
+        <item name="android:fragmentOpenExitAnimation">@animator/nubia_fragment_open_exit</item>
+        <item name="android:fragmentCloseEnterAnimation">@animator/nubia_fragment_close_enter</item>
+        <item name="android:fragmentCloseExitAnimation">@animator/nubia_fragment_close_exit</item>
+    </style>
+    <style name="Animation.NubiaDialog" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/nubia_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_dialog_exit</item>
+    </style>
+    <style name="Animation.NubiaDialog.AlertInCenter" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/nubia_center_alert_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_center_alert_dialog_exit</item>
+    </style>
+    <style name="CircleProgressBarStyle">
+        <item name="progressNubia">0</item>
+        <item name="maxProgressNubia">100</item>
+        <item name="progressUnreachedColor">@color/nubia_circle_progress_unreached_color</item>
+        <item name="progressReachedColor">@color/nubia_circle_progress_reached_color</item>
+        <item name="progressTextColor">@color/nubia_circle_progress_reached_color</item>
+    </style>
+    <style name="CircleProgressBarStyle.Large" parent="@style/CircleProgressBarStyle">
+        <item name="progressTextSize">@dimen/nubia_text_size_medium</item>
+        <item name="progressCircleRadius">@dimen/nubia_circle_progress_radius_large</item>
+        <item name="progressCircleSize">@dimen/nubia_circle_progress_width_large</item>
+    </style>
+    <style name="CircleProgressBarStyle.Normal" parent="@style/CircleProgressBarStyle">
+        <item name="progressTextSize">@dimen/nubia_text_size_extrasmall</item>
+        <item name="progressCircleRadius">@dimen/nubia_circle_progress_radius_default</item>
+        <item name="progressCircleSize">@dimen/nubia_circle_progress_width_default</item>
+    </style>
+    <style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/guide_install_checkbox</item>
+    </style>
+    <style name="DialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="DialogWindowTitle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="Flycow.Dialog" parent="@style/AppTheme">
+        <item name="android:backgroundDimAmount">0.55</item>
+        <item name="android:textAppearance">@style/TextAppearance.Nubia.Medium</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/DialogWindowTitle</item>
+        <item name="android:windowAnimationStyle">@style/Animation.NubiaDialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:textColorAlertDialogListItem">@color/nubia_primary_text_default_material_light</item>
+        <item name="android:buttonBarStyle">@style/Nubia.ButtonBar.AlertDialog</item>
+        <item name="android:windowCloseOnTouchOutside">@bool/nubia_config_closeDialogWhenTouchOutside</item>
+    </style>
+    <style name="Flycow.Widget.ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:background">@drawable/nubia_progress_background</item>
+        <item name="android:progressDrawable">@drawable/nubia_progress_activityed</item>
+    </style>
+    <style name="FlycowButtonFixedWidthStyle">
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">@dimen/flycow_8dp</item>
+        <item name="android:paddingRight">@dimen/flycow_8dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FlycowButtonStyle">
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">@dimen/flycow_8dp</item>
+        <item name="android:paddingRight">@dimen/flycow_8dp</item>
+        <item name="android:maxWidth">@dimen/button_max_width</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FlycowSwitch">
+        <item name="android:background">@null</item>
+        <item name="thumb">@drawable/nubia_switch_thumb_material</item>
+        <item name="track">@drawable/nubia_switch_track_material</item>
+        <item name="textOn">@string/nubia_capital_on</item>
+        <item name="textOff">@string/nubia_capital_off</item>
+        <item name="switchTextAppearance">?android:textAppearance</item>
+        <item name="switchMinHight">20.0dip</item>
+        <item name="showText">false</item>
+    </style>
+    <style name="FlycowTextViewStyle">
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="FlycowTextViewStyle.Padding" parent="@style/FlycowTextViewStyle">
+        <item name="android:paddingLeft">@dimen/flycow_16dp</item>
+        <item name="android:paddingRight">@dimen/flycow_16dp</item>
+    </style>
+    <style name="Griditem_Maintitle_Style">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Griditem_Subtitle_Style">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/black_60_transparent</item>
+    </style>
+    <style name="Listitem_Maintitle_Style">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">@color/black_90_transparent</item>
+    </style>
+    <style name="Listitem_Subtitle_Style">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/black_56_transparent</item>
+    </style>
+    <style name="Nubia.ButtonBar" parent="@android:style/ButtonBar">
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:paddingBottom">0.0dip</item>
+    </style>
+    <style name="Nubia.ButtonBar.AlertDialog" parent="@style/Nubia.ButtonBar">
+        <item name="android:background">@null</item>
+        <item name="android:dividerPadding">0.0dip</item>
+    </style>
+    <style name="NubiaFontMedium" />
+    <style name="NubiaFontMedium.ButtonStyle" parent="@style/NubiaFontMedium">
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">@dimen/flycow_8dp</item>
+        <item name="android:paddingRight">@dimen/flycow_8dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Progress_wifi_connecting">
+        <item name="android:maxWidth">60.0dip</item>
+        <item name="android:maxHeight">60.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_wifi_connecting</item>
+        <item name="android:minWidth">25.0dip</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+    <style name="Progress_wifi_qrcode_create">
+        <item name="android:maxWidth">60.0dip</item>
+        <item name="android:maxHeight">60.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/progress_wifi_qrcode_create</item>
+        <item name="android:minWidth">25.0dip</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+    <style name="Switch" parent="@style/AppTheme">
+        <item name="nubiaSwitchStyle">@style/FlycowSwitch</item>
+    </style>
+    <style name="SystemEntry" parent="@style/AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowEnterAnimation">@anim/nubia_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_dialog_exit</item>
+    </style>
+    <style name="TextAppearance.Flycow.Download" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:textColor">@color/black_87_transparent</item>
+    </style>
+    <style name="TextAppearance.Flycow.Download.tip" parent="@style/TextAppearance.Flycow.Download">
+        <item name="android:textColor">@color/black_57_transparent</item>
+    </style>
+    <style name="TextAppearance.Nubia" parent="@android:style/TextAppearance">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Nubia.AlertDialog.CheckedTextView" parent="@style/TextAppearance.Nubia.Medium">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">@color/nubia_alert_dialog_list_item_color</item>
+    </style>
+    <style name="TextAppearance.Nubia.ExtraSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">@dimen/nubia_text_size_extrasmall</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Large" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">@dimen/nubia_text_size_large</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Medium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Small" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">@dimen/nubia_text_size_small</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TransparentDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Widget.Nubia.Button" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:background">@drawable/nubia_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton" parent="@style/Widget.Nubia.Button">
+        <item name="android:textColor">@color/nubia_dialog_button_text_color</item>
+        <item name="android:background">@drawable/nubia_bottom_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton.Center" parent="@style/Widget.Nubia.Button.AlertDialogBorderlessButton">
+        <item name="android:textColor">@color/nubia_dialog_button_text_color</item>
+        <item name="android:background">@drawable/nubia_center_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.CustomAlertDialogBorderlessButton" parent="@style/Widget.Nubia.Button">
+        <item name="android:textColor">@color/nubia_dialog_button_text_color</item>
+        <item name="android:background">@drawable/nubia_bottom_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.ListView" parent="@android:style/Widget.ListView.White">
+        <item name="android:listSelector">@drawable/checkable_item_selector</item>
+        <item name="android:divider">?android:listDivider</item>
+    </style>
+    <style name="Widget.Nubia.TextView.MenuItemBottom" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/nubia_text_size_extrasmall</item>
+        <item name="android:textColor">@color/nubia_secondary_text_material_light</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/nubia_menu_item_bottom_background</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">66.0dip</item>
+        <item name="android:layout_height">66.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Widget.flycow.Button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/nubia_btn_default_selector</item>
+    </style>
+    <style name="alertDialogTitleTextAppearance" parent="@style/TextAppearance.Nubia.Small">
+        <item name="android:textSize">@dimen/nubia_dialog_title_text_size</item>
+        <item name="android:textColor">@color/nubia_dialog_title_text_color</item>
+    </style>
+</resources>

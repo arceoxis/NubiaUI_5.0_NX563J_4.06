@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="error">Lỗi</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">ghi</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">Trường văn bản đầu vào đạt Chiều dài tối đa.</string>
+    <string name="outoff_storage">Không đủ bộ nhớ, xin vui lòng giải phóng không gian trước khi sử dụng</string>
+    <string name="upgrade_title_message">Phát hiện một phiên bản mới, nâng cấp không?</string>
+    <string name="calculator_version_upgrade_notification_title">Nâng cấp máy tính</string>
+    <string name="alert_dialog_cancel">Hủy bỏ</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="cts_warning_text">Ứng dụng này cần để có được những quyền cho phép liên quan, hoặc nó sẽ không làm việc.</string>
+    <string name="cts_warning_title">Tính năng này yêu cầu bật các quyền sau đây, đi tới cài đặt và bật chúng?</string>
+    <string name="cts_phone">"· Điện thoại
+"</string>
+    <string name="cts_storage">"· Kho lưu trữ
+"</string>
+    <string name="go_permission_setting">Bật</string>
+    <string name="del">XOÁ</string>
+    <string name="clear">CLR</string>
+    <string name="basic">Bảng điều khiển cơ bản</string>
+    <string name="advanced">Bảng điều khiển nâng cao</string>
+    <string name="clear_history">Xóa lịch sử</string>
+    <string name="text_copied_toast">Đã sao chép văn bản.</string>
+    <string name="leftParenDesc">dấu ngoặc trái</string>
+    <string name="rightParenDesc">dấu ngoặc phải</string>
+    <string name="factorialDesc">giai thừa</string>
+    <string name="lnDesc">logarit tự nhiên</string>
+    <string name="lgDesc">logarit</string>
+    <string name="sqrtDesc">dấu khai căn</string>
+    <string name="divDesc">chia</string>
+    <string name="mulDesc">nhân</string>
+    <string name="plusDesc">cộng</string>
+    <string name="minusDesc">trừ</string>
+    <string name="dotDesc">điểm</string>
+    <string name="powerDesc">lũy thừa</string>
+    <string name="delDesc">xóa</string>
+    <string name="clearDesc">xóa</string>
+    <string name="tanDesc">tiếp tuyến</string>
+    <string name="sinDesc">sin</string>
+    <string name="cosDesc">cosin</string>
+    <string name="eDesc">Số Euler</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">bằng</string>
+    <string name="clearAll">AC</string>
+</resources>

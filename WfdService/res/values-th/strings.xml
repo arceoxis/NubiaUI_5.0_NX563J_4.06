@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">บริการฉายหน้าจอ</string>
+    <string name="wfd_service">บริการฉายหน้าจอ</string>
+    <string name="mirroring_on">บริการฉายหน้าจอการทำงาน</string>
+    <string name="tosat_standby">ฉายหน้าจอถูกระงับ</string>
+    <string name="wifi_display_notification_connected_title">กำลังฉาย</string>
+    <string name="wifi_display_notification_disconnect">หยุดการเชื่อมต่อ</string>
+    <string name="wifi_display_notification_touch_for_detail">แตะเพื่อแสดงข้อมูลเพิ่มเติม</string>
+    <string name="wifi_display_notification_sink_detail">กรุณาปิด WLAN</string>
+</resources>

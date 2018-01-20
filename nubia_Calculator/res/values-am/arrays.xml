@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>የግራ ቅንፍ</item>
+        <item>የቀኝ ቅንፍ</item>
+        <item>ብዜት</item>
+        <item>ተፈጥሯዊ ሎጋሪዝም</item>
+        <item>ሎጋሪዝም</item>
+        <item>ስክዌር ሩት</item>
+        <item>ሲካፈል</item>
+        <item>ሲባዛ</item>
+        <item>ሲደመር</item>
+        <item>ሲቀነስ</item>
+        <item> ነጥብ </item>
+        <item>አርቢ</item>
+        <item>ታንጀት</item>
+        <item>ሳይን</item>
+        <item>ኮሳይን</item>
+        <item>ፓይ</item>
+        <item>ይሆናል</item>
+    </string-array>
+</resources>

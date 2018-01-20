@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_video_recording_pause">true</bool>
+    <bool name="config_camera_sound_enforced">false</bool>
+    <bool name="config_disable_vibrate_when_recording">false</bool>
+    <bool name="config_enable_neo_cource">true</bool>
+</resources>

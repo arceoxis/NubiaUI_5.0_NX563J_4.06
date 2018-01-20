@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>levá závorka</item>
+        <item>pravá závorka</item>
+        <item>faktoriál</item>
+        <item>přirozený logaritmus</item>
+        <item>logaritmus</item>
+        <item>druhá odmocnina</item>
+        <item>děleno</item>
+        <item>krát</item>
+        <item>plus</item>
+        <item>mínus</item>
+        <item> bod </item>
+        <item>síla</item>
+        <item>tangens</item>
+        <item>sinus</item>
+        <item>kosinus</item>
+        <item>pí</item>
+        <item>rovná se</item>
+    </string-array>
+</resources>

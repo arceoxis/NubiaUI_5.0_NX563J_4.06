@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>Klammer auf</item>
+        <item>Klammer zu</item>
+        <item>Fakultät</item>
+        <item>natürlicher Logarithmus</item>
+        <item>Logarithmus</item>
+        <item>Quadratwurzel</item>
+        <item>dividiert durch</item>
+        <item>multipliziert mit</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> Punkt </item>
+        <item>Potenz</item>
+        <item>Tangens</item>
+        <item>Sinus</item>
+        <item>Kosinus</item>
+        <item>Pi</item>
+        <item>ist gleich</item>
+    </string-array>
+</resources>

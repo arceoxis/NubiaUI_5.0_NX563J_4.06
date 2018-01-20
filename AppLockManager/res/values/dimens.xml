@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">8.0dip</dimen>
+    <dimen name="settings_side_margin">0.0dip</dimen>
+    <dimen name="enroll_instr_help_font_size">16.0sp</dimen>
+    <dimen name="enroll_instr_detail_font_size">14.0sp</dimen>
+    <dimen name="enroll_instr_detail_margin">6.0dip</dimen>
+    <dimen name="enroll_button_width">256.0dip</dimen>
+    <dimen name="enroll_button_vertical_margin">8.0dip</dimen>
+    <dimen name="enroll_instr_image_height">184.0dip</dimen>
+    <dimen name="enroll_instr_image_width">328.0dip</dimen>
+    <dimen name="enroll_verify_hint_font_size">16.0sp</dimen>
+    <dimen name="enroll_percent_hint_font_size">24.0sp</dimen>
+    <dimen name="enroll_okorno_hint_font_size">16.0sp</dimen>
+    <dimen name="enroll_verify_hint_layout_height">48.0dip</dimen>
+    <dimen name="enroll_verify_hint_note">48.0dip</dimen>
+    <dimen name="header_text_margin_top">40.0dip</dimen>
+    <dimen name="fingerprint_icon_margin_top">21.0dip</dimen>
+    <dimen name="divider_line_margin_top">40.0dip</dimen>
+    <dimen name="divider_line_width">320.0dip</dimen>
+    <dimen name="divider_line_height">1.0px</dimen>
+    <dimen name="lock_pattern_height">340.0dip</dimen>
+    <dimen name="anim_effective_margin_width">38.0dip</dimen>
+    <dimen name="anim_effective_margin_height">31.0dip</dimen>
+    <dimen name="anim_effective_min_offset">8.0dip</dimen>
+</resources>

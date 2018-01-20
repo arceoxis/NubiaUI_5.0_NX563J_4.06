@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bookmarkThumbnailWidth">180.0dip</dimen>
+    <dimen name="bookmarkThumbnailHeight">90.0dip</dimen>
+    <dimen name="favicon_padded_size">28.0dip</dimen>
+    <dimen name="mv_max_width">1010.0px</dimen>
+    <dimen name="mv_item_width">231.0px</dimen>
+    <dimen name="mv_item_width_portrait">213.0px</dimen>
+    <dimen name="mv_border_width">3.0px</dimen>
+    <dimen name="widgetThumbnailHeight">104.0dip</dimen>
+    <dimen name="widgetColumnWidth">130.0dip</dimen>
+    <dimen name="combo_paddingTop">0.0dip</dimen>
+    <dimen name="combo_horizontalSpacing">8.0dip</dimen>
+    <dimen name="suggest_item_padding">8.0dip</dimen>
+    <dimen name="add_bookmark_width">500.0dip</dimen>
+</resources>

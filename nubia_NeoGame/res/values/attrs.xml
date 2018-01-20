@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="layoutManager" format="string" />
+    <attr name="spanCount" format="integer" />
+    <attr name="reverseLayout" format="boolean" />
+    <attr name="stackFromEnd" format="boolean" />
+    <attr name="minTextSize" format="dimension" />
+    <attr name="precision" format="float" />
+    <attr name="sizeToFit" format="boolean" />
+    <attr name="lv_vpiCirclePageIndicatorStyle" format="reference" />
+    <attr name="lv_vpiIconPageIndicatorStyle" format="reference" />
+    <attr name="lv_vpiLinePageIndicatorStyle" format="reference" />
+    <attr name="lv_vpiTitlePageIndicatorStyle" format="reference" />
+    <attr name="lv_vpiTabPageIndicatorStyle" format="reference" />
+    <attr name="lv_vpiUnderlinePageIndicatorStyle" format="reference" />
+    <attr name="lv_centered1" format="boolean" />
+    <attr name="lv_selectedColor" format="color" />
+    <attr name="lv_strokeWidth" format="dimension" />
+    <attr name="lv_unselectedColor" format="color" />
+    <attr name="lv_fillColor" format="color" />
+    <attr name="lv_pageColor" format="color" />
+    <attr name="lv_radius1" format="dimension" />
+    <attr name="lv_snap" format="boolean" />
+    <attr name="lv_strokeColor" format="color" />
+    <attr name="lv_lineWidth" format="dimension" />
+    <attr name="lv_gapWidth" format="dimension" />
+    <attr name="lv_clipPadding" format="dimension" />
+    <attr name="lv_footerColor" format="color" />
+    <attr name="lv_footerLineHeight" format="dimension" />
+    <attr name="lv_footerIndicatorStyle">
+        <enum name="none" value="0" />
+        <enum name="triangle" value="1" />
+        <enum name="underline" value="2" />
+    </attr>
+    <attr name="lv_footerIndicatorHeight" format="dimension" />
+    <attr name="lv_footerIndicatorUnderlinePadding" format="dimension" />
+    <attr name="lv_footerPadding" format="dimension" />
+    <attr name="lv_linePosition">
+        <enum name="bottom" value="0" />
+        <enum name="top" value="1" />
+    </attr>
+    <attr name="lv_selectedBold" format="boolean" />
+    <attr name="lv_titlePadding" format="dimension" />
+    <attr name="lv_topPadding" format="dimension" />
+    <attr name="lv_fades" format="boolean" />
+    <attr name="lv_fadeDelay" format="integer" />
+    <attr name="lv_fadeLength" format="integer" />
+    <attr name="pstsIndicatorColor" format="color" />
+    <attr name="pstsUnderlineColor" format="color" />
+    <attr name="pstsIndicatorHeight" format="dimension" />
+    <attr name="pstsUnderlineHeight" format="dimension" />
+    <attr name="pstsDividerPadding" format="dimension" />
+    <attr name="pstsTabPaddingLeftRight" format="dimension" />
+    <attr name="pstsScrollOffset" format="dimension" />
+    <attr name="pstsTabBackground" format="reference" />
+    <attr name="pstsShouldExpand" format="boolean" />
+    <attr name="pstsTextAllCaps" format="boolean" />
+    <attr name="pstsTabTextIndicatorColor" format="color" />
+    <attr name="pstsTabTextDefaultColor" format="color" />
+    <attr name="pstsIndicatorInterpolation">
+        <enum name="smart" value="0" />
+        <enum name="linear" value="1" />
+    </attr>
+</resources>

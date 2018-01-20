@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_status_activity_title">สถานะ</string>
+    <string name="sim_card_number_title">ซิมหมายเลข %1$d</string>
+    <string name="wifiap_configure_subtext">%1$s%2$s WLAN wifiap แบบพกพา</string>
+    <string name="wifiap_configure_ssid_default">Androidwifiap</string>
+    <string name="wifiap_configure_ap_text">ตั้งค่า WLAN wifiap</string>
+    <string name="wifiap_list_category">อุปกรณ์ที่เชื่อมต่อ</string>
+    <string name="wifiap_turn_on_hint">หากต้องการใช้ WLAN wifiap ให้เปิดเครื่อง</string>
+    <string name="wifiap_settings_desc">WLAN wifiap สามารถแชร์การเชื่อมต่ออินเทอร์เน็ตสำหรับข้อมูลของโทรศัพท์เครื่องนี้กับพีซี/อุปกรณ์มือถืออื่นๆ ผ่าน WLAN</string>
+    <string name="wifiap_settings_indication">หลังจากเปิด WLAN wifiap แล้ว พีซี/อุปกรณ์มือถืออื่นๆ จะสามารถเชื่อมต่อและเริ่มใช้อินเทอร์เน็ตได้ โดยทำตามขั้นตอนต่อไปนี้:</string>
+    <string name="wifiap_settings_indication_step1">1. เปิด WLAN ใน PC/อุปกรณ์มือถือ</string>
+    <string name="wifiap_settings_indication_step2">2. ค้นหา “%s” ในรายการเครือข่าย WLAN</string>
+    <string name="wifiap_settings_indication_step3_ssid">3. เลือก “%s”</string>
+    <string name="wifiap_settings_indication_step3_all" formatted="false">3. เลือก “%s” และป้อน “%s” ในฟิลด์รหัสผ่าน</string>
+    <string name="wifiap_settings_indication_step4">4. เริ่มใช้อินเทอร์เน็ตบน PC/อุปกรณ์มือถือ</string>
+    <string name="wifiap_settings_menu_help">ความช่วยเหลือ</string>
+    <string name="wifi_tether_checkbox_text">WiFi ฮอตสปอตแบบพกพา</string>
+    <string name="wifiap_default_device_name">ไม่ระบุชื่อ</string>
+    <string name="wifiap_title">ฮอตสปอต WLAN</string>
+    <string name="wifi_ssid">ชื่อเครือข่าย</string>
+    <string name="wifi_ssid_hint">ป้อน SSID</string>
+    <string name="wifi_security">ความมั่นคง</string>
+    <string name="wifi_password">รหัสผ่าน</string>
+    <string name="wifi_show_password">แสดงรหัสผ่าน</string>
+    <string name="wifi_save">บันทึก</string>
+    <string name="credentials_password_too_short">รหัสผ่านต้องมีอักขระอย่างน้อย 8 ตัว</string>
+    <string name="wifi_security_none">เปิด</string>
+    <string name="open_security_settings_note">เมื่อมีการใช้งานระบบป้องกันแบบเปิด อุปกรณ์ใดๆ จะสามารถเชื่อมต่อเข้ากับฮอตสปอตมือถือและใช้การเชื่อมต่อข้อมูลมือถือของคุณได้</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_ap_band_config">เลือกย่านความถี่ AP</string>
+    <string name="wifi_ap_choose_2G">คลื่นความถี่ 2.4 GHz</string>
+    <string name="wifi_ap_choose_5G">คลื่นความถี่ 5 GHz</string>
+    <string name="wifi_tether_configure_ap_text">ตั้งค่าฮอตสปอต WLAN</string>
+    <string name="wifi_cancel">ยกเลิก</string>
+    <string name="maximum_connections_button_text">การเชื่อมต่อสูงสุด</string>
+    <string name="wifi_hotspot_mode_title">คงการเปิดใช้ฮอตสปอต WiFi ไว้</string>
+    <string name="wifi_calling_wizard_title">การฝึกใช้งานการโทร Wi-Fi</string>
+    <string name="wifi_call_setting">การตั้งค่าการโทร Wifi</string>
+    <string name="wifi_call_setting_title">การโทรผ่าน Wi-Fi</string>
+    <string name="dialog_not_show_again">ไม่ต้องแสดงอีก</string>
+    <string name="wifi_ap_broadcast_ssid">ชื่อเครือข่ายออกอากาศ (SSID)</string>
+    <string name="question_what_is_wifi_calling">" การโทร Wi-Fi คืออะไร"</string>
+    <string name="answer_question_what_is_wifi_calling">การโทร Wi-Fi ให้คุณทำการโทรและรับสายการสนทนาด้วยเสียงและข้อความตัวอักษร/มัลติมีเดียผ่านทาง Wi-Fi เมื่อเชื่อมต่อโทรศัพท์เข้ากับเครือข่าย Wi-Fi และลงทะเบียนกับเครือข่าย MetroPCS สำหรับการโทร Wi-Fi</string>
+    <string name="question_how_enable_wifi">เปิดใช้งาน Wi-Fi ได้อย่างไร</string>
+    <string name="answer_question_how_enable_wifi">หากต้องการเปิดใช้งาน Wi-Fi ให้ใช้ส่วนการควบคุมแบบไร้สายจากเมนูการตั้งค่า Android ของคุณ</string>
+    <string name="question_how_enable_wifi_calling">เปิดใช้งานการโทร Wi-Fi ได้อย่างไร</string>
+    <string name="answer_question_how_enable_wifi_calling">ตามค่าเริ่มต้น โทรศัพท์ของคุณจะเปิดใช้งานการโทร Wi-Fi ทันทีที่คุณเปิดใช้งานวิทยุ Wi-Fi สามารถควบคุมการโทร Wi-Fi ได้จากการตั้งค่าการโทร Wi-Fi</string>
+    <string name="question_if_use_Wifi">จะทราบได้อย่างไรว่ากำลังใช้ Wi-Fi สำหรับการโทรของฉัน</string>
+    <string name="answer_question_if_use_Wifi">เมื่อโทรศัพท์ของคุณเชื่อมโยงกับเครือข่าย Wi-Fi โทรศัพท์จะพยายามลงทะเบียนกับเครือข่าย MetroPCS สำหรับการโทร Wi-Fi โดยอัตโนมัติ เมื่อการลงทะเบียนเสร็จเรียบร้อย คุณจะเห็นไอคอนการโทร Wi-Fi ในแถบสถานะ นอกจากนี้คุณยังจะเห็นไอคอนการโทร Wi-Fi แสดงในแป้นโทรออก (แทนที่ไอคอนการโทรตามปกติของคุณ) และคุณจะเห็นข้อความที่บอกว่า การโทรออกจะทำผ่าน Wi-Fi ปรากฏขึ้นชั่วขณะที่ด้านบนของหน้าจอ</string>
+    <string name="question_charge_diff_about_wifi_call">การโทรหรือ SMS/MMS ที่ส่งทาง Wi-Fi จะถูกเรียกเก็บเงินต่างจากการโทรผ่านมือถือของฉันหรือไม่</string>
+    <string name="answer_question_charge_diff_about_wifi_call">ประโยชน์หลักของการโทร Wi-Fi คือเพิ่มความครอบคลุมของสัญญาณในสถานที่ซึ่งมี Wi-Fi การโทรและข้อความที่ส่งผ่าน Wi-Fi จะถูกเรียกเก็บเงินเหมือนการโทรผ่านมือถือสำหรับบางโปรโมชั่น</string>
+    <string name="question_what_happen_without_wifi_coverage">จะเกิดอะไรขึ้นถ้าสัญญาณ Wi-Fi ขาดหายไป</string>
+    <string name="answer_question_what_happen_without_wifi_coverage">เมื่อโทรศัพท์ไม่ได้รับสัญญาณ Wi-Fi การโทรใดๆ ที่ทำอยู่จะถูกตัดสาย และโทรศัพท์จะเชื่อมต่อกับเครือข่ายมือถือ ถ้าเป็นไปได้ คุณจะได้รับข้อความถ้าการโทรของคุณถูกตัดสายเนื่องจากสัญญาณ Wi-Fi ขาดหายไป</string>
+    <string name="wifi_calling_wizard_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="wifi_calling_help_wizard_title">เรียนรู้ทุกอย่างเกี่ยวกับการโทร Wi-Fi</string>
+    <string name="wifi_calling_wizard_content_step_1">"ต่อไปนี้คือการฝึกใช้งานการโทร Wi-Fi 
+ \"ข้าม\" จะข้ามตัวช่วยในครั้งนี้ 
+ \"เรียนรู้เพิ่มเติม\" จะแสดงข้อมูลเพิ่มเติมเกี่ยวกับการฝึกใช้งาน"</string>
+    <string name="wifi_calling_wizard_content_step_2">"การโทร Wi-Fi ช่วยให้คุณบอกลาการโทรแบบมีสัญญาณครอบคลุมไม่สม่ำเสมอ ด้วยการโทร Wi-Fi คุณสามารถโทรออกหรือรับสาย รวมถึงรับและส่งข้อความผ่านเครือข่าย Wi-Fi ได้ด้วยแผน T-Mobile ที่คุณมีอยู่  
+  ไม่จำเป็นต้องตั้งค่าใดๆ เป็นพิเศษสำหรับการโทร Wi-Fi  ที่เมนูการตั้งค่า ให้ไปที่ ไร้สายและเครือข่าย แล้วทำการเชื่อมต่อกับเครือข่าย Wi-Fi เพื่อเริ่มต้นใช้งาน"</string>
+    <string name="wifi_calling_wizard_content_step_3">"เมื่อคุณเห็นไอคอนการโทร Wi-Fi ในแถบสถานะ หมายความว่าโทรศัพท์ของคุณพร้อมสำหรับการโทร Wi-Fi แล้ว "</string>
+    <string name="wifi_calling_wizard_content_step_4">หากต้องการใช้งานการโทร Wi-Fi ต่อไป ให้คุณอยู่ในระยะเครือข่าย Wi-Fi คุณจะได้ยินเสียงบี๊ปพร้อมข้อความบนหน้าจอแจ้งให้คุณทราบหากการโทรถูกตัดสายเนื่องจากคุณอยู่นอกช่วงสัญญาณ</string>
+    <string name="skip_label">ข้าม</string>
+    <string name="wifi_calling_connection_pref_title">การตั้งค่าการกำหนดการเชื่อมต่อ</string>
+    <string name="wifi_call_preferrd_setting_title">การตั้งค่าการกำหนดการโทร Wi-Fi</string>
+    <string name="wifi_calling_settings_menu_help">ความช่วยเหลือ</string>
+</resources>

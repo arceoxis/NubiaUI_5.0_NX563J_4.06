@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>قوس أيسر</item>
+        <item>قوس أيمن</item>
+        <item>العامل</item>
+        <item>اللوغاريتم الطبيعي</item>
+        <item>لوغاريتم</item>
+        <item>جذر تربيعي</item>
+        <item>مقسومًا على</item>
+        <item>مضروبًا في</item>
+        <item>علامة الجمع</item>
+        <item>علامة الطرح</item>
+        <item> نقطة </item>
+        <item>الطاقة</item>
+        <item>المماس</item>
+        <item>جيب الزاوية</item>
+        <item>جيب التمام</item>
+        <item>باي</item>
+        <item>تساوي</item>
+    </string-array>
+</resources>

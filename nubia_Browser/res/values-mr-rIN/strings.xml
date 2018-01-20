@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_alert_title">"' %1$s ' वरील पृष्ठ म्हणते:"</string>
+    <string name="password_prompt_title">सुनिश्चित करा</string>
+    <string name="password_prompt_message">ब्राउझरने हा पासवर्ड लक्षात ठेवावा असे आपण इच्छिता?</string>
+    <string name="password_prompt_never">कधी नाही</string>
+    <string name="password_prompt_remember">लक्षात ठेवा</string>
+    <string name="password_prompt_not_now">आता नाही</string>
+</resources>

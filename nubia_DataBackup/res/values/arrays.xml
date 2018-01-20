@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="system_backup_types">
+        <item>contacts</item>
+        <item>sms</item>
+        <item>mms</item>
+        <item>calls</item>
+        <item>bookmarks</item>
+    </string-array>
+    <string-array name="system_backup_types_default_value">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="backup_types">
+        <item>contacts</item>
+        <item>sms</item>
+        <item>mms</item>
+        <item>calls</item>
+        <item>bookmarks</item>
+        <item>apk</item>
+    </string-array>
+    <string-array name="backup_types_default_value">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="restore_types">
+        <item>contacts</item>
+        <item>sms</item>
+        <item>mms</item>
+        <item>calls</item>
+        <item>bookmarks</item>
+    </string-array>
+    <string-array name="restore_types_default_value">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="backuptool_types">
+        <item>sdcard</item>
+        <item>cloud</item>
+    </string-array>
+    <string-array name="backuptool_types_default_value">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="sa_remind_regularly">
+        <item>Never remind</item>
+        <item>Remind a week</item>
+        <item>Remind a month</item>
+    </string-array>
+    <string-array name="sa_remind_regularly_values">
+        <item>never</item>
+        <item>week</item>
+        <item>month</item>
+    </string-array>
+    <string-array name="timer_backup_repeat_type">
+        <item>@string/timer_backup_repeat_type_onlyone</item>
+        <item>@string/timer_backup_repeat_type_day</item>
+        <item>@string/timer_backup_repeat_type_week</item>
+        <item>@string/timer_backup_repeat_type_month</item>
+    </string-array>
+    <string-array name="backup_restore_status_icon">
+        <item>backup_select_all</item>
+        <item>backup_item_failed_icon</item>
+        <item>backup_item_failed_icon</item>
+        <item>backup_item_waiting_icon</item>
+        <item>backup_item_waiting_upload_icon</item>
+        <item>backup_item_waiting_download_icon</item>
+    </string-array>
+    <integer-array name="data_backup_item_int_type">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+    </integer-array>
+    <string-array name="data_backup_item_type">
+        <item>image</item>
+        <item>music</item>
+        <item>video</item>
+        <item>document</item>
+    </string-array>
+    <string-array name="data_backup_item_icon">
+        <item>backup_item_image</item>
+        <item>backup_item_music</item>
+        <item>backup_item_video</item>
+        <item>backup_item_document</item>
+    </string-array>
+    <string-array name="data_backup_item_small_icon">
+        <item>backup_item_image</item>
+        <item>backup_item_music</item>
+        <item>backup_item_video</item>
+        <item>backup_item_document</item>
+    </string-array>
+    <string-array name="data_backup_item_title">
+        <item>backup_item_image_title</item>
+        <item>backup_item_music_title</item>
+        <item>backup_item_video_title</item>
+        <item>backup_item_document_title</item>
+    </string-array>
+    <integer-array name="app_backup_item_int_type">
+        <item>300</item>
+    </integer-array>
+    <string-array name="app_backup_item_type">
+        <item>apps</item>
+    </string-array>
+    <string-array name="app_backup_item_gray_icon">
+        <item>backup_item_apps_gray</item>
+    </string-array>
+    <string-array name="app_backup_item_gray_small_icon">
+        <item>backup_item_apps_gray_small</item>
+    </string-array>
+    <string-array name="app_backup_item_red_icon">
+        <item>backup_item_apps_red</item>
+    </string-array>
+    <string-array name="app_backup_item_title">
+        <item>backup_item_apps_title</item>
+    </string-array>
+    <integer-array name="primary_item_int_type">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </integer-array>
+    <string-array name="primary_item_type">
+        <item>contacts</item>
+        <item>sms</item>
+        <item>calls</item>
+        <item>bookmarks</item>
+        <item>alarm</item>
+        <item>calendar</item>
+        <item>note</item>
+        <item>launcher</item>
+        <item>wifi</item>
+        <item>settings</item>
+        <item>phone_ringtone</item>
+    </string-array>
+    <string-array name="personal_item_type">
+        <item>contacts</item>
+        <item>sms</item>
+        <item>calls</item>
+        <item>bookmarks</item>
+        <item>alarm</item>
+        <item>calendar</item>
+        <item>note</item>
+    </string-array>
+    <string-array name="system_item_type">
+        <item>wifi</item>
+        <item>launcher</item>
+        <item>settings</item>
+    </string-array>
+    <string-array name="media_item_type">
+        <item>picture</item>
+        <item>audio</item>
+        <item>video</item>
+    </string-array>
+    <string-array name="pri_pkg_names">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts</item>
+        <item>com.android.contacts</item>
+        <item>com.android.browser</item>
+        <item>cn.nubia.deskclock.preset</item>
+        <item>cn.nubia.calendar.preset</item>
+        <item>cn.nubia.notepad.preset</item>
+        <item>cn.nubia.launcher</item>
+        <item>cn.nubia.databackup</item>
+        <item>com.android.settings</item>
+        <item>com.android.settings</item>
+    </string-array>
+    <string-array name="pri_cls_names">
+        <item>com.android.contacts.mainlist.PeopleActivity</item>
+        <item>com.android.contacts.MmsConversationActivity</item>
+        <item>com.android.contacts.DialerActivity</item>
+        <item>com.android.browser.BrowserActivity</item>
+        <item>cn.nubia.deskclock.DeskClock</item>
+        <item>cn.nubia.calendar.AllInOneActivity</item>
+        <item>cn.nubia.notepad.NoteListActivity</item>
+        <item>com.android.launcher2.Launcher</item>
+        <item>com.android.settings.Settings</item>
+        <item>com.android.settings.Settings</item>
+        <item>com.android.settings.Settings</item>
+    </string-array>
+    <string-array name="primary_item_gray_icon">
+        <item>backup_item_contacts_gray</item>
+        <item>backup_item_sms_gray</item>
+        <item>backup_item_calls_gray</item>
+        <item>backup_item_bookmarks_gray</item>
+        <item>backup_item_alarm_gray</item>
+        <item>backup_item_calendar_gray</item>
+        <item>backup_item_note_gray</item>
+        <item>backup_item_launcher_gray</item>
+        <item>backup_item_wifi_gray</item>
+        <item>backup_item_settings_gray</item>
+        <item>backup_item_settings_gray</item>
+    </string-array>
+    <string-array name="primary_item_red_icon">
+        <item>backup_item_contacts_red</item>
+        <item>backup_item_sms_red</item>
+        <item>backup_item_calls_red</item>
+        <item>backup_item_bookmarks_red</item>
+        <item>backup_item_alarm_red</item>
+        <item>backup_item_calendar_red</item>
+        <item>backup_item_note_red</item>
+        <item>backup_item_launcher_red</item>
+        <item>backup_item_wifi_red</item>
+        <item>backup_item_settings_red</item>
+        <item>backup_item_settings_red</item>
+    </string-array>
+    <string-array name="primary_item_gray_small_icon">
+        <item>backup_item_contacts_gray_small</item>
+        <item>backup_item_sms_gray_small</item>
+        <item>backup_item_calls_gray_small</item>
+        <item>backup_item_bookmarks_gray_small</item>
+        <item>backup_item_alarm_gray_small</item>
+        <item>backup_item_calendar_gray_small</item>
+        <item>backup_item_note_gray_small</item>
+        <item>backup_item_launcher_gray_small</item>
+        <item>backup_item_wifi_gray_small</item>
+        <item>backup_item_settings_gray_small</item>
+        <item>backup_item_settings_gray_small</item>
+    </string-array>
+    <string-array name="primary_item_title">
+        <item>backup_item_contacts_title</item>
+        <item>backup_item_sms_title</item>
+        <item>backup_item_calls_title</item>
+        <item>backup_item_bookmarks_title</item>
+        <item>backup_item_alarm_title</item>
+        <item>backup_item_calendar_title</item>
+        <item>backup_item_note_title</item>
+        <item>backup_item_launcher_title</item>
+        <item>backup_item_wifi_title</item>
+        <item>backup_item_settings_title</item>
+        <item>backup_item_phone_ringtone_title</item>
+    </string-array>
+    <string-array name="personal_info_backup_item_type_cnt_unit">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="system_info_backup_item_type_cnt_unit">
+        <item></item>
+    </string-array>
+    <string-array name="pri_type_cnt_unit">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+</resources>

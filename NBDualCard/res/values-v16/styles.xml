@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.Nubia.ActionBarTittle" parent="@style/TextAppearance.Nubia.Large">
+        <item name="android:textSize">@dimen/nubia_text_size_medium_no_change</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:fontFamily">nubiafont-medium</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton" parent="@style/Widget.Nubia.Button">
+        <item name="android:textColor">@color/nubia_dialog_button_text_color</item>
+        <item name="android:background">@drawable/nubia_bottom_alert_dialog_btn_default_material</item>
+        <item name="android:fontFamily">nubiafont-medium</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton.Center" parent="@style/Widget.Nubia.Button.AlertDialogBorderlessButton">
+        <item name="android:textColor">@color/nubia_dialog_button_text_color</item>
+        <item name="android:background">@drawable/nubia_center_alert_dialog_btn_default_material</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextLetterDialog">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="NubiaFontMedium">
+        <item name="android:fontFamily">nubiafont-medium</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layanan proyeksi layar</string>
+    <string name="wfd_service">Layanan proyeksi layar</string>
+    <string name="mirroring_on">Layanan proyeksi layar sedang berjalan</string>
+    <string name="tosat_standby">Layar proyeksi dalam kondisi siaga</string>
+    <string name="wifi_display_notification_connected_title">Proyeksi</string>
+    <string name="wifi_display_notification_disconnect">Putus sambungan</string>
+    <string name="wifi_display_notification_touch_for_detail">Sentuh untuk informasi lebih lanjut</string>
+    <string name="wifi_display_notification_sink_detail">Mohon jangan matikan WLAN</string>
+</resources>

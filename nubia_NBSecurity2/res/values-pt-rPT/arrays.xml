@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>Mensagens de texto de lixo</item>
+        <item>Chamadas de telefone assédias</item>
+        <item>Administração de Bloqueio</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>Que data é o aniversário da minha mãe?</item>
+        <item>Que data é o aniversário do meu pai?</item>
+        <item>Quem é a pessoa mais importante na minha vida?</item>
+        <item>Qual lugar que você quer ir mais?</item>
+        <item>O que é minha cor favorita?</item>
+        <item>Que dia é o dia mais importante na minha vida?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Aceitar Brancalista apenas</item>
+        <item>Bloquear Pretalista apenas</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>SMS de lixo</item>
+        <item>Chamadas de manivela</item>
+        <item>Administrador de bloqueio</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Recentes</item>
+        <item>Contacto</item>
+        <item>Mensagem de texto</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>Mensagem de texto</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Administração de pretalista</item>
+        <item>Ajustes de bloqueio</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>ELIMINAR</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Interceptar Tudo</item>
+        <item>Interceptação de Preta</item>
+        <item>Desconhecido de interceptação</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Chamar</item>
+        <item>Adicionar lista preta</item>
+        <item>Deletar contactos</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>Deletar o número de pretalista</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Permitido</item>
+        <item>Ignorado</item>
+        <item>Sempre perguntar</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Privacidade</item>
+        <item>Segurança</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Locação aproximata</item>
+        <item>Locação exacta</item>
+        <item>GPS</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>Modificar os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>modificar notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>WLAN explorar</item>
+        <item>Notificação</item>
+        <item>exploração de rede móvel</item>
+        <item>Marcar..</item>
+        <item>Ler SMS/MMS</item>
+        <item>Enviar sms</item>
+        <item>Receber SMS</item>
+        <item>receber SMS de emergência</item>
+        <item>Receber MMS</item>
+        <item>receber WAP puxar</item>
+        <item>Enviar sms</item>
+        <item>Ler ICC SMS</item>
+        <item>Escrever ICC SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>Ativar WLAN</item>
+        <item>Ativar Bluetooth</item>
+        <item>Ativar Dados de rede móvel</item>
+        <item>Enviar MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Enviar MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>Modificar os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>modificar notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>Localização</item>
+        <item>Anunciar notificação</item>
+        <item>Localização</item>
+        <item>Marcar..</item>
+        <item>Ler SMS/MMS</item>
+        <item>Enviar sms</item>
+        <item>Receber SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber MMS</item>
+        <item>Receber SMS</item>
+        <item>Enviar sms</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>Ativar WLAN</item>
+        <item>Ativar Bluetooth</item>
+        <item>Ativar Dados de rede móvel</item>
+        <item>Enviar MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Enviar MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Locação aproximata</item>
+        <item>Locação exacta</item>
+        <item>GPS</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>Modificar os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>modificar notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>WLAN explorar</item>
+        <item>Notificação</item>
+        <item>exploração de rede móvel</item>
+        <item>Marcar..</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Receber SMS</item>
+        <item>receber SMS de emergência</item>
+        <item>Receber MMS</item>
+        <item>receber WAP puxar</item>
+        <item>Enviar sms</item>
+        <item>Ler ICC SMS</item>
+        <item>Escrever ICC SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>teclas de media</item>
+        <item>focus de audio</item>
+        <item>volume de mestre</item>
+        <item>Volume de voz</item>
+        <item>Volume da campainha</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter desperto</item>
+        <item>locação de monitor</item>
+        <item>locação de alta potência de monitor</item>
+        <item>Ativar WLAN</item>
+        <item>Ativar Bluetooth</item>
+        <item>Ativar Dados de rede móvel</item>
+        <item>Enviar MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever MMS</item>
+        <item>auto iniciar</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>Modificar os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>modificar notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>Localização</item>
+        <item>Anunciar notificação</item>
+        <item>Localização</item>
+        <item>Marcar..</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber MMS</item>
+        <item>Receber SMS</item>
+        <item>Enviar sms</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>teclas de media</item>
+        <item>focus de audio</item>
+        <item>volume de mestre</item>
+        <item>Volume de voz</item>
+        <item>Volume da campainha</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter desperto</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Ativar WLAN</item>
+        <item>Ativar Bluetooth</item>
+        <item>Ativar Dados de rede móvel</item>
+        <item>Enviar MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever MMS</item>
+        <item>auto iniciar</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Locação aproximata</item>
+        <item>Locação exacta</item>
+        <item>GPS</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>escrever os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>escrever as notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>WLAN explorar</item>
+        <item>Notificação</item>
+        <item>exploração de rede móvel</item>
+        <item>Chamar</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Receber SMS</item>
+        <item>receber SMS de emergência</item>
+        <item>Receber MMS</item>
+        <item>receber WAP puxar</item>
+        <item>Enviar sms</item>
+        <item>Ler ICC SMS</item>
+        <item>Escrever ICC SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>teclas de media</item>
+        <item>focus de audio</item>
+        <item>volume de mestre</item>
+        <item>Volume de voz</item>
+        <item>Volume da campainha</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter desperto</item>
+        <item>locação de monitor</item>
+        <item>locação de alta potência de monitor</item>
+        <item>Obter o estado de uso</item>
+        <item>mute/não mute microfone</item>
+        <item>janela de torrada</item>
+        <item>média de projecto</item>
+        <item>activar VPN</item>
+        <item>Ativar WLAN</item>
+        <item>Ativar Bluetooth</item>
+        <item>Enviar MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever MMS</item>
+        <item>auto iniciar</item>
+        <item>Abrir NFC</item>
+        <item>Deletar SMS</item>
+        <item>Deletar MMS</item>
+        <item>Deletar contactos</item>
+        <item>Deletar as notas de chamada</item>
+        <item>Ativar Dados de rede móvel</item>
+        <item>instalar atalho</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>escrever os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>escrever as notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>Localização</item>
+        <item>Anunciar notificação</item>
+        <item>Localização</item>
+        <item>Chamar</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber MMS</item>
+        <item>Receber SMS</item>
+        <item>Enviar sms</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>teclas de media</item>
+        <item>focus de audio</item>
+        <item>volume de mestre</item>
+        <item>Volume de voz</item>
+        <item>volume de melodia</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter desperto</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Obter o estado de uso</item>
+        <item>mute/não mute microfone</item>
+        <item>janela de torrada</item>
+        <item>média de projecto</item>
+        <item>activar VPN</item>
+        <item>Ativar WLAN</item>
+        <item>Ativar Bluetooth</item>
+        <item>Enviar MMS</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever MMS</item>
+        <item>auto iniciar</item>
+        <item>Abrir NFC</item>
+        <item>Deletar SMS</item>
+        <item>Deletar MMS</item>
+        <item>Deletar contactos</item>
+        <item>Deletar as notas de chamada</item>
+        <item>Mudar os dados</item>
+        <item>instalar atalho</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Vibrar</item>
+        <item>Ler os contactos</item>
+        <item>Modificar os contactos</item>
+        <item>Ler notas de chamada</item>
+        <item>modificar notas de chamada</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>Localização</item>
+        <item>Anunciar notificação</item>
+        <item>Localização</item>
+        <item>Chamar</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber MMS</item>
+        <item>Receber SMS</item>
+        <item>Enviar sms</item>
+        <item>Ler SMS/MMS</item>
+        <item>Escrever SMS</item>
+        <item>Modificar os ajustes</item>
+        <item>Display a janela aparecida</item>
+        <item>acessar às notificações</item>
+        <item>Câmara</item>
+        <item>Gravar audio</item>
+        <item>play audio</item>
+        <item>ler prancheta</item>
+        <item>modificar prancheta</item>
+        <item>teclas de media</item>
+        <item>focus de audio</item>
+        <item>volume de mestre</item>
+        <item>Volume de voz</item>
+        <item>volume de melodia</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter desperto</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Obter o estado de uso</item>
+        <item>mute/não mute microfone</item>
+        <item>janela de torrada</item>
+        <item>média de projecto</item>
+        <item>activar VPN</item>
+        <item>escrever papel de parede</item>
+        <item>estrutura de assistente</item>
+        <item>corta de tela assistente</item>
+        <item>ler o estado de telefone</item>
+        <item>adicionar vozmail</item>
+        <item>usar sip</item>
+        <item>processar as chamadas cessantes</item>
+        <item>usar impressão digital</item>
+        <item>sensores de corpo</item>
+        <item>ler as transmissões de celular</item>
+        <item>locação simulada</item>
+        <item>ler a guarda external</item>
+        <item>escrever a guarda external</item>
+        <item>ligar tela</item>
+        <item>obter as contas</item>
+        <item>Mudar wlan</item>
+        <item>Mudar Bluetooth</item>
+        <item>Enviar MMS</item>
+        <item>Escrever MMS</item>
+        <item>Deletar SMS</item>
+        <item>Deletar MMS</item>
+        <item>deletar os contactos</item>
+        <item>Deletar as notas de chamada</item>
+        <item>instalar atalho</item>
+        <item>funcionar no fundo</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Permissões</item>
+        <item>Aplicação</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Classe de Privacidade</item>
+        <item>Classe básica</item>
+        <item>Classe de notificação</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Chamar</item>
+        <item>Contactos</item>
+        <item>Mensagem</item>
+        <item>MMS</item>
+        <item>Info de Locação</item>
+        <item>Calendário</item>
+        <item>MIC</item>
+        <item>Câmara</item>
+        <item>Sensor de Corpo</item>
+        <item>Espaço de guarda</item>
+        <item>Mudar wlan</item>
+        <item>Mudar Bluetooth</item>
+        <item>Mudar Ajustes</item>
+        <item>instalar atalho</item>
+        <item>Display a janela aparecida</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Instalar pacote</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Permitir</item>
+        <item>Perguntar</item>
+        <item>Proibido</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Permitir</item>
+        <item>Proibido</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Classe de Privacidade</item>
+        <item>Classe básica</item>
+        <item>Classe de notificação</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Adicionar manualmente autoiniciar as aplicações</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Submeter</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Calibração manual apenas</item>
+        <item>Auto calibração em cada dia</item>
+        <item>Auto calibração em cada três dias</item>
+        <item>Auto calibração em cada semana</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Eliminar todo o registo</item>
+        <item>Encaminhar</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Adicionar</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Convidar um parceiro para participar nos jogos de Esconder-e-procurar. Ganhar as estrélas quando está a completar o ensaio de anti-roubo!</item>
+        <item>"1. Deixar os seus amigos esconder o seu telefone 
+"</item>
+        <item>"2. Vir e procurar, já vi você 
+"</item>
+        <item>"3. Não posso procurar. O que posso fazer? 
+"</item>
+        <item>4. Você conseguiu! Confiar em nubia NeoSafe!</item>
+        <item>"5. usar o outro telefone para enviar uma mensagem de texto contendo 信牛盾 para seu telefone próprio, e segue às instruções 
+"</item>
+        <item>"OK, peguei as estrélas na mão. É tão simples! Não se preocupe onde você coloca o seu telefone! Lembrar que o seu telefone deve ser ligado para receber uma mensagem de texto. 
+ Mostrá-lo ara os seus amigos agora!"</item>
+    </string-array>
+</resources>

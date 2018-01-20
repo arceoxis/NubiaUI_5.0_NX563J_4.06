@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pemilih Muzik</string>
+    <string name="unknown_artist_name">Artis tidak diketahui</string>
+    <string name="unknown_album_name">Album tidak diketahui</string>
+    <string name="sdcard_missing_message">Kad SD tidak disisipkan.</string>
+    <string name="no_recordfile">Tiada Rakaman</string>
+    <string name="add_recordfile">Untuk merakam fail bersama perakam bunyi anda pada permulaan</string>
+    <string name="no_musicfile">Tiada Fail Muzik</string>
+    <string name="silent">Senyap</string>
+    <string name="cancel_picker">Lebih</string>
+    <string name="ok_picker">OK</string>
+    <string name="custom_ring">Nada dering lalai</string>
+    <string name="cut_fail">Tidak dapat memotong fail ini</string>
+    <string name="cut_success">Berjaya menetapkan dan memotong</string>
+    <string name="cut_copy">_salin</string>
+    <string name="dlg_wait">Keratan</string>
+    <string name="dlg_title">Tetapan Nada dering</string>
+    <string name="dlg_message">Adakah anda pasti untuk menetapkannya sebagai nada dering anda?</string>
+    <string name="dlg_yes">Ya</string>
+    <string name="dlg_no">Tidak</string>
+    <string name="internal_media">Media Dalaman</string>
+    <string name="external_media">Muzik Tempatan</string>
+    <string name="record_media">Rakaman</string>
+    <string name="picker_title">Nada dering</string>
+    <string name="picker_ringer_silent_mode">Telefon dalam keadaan %s, sila tingkatkan volum.</string>
+    <string name="picker_silent_mode">Bisu</string>
+    <string name="picker_vibrate_mode">Getaran</string>
+    <string name="wait_loading">Memuatkan…</string>
+    <string name="music_file_unexist">Fail tidak wujud.</string>
+</resources>

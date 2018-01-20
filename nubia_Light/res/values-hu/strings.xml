@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Vaku</string>
+    <string name="close">Kikapcsolás</string>
+    <string name="nocamere">A kamera le van tiltva vagy más alkalmazások használják. Engedélyezze a Kamera engedélyeket, vagy zárja be a kamerát használó más alkalmazásokat.</string>
+    <string name="keepon">Húzza fel, hogy a vaku mindig bekapcsolva legyen</string>
+    <string name="allkeepon">Mindig világít</string>
+    <string name="light_already_open">Bekapcsolva</string>
+    <string name="cts_tip_message">Ez a funkció az alábbi engedélyek engedélyezését kéri, ugrás a beállításokra és engedélyezés?</string>
+    <string name="cts_tip_camera">·Kamera</string>
+    <string name="cts_tip_phone">·Telefon</string>
+    <string name="cts_tip_enable">Bekapcsolás</string>
+    <string name="cts_tip_quit">Mégse</string>
+</resources>

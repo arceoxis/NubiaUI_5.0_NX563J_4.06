@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="continue_transfer_background">#ffe0f5f2</item>
+    <item type="drawable" name="continue_transfer_text_color">#ff30a895</item>
+    <item type="drawable" name="data_description_background">#ff2b9787</item>
+    <item type="drawable" name="history_listitem_textcolor">#ff30c2b1</item>
+    <item type="drawable" name="history_listitem_textcolor_disabled">#8f000000</item>
+    <item type="drawable" name="history_listitem_textcolor_pressed">#4330c2b1</item>
+    <item type="drawable" name="list_divider">#d9d9d9d9</item>
+    <item type="drawable" name="share_data_description_background">#fff5f5f5</item>
+    <item type="drawable" name="two_dimension_code_line">#8a000000</item>
+    <item type="drawable" name="two_dimension_code_line_inverse">#8affffff</item>
+</resources>

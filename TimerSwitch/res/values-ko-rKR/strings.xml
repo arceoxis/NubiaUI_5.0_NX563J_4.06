@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">예약된 전원 켜기 및 끄기</string>
+    <string name="timer_switch">타이머 스위치</string>
+    <string name="switch_on">예약된 전원 켜기</string>
+    <string name="switch_off">예약된 전원 끄기</string>
+    <string name="every_day">매일</string>
+    <string name="switch_on_time">시작 시간 설정</string>
+    <string name="switch_off_time">종료 시간 설정</string>
+    <string name="date_time_24hour">24시간 형식 사용</string>
+    <string name="date_time_date_format">날짜 형식 선택</string>
+    <string name="label">라벨</string>
+    <string name="switch_repeat">반복</string>
+    <string name="expand_switch">펼치기 스위치</string>
+    <string name="collapse_switch">접기 스위치</string>
+    <string name="reset_switch">재설정 스위치</string>
+    <string name="day">1일</string>
+    <string name="days">%s일</string>
+    <string name="hour">1시간</string>
+    <string name="hours">%s시간</string>
+    <string name="minute">1분</string>
+    <string name="minutes">%s분</string>
+    <string name="never">안함</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">취소</string>
+    <string name="switch_off_dialog_ok">종료</string>
+    <string name="switch_off_dialog_title">예약된 전원 끄기</string>
+    <string name="switch_off_message">휴대전화가 %s초 후 종료됩니다.</string>
+    <string name="switch_off_message_second">휴대전화가 %s초 후 종료됩니다.</string>
+    <string name="done_label">완료</string>
+    <string name="hour_picker_description">시간 원형 슬라이더</string>
+    <string name="minute_picker_description">분 원형 슬라이더</string>
+    <string name="select_hours">시간 선택</string>
+    <string name="select_minutes">분 선택</string>
+    <string name="day_picker_description">월별 바둑판식 날짜 표시</string>
+    <string name="year_picker_description">년</string>
+    <string name="select_day">월/일 선택</string>
+    <string name="select_year">연도 선택</string>
+    <string name="item_is_selected">%1$s이(가) 선택됨</string>
+    <string name="deleted_key">%1$s 삭제됨</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

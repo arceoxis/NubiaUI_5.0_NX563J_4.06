@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_match_key">
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="user_sex_spinner_array">
+        <item>@string/text_undefine</item>
+        <item>@string/text_male</item>
+        <item>@string/text_female</item>
+    </string-array>
+    <string-array name="vote_addnew_spinner_array_btn">
+        <item>@string/text_choice_single</item>
+        <item>@string/text_choice_multi</item>
+    </string-array>
+    <string-array name="vote_addnew_spinner_array_time">
+        <item>@string/text_week_one</item>
+        <item>@string/text_week_two</item>
+        <item>@string/text_week_thr</item>
+        <item>@string/text_month_one</item>
+        <item>@string/text_month_thr</item>
+        <item>@string/text_year_half</item>
+    </string-array>
+    <string-array name="weeks_name_list">
+        <item>@string/text_dateutil_mon</item>
+        <item>@string/text_dateutil_tues</item>
+        <item>@string/text_dateutil_wed</item>
+        <item>@string/text_dateutil_thurs</item>
+        <item>@string/text_dateutil_fri</item>
+        <item>@string/text_dateutil_sat</item>
+        <item>@string/text_dateutil_sun</item>
+        <item>@string/text_date_n_mon</item>
+        <item>@string/text_date_n_tues</item>
+        <item>@string/text_date_n_wed</item>
+        <item>@string/text_date_n_thurs</item>
+        <item>@string/text_date_n_fri</item>
+        <item>@string/text_date_n_sat</item>
+        <item>@string/text_date_n_sun</item>
+    </string-array>
+</resources>

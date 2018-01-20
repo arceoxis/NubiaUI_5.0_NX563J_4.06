@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RecipientEditTextViewStyle" parent="@style/RecipientEditTextViewStyleBase">
+        <item name="android:popupElevation">0.0dip</item>
+    </style>
+    <style name="DrawerUnreadCount" parent="@style/UnreadCount">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="ConversationListFadeBase" parent="@android:style/Widget.Material.Light.ListView" />
+    <style name="FloatingActionButtonBackgroundStyle" parent="@style/AbstractFloatingActionButtonStyle">
+        <item name="android:background">@drawable/compose_button</item>
+        <item name="android:src">@drawable/ic_pencil_wht_24dp</item>
+        <item name="android:elevation">@dimen/compose_button_elevation</item>
+    </style>
+    <style name="MinTimeProgressViewStyle" parent="@android:style/Widget.Material.Light.ProgressBar" />
+    <style name="MinTimeProgressDialogStyleBase" parent="@android:style/Theme.Material.Light.Dialog" />
+    <style name="MessageButtonStyleBase" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="ActionBarOverflowButtonStyle" parent="@android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="ActionBarShadow">
+        <item name="android:visibility">gone</item>
+    </style>
+    <style name="WaitFragmentTitleBase" parent="@android:style/Widget.Material.TextView" />
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#ffcccccc</item>
+    </style>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="FolderListItemStyle" parent="@style/FolderListItemStyleBase">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="DrawerFontStyle">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="UnifiedEmailTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:listViewWhiteStyle">@android:style/Widget.Material.Light.ListView</item>
+        <item name="android:actionModeBackground">@color/action_mode_background</item>
+        <item name="android:actionOverflowButtonStyle">@style/ActionBarOverflowButtonStyle</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+        <item name="android:colorEdgeEffect">@color/edge_effect_color</item>
+    </style>
+    <style name="AccountSetupDialogActivityTheme" parent="@android:style/Theme.Material.Light.Dialog.NoActionBar">
+        <item name="android:colorPrimary">@color/primary_color</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+    </style>
+</resources>

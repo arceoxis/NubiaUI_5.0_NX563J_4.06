@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>%1$s şuandan itibaren 1 dakikadan az olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %2$s olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %3$s olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %2$s ve %3$s olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %4$s olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %2$s ve %4$s olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %3$s ve %4$s olarak ayarla.</item>
+        <item>%1$s şuandan itibaren %2$s, %3$s, ve %4$s olarak ayarla.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknow_error">Onbekende fout</string>
+    <string name="phone_regist_cancel">Annuleren</string>
+    <string name="show_password">Wachtwoord</string>
+    <string name="confirm_password_label">Bevestigen</string>
+    <string name="err_unknown">Onbekende fout</string>
+    <string name="skip">Ovrsl</string>
+    <string name="extent_complete_confirm_btn">OK</string>
+    <string name="third_party_account_category">Overig</string>
+    <string name="user_name_title">GEBRUIKERSNAAM</string>
+    <string name="eamil_address_title">E-mail</string>
+    <string name="change_password_title">Wachtwoord wijzigen</string>
+    <string name="district_default_summary">Niet ingesteld</string>
+    <string name="account_details_usermane">GEBRUIKERSNAAM</string>
+    <string name="account_details_email">E-mail</string>
+    <string name="account_details_phone">Mobiel</string>
+    <string name="account_details_change_password">Wachtwoord wijzigen</string>
+    <string name="account_details_account_logout">Uitloggen</string>
+    <string name="logout_dialog_eamil_address_title">E-mail:</string>
+    <string name="account_details_take_photo">Foto maken</string>
+    <string name="str_pptv_vip" />
+</resources>

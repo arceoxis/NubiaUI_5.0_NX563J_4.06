@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القطعة على مدار الساعة</string>
+    <string name="digital_clock_widget">رقمي ساعة العالم</string>
+    <string name="analog_clock_widget">التناظرية العالم على مدار الساعة</string>
+    <string name="digital_big_clock_widget">ساعة رقمية</string>
+    <string name="analog_big_clock_widget">التناظرية على مدار الساعة</string>
+</resources>

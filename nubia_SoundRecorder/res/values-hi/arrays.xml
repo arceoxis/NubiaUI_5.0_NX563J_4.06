@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>क्लियर 320kbps, mp3</item>
+        <item>स्टैंडर्ड 128kbps, mp3</item>
+        <item>स्पेस-दक्ष, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>क्लियर</item>
+        <item>स्टैंडर्ड</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>फोन/neoRecorder</item>
+        <item>SD कार्ड/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>फोन/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>इनकमिंग कॉल रिंगटोन</item>
+        <item>अलार्म रिंगटोन</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>SIM कार्ड 1</item>
+        <item>SIM कार्ड 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>फोटो लें</item>
+        <item>गैलरी में से एक फोटो चुनें</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>फोटो देखें</item>
+        <item>फोटो मिटाएं</item>
+        <item>एक नई फोटो लें</item>
+        <item>गैलरी में से एक नई फोटो चुनें</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>विलय सुरक्षित करें</item>
+        <item>अलग सुरक्षित करें</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>समय अनुसार छांटें</item>
+        <item>टैग अनुसार छांटें</item>
+        <item>अवधि अनुसार छांटें</item>
+    </string-array>
+</resources>

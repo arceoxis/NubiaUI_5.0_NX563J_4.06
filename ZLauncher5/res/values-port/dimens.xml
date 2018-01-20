@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paged_vie_widget_right_padding">2.0dip</dimen>
+    <dimen name="paged_vie_widget_bottom_padding">16.0dip</dimen>
+    <dimen name="widget_layout_height">30.0dip</dimen>
+    <dimen name="apps_customize_page_indicator_bottom_margin">34.0dip</dimen>
+    <dimen name="apps_customize_paged_view_top_margin">28.0dip</dimen>
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمة الحسابات</string>
+    <string name="nubia_account_title">حساب nubia</string>
+    <string name="activity_account_intro_register_btn">إنشاء حساب جديد</string>
+    <string name="activity_account_intro_login_btn">تسجيل الدخول</string>
+    <string name="account_intro_title">إدارة حساب nubia</string>
+    <string name="authenticator_label">حساب nubia</string>
+    <string name="account">الحساب</string>
+    <string name="account_note_title">بعد إنشاء حساب nubia مجانًا، يمكنك:</string>
+    <string name="account_note_message">"مساحة السحابة الخاصة بك
+نسخ المعلومات احتياطيًا واستعادتها
+تحديد موقع الأجهزة عن بُعد
+الاستمتاع بجميع أنواع الخدمة بواسطة حساب واحد"</string>
+    <string name="account_login_welcome_txt">مرحبًا بك إلى تسجيل حساب nubia</string>
+    <string name="account_login_welcome_txt2">يمكنك التسجيل بواسطة الأساليب أدناه:</string>
+    <string name="section_login_by_email_title">بريد إلكتروني</string>
+    <string name="section_login_by_mobile_title">الجوال</string>
+    <string name="section_login_by_thirdrdparty_title">الجهة الثالثة</string>
+    <string name="section_login_by_qq"><a href="#">تسجيل الدخول من قبل QQ</a></string>
+    <string name="section_login_by_weibo"><a href="#">تسجيل الدخول من قبل Weibo</a></string>
+    <string name="section_register_authenticating">جارٍ المصادقة…</string>
+    <string name="section_register_registerfail">فشل التسجيل</string>
+    <string name="section_register_by_email_title">بريد إلكتروني</string>
+    <string name="section_register_by_mobile_title">الجوال</string>
+    <string name="section_register_by_email_username">اسم المستخدم:</string>
+    <string name="section_register_by_email_email">البريد الإلكتروني:</string>
+    <string name="section_register_by_email_password">كلمة المرور:</string>
+    <string name="section_register_by_email_register_button">التسجيل الآن</string>
+    <string name="section_register_by_email_register_note">يرجى إدخال عنوان البريد الإلكتروني الصحيح، بحيث يمكنك البحث عن كلمة المرور المفقودة بشكل مناسب</string>
+    <string name="section_register_by_email_username_error">يتطلب اسم المستخدم ما بين 4 و15 حرفًا</string>
+    <string name="section_register_by_email_email_error">يرجى إدخال عنوان بريد إلكتروني صحيح</string>
+    <string name="section_register_by_email_password_error">تتطلب كلمة المرور ما بين 6 و32 حرفًا</string>
+    <string name="section_register_by_email_confirm_password_error">تأكيد خطأ كلمة المرور، يتطلب ما بين 6 و32 حرفًا</string>
+    <string name="section_register_by_email_confirm_password_not_equal_error">كلمتا المرور غير متساويتين</string>
+    <string name="section_register_by_email_safe_answer_error">يجب ألا يكون جواب السؤال الآمن فارغًا</string>
+    <string name="section_register_by_email_safe_answer_prompt">اختيار سؤال آمن</string>
+    <string name="register_username_hint">اسم المستخدم(4 إلى 15 حرفًا)</string>
+    <string name="register_email_hint">عنوان البريد الإلكتروني</string>
+    <string name="register_password_hint">كلمة المرور(6 إلى 32 حرفًا)</string>
+    <string name="register_confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="register_mobile_hint">رقم المحمول</string>
+    <string name="register_answer_hint">جواب السؤال الآمن</string>
+    <string name="register_finish_text">نجاح التسجيل!</string>
+    <string name="register_finish_button">إنهاء التسجيل</string>
+    <string name="register_finish_tip">تم إرسال الرمز النشط إلى علبة البريد</string>
+    <string name="section_register_by_moible_number">المحمول:</string>
+    <string name="section_register_acquire_security_code">جاري الحصول على الرمز النشط…</string>
+    <string name="section_register_fill_security_code_title">تعبئة الرمز النشط</string>
+    <string name="section_register_fill_password_title">تعبئة كلمة مرور الحساب</string>
+    <string name="section_register_by_mobile_number_error">يُرجى إدخال رقم المحمول الصحيح</string>
+    <string name="section_register_by_mobile_acquire_error">فشل الحصور على الرمز النشط، يرجى المحاولة مرة أخرى</string>
+    <string name="register_number_title">المحمول المسجل هو:</string>
+    <string name="security_code_note">تم إرسال رسالة إلى المحمول، يرجى تعبئة الرمز النشط بالرقم الوارد في الرسالة.</string>
+    <string name="security_code_title">الرمز النشط:</string>
+    <string name="acquire_again">الحصول مرة أخرى</string>
+    <string name="section_register_by_mobile_next_button">التالي</string>
+    <string name="section_register_by_mobile_active_cod_confirm_error">خطأ في الرمز النشط</string>
+    <string name="active_has_already_resend_title">الرمز النشط</string>
+    <string name="active_has_already_resend_message">تم إرسال الرمز النشط مرة أخرى، يرجى الانتباه لاستلامه</string>
+    <string name="button_ok">موافق</string>
+    <string name="button_cancel">إلغاء</string>
+    <string name="button_continue">متابعة</string>
+    <string name="section_register_by_mobile_reacquire_active_code">جاري إعادة الحصول على الرمز النشط…</string>
+    <string name="section_register_by_mobile_password_title">كلمة المرور:</string>
+    <string name="section_register_by_mobile_confirm_password_title">تأكيد:</string>
+    <string name="section_register_by_mobile_password_not_same">كلمتا المرور غير متساويتين</string>
+    <string name="section_register_by_mobile_password_error">تتطلب كلمة المرور ما بين 6 و32 حرفًا</string>
+    <string name="nubia_account_exist">تم بالفعل تسجيل الدخول إلى حساب nubia. إذا تابعت التسجيل، سيتم تسجيل الخروج من الحساب الحالي.</string>
+    <string name="section_login_authenticating">جاري الاتصال بالخادم…</string>
+    <string name="section_login_loginfail_text_both">اسم المستخدم غير صالح أو كلمة المرور غير صالحة، يرجى المحاولة مرة أخرى.</string>
+    <string name="section_login_loginfail_text_pwonly">كلمة المرور غير صالحة، يرجى المحاولة مرة أخرى.</string>
+    <string name="section_login_by_email_button">تسجيل الدخول</string>
+    <string name="section_login_username">البريد الإلكتروني / اسم المستخدم / المحمول</string>
+    <string name="section_login_password">إدخال كلمة المرور</string>
+    <string name="section_login_by_email_create_new_account"><a href="#">إنشاء حساب جديد</a></string>
+    <string name="section_login_by_email_forget_password"><a href="#">هل نسيت كلمة المرور؟</a></string>
+    <string name="section_login_by_email_username_error">يُرجى إدخال اسم مستخدم صحيح</string>
+    <string name="section_login_by_email_email_error">يرجى إدخال بريد إلكتروني صحيح</string>
+    <string name="section_login_by_email_password_error">عذرًا، كلمة المرور غير صحيحة!</string>
+    <string name="section_login_connecting_server">جارٍ المصادقة…</string>
+    <string name="section_login_by_mobile_button">تسجيل الدخول</string>
+    <string name="section_login_by_mobile_number">إدخال رقم المحمول</string>
+    <string name="section_login_by_mobile_password">إدخال كلمة المرور</string>
+    <string name="section_login_by_mobile_create_new_account"><a href="#">إنشاء حساب جديد</a></string>
+    <string name="section_login_by_mobile_forget_password"><a href="#">هل نسيت كلمة المرور؟</a></string>
+    <string name="section_recovery_confirm_account">يُرجى تأكيد الحساب</string>
+    <string name="reset_mobile_password_title">إعادة ضبط كلمة مرور الحساب</string>
+    <string name="btn_finish">إنهاء</string>
+    <string name="section_recovery_by_mobile_number">رقم المحمول:</string>
+    <string name="section_recovery_by_mobile_new_password">كلمة المرور الجديدة:</string>
+    <string name="section_recovery_by_mobile_confirm_password">تأكيد كلمة المرور:</string>
+    <string name="section_recovery_by_mobile_authcode">الرمز النشط:</string>
+    <string name="acquire_authcode_again">الحصول مرة أخرى</string>
+    <string name="choose_recovery_title">اختيار أسلوب الاستعادة</string>
+    <string name="choose_recovery_secret_question">الأسئلة السرية</string>
+    <string name="choose_recovery_registered_email">بريد إلكتروني مسجل</string>
+    <string name="secret_question_title">تعبئة السؤال السري</string>
+    <string name="reset_password_title">تعبئة كلمة المرور الجديدة</string>
+    <string name="reset_password_by_email_title">إعادة تعيين كلمة المرور</string>
+    <string name="recovery_by_email_note_01">تم بالفعل إرسال البريد الإلكتروني الخاص بإعادة ضبط كلمة المرور إلى بريدك الإلكتروني المسجل.</string>
+    <string name="recovery_by_email_note_02">عند استلام البريد الإلكتروني، يرجى إعادة ضبط كلمة مرور حساب nubia وفقًا للإرشادات في البريد الإلكتروني.</string>
+    <string name="authcode_has_already_send">تم إرسال الرمز النشط إلى الرقم الموجود في الرسالة</string>
+    <string name="recovery_by_mobile_acquire_authcode">تأكيد اسم المستخدم…</string>
+    <string name="recovery_by_mobile_new_password_hint">كلمة المرور الجديدة(بين 6 و32 حرفًا)</string>
+    <string name="recovery_by_mobile_confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="recovery_by_mobile_authcode_hint">الرمز النشط</string>
+    <string name="recovery_by_mobile_commit">جاري تدوين كلمة مرور جديدة…</string>
+    <string name="recovery_by_mobile_password_error">تتطلب كلمة المرور ما بين 6 و32 حرفًا</string>
+    <string name="recovery_by_mobile_confirm_password_error">فشل تأكيد كلمة المرور</string>
+    <string name="recovery_by_mobile_authcode_error">خطأ في الرمز النشط</string>
+    <string name="recovery_confirm_mobile_error">فشل تأكيد رقم المحمول</string>
+    <string name="recovery_confirm_email_error">فشل تأكيد البريد الإلكتروني</string>
+    <string name="login_response_error">خطأ في تسجيل الدخول</string>
+    <string name="safe_question_answer_error">فشل التحقق من جواب السؤال الآمن</string>
+    <string name="recovery_by_email_commit">جاري تدوين كلمة مرور جديدة…</string>
+    <string name="safe_question_new_password_commit_error">فشل إعادة ضبط كلمة المرور الجديدة</string>
+    <string name="recovery_by_email_acquire_reset_email">جاري الحصول على إعادة ضبط البريد الإلكتروني…</string>
+    <string name="recovery_by_email_acquire_reset_email_error">فشل الحصول على إعادة ضبط البريد الإلكتروني</string>
+    <string name="section_recovery_username">البريد الإلكتروني / المحمول</string>
+    <string name="section_recovery_password_error">خطأ في كلمة المرور(بين 6 و32 حرفًا)</string>
+    <string name="section_recovery_confirm_password_error">فشل تأكيد كلمة المرور</string>
+    <string name="section_register_by_email_username_exist">اسم المستخدم موجود بالفعل!</string>
+    <string name="section_register_by_email_email_exist">البريد الإلكتروني موجود بالفعل!</string>
+    <string name="section_register_by_mobile_number_exist_error">رقم المحمول موجود بالفعل!</string>
+    <string name="login_user_null_error">يرجى إدخال اسم المستخدم</string>
+    <string name="login_username_error">خطأ في اسم المستخدم(بين 4 و15 حرفًا)</string>
+    <string name="login_email_error">خطأ في تنسيق البريد الإلكتروني أو أكثر من 40 حرفًا</string>
+    <string name="login_mobile_error">تم إبطال المحمول</string>
+    <string name="login_password_error">خطأ في كلمة المرور</string>
+    <string name="login_password_null_error">يجب ألا تكون كلمة المرور خالية</string>
+    <string name="recovery_confirm_account_error">فشل تأكيد الحساب</string>
+    <string name="recovery_account_error">يرجى إدخال البريد الإلكتروني أو المحمول الذي تم التحقق منه.</string>
+    <string name="recovery_confirm_error">فشل تأكيد الحساب</string>
+    <string name="mobile_number_error">خطأ في رقم المحمول</string>
+    <string name="section_register_finish_title">اكتمل التسجيل</string>
+    <string name="cannot_connect_to_network_errror">يتعذر الاتصال بالإنترنت!</string>
+    <string name="thirdparty_login_finish">إنهاء تسجيل الدخول</string>
+    <string name="thirdparty_login_tips">تسجيل الدخول بنجاح من قبل ‏%1$1s</string>
+    <string name="thirdparty_qq">QQ</string>
+    <string name="thirdparty_wb">Sina Weibo</string>
+    <string name="thirdparty_login_first">"تهانينا！
+أصبح لديك الآن حساب nubia:
+اسم المستخدم هو ‏%1$1s
+كلمة المرور هي ‏%2$s
+يرجى الحفاظ عليهما بعناية."</string>
+    <string name="hello_world">مرحبًا أيها العالم!</string>
+    <string name="menu_settings">إعدادات</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="login_by_qq_image_description">تسجيل الدخول من قبل QQ</string>
+    <string name="login_by_weibo_image_description">تسجيل الدخول من قبل Weibo</string>
+</resources>

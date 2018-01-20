@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_config_prefDialogWidth">440.0dip</dimen>
+    <item type="dimen" name="abc_dialog_fixed_height_major">60.000004%</item>
+    <item type="dimen" name="abc_dialog_fixed_height_minor">90.0%</item>
+    <item type="dimen" name="abc_dialog_fixed_width_major">60.000004%</item>
+    <item type="dimen" name="abc_dialog_fixed_width_minor">90.0%</item>
+    <item type="dimen" name="abc_dialog_min_width_major">55.000008%</item>
+    <item type="dimen" name="abc_dialog_min_width_minor">79.99999%</item>
+    <dimen name="app_lock_h1">30.0sp</dimen>
+    <dimen name="app_lock_h2">20.0sp</dimen>
+    <dimen name="app_lock_h3">18.0sp</dimen>
+    <dimen name="app_lock_h4">15.0sp</dimen>
+    <dimen name="bookshelf_gridview_item_horizontalSpacing">15.0dip</dimen>
+    <dimen name="bookshelf_gridview_item_with">103.0dip</dimen>
+    <dimen name="bookshelf_gridview_padding">10.0dip</dimen>
+    <dimen name="detail_play_seekbar_thumb_pad">0.0dip</dimen>
+    <dimen name="guide_goto_bookstore_image_padding">30.0dip</dimen>
+    <dimen name="guide_goto_bookstore_join_textsize">24.0sp</dimen>
+    <dimen name="guide_goto_bookstore_message_textsize">24.0sp</dimen>
+    <dimen name="guide_goto_bookstore_padding">60.0dip</dimen>
+    <dimen name="guide_goto_bookstore_title_textsize">40.0sp</dimen>
+    <dimen name="layoutheight_login_banner">140.0dip</dimen>
+    <dimen name="menu_setting_item_height">55.0dip</dimen>
+    <dimen name="menu_setting_item_height_37">49.0dip</dimen>
+    <dimen name="paddingAccount_large">25.0dip</dimen>
+    <dimen name="paddingAccount_normal">15.0dip</dimen>
+    <dimen name="paddingAccount_small">10.0dip</dimen>
+    <dimen name="paddingAccount_xlarge">38.0dip</dimen>
+    <dimen name="guide_view_text_size">15.0sp</dimen>
+</resources>

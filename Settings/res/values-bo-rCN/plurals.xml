@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="high_power_count">
+        <item quantity="other">ཉེར་སྤྱོད་%dལ་གློག་སྨན་ལེགས་སྒྲིག་སྣང་མེད་དུ་སྐྱུར་དུ་འཇུག</item>
+        <item quantity="one">ཉེར་སྤྱོད་1གློག་སྨན་ལེགས་སྒྲིག་སྣང་མེད་དུ་སྐྱུར་དུ་བཅུག་ཟིན།</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">འདས་པའི་%2$s་ནང་དུ་ཉེར་སྤྱོད་%1$d་ཡིས་ནང་གསོག་སྤྱད།</item>
+        <item quantity="one">འདས་པའི་%2$s་ནང་དུ་ཉེར་སྤྱོད་1་གིས་ནང་གསོག་སྤྱད།</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">Önyükleme animasyon bilgisi</string>
+    <string name="str_author_info">Yazar Bilgisi</string>
+    <string name="str_view_origin_picture">Resmi Gör</string>
+    <string name="str_click_picture">Resme tıkla</string>
+    <string name="str_view_detail">Görünüm Detay Bilgisi</string>
+    <string name="str_i_know">Biliyorum</string>
+    <string name="str_slip_info">Sayfayı değiştirmek için sola veya sağa kaydırın</string>
+    <string name="str_thanks_share">Paylaşım için %1$s teşekkürler</string>
+</resources>

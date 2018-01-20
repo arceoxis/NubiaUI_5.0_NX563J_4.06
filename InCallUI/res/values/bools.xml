@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <bool name="nubia_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="config_editor_field_order_primary">true</bool>
+    <bool name="video_call_use_ext">true</bool>
+    <bool name="mark_emergency_call">false</bool>
+    <bool name="enable_home_location">false</bool>
+    <bool name="display_home_location_on_statusbar">false</bool>
+</resources>

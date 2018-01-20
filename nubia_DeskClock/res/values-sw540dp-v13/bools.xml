@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="screen_orientation_only_portrait">false</bool>
+    <bool name="config_requiresScreenSaver">true</bool>
+    <bool name="config_dockAppEnabled">true</bool>
+    <bool name="config_rotateAlarmAlert">false</bool>
+</resources>

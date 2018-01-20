@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBarTheme" parent="@style/Theme.Nubia.ActionBar">
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+</resources>

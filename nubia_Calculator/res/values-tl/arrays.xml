@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>kaliwang panaklong</item>
+        <item>kanang panaklong</item>
+        <item>factorial</item>
+        <item>natural na logarithm</item>
+        <item>logarithm</item>
+        <item>square root</item>
+        <item>hinati ng</item>
+        <item>pinarami ng</item>
+        <item>dagdagan ng</item>
+        <item>minus</item>
+        <item> point </item>
+        <item>power</item>
+        <item>tangent</item>
+        <item>sine</item>
+        <item>cosine</item>
+        <item>pi</item>
+        <item>katumbas ng</item>
+    </string-array>
+</resources>

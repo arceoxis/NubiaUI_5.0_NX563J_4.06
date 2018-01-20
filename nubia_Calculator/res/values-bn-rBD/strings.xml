@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ক্যালকুলেটর</string>
+    <string name="error">ত্রুটি</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">সিন</string>
+    <string name="cos">কস</string>
+    <string name="tan">ট্যান</string>
+    <string name="e">ই</string>
+    <string name="ln">মধ্যে</string>
+    <string name="lg">লগ</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">ইনপুট পাঠ্য ক্ষেত্রটি সর্বাধিক দৈর্ঘ্যে পৌঁছেছে৷</string>
+    <string name="outoff_storage">স্টোরেজের জায়গা অপর্যাপ্ত, দয়া করে ব্যবহারের আগে স্থানটি খালি করুন</string>
+    <string name="upgrade_title_message">একটি নতুন সংস্করণ সনাক্ত করা হয়েছে, আপগ্রেড করতে চান?</string>
+    <string name="calculator_version_upgrade_notification_title">ক্যালকুলেটার আপগ্রেড করা হচ্ছে</string>
+    <string name="alert_dialog_cancel">বাতিল করুন</string>
+    <string name="alert_dialog_ok">ঠিক আছে</string>
+    <string name="cts_warning_text">অ্যাপ্লিকেশানটির প্রাসঙ্গিক অনুমতি নিতে হবে, নয়তো এটি কাজ করবে না।</string>
+    <string name="cts_warning_title">এই বৈশিষ্ট্যটির জন্য নিম্নলিখিত অনুমতিগুলি সক্রিয় করার প্রয়োজন আছে, সেটিংসে গিয়ে সেগুলিকে সক্রিয় করবেন？</string>
+    <string name="cts_phone">"·টেলিফোন
+"</string>
+    <string name="cts_storage">"·স্টোরেজ
+"</string>
+    <string name="go_permission_setting">চালু করুন</string>
+    <string name="del">খসড়াগুলি পরিত্যাগ করুন</string>
+    <string name="clear">CLR</string>
+    <string name="basic">প্রাথমিক প্যানেল</string>
+    <string name="advanced">উন্নত প্যানেল</string>
+    <string name="clear_history">ইতিহাস মুছে পরিস্কার করুন</string>
+    <string name="text_copied_toast">পাঠ্য কপি হয়েছে।</string>
+    <string name="leftParenDesc">বাম প্যারেন্টেসিস</string>
+    <string name="rightParenDesc">ডানদিকের বন্ধনী</string>
+    <string name="factorialDesc">কারখানা সম্পর্কিত</string>
+    <string name="lnDesc">স্বাভাবিক লগারিদম</string>
+    <string name="lgDesc">লগ্যারিদম</string>
+    <string name="sqrtDesc">বর্গমূল</string>
+    <string name="divDesc">বিভক্ত</string>
+    <string name="mulDesc">গুণ</string>
+    <string name="plusDesc">যোগ</string>
+    <string name="minusDesc">বিয়োগ</string>
+    <string name="dotDesc">পয়েন্ট</string>
+    <string name="powerDesc">পাওয়ার ব্যবহার চার্জ</string>
+    <string name="delDesc">খসড়াগুলি পরিত্যাগ করুন</string>
+    <string name="clearDesc">ট্র্যাশ খালি করুন</string>
+    <string name="tanDesc">স্পর্শক</string>
+    <string name="sinDesc">সাইন</string>
+    <string name="cosDesc">কোসাইন</string>
+    <string name="eDesc">Euler এর নম্বর</string>
+    <string name="piDesc">পি</string>
+    <string name="equalDesc">সমান</string>
+    <string name="clearAll">AC</string>
+</resources>

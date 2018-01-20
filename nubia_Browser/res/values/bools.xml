@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <bool name="hide_title">true</bool>
+    <bool name="hide_nav_buttons">true</bool>
+    <bool name="menu_show_navigation">true</bool>
+    <bool name="menu_show_bookmarks">true</bool>
+    <bool name="feature_wap2estore">false</bool>
+    <bool name="feature_drm_uploads">false</bool>
+    <bool name="feature_network_notifier">false</bool>
+    <bool name="feature_exit_dialog">false</bool>
+    <bool name="feature_title_in_URL_bar">false</bool>
+    <bool name="feature_custom_download_path">false</bool>
+    <bool name="feature_allow_media_downloads">false</bool>
+    <bool name="feature_disable_history">false</bool>
+    <bool name="def_allow_media_downloads">false</bool>
+    <bool name="compositor_tab_title_fake_bold_text">true</bool>
+    <bool name="gesture_switch">false</bool>
+    <bool name="function_download">true</bool>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="app_label">Kontakte-Speicher</string>
+    <string name="provider_label">Kontakte</string>
+    <string name="upgrade_msg">Kontaktdatenbank wird aktualisiert...</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontakte-Upgrade erfordert mehr Speicher.</string>
+    <string name="upgrade_out_of_memory_notification_title">Speicher für Kontakte wird aktualisiert...</string>
+    <string name="upgrade_out_of_memory_notification_text">Zum Abschluss des Upgrades berühren</string>
+    <string name="default_directory">Kontakte</string>
+    <string name="local_invisible_directory">Sonstige</string>
+    <string name="read_write_all_voicemail_label">Zugriff auf alle Mailbox-Nachrichten</string>
+    <string name="read_write_all_voicemail_description">Ermöglicht der App das Speichern und Abrufen aller Mailbox-Nachrichten, auf die dieses Gerät zugreifen kann</string>
+    <string name="voicemail_from_column">"Mailbox-Nachricht von "</string>
+    <string name="group_family">Familie</string>
+    <string name="group_friend">Freunde</string>
+    <string name="group_work">Kollegen</string>
+    <string name="debug_dump_title">Kontaktdatenbank kopieren</string>
+    <string name="debug_dump_database_message">Sie 1) erstellen eine Kopie Ihrer Datenbank, die alle Kontaktinformationen und Anruflisten auf dem internen Speicher enthält, und 2) senden diese Kopie per E-Mail. Denken Sie daran, die Kopie so schnell wie möglich zu löschen, nachdem Sie sie vom Gerät kopiert haben oder die E-Mail empfangen wurde.</string>
+    <string name="debug_dump_delete_button">Jetzt löschen</string>
+    <string name="debug_dump_start_button">Starten</string>
+    <string name="debug_dump_email_sender_picker">Programm zum Senden der Datei auswählen</string>
+    <string name="debug_dump_email_subject">Kontaktdatenbank angehängt</string>
+    <string name="debug_dump_email_body">Anbei meine Kontaktdatenbank mit allen Informationen zu meinen Kontakten. Bitte vertraulich behandeln!</string>
+    <string name="contact_service_name_zte">ZTE-Kundendienst</string>
+    <string name="contact_service_name_nubia">nubia Kundendienst</string>
+    <string name="contact_service_number_label_zte">Hotline</string>
+    <string name="contact_service_number_label_nubia">Hotline</string>
+    <string name="contact_service_email_label_zte">E-Mail</string>
+    <string name="contact_service_email_label_nubia">E-Mail</string>
+</resources>

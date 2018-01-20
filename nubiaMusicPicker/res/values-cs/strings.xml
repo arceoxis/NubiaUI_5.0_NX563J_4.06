@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Přehrávač Hudby</string>
+    <string name="unknown_artist_name">Neznámý umělec</string>
+    <string name="unknown_album_name">Neznámé album</string>
+    <string name="no_recordfile">Žádné nahrávky</string>
+    <string name="add_recordfile">Pro nahrání souboru vaším nahrávačem, nejdříve</string>
+    <string name="no_musicfile">Žádné hudební soubory</string>
+    <string name="silent">Tichý</string>
+    <string name="cancel_picker">Zrušit</string>
+    <string name="ok_picker">OK</string>
+    <string name="custom_ring">Výchozí vyzváněcí tón</string>
+    <string name="cut_fail">Nelze oříznout tento soubor</string>
+    <string name="cut_success">Oříznutí a nastavení úspěšně dokončeno</string>
+    <string name="cut_copy">Kopírování</string>
+    <string name="dlg_wait">Vyjmutí</string>
+    <string name="dlg_title">Nastavení vyzváněcího tónu</string>
+    <string name="dlg_message">Jste si jist, že chcete tento tón jako váš vyzváněcí?</string>
+    <string name="dlg_yes">Ano</string>
+    <string name="dlg_no">Ne</string>
+    <string name="internal_media">Interní média</string>
+    <string name="external_media">Lokální hudba</string>
+    <string name="record_media">Nahrávky</string>
+    <string name="picker_title">Vyzvánění a vibrace</string>
+    <string name="picker_ringer_silent_mode">Telefon je %s, prosím zvyšte hlasitost.</string>
+    <string name="picker_silent_mode">Ztlumit</string>
+    <string name="picker_vibrate_mode">vibrace</string>
+    <string name="wait_loading">Načítání dat…</string>
+    <string name="music_file_unexist">Soubor neexistuje</string>
+</resources>

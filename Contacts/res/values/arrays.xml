@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="additional_test_code">
+        <item>@string/additional_test_code_1</item>
+        <item>@string/additional_test_code_2</item>
+        <item>@string/additional_test_code_3</item>
+        <item>@string/additional_test_code_4</item>
+        <item>@string/additional_test_code_5</item>
+        <item>@string/additional_test_code_6</item>
+        <item>@string/additional_test_code_7</item>
+        <item>@string/additional_test_code_8</item>
+        <item>@string/additional_test_code_9</item>
+        <item>@string/additional_test_code_10</item>
+        <item>@string/additional_test_code_11</item>
+        <item>@string/additional_test_code_12</item>
+        <item>@string/additional_test_code_13</item>
+        <item>@string/additional_test_code_14</item>
+    </string-array>
+    <string-array name="advanced_test_code">
+        <item>@string/advanced_test_code_str</item>
+    </string-array>
+    <string-array name="theme_settings_code">
+        <item>@string/theme_settings_code_str</item>
+    </string-array>
+    <string-array name="fuXing">
+        <item></item>
+    </string-array>
+    <string-array name="dayNames">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="factory_mode_test_code">
+        <item>@string/factory_mode_test_code_1</item>
+        <item>@string/factory_mode_test_code_2</item>
+        <item>@string/factory_mode_test_code_3</item>
+        <item>@string/factory_mode_test_code_4</item>
+        <item>@string/factory_mode_test_code_5</item>
+        <item>@string/factory_mode_test_code_6</item>
+        <item>@string/factory_mode_test_code_7</item>
+    </string-array>
+    <string-array name="backup_settings_code">
+        <item>@string/backup_settings_code_str</item>
+    </string-array>
+    <string-array name="shortcutcall_modify_option">
+        <item>@string/shortcut_call_settings_modify_option_remove</item>
+        <item>@string/shortcut_call_settings_modify_option_replace</item>
+    </string-array>
+    <string-array name="sub_list">
+        <item>@string/sub_one_str</item>
+        <item>@string/sub_two_str</item>
+    </string-array>
+    <string-array name="menu_people_activity">
+        <item>@string/menu_group</item>
+        <item>@string/menu_display_setting</item>
+        <item>@string/menu_delete</item>
+        <item>@string/menu_advance</item>
+        <item>@string/call_settings_v5</item>
+    </string-array>
+    <string-array name="tag_list">
+        <item>@string/ads</item>
+        <item>@string/harass</item>
+        <item>@string/defraud</item>
+        <item>@string/take_out</item>
+        <item>@string/house_agent</item>
+        <item>@string/self_input</item>
+    </string-array>
+    <string-array name="capsule_title">
+        <item>@string/all_calllog</item>
+        <item>@string/missed_calllog</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+</resources>

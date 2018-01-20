@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Найдено принтеров: %1$s</item>
+        <item quantity="one">Найден %1$s принтер</item>
+    </plurals>
+    <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Установите, чтобы найти %1$s принтера</item>
+        <item quantity="one">Установите, чтобы найти %1$s принтер</item>
+    </plurals>
+</resources>

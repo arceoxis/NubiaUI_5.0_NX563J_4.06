@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>Mabano ya kushoto</item>
+        <item>mabano ya kulia</item>
+        <item>kiwanda</item>
+        <item>logi asili</item>
+        <item>logi</item>
+        <item>Kipeo cha pili</item>
+        <item>imegawanywa na</item>
+        <item>imezidishwa na</item>
+        <item>jumlisha</item>
+        <item>kutoa</item>
+        <item> mahali </item>
+        <item>nguvu</item>
+        <item>mstari</item>
+        <item>sine</item>
+        <item>kosi</item>
+        <item>pi</item>
+        <item>sawa na</item>
+    </string-array>
+</resources>

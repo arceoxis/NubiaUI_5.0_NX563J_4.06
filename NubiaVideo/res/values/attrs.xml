@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textAppearanceExtraSmall" format="reference" />
+    <attr name="titleBackgroundWithLine" format="reference" />
+    <attr name="menuItemBackground" format="reference" />
+    <attr name="menuItemBottomStyle" format="reference" />
+    <attr name="actionModeTextButtonBackground" format="reference" />
+    <attr name="colorActivatedRed" format="color" />
+    <attr name="colorActivatedGreen" format="color" />
+    <attr name="colorActivatedBlue" format="color" />
+    <attr name="colorActivatedYellow" format="color" />
+    <attr name="colorControlDisabled" format="color" />
+    <attr name="colorControlNormalSecondary" format="color" />
+    <attr name="disabledActivatedAlpha" format="float" />
+    <attr name="isNubiaStyle" format="boolean" />
+    <attr name="nubiaSearchViewStyle" format="reference" />
+    <attr name="nubiaSelectAllStyle" format="reference" />
+    <attr name="nubiaPagerTabStyle" format="reference" />
+    <attr name="selectAllBackground" format="reference" />
+    <attr name="preferenceRightArrow" format="reference" />
+    <attr name="nubiaPreferenceFragmentStyle" format="reference" />
+    <attr name="listPreferredItemHeightSmallSecondary" format="dimension" />
+    <attr name="listPreferredItemSpace" format="dimension" />
+    <attr name="listPreferredItemPaddingTop" format="dimension" />
+    <attr name="listPreferredItemPaddingBottom" format="dimension" />
+    <attr name="nubiaSwitchStyle" format="reference" />
+    <attr name="buttonLeftBackground" format="reference" />
+    <attr name="buttonMiddleBackground" format="reference" />
+    <attr name="buttonRightBackground" format="reference" />
+    <attr name="seekbarBackgroundColor" format="reference" />
+    <attr name="isHideActionBarTitle" format="boolean" />
+    <attr name="emptyColor" format="color" />
+    <attr name="buttonBackground" format="reference" />
+    <attr name="dialogActiviyInAnim" format="reference" />
+    <attr name="dialogActiviyOutAnim" format="reference" />
+    <attr name="colorControlDisabledDark" format="color" />
+    <attr name="colorControlNormalDark" format="color" />
+    <attr name="colorControlNormalSecondaryDark" format="color" />
+    <attr name="colorControlNormalDarkSelectAll" format="color" />
+    <attr name="alertDialogTitleTextAppearance" format="reference" />
+    <attr name="tabTextSize" format="dimension" />
+    <attr name="tabActivatedColor" format="reference|color" />
+    <attr name="tabIndicatorTriangle" format="reference" />
+    <attr name="tabNormalColor" format="reference|color" />
+</resources>

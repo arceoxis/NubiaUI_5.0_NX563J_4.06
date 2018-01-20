@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicPicker</string>
+    <string name="unknown_artist_name">فنان غير معروف</string>
+    <string name="unknown_album_name">ألبوم غير معروف</string>
+    <string name="sdcard_missing_message">لم يتم إدراج بطاقة SD في الهاتف.</string>
+    <string name="no_recordfile">لا يوجد ملف سجل</string>
+    <string name="add_recordfile">يرجى تسجيل الملف بواسطة مسجّل الصوت أولاً.</string>
+    <string name="no_musicfile">لا يوجد ملف موسيقي</string>
+    <string name="silent">صامت</string>
+    <string name="cancel_picker">إلغاء</string>
+    <string name="ok_picker">موافق</string>
+    <string name="custom_ring">الرنين الافتراضي</string>
+    <string name="cut_fail">يتعذر قص هذا الملف</string>
+    <string name="cut_success">نجاح القص والتعيين</string>
+    <string name="cut_copy">_copy</string>
+    <string name="dlg_wait">جاري القص</string>
+    <string name="dlg_title">اعدادات النغمة</string>
+    <string name="dlg_message">هل تريد تعيين هذا الملف كنغمة رنين الهاتف؟</string>
+    <string name="dlg_yes">نعم</string>
+    <string name="dlg_no">لا</string>
+    <string name="internal_media">وسائط داخلية</string>
+    <string name="external_media">موسيقى محلية</string>
+    <string name="record_media">مسجّل الصوت</string>
+</resources>

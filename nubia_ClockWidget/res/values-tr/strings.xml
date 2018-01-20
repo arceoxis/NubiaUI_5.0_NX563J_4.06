@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saat</string>
+    <string name="digital_clock_widget">Dijital Dünya Saati</string>
+    <string name="analog_clock_widget">Analog Dünya Saati</string>
+    <string name="digital_big_clock_widget">Dijital saat</string>
+    <string name="analog_big_clock_widget">Analog saat</string>
+    <string name="month">Ay</string>
+    <string name="day">Gün</string>
+    <string name="am">ÖÖ</string>
+    <string name="pm">ÖS</string>
+    <string name="monday">Pazartesi</string>
+    <string name="tuesday">Salı</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="thursday">Perşembe</string>
+    <string name="friday">Cuma</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="sunday">Pazar</string>
+</resources>

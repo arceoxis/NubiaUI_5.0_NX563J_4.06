@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Jernih, 320kbps, mp3</item>
+        <item>Standar, 128kbps, mp3</item>
+        <item>Efisien-ruang, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Jernih</item>
+        <item>Standar</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Telepon/neoRecorder</item>
+        <item>Kartu SD/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Telepon/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Nada dering panggilan masuk</item>
+        <item>Nada dering alarm</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>Kartu SIM 1</item>
+        <item>Kartu SIM 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Ambil foto</item>
+        <item>Pilih foto dari Galeri</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Lihat foto</item>
+        <item>Hapus foto</item>
+        <item>Ambil foto baru</item>
+        <item>Pilih foto baru dari Galeri</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Simpan menggabungkan</item>
+        <item>Simpan terpisah</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Urutkan berdasarkan waktu</item>
+        <item>Urutkan berdasarkan tag</item>
+        <item>Urutkan berdasar durasi</item>
+    </string-array>
+</resources>

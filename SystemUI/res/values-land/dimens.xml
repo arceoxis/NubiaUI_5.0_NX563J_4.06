@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_width">310.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_height">174.29999dip</dimen>
+    <dimen name="status_bar_recents_right_glow_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_left_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_text_description_padding">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_width">156.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_left_margin">12.0dip</dimen>
+    <dimen name="status_bar_recents_item_padding">2.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_left_margin">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">8.0dip</dimen>
+    <item type="dimen" name="navigation_bar_size">@android:dimen/navigation_bar_width</item>
+    <dimen name="status_bar_header_height">69.0dip</dimen>
+    <item type="dimen" name="notification_panel_width">@dimen/standard_notification_panel_width</item>
+    <dimen name="notification_panel_bottom_padding">2.0dip</dimen>
+    <dimen name="dismiss_text_margin_left">156.0dip</dimen>
+    <dimen name="dismiss_text_margin_top">6.0dip</dimen>
+    <dimen name="dismiss_hight">26.0dip</dimen>
+    <dimen name="settings_button_margin_top">17.0dip</dimen>
+    <dimen name="settings_button_margin_left">22.0dip</dimen>
+    <dimen name="settings_button_margin_right">18.0dip</dimen>
+    <dimen name="clock_layout_margin_top">15.0dip</dimen>
+    <item type="dimen" name="headsup_notification_width">@dimen/standard_headsup_notification_width</item>
+    <item type="dimen" name="recents_stack_width_padding_percentage">0.26</item>
+    <dimen name="notification_side_padding">44.0dip</dimen>
+    <dimen name="volume_panel_top">72.0dip</dimen>
+    <dimen name="nubia_recent_thumbnail_padding_left">5.0dip</dimen>
+    <dimen name="nubia_recent_thumbnail_padding_right">5.0dip</dimen>
+    <dimen name="nubia_recent_thumbnail_offset">10.0dip</dimen>
+    <dimen name="status_bar_recents_contents_padding_left">320.0dip</dimen>
+    <dimen name="status_bar_recents_contents_padding_right">181.0dip</dimen>
+    <dimen name="status_bar_recents_contents_padding_top">0.0dip</dimen>
+    <dimen name="status_bar_recents_item_padding_top">44.0dip</dimen>
+    <dimen name="nubia_recent_task_item_width">320.0dip</dimen>
+    <dimen name="nubia_recent_task_item_height">174.29999dip</dimen>
+    <dimen name="status_bar_recents_icon_margin_top">174.5dip</dimen>
+    <dimen name="docked_divider_handle_width">2.0dip</dimen>
+    <dimen name="docked_divider_handle_height">16.0dip</dimen>
+    <dimen name="battery_detail_graph_space_top">9.0dip</dimen>
+    <dimen name="battery_detail_graph_space_bottom">9.0dip</dimen>
+    <dimen name="distance_from_top">8.0dip</dimen>
+    <dimen name="brightnessview_padding_top">2.0dip</dimen>
+    <dimen name="brightnessview_padding_bottom">3.0dip</dimen>
+    <dimen name="status_Shield_header_height">69.0dip</dimen>
+    <dimen name="subs_label_margin_end">145.0dip</dimen>
+    <dimen name="statusbar_shield_header_padding_top">10.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_top_margin">28.0dip</dimen>
+    <dimen name="notification_panel_dissmiss_top_padding">17.0dip</dimen>
+    <dimen name="notification_panel_dissmiss_right_padding">150.0dip</dimen>
+    <dimen name="dissmiss_right_padding">58.0dip</dimen>
+    <dimen name="notification_right_padding">326.0dip</dimen>
+    <dimen name="notification_panel_shield_right_padding">314.0dip</dimen>
+    <dimen name="dismiss_text_margin_left_notification">1.0dip</dimen>
+    <dimen name="qs_tile_height">84.0dip</dimen>
+    <dimen name="qs_tile_margin_top">2.0dip</dimen>
+    <dimen name="qs_brightness_padding_top">0.0dip</dimen>
+    <dimen name="qs_detail_margin_top">0.0dip</dimen>
+</resources>

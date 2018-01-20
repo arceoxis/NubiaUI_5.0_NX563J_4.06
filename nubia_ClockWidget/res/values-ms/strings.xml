@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ujian Widget</string>
+    <string name="digital_clock_widget">Jam Digital Dunia</string>
+    <string name="analog_clock_widget">Jam Analog Dunia</string>
+    <string name="digital_big_clock_widget">Jam digital</string>
+    <string name="analog_big_clock_widget">Jam analog</string>
+    <string name="month">bulan</string>
+    <string name="day">hari</string>
+    <string name="am">PG</string>
+    <string name="pm">PTG</string>
+    <string name="monday">Isn</string>
+    <string name="tuesday">Selasa</string>
+    <string name="wednesday">Rabu</string>
+    <string name="thursday">Khamis</string>
+    <string name="friday">Jumaat</string>
+    <string name="saturday">Sabtu</string>
+    <string name="sunday">Ahad</string>
+</resources>

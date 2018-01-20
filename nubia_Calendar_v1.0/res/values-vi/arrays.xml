@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Thông báo</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Báo thức</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 phút</item>
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+        <item>45 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>3 giờ</item>
+        <item>12 giờ</item>
+        <item>24 giờ</item>
+        <item>2 ngày</item>
+        <item>1 tuần</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Không</item>
+        <item>0 phút</item>
+        <item>1 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+        <item>45 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>3 giờ</item>
+        <item>12 giờ</item>
+        <item>24 giờ</item>
+        <item>2 ngày</item>
+        <item>1 tuần</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Ngôn ngữ mặc định</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ nhật</item>
+        <item>Thứ Hai</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Quần đảo Marshall</item>
+        <item>Đảo Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Giờ Thái Bình Dương</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Giờ Mountain</item>
+        <item>Trung Mỹ</item>
+        <item>Giờ Trung Tâm</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Giờ Miền Tây</item>
+        <item>Venezuela</item>
+        <item>Giờ Đại Tây Dương (Barbados)</item>
+        <item>Giờ Đại Tây Dương (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Trung Đại Tây Dương</item>
+        <item>Azores</item>
+        <item>Quần đảo Cape Verde</item>
+        <item>Casablanca</item>
+        <item>Luân Đôn, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Giờ Tây Phi</item>
+        <item>Amman, Jordan</item>
+        <item>Athens, Istanbul</item>
+        <item>Beirut, Lebanon</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Bắc Kinh</item>
+        <item>Hồng Kông</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Đài Bắc</item>
+        <item>Seoul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Bận</item>
+        <item>Sẵn có</item>
+        <item>Thử nghiệm</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Mặc định</item>
+        <item>Riêng tư</item>
+        <item>Công khai</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>đầu tiên</item>
+        <item>thứ hai</item>
+        <item>thứ ba</item>
+        <item>thứ tư</item>
+        <item>cuối cùng</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Không có phản hồi</item>
+        <item>Có</item>
+        <item>Có thể</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Sự kiện này và các sự kiện trong tương lai</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Sự kiện này &amp; các sự kiện trong tương lai</item>
+        <item>Tất cả sự kiện</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Chỉ sự kiện này</item>
+        <item>Tất cả sự kiện trong hàng loạt sự kiện</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Today</item>
+        <item>Ngày</item>
+        <item>Tuần</item>
+        <item>Tháng</item>
+        <item>Lịch biểu</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Đang chạy chỉ muộn vài phút.</item>
+        <item>Sẽ ở đó sau khoảng 10 phút.</item>
+        <item>Hãy tiến hành và bắt đầu mà không có tôi.</item>
+        <item>Rất tiếc, tôi không thu xếp được. Chúng ta phải lên lịch lại.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi ở chế độ im lặng</item>
+        <item>Chưa bao giờ</item>
+    </string-array>
+    <string-array name="magic_ring_items">
+        <item>Mặc định</item>
+        <item>Tắt tiếng</item>
+        <item>Rung</item>
+        <item>Nhạc chuông</item>
+    </string-array>
+    <string-array name="magic_search_items">
+        <item>Bản đồ</item>
+        <item>Thời tiết</item>
+        <item>Món ăn</item>
+        <item>Chuyến bay</item>
+        <item>khách sạn</item>
+    </string-array>
+    <string-array name="picture_dialog_items">
+        <item>Chụp ảnh</item>
+        <item>Ảnh</item>
+    </string-array>
+    <string-array name="share_array">
+        <item>Android Beam</item>
+        <item>Email</item>
+        <item>Bluetooth</item>
+        <item>Tin nhắn</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhenModify">
+        <item>Luôn luôn</item>
+        <item>Không bao giờ</item>
+    </string-array>
+</resources>

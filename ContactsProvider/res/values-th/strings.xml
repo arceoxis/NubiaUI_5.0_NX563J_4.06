@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">แอปพลิเคชันหลักของ Android</string>
+    <string name="app_label">ที่จัดเก็บรายชื่อ</string>
+    <string name="provider_label">สมุดโทรศัพท์</string>
+    <string name="upgrade_msg">กำลังอัปเกรดฐานข้อมูลสมุดโทรศัพท์</string>
+    <string name="upgrade_out_of_memory_notification_ticker">ต้องใช้หน่วยความจำเพิ่มเพื่ออัปเกรดสมุดโทรศัพท์</string>
+    <string name="upgrade_out_of_memory_notification_title">กำลังอัปเกรดที่จัดเก็บข้อมูลสำหรับสมุดโทรศัพท์</string>
+    <string name="upgrade_out_of_memory_notification_text">แตะเพื่อทำการอัปเกรดให้สมบูรณ์</string>
+    <string name="default_directory">สมุดโทรศัพท์</string>
+    <string name="local_invisible_directory">อื่นๆ</string>
+    <string name="read_write_all_voicemail_label">เข้าถึงข้อความเสียงทั้งหมด</string>
+    <string name="read_write_all_voicemail_description">อนุญาตให้แอปพลิเคชันจัดเก็บและเรียกข้อความเสียงทั้งหมดที่อุปกรณ์นี้สามารถเข้าถึงได้</string>
+    <string name="voicemail_from_column">"ข้อความเสียงจาก "</string>
+    <string name="group_family">ครอบครัว</string>
+    <string name="group_friend">เพื่อน</string>
+    <string name="group_work">เพื่อนร่วมงาน</string>
+    <string name="debug_dump_title">คัดลอกฐานข้อมูลผู้ติดต่อ</string>
+    <string name="debug_dump_database_message">คุณกำลังจะ 1) ทำสำเนาฐานข้อมูลของคุณซึ่งรวมถึงข้อมูลที่เกี่ยวข้องกับผู้ติดต่อทั้งหมดและบันทึกการโทรทั้งหมดลงในที่จัดเก็บข้อมูลภายใน และ 2) ส่งอีเมล อย่าลืมลบสำเนาออกจากอุปกรณ์ทันทีที่คุณคัดลอกเสร็จเรียบร้อยแล้วหรือเมื่ออีเมลส่งไปถึงผู้รับแล้ว</string>
+    <string name="debug_dump_delete_button">ลบเดี๋ยวนี้</string>
+    <string name="debug_dump_start_button">เริ่มต้น</string>
+    <string name="debug_dump_email_sender_picker">เลือกโปรแกรมเพื่อส่งไฟล์ของคุณ</string>
+    <string name="debug_dump_email_subject">แนบฐานข้อมูลผู้ติดต่อมาด้วย</string>
+    <string name="debug_dump_email_body">ที่แนบอยู่นี้เป็นฐานข้อมูลผู้ติดต่อซึ่งมีข้อมูลผู้ติดต่อของฉันทั้งหมด โปรดจัดการด้วยความระมัดระวัง</string>
+    <string name="contact_service_name_zte">บริการลูกค้า ZTE</string>
+    <string name="contact_service_name_nubia">บริการลูกค้า nubia</string>
+    <string name="contact_service_number_label_zte">สายด่วน</string>
+    <string name="contact_service_number_label_nubia">สายด่วน</string>
+    <string name="contact_service_email_label_zte">อีเมลล์</string>
+    <string name="contact_service_email_label_nubia">อีเมลล์</string>
+</resources>

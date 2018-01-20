@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done_label">Concluído</string>
+    <string name="hour_picker_description">Controlo de deslize circular das horas</string>
+    <string name="minute_picker_description">Controlo de deslize circular dos minutos</string>
+    <string name="select_hours">Selecionar horas</string>
+    <string name="select_minutes">Selecionar minutos</string>
+    <string name="day_picker_description">Grelha de dias do mês</string>
+    <string name="year_picker_description">Lista de anos</string>
+    <string name="select_day">Selecionar mês e dia</string>
+    <string name="select_year">Selecionar ano</string>
+    <string name="item_is_selected">%1$s selecionado</string>
+    <string name="deleted_key">%1$s eliminado</string>
+</resources>

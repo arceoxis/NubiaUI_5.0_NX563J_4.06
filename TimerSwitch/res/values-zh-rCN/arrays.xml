@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>已将%1$s设置为从现在起不到 1 分钟后提醒。</item>
+        <item>已将%1$s设置为从现在起 %2$s后提醒。</item>
+        <item>已将%1$s设置为从现在起 %3$s后提醒。</item>
+        <item>已将%1$s设置为从现在起 %2$s %3$s后提醒。</item>
+        <item>已将%1$s设置为从现在起 %4$s后提醒。</item>
+        <item>已将%1$s设置为从现在起 %2$s %4$s后提醒。</item>
+        <item>已将%1$s设置为从现在起 %3$s %4$s后提醒。</item>
+        <item>已将%1$s设置为从现在起 %2$s %3$s %4$s后提醒。</item>
+    </string-array>
+</resources>

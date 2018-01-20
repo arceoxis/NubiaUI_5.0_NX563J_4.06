@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio Wfd</string>
+    <string name="perm_label">Pila de visualización Wi-Fi de QC</string>
+    <string name="perm_desc">Acceder a las API de pila de visualización Wi-Fi de Qualcomm</string>
+</resources>

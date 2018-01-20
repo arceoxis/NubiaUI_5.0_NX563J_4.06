@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wallpaper_chooser_grid_width">196.0dip</dimen>
+    <dimen name="wallpaper_chooser_grid_height">140.0dip</dimen>
+</resources>

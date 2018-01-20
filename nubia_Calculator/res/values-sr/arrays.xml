@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>отворена заграда</item>
+        <item>затворена заграда</item>
+        <item>факторијел</item>
+        <item>природни логаритам</item>
+        <item>логаритам</item>
+        <item>квадратни корен</item>
+        <item>подељено са</item>
+        <item>пута</item>
+        <item>плус</item>
+        <item>минус</item>
+        <item> зарез </item>
+        <item>степен</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>једнако</item>
+    </string-array>
+</resources>

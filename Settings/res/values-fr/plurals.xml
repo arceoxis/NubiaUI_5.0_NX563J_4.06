@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Plus que %1$d étapes pour devenir un développeur.</item>
+        <item quantity="one">Plus que %1$d étape pour devenir un développeur.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">"Configuration d'empreintes digitales %1$d"</item>
+        <item quantity="one">"Configuration d'empreinte digitale %1$d"</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres minuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre minuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre majuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit comporter au moins %d chiffres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un chiffre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères spéciaux.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un caractère spécial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
+        <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu'une lettre."</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Code PIN de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+        <item quantity="one">Code PIN de la carte SIM incorrect. Il vous reste %d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d applications peuvent lire les notifications.</item>
+        <item quantity="one">%d application peut lire les notifications.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">"Modifier aux alarmes uniquement pendant %1$d minutes (jusqu'à %2$s)"</item>
+        <item quantity="one">"Modifier aux alarmes uniquement pendant une minute jusqu'à %2$s"</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">"Modifier aux alarmes uniquement pendant %1$d heures jusqu'à %2$s"</item>
+        <item quantity="one">"Modifier aux alarmes uniquement pendant une heure jusqu'à %2$s"</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d autorisations accordées</item>
+        <item quantity="one">%d autorisation accordée</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d de %2$d autorisations accordées</item>
+        <item quantity="one">%1$d de %2$d autorisation accordées</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d Autorisations supplémentaires</item>
+        <item quantity="one">%d Autorisation supplémentaire</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d Apps peuvent ouvrir ses liens soutenus</item>
+        <item quantity="zero">Aucune App ne peut ouvrir aucun lien supporté</item>
+        <item quantity="one">Une app peut ouvrir ses liens soutenus</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">"%d applications autorisées à ignorer l'optimisation de la batterie"</item>
+        <item quantity="one">"null application autorisée à ignorer l'optimisation de la batterie"</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%2$s applications ont utilisé de la mémoire au cours de la période suivante : %1$d.</item>
+        <item quantity="one">%2$s application a utilisé de la mémoire au cours de la période suivante : %1$2s.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pick_wallpaper">Обои</string>
+    <string name="wallpaper_instructions">абочий стол</string>
+    <string name="wallpaper_instructions_lockscreen">Экран блокировки</string>
+    <string name="wallpaper_instructions_both">Везде</string>
+    <string name="wallpaper_instructions_preset">Задать обои</string>
+</resources>

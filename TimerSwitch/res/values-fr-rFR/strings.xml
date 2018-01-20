@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mise sous tension et hors tension programmée</string>
+    <string name="timer_switch">Commutateur de minuteur</string>
+    <string name="switch_on">Mise sous tension planifiée</string>
+    <string name="switch_off">Mise hors tension planifiée</string>
+    <string name="every_day">Tous les jours</string>
+    <string name="switch_on_time">Définir une heure de démarrage</string>
+    <string name="switch_off_time">"Définir une heure d'arrêt"</string>
+    <string name="date_time_24hour">Utiliser le format 24 heures</string>
+    <string name="date_time_date_format">Sélectionner le format de la date</string>
+    <string name="label">Libellé</string>
+    <string name="switch_repeat">Répéter</string>
+    <string name="expand_switch">Développer le commutateur</string>
+    <string name="collapse_switch">Réduire le commutateur</string>
+    <string name="reset_switch">Réinitialiser le commutateur</string>
+    <string name="day">1 jour</string>
+    <string name="days">%s jours</string>
+    <string name="hour">1 heure</string>
+    <string name="hours">%s heures</string>
+    <string name="minute">1 minute</string>
+    <string name="minutes">%s minutes</string>
+    <string name="never">Jamais</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">Annuler</string>
+    <string name="switch_off_dialog_ok">ÉTEINDRE</string>
+    <string name="switch_off_dialog_title">Mise hors tension planifiée</string>
+    <string name="switch_off_message">"Votre téléphone va s'éteindre dans %s secondes."</string>
+    <string name="switch_off_message_second">"Votre téléphone va s'éteindre dans %s seconde."</string>
+    <string name="done_label">OK</string>
+    <string name="hour_picker_description">Curseur circulaire des heures</string>
+    <string name="minute_picker_description">Curseur circulaire des minutes</string>
+    <string name="select_hours">Sélectionner les heures</string>
+    <string name="select_minutes">Sélectionner les minutes</string>
+    <string name="day_picker_description">Calendrier mensuel sous forme de grille</string>
+    <string name="year_picker_description">Liste des années</string>
+    <string name="select_day">Sélectionnez un mois et un jour</string>
+    <string name="select_year">Sélectionnez une année</string>
+    <string name="item_is_selected">%1$s sélectionné</string>
+    <string name="deleted_key">\"%1$s\" supprimé</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

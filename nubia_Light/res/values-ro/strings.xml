@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Lanternă</string>
+    <string name="close">Dezactivați</string>
+    <string name="nocamere">Camera este dezactivată sau utilizată de alte aplicații. Activați permisiunea camerei sau închideți alte aplicații care utilizează camera.</string>
+    <string name="keepon">Glisați în sus pentru a lăsa lanterna să lumineze mereu</string>
+    <string name="allkeepon">Luminat mereu</string>
+    <string name="light_already_open">Activat</string>
+    <string name="cts_tip_message">Această caracteristică necesită activarea următoarelor permisiuni, accesați setările pentru a le activa?</string>
+    <string name="cts_tip_camera">·Camera</string>
+    <string name="cts_tip_phone">·Telefon</string>
+    <string name="cts_tip_enable">Activaţi</string>
+    <string name="cts_tip_quit">Anulaţi</string>
+</resources>

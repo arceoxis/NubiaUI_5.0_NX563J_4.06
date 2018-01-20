@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio de Cuenta Z</string>
+    <string name="nubia_account_title">Cuanta Nubia</string>
+    <string name="activity_account_intro_register_btn">Crear una cuenta nueva</string>
+    <string name="activity_account_intro_login_btn">Inicio de Sesión</string>
+    <string name="account_intro_title">Gestor de cuenta Nubia</string>
+    <string name="authenticator_label">Cuanta Nubia</string>
+    <string name="account">Cuenta</string>
+    <string name="account_note_title">Desupés de crear una cuenta Nubia gratis, usted puede:</string>
+    <string name="account_note_message">"Usted posee espacio en la Nube privada
+Respalde y restablezca sus datos
+Localiza remotamente su dispositivo
+disfrute todos los servicios con una sola cuenta"</string>
+    <string name="account_login_welcome_txt">Bienvenido al registro de la cuenta Nubia</string>
+    <string name="account_login_welcome_txt2">Usted puede registrar con los métodos a continuación:</string>
+    <string name="section_login_by_email_title">Correo electrónico</string>
+    <string name="section_login_by_mobile_title">Celular</string>
+    <string name="section_login_by_thirdrdparty_title">Third Party</string>
+    <string name="section_login_by_qq"><a href="#">Ingresar a travez de QQ</a></string>
+    <string name="section_login_by_weibo"><a href="#">Ingresar a travez de Weibo</a></string>
+    <string name="section_register_authenticating">Autenticación‧</string>
+    <string name="section_register_registerfail">el registro falló</string>
+    <string name="section_register_by_email_title">Correo electrónico</string>
+    <string name="section_register_by_mobile_title">Celular</string>
+    <string name="section_register_by_email_username">Nombre de usuario:</string>
+    <string name="section_register_by_email_email">Correo electrónico</string>
+    <string name="section_register_by_email_password">Contraseña</string>
+    <string name="section_register_by_email_register_button">Registrese ahora</string>
+    <string name="section_register_by_email_register_note">Por favor ingrese la dirección de correo electrónico correcta, entonces usted podrá encontrar su contraseña perdida convenientemente</string>
+    <string name="section_register_by_email_username_error">El nombre de usuario requiere entre 4 y 15 caracteres</string>
+    <string name="section_register_by_email_email_error">Por favor ingrese una dirección de correo electrónico correcta</string>
+    <string name="section_register_by_email_password_error">La contraseña requiere entre 6 y 32 caracteres</string>
+    <string name="section_register_by_email_confirm_password_error">Error de confirmación de contraseña, requiere entre 6 y 32 caracteres</string>
+    <string name="section_register_by_email_confirm_password_not_equal_error">Dos contraseñas no son iguales</string>
+    <string name="section_register_by_email_safe_answer_error">La respuesta a la pregunta de seguridad no debe estar vacía</string>
+    <string name="section_register_by_email_safe_answer_prompt">Escoja una pregunta secreta</string>
+    <string name="register_username_hint">Nombre de usuario (entre 4 y 15 caracteres)</string>
+    <string name="register_email_hint">Dirección de correo electrónico</string>
+    <string name="register_password_hint">Contraseña (entre 6 y 32 caracteres)</string>
+    <string name="register_confirm_password_hint">Confirmar contraseña</string>
+    <string name="register_mobile_hint">Número de celular</string>
+    <string name="register_answer_hint">Respuesta a la pregunta de seguridad</string>
+    <string name="register_finish_text">Registro exitoso!</string>
+    <string name="register_finish_button">Registro finalizado</string>
+    <string name="register_finish_tip">Codigo de activación ha sido enviado a su bandeja de entrada</string>
+    <string name="section_register_by_moible_number">Celular:</string>
+    <string name="section_register_acquire_security_code">Adquiriendo el código de activación‧</string>
+    <string name="section_register_fill_security_code_title">Llene en el código de activación</string>
+    <string name="section_register_fill_password_title">Llene en la contraseña de la cuenta</string>
+    <string name="section_register_by_mobile_number_error">Por favor ingrese el número de celular correcto</string>
+    <string name="section_register_by_mobile_acquire_error">Adquisición del código de activación fallido, por favor intente de nuevo</string>
+    <string name="register_number_title">El celular registrado es:</string>
+    <string name="security_code_note">Un mensaje ha sido enviado a su celular, por favor llene el código de activación con el número en el mensaje.</string>
+    <string name="security_code_title">Código de activación:</string>
+    <string name="acquire_again">Adquirir otra vez</string>
+    <string name="section_register_by_mobile_next_button">Siguiente</string>
+    <string name="section_register_by_mobile_active_cod_confirm_error">Error en el código de activación</string>
+    <string name="active_has_already_resend_title">Código de activación</string>
+    <string name="active_has_already_resend_message">El código de activación ha sido enviado de nuevo, por favor tengo cuaidado al recibirlo</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_continue">Continuar</string>
+    <string name="section_register_by_mobile_reacquire_active_code">Readquiriendo código de activación‧</string>
+    <string name="section_register_by_mobile_password_title">Contraseña:</string>
+    <string name="section_register_by_mobile_confirm_password_title">Confirmar:</string>
+    <string name="section_register_by_mobile_password_not_same">Dos contraseñas no son iguales</string>
+    <string name="section_register_by_mobile_password_error">La contraseña requiere entre 6 y 32 caracteres</string>
+    <string name="nubia_account_exist">La cuenta Nubia ya ha iniciado sesión. Si usted continua para registrarse, la cuenta actual sería cerrada.</string>
+    <string name="section_login_authenticating">Conectando a servidor‧</string>
+    <string name="section_login_loginfail_text_both">El nombre de usuario o la contraseña es inválida, por favor intente de nuevo.</string>
+    <string name="section_login_loginfail_text_pwonly">Contraseña inválida, por favor intente de nuevo</string>
+    <string name="section_login_by_email_button">Iniciar sesión</string>
+    <string name="section_login_username">Correo electrónico / Nombre de Usuario / Celular</string>
+    <string name="section_login_password">Ingrese su contraseña</string>
+    <string name="section_login_by_email_create_new_account"><a href="#">Crear una cuenta nueva</a></string>
+    <string name="section_login_by_email_forget_password"><a href="#">Olvidó su contraaseña?</a></string>
+    <string name="section_login_by_email_username_error">Por favor ingrese un nombre de usuario correcto</string>
+    <string name="section_login_by_email_email_error">Por favor ingrese un correo electrónico correcto</string>
+    <string name="section_login_by_email_password_error">Disculpe, su contraseña no es correcta!</string>
+    <string name="section_login_connecting_server">Autenticando‧</string>
+    <string name="section_login_by_mobile_button">Iniciar sesión</string>
+    <string name="section_login_by_mobile_number">Ingrese si número de celular</string>
+    <string name="section_login_by_mobile_password">Ingrese su contraseña</string>
+    <string name="section_login_by_mobile_create_new_account"><a href="#">Crear una cuenta nueva</a></string>
+    <string name="section_login_by_mobile_forget_password"><a href="#">Olvidó su contraaseña?</a></string>
+    <string name="section_recovery_confirm_account">Por favor confirme su cuenta</string>
+    <string name="reset_mobile_password_title">Restablezca la contraseña de su cuenta</string>
+    <string name="btn_finish">Finalizar</string>
+    <string name="section_recovery_by_mobile_number">Su número de celular:</string>
+    <string name="section_recovery_by_mobile_new_password">Nueva contraseña:</string>
+    <string name="section_recovery_by_mobile_confirm_password">Confirmar contraseña:</string>
+    <string name="section_recovery_by_mobile_authcode">Código de activación:</string>
+    <string name="acquire_authcode_again">Adquirir de nuevo</string>
+    <string name="choose_recovery_title">Elegir método de recuperación</string>
+    <string name="choose_recovery_secret_question">Preguntas secretas</string>
+    <string name="choose_recovery_registered_email">Correo electrónico registrado</string>
+    <string name="secret_question_title">Llene en la pregunta secreta</string>
+    <string name="reset_password_title">Llene en la contraseña nueva</string>
+    <string name="reset_password_by_email_title">Restablezca contraseña</string>
+    <string name="recovery_by_email_note_01">El correo electrónico de restablecimiento de contraseña ha sido ya enviado a su correo registrado.</string>
+    <string name="recovery_by_email_note_02">Cuando usted reciba el correo electrónico, por favor restablezca la contraseña de su cuenta Nubia siguiento las instrucciones del correo.</string>
+    <string name="authcode_has_already_send">El código de activación ha sido enviado al número por el mensaje.</string>
+    <string name="recovery_by_mobile_acquire_authcode">Confirmando nombre de usuario‧</string>
+    <string name="recovery_by_mobile_new_password_hint">Nueva contraseña (entre 6 y 32 caracteres)</string>
+    <string name="recovery_by_mobile_confirm_password_hint">Confirmar contraseña</string>
+    <string name="recovery_by_mobile_authcode_hint">Código de activación</string>
+    <string name="recovery_by_mobile_commit">Cometiendo nueva contraseña‧</string>
+    <string name="recovery_by_mobile_password_error">La contraseña requiere entre 6 y 32 caracteres</string>
+    <string name="recovery_by_mobile_confirm_password_error">Confirmación de contraseña fallida</string>
+    <string name="recovery_by_mobile_authcode_error">Error en el código de activación</string>
+    <string name="recovery_confirm_mobile_error">Cofirmar número de celular falló</string>
+    <string name="recovery_confirm_email_error">Confirmar correo electrónico falló</string>
+    <string name="login_response_error">Iniciar sesión</string>
+    <string name="safe_question_answer_error">Revisar respuesta a pregunta de seguridad falló</string>
+    <string name="recovery_by_email_commit">Cometiendo nueva contraseña‧</string>
+    <string name="safe_question_new_password_commit_error">Restablecimiento de nueva contraseña fallido</string>
+    <string name="recovery_by_email_acquire_reset_email">Adquiriendo restablecimeinto de correo elecrónico‧</string>
+    <string name="recovery_by_email_acquire_reset_email_error">Adquirir restablecimiento de correo electrónico fallido</string>
+    <string name="section_recovery_username">Correo electrónico / Celular</string>
+    <string name="section_recovery_password_error">Error de contraseña (entre 6 y 32 caracteres)</string>
+    <string name="section_recovery_confirm_password_error">Confirmar contraseña falló</string>
+    <string name="section_register_by_email_username_exist">El nombre de usuario ya ha existido!</string>
+    <string name="section_register_by_email_email_exist">Correo electrónico ya ha existido!</string>
+    <string name="section_register_by_mobile_number_exist_error">Número de celular ya ha existido!</string>
+    <string name="login_user_null_error">Por favor ingrese nombre de usuario</string>
+    <string name="login_username_error">Error en el nombre de usuario (entre 4 y 15 caracteres)</string>
+    <string name="login_email_error">Error en el formato del correo electrónico o más de 40 caracteres</string>
+    <string name="login_mobile_error">el celular es invelido</string>
+    <string name="login_password_error">Error de contraseña</string>
+    <string name="login_password_null_error">Contraseña no puede estar vacía</string>
+    <string name="recovery_confirm_account_error">Confirmar cuenta fallida</string>
+    <string name="recovery_account_error">Por favor ingrese un correo electrónico inválido o celular</string>
+    <string name="recovery_confirm_error">Confirmar cuenta fallida</string>
+    <string name="mobile_number_error">Error en el número de celular</string>
+    <string name="section_register_finish_title">Registro completo</string>
+    <string name="cannot_connect_to_network_errror">¡No se puede conectar a internet!</string>
+    <string name="thirdparty_login_finish">Inicio de Sesión Finalizado</string>
+    <string name="thirdparty_login_tips">Inicio de Sesión Exitoso a travez %1$1s</string>
+    <string name="thirdparty_qq">QQ</string>
+    <string name="thirdparty_wb">Sina Weibo</string>
+    <string name="thirdparty_login_first">"¡Felicidades! 
+Ahora usted tiene una cuenta nubia:
+Username is %1$1s
+Su contraseña es %2$s
+Por favor guardelas cuidadosamente."</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="menu_settings">Configuraciones</string>
+    <string name="title_activity_main">Actividad principal</string>
+    <string name="login_by_qq_image_description">Ingresar a travez de QQ</string>
+    <string name="login_by_weibo_image_description">Ingresar a travez de Weibo</string>
+</resources>

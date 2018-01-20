@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="error">Ralat</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">kos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">Kandungan yang telah mencapai had atas</string>
+    <string name="outoff_storage">Ruang simpanan tidak mencukupi, sila bebaskan ruang sebelum mengguna</string>
+    <string name="upgrade_title_message">Versi baharu dikesan, naik taraf?</string>
+    <string name="calculator_version_upgrade_notification_title">Kalkulator menaik taraf</string>
+    <string name="alert_dialog_cancel">Lebih</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="cts_warning_text">Apl perlu untuk memperoleh kebenaran berkaitan, atau ia tidak akan bekerja.</string>
+    <string name="cts_warning_title">Ciri ini memerlukan kebenaran berikut untuk didayakan, pergi ke tetapan dan dayakannya?</string>
+    <string name="cts_phone">"·Telefon
+"</string>
+    <string name="cts_storage">"·Storan
+"</string>
+    <string name="go_permission_setting">Dayakan</string>
+    <string name="del">PADAM</string>
+    <string name="clear">CLR</string>
+    <string name="basic">Panel asas</string>
+    <string name="advanced">Panel lanjutan</string>
+    <string name="clear_history">Padam bersih sejarah</string>
+    <string name="text_copied_toast">Teks disalin.</string>
+    <string name="leftParenDesc">tanda kurung kiri</string>
+    <string name="rightParenDesc">tanda kurung kanan</string>
+    <string name="factorialDesc">faktorial</string>
+    <string name="lnDesc">logaritma asli</string>
+    <string name="lgDesc">logaritma</string>
+    <string name="sqrtDesc">kuasa dua</string>
+    <string name="divDesc">bahagi</string>
+    <string name="mulDesc">darab</string>
+    <string name="plusDesc">tanda campur</string>
+    <string name="minusDesc">tolak</string>
+    <string name="dotDesc">mata</string>
+    <string name="powerDesc">kuasa</string>
+    <string name="delDesc">padam</string>
+    <string name="clearDesc">kosongkan</string>
+    <string name="tanDesc">tangen</string>
+    <string name="sinDesc">sinus</string>
+    <string name="cosDesc">kosinus</string>
+    <string name="eDesc">Nombor Euler</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">sama dengan</string>
+    <string name="clearAll">(AC)</string>
+</resources>

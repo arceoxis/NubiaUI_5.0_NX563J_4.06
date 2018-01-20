@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="usermanual_main_button_width">81.76%p</fraction>
+    <fraction name="usermanual_main_button_height">7.2399974%p</fraction>
+    <fraction name="usermanual_main_button_padding_top">2.339995%p</fraction>
+    <fraction name="usermanual_main_button_padding_bottom">6.5099955%p</fraction>
+    <fraction name="settings_height">9.375%p</fraction>
+</resources>

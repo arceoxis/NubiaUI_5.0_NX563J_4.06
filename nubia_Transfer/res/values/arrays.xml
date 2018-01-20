@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="system_app_type">
+        <item>16</item>
+        <item>15</item>
+        <item>17</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </integer-array>
+    <string-array name="trans_msg_map_keys">
+        <item>has_send</item>
+        <item>has_process</item>
+    </string-array>
+    <string-array name="trans_msg_map_values">
+        <item>@string/send_data_count</item>
+        <item>@string/send_data_restore_count</item>
+    </string-array>
+</resources>

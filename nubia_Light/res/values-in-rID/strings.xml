@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Senter</string>
+    <string name="close">Tutup</string>
+    <string name="nocamere">Konflik dengan kamera</string>
+    <string name="keepon">Geser ke atas untuk mengaktifkan senter</string>
+    <string name="allkeepon">Senter diaktifkan</string>
+    <string name="light_already_open">Sudah dibuka</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="metadata_sync_pacakge" />
+    <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="app_label">Contacts Storage</string>
+    <string name="provider_label">Contacts</string>
+    <string name="upgrade_msg">Upgrading contacts database.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">More storage space is required to upgrade contacts.</string>
+    <string name="upgrade_out_of_memory_notification_title">Upgrading storage to contain more contacts</string>
+    <string name="upgrade_out_of_memory_notification_text">Touch to complete the upgrade.</string>
+    <string name="default_directory">Contacts</string>
+    <string name="local_invisible_directory">Others</string>
+    <string name="read_write_all_voicemail_label">Access all voicemails</string>
+    <string name="read_write_all_voicemail_description">Allow the app to store and retrieve all voicemails that this device can access.</string>
+    <string name="voicemail_from_column">"Voicemail sender "</string>
+    <string name="group_family">Family</string>
+    <string name="group_friend">Friends</string>
+    <string name="group_work">Colleagues</string>
+    <string name="debug_dump_title">Copy contacts database</string>
+    <string name="debug_dump_database_message">You will perform the following operations 1) Make a copy of your database including all contacts related information and all call logs to the internal storage, and 2) Send the copy via email. Remember to delete the copy as soon as you have successfully made a copy or after the email is arrived.</string>
+    <string name="debug_dump_delete_button">Delete now</string>
+    <string name="debug_dump_start_button">Start</string>
+    <string name="debug_dump_email_sender_picker">Choose an app to send your file</string>
+    <string name="debug_dump_email_subject">Contacts Database attached</string>
+    <string name="debug_dump_email_body">Attached is my contacts database including all my contacts information, therefore be cautious about that.</string>
+    <string name="contact_service_name_zte">ZTE Customer Service</string>
+    <string name="contact_service_name_nubia">nubia Customer Service</string>
+    <string name="contact_service_number_label_zte">hotline</string>
+    <string name="contact_service_number_label_nubia">hotline</string>
+    <string name="contact_service_number_zte">4008308218</string>
+    <string name="contact_service_number_nubia">4007006600</string>
+    <string name="contact_service_website_zte">www.nubia.cn</string>
+    <string name="contact_service_website_nubia">www.nubia.com</string>
+    <string name="contact_service_email_zte">service@zte.com.cn</string>
+    <string name="contact_service_email_nubia">service@nubia.cn</string>
+    <string name="contact_service_email_label_zte">email</string>
+    <string name="contact_service_email_label_nubia">email</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>begin-hakie</item>
+        <item>eind-hakie</item>
+        <item>faktoriaal</item>
+        <item>natuurlike logaritme</item>
+        <item>logaritme</item>
+        <item>vierkantswortel</item>
+        <item>gedeel deur</item>
+        <item>vermenigvuldig met</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> punt </item>
+        <item>mag</item>
+        <item>tangens</item>
+        <item>sinus</item>
+        <item>kosinus</item>
+        <item>pi</item>
+        <item>gelyk aan</item>
+    </string-array>
+</resources>

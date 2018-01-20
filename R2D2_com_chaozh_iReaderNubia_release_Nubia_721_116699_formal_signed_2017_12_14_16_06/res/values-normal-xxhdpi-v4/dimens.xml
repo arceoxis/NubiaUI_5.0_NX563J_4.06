@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_lock_h1">30.0sp</dimen>
+    <dimen name="app_lock_h2">20.0sp</dimen>
+    <dimen name="app_lock_h3">18.0sp</dimen>
+    <dimen name="app_lock_h4">15.0sp</dimen>
+    <dimen name="bookshelf_gridview_item_horizontalSpacing">5.0dip</dimen>
+    <dimen name="bookshelf_gridview_item_with">96.0dip</dimen>
+    <dimen name="layoutheight_login_banner">120.0dip</dimen>
+    <dimen name="paddingAccount_large">15.0dip</dimen>
+    <dimen name="paddingAccount_normal">10.0dip</dimen>
+    <dimen name="paddingAccount_small">5.0dip</dimen>
+    <dimen name="paddingAccount_xlarge">24.0dip</dimen>
+    <dimen name="bksh_recommend_content_size">14.0sp</dimen>
+    <dimen name="cloud_book_store_status_width">60.0dip</dimen>
+    <dimen name="guide_view_text_size">15.0sp</dimen>
+</resources>

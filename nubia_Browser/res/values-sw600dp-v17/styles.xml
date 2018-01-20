@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BrowserTheme" parent="@style/BrowserBase">
+        <item name="android:windowBackground">@color/browser_window_background</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionBarSize">56.0dip</item>
+    </style>
+    <style name="BrowserActivityTheme" parent="@style/BrowserTheme">
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+    <style name="BrowserLauncherTheme" parent="@style/BrowserTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="ComboViewTheme" parent="@style/BrowserBase" />
+</resources>

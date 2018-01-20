@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="nubia_preference_fragment_scrollbarStyle">0x02000000</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="fade_duration">250</integer>
+    <integer name="swipe_escape_velocity">100</integer>
+    <integer name="escape_animation_duration">200</integer>
+    <integer name="max_escape_animation_duration">400</integer>
+    <integer name="max_dismiss_velocity">2000</integer>
+    <integer name="snap_animation_duration">350</integer>
+    <integer name="dismiss_animation_duration">500</integer>
+    <integer name="swipe_scroll_slop">2</integer>
+    <integer name="hide_animation_duration">200</integer>
+    <integer name="dim_animation_duration">500</integer>
+    <integer name="config_export_file_min_index">1</integer>
+    <integer name="config_export_file_max_index">99999</integer>
+    <integer name="stopwatch_text_size_last">18</integer>
+    <integer name="stopwatch_text_size_normal">15</integer>
+    <integer name="worldtime_home_cityname_size">27</integer>
+    <integer name="worldtime_home_date_size">15</integer>
+    <integer name="worldtime_home_time_size">15</integer>
+</resources>

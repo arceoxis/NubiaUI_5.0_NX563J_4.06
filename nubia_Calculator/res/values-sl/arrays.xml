@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>oklepaj</item>
+        <item>zaklepaj</item>
+        <item>fakulteta</item>
+        <item>naravni logaritem</item>
+        <item>logaritem</item>
+        <item>kvadratni koren</item>
+        <item>deljeno s</item>
+        <item>pomnoženo s</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> točka </item>
+        <item>potenca</item>
+        <item>tangens</item>
+        <item>sinus</item>
+        <item>kosinus</item>
+        <item>pi</item>
+        <item>je enako</item>
+    </string-array>
+</resources>

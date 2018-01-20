@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>piatok</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pi</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan.</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apr.</item>
+        <item>Máj.</item>
+        <item>Jún.</item>
+        <item>Júl.</item>
+        <item>Aug.</item>
+        <item>Sep.</item>
+        <item>Október</item>
+        <item>Nov.</item>
+        <item>Dec.</item>
+    </string-array>
+</resources>

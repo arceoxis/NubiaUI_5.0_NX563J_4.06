@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chino (GBK)</item>
+        <item>Chino (Big5)</item>
+        <item>Japonés (ISO-2022-JP)</item>
+        <item>Japonés (SHIFT_JIS)</item>
+        <item>Japonés (EUC-JP)</item>
+        <item>Coreano (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Siempre activado</item>
+        <item>A pedido</item>
+        <item>Desactivado</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Página actual</item>
+        <item>Página en blanco</item>
+        <item>Página predeterminada</item>
+        <item>Sitios más visitados</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>"Bloqueado %s. "</item>
+        <item>"Bloqueado %1$s y %2$s. "</item>
+        <item>"Bloqueado %1$s, %2$s y $3$s. "</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Diminuto</item>
+        <item>Pequeño</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Lejos</item>
+        <item>Normal</item>
+        <item>Cerca</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nunca</item>
+        <item>Solo en Wi-Fi</item>
+        <item>Siempre</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>Pequeña</item>
+        <item>Predeterminado</item>
+        <item>Grande</item>
+        <item>Muy Grande</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nunca</item>
+        <item>Solo en Wi-Fi</item>
+        <item>Siempre</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>Denegar para siempre</item>
+        <item>Permitir durante 24 horas</item>
+        <item>Permitir Siempre</item>
+        <item>Siempre preguntar</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Computadora</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacidad_eliminar_ingresar_historial</item>
+        <item>privacidad_eliminar_visita_historial</item>
+        <item>privacidad_eliminar_caché</item>
+        <item>privacidad_eliminar_cookies</item>
+        <item>privacidad_eliminar_formulario_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>Ingresar Historial</item>
+        <item>Visitar Historial</item>
+        <item>Memoria caché</item>
+        <item>Cookies</item>
+        <item>Contraseñas del Formulario</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacidad_eliminar_ingresar_historial</item>
+        <item>privacidad_eliminar_visita_historial</item>
+        <item>privacidad_eliminar_caché</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>mostrar_seguridad_advertencias</item>
+        <item>no_rastrear</item>
+        <item>aceptar_cookies</item>
+        <item>guardar_ formulario de datos</item>
+        <item>habilitar_geolocalización</item>
+        <item>recordar_contraseñas</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>Mostrar advertencias de seguridad</item>
+        <item>No Rastrear</item>
+        <item>Aceptar cookies</item>
+        <item>Recordar formulario</item>
+        <item>Activar ubicación</item>
+        <item>Recordar contraseñas</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>bloquear_ventanas_emergentes</item>
+        <item>abrir_en_segundo plano</item>
+        <item>habilitar_java script</item>
+        <item>permitir_descargas_multimedia</item>
+        <item>cargar_imágenes</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>Bloquear ventanas emergentes</item>
+        <item>Abrir en segundo plano</item>
+        <item>Activar JavaScript</item>
+        <item>Permitir Descargas Multimedia</item>
+        <item>Cargar imágenes</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>Uno</item>
+        <item>Dos</item>
+        <item>Tres</item>
+        <item>Cuatro</item>
+        <item>Cinco</item>
+        <item>Seis</item>
+        <item>Siete</item>
+        <item>Ocho</item>
+        <item>Nueve</item>
+        <item>Diez</item>
+        <item>Once</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>Red Celular</item>
+    </string-array>
+</resources>

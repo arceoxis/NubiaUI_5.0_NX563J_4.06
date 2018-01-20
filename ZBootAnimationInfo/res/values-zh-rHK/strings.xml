@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">開機桌布</string>
+    <string name="str_author_info">作者資料</string>
+    <string name="str_view_origin_picture">查看圖片</string>
+    <string name="str_click_picture">點擊圖片</string>
+    <string name="str_view_detail">查看詳細資料</string>
+    <string name="str_i_know">我知啦</string>
+    <string name="str_slip_info">左右滑動切換頁面</string>
+    <string name="str_thanks_share">感謝網友 %1$s 提供</string>
+</resources>

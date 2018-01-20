@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Draf</item>
+        <item quantity="one">Draf</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Padamkan perbualan %1$d ini?</item>
+        <item quantity="one">Padamkan perbualan ini?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arkibkan perbualan %1$d ini?</item>
+        <item quantity="one">Arkibkan perbualan ini?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Buang mesej %1$d ini?</item>
+        <item quantity="one">Buang mesej ini?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Nyahbintangi perbualan %1$d</item>
+        <item quantity="one">Nyahbintangi perbualan %1$d</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> dibisukan</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> dibisukan</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> dilaporkan sebagai spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> dilaporkan sebagai spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> dilaporkan sebagai bukan spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> dilaporkan sebagai bukan spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ditandakan sebagai tidak penting</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ditandakan sebagai tidak penting</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> dilaporkan sebagai pemalsuan</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> dilaporkan sebagai pemalsuan</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> diarkibkan</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> diarkibkan</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> dipadamkan</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> dipadamkan</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Ditukar folder</item>
+        <item quantity="one">Ditukar folder</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mesej baharu</item>
+        <item quantity="one">%1$d mesej baharu</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Kembangkan %1$d mesej lama</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Kembangkan %1$d mesej lama</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d belum dibaca</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mesej baharu</item>
+        <item quantity="one">%1$d mesej baharu</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mesej akan dipadam secara kekal.</item>
+        <item quantity="one">%1$d mesej akan dipadam secara kekal.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mesej</item>
+        <item quantity="one">Mesej %1$d</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">lampiran %1$d</item>
+        <item quantity="one">lampiran %1$d</item>
+    </plurals>
+    <plurals name="attachment_count">
+        <item quantity="other">%d lampiran</item>
+        <item quantity="one">%d lampiran</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_dialog">
+        <item quantity="other">Padam perbualan %1$d ini</item>
+        <item quantity="one">Padam perbualan ini</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation_dialog">
+        <item quantity="other">Buang mesej %1$d ini</item>
+        <item quantity="one">Buang mesej ini</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation_dialog">
+        <item quantity="other">Arkibkan perbualan %1$d ini</item>
+        <item quantity="one">Arkibkan perbualan ini</item>
+    </plurals>
+</resources>

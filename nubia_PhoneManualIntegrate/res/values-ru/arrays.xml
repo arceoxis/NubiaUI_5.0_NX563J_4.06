@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ui_3x_feedback_location_service_types">
+        <item>Общие</item>
+        <item>Быстрый</item>
+    </string-array>
+    <string-array name="feature_category">
+        <item>Эффектный</item>
+        <item>Камера</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="faq_category">
+        <item>Популярные</item>
+        <item>Категория</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>paranteza din stânga</item>
+        <item>Paranteza din dreapta</item>
+        <item>factorial</item>
+        <item>logaritm natural</item>
+        <item>logaritm</item>
+        <item>rădăcină pătrată</item>
+        <item>împărțit la</item>
+        <item>înmulțit cu</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> punct </item>
+        <item>sarcină electrică</item>
+        <item>tangent</item>
+        <item>sine</item>
+        <item>cosine</item>
+        <item>pi</item>
+        <item>egal</item>
+    </string-array>
+</resources>

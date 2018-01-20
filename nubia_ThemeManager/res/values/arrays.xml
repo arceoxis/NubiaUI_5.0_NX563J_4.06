@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_tab">
+        <item>@string/category</item>
+        <item>@string/recommend</item>
+        <item>@string/rank</item>
+        <item>@string/subject</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Set as incoming call ringtoneBean</item>
+        <item>Set as message tone</item>
+        <item>Set the specified contact ringtone</item>
+        <item>Set the the alarm tone</item>
+    </string-array>
+    <string-array name="set_ringtone_two_card_array">
+        <item>Set as SIM 1 incoming call ringtoneBean</item>
+        <item>Set as SIM 2 incoming call ringtoneBean</item>
+        <item>Set as message tone</item>
+        <item>Set the specified contact ringtone</item>
+        <item>Set the the alarm tone</item>
+    </string-array>
+    <string-array name="set_ringtone_array_no_alarm">
+        <item>Set as incoming call ringtoneBean</item>
+        <item>Set as message tone</item>
+        <item>Set the specified contact ringtone</item>
+    </string-array>
+    <string-array name="set_ringtone_two_card_array_no_alarm">
+        <item>Set as SIM 1 incoming call ringtoneBean</item>
+        <item>Set as SIM 2 incoming call ringtoneBean</item>
+        <item>Set as message tone</item>
+        <item>Set the specified contact ringtone</item>
+    </string-array>
+    <string-array name="stars_desc">
+        <item>不喜欢！</item>
+        <item>一般般！</item>
+        <item>比较满意！</item>
+        <item>非常好！</item>
+        <item>太赞啦！</item>
+    </string-array>
+    <string-array name="stars">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

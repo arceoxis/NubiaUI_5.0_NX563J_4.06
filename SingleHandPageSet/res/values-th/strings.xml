@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">โหมดมือเดียว</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="welcome_to_single">ต้อนรับโหมดมือเดียว</string>
+    <string name="welcome_to_single2">หน้าจอสัมผัสด้วยโหมดมือเดียวเหมาะสำหรับคุณ</string>
+    <string name="test_single1">วางนิ้วหัวแม่มือ</string>
+    <string name="test_single2">ถือโทรศัพท์ด้วยมือเดียวยืดนิ้วหัวแม่มือของคุณเพื่อวาดโค้ง</string>
+    <string name="test_single_invalid">วางนิ้วหัวแม่มือบนหน้าจอและวาดโค้ง</string>
+    <string name="show_single">โหมดมือเดียวซึ่งดีที่สุดสำหรับมือคุณ</string>
+    <string name="try_more">ลองใหม่อีกครั้ง</string>
+    <string name="begin">เริ่มต้นการใช้</string>
+    <string name="welcome_to_begin">ต้อนรับสู่โหมดมือเดียวของคุณ</string>
+</resources>

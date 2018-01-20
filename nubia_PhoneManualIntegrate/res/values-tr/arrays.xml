@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ui_3x_feedback_location_service_types">
+        <item>Ortak</item>
+        <item>Hızlı</item>
+    </string-array>
+    <string-array name="feature_category">
+        <item>Gösterişli</item>
+        <item>Kamera</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="faq_category">
+        <item>Sıcak</item>
+        <item>Kategori</item>
+    </string-array>
+</resources>

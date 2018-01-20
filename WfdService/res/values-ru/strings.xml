@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервис экранного проектирования</string>
+    <string name="wfd_service">Сервис экранного проектирования</string>
+    <string name="mirroring_on">Сервис экранного проектирования запущен</string>
+    <string name="tosat_standby">Воспроизведение экрана приостановлено</string>
+    <string name="wifi_display_notification_connected_title">Проектирование</string>
+    <string name="wifi_display_notification_disconnect">Отключить</string>
+    <string name="wifi_display_notification_touch_for_detail">Нажмите для получения дополнительной информации</string>
+    <string name="wifi_display_notification_sink_detail">Пожалуйста, не выключайте WLAN</string>
+</resources>

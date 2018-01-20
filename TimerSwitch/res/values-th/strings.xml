@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done_label">เสร็จสิ้น</string>
+    <string name="hour_picker_description">ตัวเลื่อนหมุนระบุชั่วโมง</string>
+    <string name="minute_picker_description">ตัวเลื่อนหมุนระบุนาที</string>
+    <string name="select_hours">เลือกชั่วโมง</string>
+    <string name="select_minutes">เลือกนาที</string>
+    <string name="day_picker_description">ตารางวันที่ของเดือน</string>
+    <string name="year_picker_description">รายการปี</string>
+    <string name="select_day">เลือกเดือนและวัน</string>
+    <string name="select_year">เลือกปี</string>
+    <string name="item_is_selected">เลือก %1$s</string>
+    <string name="deleted_key">ลบ %1$s แล้ว</string>
+</resources>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_sms_application_ui30">cn.nubia.mms</string>
+    <string name="theme_title">nubia官方主题</string>
+    <string name="wechat_redpacket_text">[微信红包]</string>
+    <string name="wechat_send_one_redpacket">发了一个红包</string>
+    <string name="wechat_get_redpacket">领取红包</string>
+    <string name="wechat_send_one_redpacket_rtw">發了一個紅包</string>
+    <string name="wechat_send_one_redpacket_rhk">利是</string>
+    <string name="shutdown_text">Swipe to power off</string>
+    <string name="cancel_tip">cancel</string>
+    <string name="reboot_text">Swipe to restart</string>
+    <string name="nubia_common_label">nubia</string>
+    <string name="nubia_app_name">nubia Common Resources</string>
+    <string name="nubia_capital_on">ON</string>
+    <string name="nubia_capital_off">OFF</string>
+    <string name="nubia_time_picker_dialog_title">Set time</string>
+    <string name="nubia_setting_date">Set date</string>
+    <string name="nubia_date_year">year</string>
+    <string name="nubia_date_month">month</string>
+    <string name="nubia_date_day">day</string>
+    <string name="nubia_time_hour">H</string>
+    <string name="nubia_time_minute">M</string>
+    <string name="nubia_text_pastelist">Clipboard</string>
+    <string name="nubia_select">Select</string>
+    <string name="nubia_text_copied">Text copied to clipboard.</string>
+    <string name="nubia_time_am">AM</string>
+    <string name="nubia_time_pm">PM</string>
+    <string name="nubia_searchview_description_clear">Clear query</string>
+    <string name="nubia_searchview_description_submit">Submit query</string>
+    <string name="nubia_searchview_description_voice">Voice search</string>
+    <string name="global_action_power_off">Power off</string>
+    <string name="global_actions_toggle_airplane_mode">Airplane mode</string>
+    <string name="global_action_silent">Silent Mode</string>
+    <string name="global_action_vibrate">Vibrate Mode</string>
+    <string name="clockwidget_time_format">MM-dd</string>
+    <string name="clockwidget_digital_clock_date_format">MM/dd</string>
+    <string name="clockwidget_digital_clock_hour_format_12">hh:mm</string>
+    <string name="clockwidget_digital_clock_hour_format_24">kk:mm</string>
+    <string name="clockwidget_digital_clock_week_format">E</string>
+    <string name="dual_card_prompt_title">Set Default Communication Card</string>
+    <string name="dual_card_prompt_content">Detected 2 SIM cards. Please set your default one in Contacts and Dual-SIM setting</string>
+    <string name="nubia_service_name">Nubia customer service</string>
+    <string name="nubia_activity_resolver_use_always">Always</string>
+    <string name="nubia_activity_resolver_use_once">Just once</string>
+    <string name="nubia_notification_time_just_now">Just now</string>
+    <string name="nubia_notification_time_one_minute">One minute ago</string>
+    <string name="nubia_notification_minutes_time">%d minutes ago</string>
+    <string name="nubia_notification_one_hours_minutes_time">One hour and %d minutes ago</string>
+    <string name="nubia_notification_hours_minutes_time" formatted="false">%d hours and %d minutes ago</string>
+    <string name="nubia_notification_time_one_hour">One hour ago</string>
+    <string name="nubia_notification_hour_time">%d hours ago</string>
+    <string name="nubia_notification_time_one_hour_one_minute">One hour and one minute ago</string>
+    <string name="nubia_notification_hours_one_minute_time">%d hours and one minute ago</string>
+    <string name="nubia_total_text">a total of %s</string>
+    <string name="nubia_more_popup_text">Cancel</string>
+    <string name="letter_tile_letter_font_family">sans-serif-regular</string>
+    <string name="letter_tile_letter_font_robot">robot-serif-regular</string>
+    <string name="nubia_empty_message">Empty content</string>
+    <string name="reboot">Reboot</string>
+    <string name="reboot_ext">Reboot your phone?</string>
+    <string name="tethered_notification_wifi_title">Enable Mobile Hotspot %1$s</string>
+    <string name="tethered_notification_wifi_message">Connected devices:%1$s</string>
+    <string name="wifi_display_notification_connecting_title">Projecting</string>
+    <string name="wifi_display_notification_connecting_message">Connecting to %1$s</string>
+    <string name="wifi_display_notification_connected_title">Projecting</string>
+    <string name="wifi_display_notification_connected_message">Connected to %1$s</string>
+    <string name="wifi_display_notification_disconnect">Disconnect</string>
+    <string name="wifi_display_notification_resume_title">Projecting is paused</string>
+    <string name="wifi_display_notification_resume_for_call">Projecting will resume after the call ends.</string>
+    <string name="edge_brightness_info">Brightness</string>
+    <string name="fit_no_recent_tips">No more apps below</string>
+    <string name="fit_has_start_tips">The App has started</string>
+    <string name="fit_phone_acce">The phone has been accelerated</string>
+    <string name="open_virtual_hint">Projector and screen cannot be on at the same time. Turn on screen after shutting down projector.</string>
+    <string name="open_wifi_hint">Projector and screen cannot be on at the same time. Turn on projector after shutting down screen.</string>
+    <string name="cannot_open_su_in_landscape">Cannot activate one-handed mode when in landscape mode</string>
+    <string name="cannot_open_su_in_multiwindow">Cannot activate one-handed mode when in multiwindow mode</string>
+    <string name="cannot_open_su_in_projector">Cannot activate one-handed mode when in projector mode</string>
+    <string name="single_ui_double_click">Double click an empty area to exit</string>
+    <string name="single_ui_adjust_text">Adjust</string>
+    <string name="single_ui_complete_text">Complete</string>
+    <string name="single_ui_drag_area">Drag the window to a comfortable area</string>
+    <string name="open_single_mode">Enable one-handed mode</string>
+    <string name="open_single_first_message">One-handed mode is already detected, enable it now?</string>
+    <string name="open_single_prompt_message">Long press left key or right key,open single mode</string>
+    <string name="open_single_dialog_content">Swipe from left or right to quickly enable One-handed mode</string>
+    <string name="open_single_dialog_button">OK</string>
+    <string name="usb_otg_progress_unmounting">Unmounting USB OTG device</string>
+    <string name="usb_otg_progress_erasing">Erasing USB OTG device</string>
+    <string name="usb_otg_format_error">"Can't erase USB OTG device"</string>
+    <string name="usb_otg_media_bad_removal">USB OTG device was removed before unmounted.</string>
+    <string name="usb_otg_media_checking">Now checking USB OTG device</string>
+    <string name="usb_otg_media_removed">USB OTG device has been removed.</string>
+    <string name="usb_otg_media_shared">USB OTG storage device is currently in use by a computer.</string>
+    <string name="usb_otg_extmedia_format_title">Format USB OTG device?</string>
+    <string name="usb_otg_extmedia_format_message">All files in USB OTG device will be erased. This action cannot be reversed!</string>
+    <string name="data_usage_multi_sim_warning_body">Touch to switch SIM card.</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Forbid(%1$ss)</string>
+    <string name="permission_remember_choice">Remember my selection</string>
+    <string name="permission">"%1$s requires %2$s, allow？
+ you can change the settings of permissions in nubia Manager-Permissions management."</string>
+    <string name="permission_title">%1$s requires %2$s, allow？</string>
+    <string name="permission_msg">you can change the settings of permissions in nubia Manager-Permissions management.</string>
+    <string name="nubia_back_button_label">Back</string>
+    <string name="nubia_next_button_label">Next</string>
+    <string name="nubia_skip_button_label">Skip</string>
+    <string name="nubia_resolver_more_text">more</string>
+    <string name="nubia_resolver_default_title">share</string>
+    <string name="super_snapshot_multiwindow">Super snapshot is not supported under multi window</string>
+    <string name="fingerprint_acquired_move_your_finger">Try to record bigger area</string>
+    <string name="nubia_download">download</string>
+    <string name="nubia_lunar">Lunar Calendar</string>
+    <string name="nubia_week">week</string>
+    <string name="nubia_leap">leap</string>
+    <string name="nubia_lunar_first_day">First</string>
+    <string name="nubia_lunar_twentieth_day">twenty</string>
+    <string name="nubia_lunar_first_month">Lunar January</string>
+    <string name="nubia_lunar_eleventh_month">Lunar November</string>
+    <string name="nubia_lunar_twelveth_month">Lunar December</string>
+    <string name="nubia_zero">0</string>
+    <string name="nubia_one">1</string>
+    <string name="nubia_two">2</string>
+    <string name="nubia_three">3</string>
+    <string name="nubia_four">4</string>
+    <string name="nubia_five">5</string>
+    <string name="nubia_six">6</string>
+    <string name="nubia_seven">7</string>
+    <string name="nubia_eight">8</string>
+    <string name="nubia_nine">9</string>
+    <string name="nubia_ten">10</string>
+    <string name="nubia_time_am_upper">AM</string>
+    <string name="nubia_time_pm_upper">PM</string>
+    <string name="android_upgrading_apk">%1$d/%2$d</string>
+    <string name="boot_message_summary">nubia UI is Optimizing Applications</string>
+    <string name="android_dex_2_oat">%1$d %%</string>
+    <string name="boot_message2_summary">OS is installing, please wait</string>
+    <string name="nubia_date_solar_title">%4$s,%2$s %3$d,%1$d</string>
+    <string name="nubia_date_lunar_title">%1$d Y,%2$s M,%3$s D,%4$s W</string>
+    <string name="nubia_time_title">%3$s,%2$s,%1$s,%5$s:%6$s %4$s</string>
+    <string name="lte_wifi_notification_title">useing turbo acceleration</string>
+    <string name="lte_wifi_notification_content">improve network acceleration</string>
+    <string name="wifi_p2p_invitation_message">Accept the invitation from %s?</string>
+    <item type="string" name="APKTOOL_DUMMY_8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_90">false</item>
+    <item type="string" name="APKTOOL_DUMMY_91">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93">false</item>
+    <item type="string" name="APKTOOL_DUMMY_94">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95">false</item>
+    <item type="string" name="APKTOOL_DUMMY_96">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d">false</item>
+</resources>

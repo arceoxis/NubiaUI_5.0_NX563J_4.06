@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>མི་སྒེར།</item>
+        <item>ལས་གནས།</item>
+        <item>གཞན།</item>
+        <item>རང་འཇོག</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>ལས་གནས།</item>
+        <item>གཞན།</item>
+        <item>རང་འཇོག</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>སྡོད་ཁང་།</item>
+        <item>ལག་འཁྱེར་ཁ་པར།</item>
+        <item>ལས་གནས།</item>
+        <item>ལས་ཁུངས་གཟུགས་འཕྲིན།</item>
+        <item>སྡོད་ཁང་གི་གཟུགས་འཕྲིན།</item>
+        <item>བརྒྱུད་འབོད་ཆས།</item>
+        <item>གཞན།</item>
+        <item>རང་འཇོག</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>སྡོད་ཁང་།</item>
+        <item>ལས་གནས།</item>
+        <item>གཞན།</item>
+        <item>རང་འཇོག</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>སྡོད་ཁང་།</item>
+        <item>ལས་གནས།</item>
+        <item>གཞན།</item>
+        <item>རང་འཇོག</item>
+    </string-array>
+</resources>

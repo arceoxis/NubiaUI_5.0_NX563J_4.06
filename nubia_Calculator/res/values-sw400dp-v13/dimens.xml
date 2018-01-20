@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="display_port_padding">24.0dip</dimen>
+    <dimen name="display_land_padding">19.199982dip</dimen>
+    <dimen name="color_button_port_advanced_width">102.0dip</dimen>
+    <dimen name="color_button_port_advanced_height">147.6dip</dimen>
+    <dimen name="color_button_land_width">96.0dip</dimen>
+    <dimen name="color_button_land_height">76.79999dip</dimen>
+    <dimen name="color_button_port_width">108.0dip</dimen>
+    <dimen name="color_button_port_height">88.79999dip</dimen>
+    <dimen name="color_button_port_equal_width">216.0dip</dimen>
+    <dimen name="display_height">324.0dip</dimen>
+    <dimen name="margin_top_equation">96.0dip</dimen>
+    <dimen name="display_edittext_height">204.0dip</dimen>
+    <dimen name="margin_bottom_edittext">27.599976dip</dimen>
+    <dimen name="display_land_height">124.79999dip</dimen>
+    <dimen name="display_land_padding_top">18.0dip</dimen>
+    <dimen name="equation_margin_bottom">26.399994dip</dimen>
+</resources>

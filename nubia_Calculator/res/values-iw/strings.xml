@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מחשבון</string>
+    <string name="error">שגיאה</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">הגעת לאורך מקסימלי</string>
+    <string name="outoff_storage">אין דיי שטח אחסון, פנה שטח אחסון.</string>
+    <string name="upgrade_title_message">אותרה גרסה חדשה, לשדרג?</string>
+    <string name="calculator_version_upgrade_notification_title">משדרג מחשבון</string>
+    <string name="alert_dialog_cancel">ביטול</string>
+    <string name="alert_dialog_ok">אישור</string>
+    <string name="cts_warning_title">להפעלת תכונה זו, נדרשות ההרשאות הבאות. האם ברצונך לעבור להגדרות ולהפעיל אותן?</string>
+    <string name="cts_phone">"·טלפון
+"</string>
+    <string name="cts_storage">"·אחסון
+"</string>
+    <string name="go_permission_setting">אפשר</string>
+    <string name="del">מחק</string>
+    <string name="clear">CLR</string>
+    <string name="basic">חלונית בסיסית</string>
+    <string name="advanced">מתקדם</string>
+    <string name="clear_history">נקה היסטוריה</string>
+    <string name="text_copied_toast">טקסט הועתק.</string>
+    <string name="leftParenDesc">סוגר שמאלי</string>
+    <string name="rightParenDesc">סוגר ימני</string>
+    <string name="factorialDesc">עצרת</string>
+    <string name="lnDesc">לוגריתם טבעי</string>
+    <string name="lgDesc">לוגריתם</string>
+    <string name="sqrtDesc">שורש ריבועי</string>
+    <string name="divDesc">חילוק</string>
+    <string name="mulDesc">כפל</string>
+    <string name="plusDesc">פלוס</string>
+    <string name="minusDesc">מינוס</string>
+    <string name="dotDesc">נקודה</string>
+    <string name="powerDesc">חזקה</string>
+    <string name="delDesc">מחק</string>
+    <string name="clearDesc">נקה</string>
+    <string name="tanDesc">טנגנס</string>
+    <string name="sinDesc">סינוס</string>
+    <string name="cosDesc">קוסינוס</string>
+    <string name="eDesc">המספר e</string>
+    <string name="piDesc">פאי</string>
+    <string name="equalDesc">שווה</string>
+    <string name="clearAll">נקה הכל</string>
+</resources>

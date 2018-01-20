@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_alert_title">"' %1$s ' இலுள்ள பக்கம் இவ்வாறு கூறுகிறது:"</string>
+    <string name="password_prompt_title">உறுதிசெய்</string>
+    <string name="password_prompt_message">உலாவி இக்கடவுச்சொல்லை ஞாபகத்தில் வைத்துக்கொள்ள விரும்புகிறீர்களா?</string>
+    <string name="password_prompt_never">எப்போதும் வேண்டாம்</string>
+    <string name="password_prompt_remember">ஞாபகப்படுத்து</string>
+    <string name="password_prompt_not_now">இப்போதில்லை</string>
+</resources>

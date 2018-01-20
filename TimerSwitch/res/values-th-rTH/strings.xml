@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">การเปิด/ปิดที่กำหนดเวลาไว้</string>
+    <string name="timer_switch">การสลับตัวจับเวลา</string>
+    <string name="switch_on">การเปิดที่กำหนดเวลาไว้</string>
+    <string name="switch_off">การปิดที่กำหนดเวลาไว้</string>
+    <string name="every_day">ทุกวัน</string>
+    <string name="switch_on_time">ตั้งค่าเวลาเปิดเครื่อง</string>
+    <string name="switch_off_time">ตั้งค่าเวลาปิดเครื่อง</string>
+    <string name="date_time_24hour">ใช้รูปแบบ 24 ชั่วโมง</string>
+    <string name="date_time_date_format">เลือกรูปแบบวันที่</string>
+    <string name="label">ป้ายกำกับ</string>
+    <string name="switch_repeat">เล่นซ้ำ</string>
+    <string name="expand_switch">เลื่อนการสลับ</string>
+    <string name="collapse_switch">ยกเลิกการสลับ</string>
+    <string name="reset_switch">รีเซ็ทการสลับ</string>
+    <string name="day">1 วัน</string>
+    <string name="days">%s วัน</string>
+    <string name="hour">1 ชั่วโมง</string>
+    <string name="hours">%s ชั่วโมง</string>
+    <string name="minute">1 นาที</string>
+    <string name="minutes">%s นาที</string>
+    <string name="never">ไม่ใช้</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">ยกเลิก</string>
+    <string name="switch_off_dialog_ok">ปิดเครื่อง</string>
+    <string name="switch_off_dialog_title">การปิดที่กำหนดเวลาไว้</string>
+    <string name="switch_off_message">โทรศัพท์ของคุณจะปิดลงใน %s วินาที</string>
+    <string name="switch_off_message_second">โทรศัพท์ของคุณจะปิดลงใน %s วินาที</string>
+    <string name="done_label">เสร็จสิ้น</string>
+    <string name="hour_picker_description">ตัวเลื่อนหมุนระบุชั่วโมง</string>
+    <string name="minute_picker_description">ตัวเลื่อนหมุนระบุนาที</string>
+    <string name="select_hours">เลือกชั่วโมง</string>
+    <string name="select_minutes">เลือกนาที</string>
+    <string name="day_picker_description">ตารางวันที่ของเดือน</string>
+    <string name="year_picker_description">รายการปี</string>
+    <string name="select_day">เลือกเดือนและวัน</string>
+    <string name="select_year">เลือกปี</string>
+    <string name="item_is_selected">เลือก %1$s</string>
+    <string name="deleted_key">ลบ %1$s แล้ว</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

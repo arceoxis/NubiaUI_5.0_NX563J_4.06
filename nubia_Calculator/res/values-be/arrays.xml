@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>левая дужка</item>
+        <item>правая дужка</item>
+        <item>фактарыял</item>
+        <item>натуральны лагарыфм</item>
+        <item>лагарыфм</item>
+        <item>квадратны корань</item>
+        <item>дзеліцца на</item>
+        <item>памнажаецца на</item>
+        <item>плюс</item>
+        <item>мінус</item>
+        <item> кропка </item>
+        <item>сілкаванне</item>
+        <item>тангенс</item>
+        <item>сінус</item>
+        <item>косінус</item>
+        <item>пі</item>
+        <item>роўна</item>
+    </string-array>
+</resources>

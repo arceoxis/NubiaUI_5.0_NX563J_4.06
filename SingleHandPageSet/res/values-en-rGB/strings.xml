@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">One-handed mode</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_single">Welcome to one-handed mode</string>
+    <string name="welcome_to_single2">Touch screen to get the one-handed mode that best suits you</string>
+    <string name="test_single1">Put your thumb</string>
+    <string name="test_single2">Hold your phone with one hand Stretch your thumb to draw an arc</string>
+    <string name="test_single_invalid">Put your thumb on the screen and draw an arc</string>
+    <string name="show_single">One-handed mode that best fit your hand</string>
+    <string name="try_more">Try again</string>
+    <string name="begin">Start to use</string>
+    <string name="welcome_to_begin">Welcome to YOUR one-handed mode</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WalletService</string>
+    <string name="alert_poor_network">当前网络不可用,请检查网络设置</string>
+    <string name="cache_folder">/ZYTWallet/cache_folder</string>
+</resources>

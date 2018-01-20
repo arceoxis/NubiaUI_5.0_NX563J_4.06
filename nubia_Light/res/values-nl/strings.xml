@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Zaklamp</string>
+    <string name="close">Uitschakelen</string>
+    <string name="nocamere">Cameraconflict</string>
+    <string name="keepon">Een zaklantaarn licht blijven vaak</string>
+    <string name="allkeepon">Al te vaak fel</string>
+</resources>

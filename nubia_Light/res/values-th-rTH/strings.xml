@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">ไฟฉาย</string>
+    <string name="close">ปิด</string>
+    <string name="nocamere">กล้องขัดข้องหรือถูกใช้โดยแอพอื่นอยู่ กรุณาเปิดการอนุญาตหรือปิดแอพที่เกี่ยวข้อง</string>
+    <string name="keepon">เลื่อนขึ้นเพื่อให้ไฟฉายเปิดอยู่เสมอ</string>
+    <string name="allkeepon">ไฟฉายเปิดตลอด</string>
+    <string name="light_already_open">ถูกเปิดแล้ว</string>
+</resources>

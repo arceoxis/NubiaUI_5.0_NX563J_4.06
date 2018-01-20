@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">开机壁纸鸣谢</string>
+    <string name="str_author_info">作者信息</string>
+    <string name="str_view_origin_picture">查看详情</string>
+    <string name="str_click_picture">点击图片</string>
+    <string name="str_view_detail">查看详细信息</string>
+    <string name="str_i_know">我知道了</string>
+    <string name="str_slip_info">左右滑动切换页面</string>
+    <string name="str_thanks_share">感谢网友 %1$s 提供</string>
+</resources>

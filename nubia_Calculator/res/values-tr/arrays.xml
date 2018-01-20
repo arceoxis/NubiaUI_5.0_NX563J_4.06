@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>sol parantez</item>
+        <item>sağ parantez</item>
+        <item>faktöryel</item>
+        <item>doğal logaritma</item>
+        <item>logaritma</item>
+        <item>karekök</item>
+        <item>bölü</item>
+        <item>çarpı</item>
+        <item>artı</item>
+        <item>eksi</item>
+        <item> nokta </item>
+        <item>üstü</item>
+        <item>tanjant</item>
+        <item>sinüs</item>
+        <item>kosinüs</item>
+        <item>pi</item>
+        <item>eşittir</item>
+    </string-array>
+</resources>

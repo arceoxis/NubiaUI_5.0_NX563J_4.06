@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">เปิดเครือข่าย Wi-fi ที่ใช้งานได้</item>
+        <item quantity="one">เปิดเครือข่าย Wi-fi ที่ใช้งานได้</item>
+    </plurals>
+</resources>

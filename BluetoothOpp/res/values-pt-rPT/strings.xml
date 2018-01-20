@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências.</string>
+    <string name="permdesc_bluetoothShareManager">Permite à aplicação aceder ao gestor BluetoothShare e utilizá-lo para transferir ficheiros.</string>
+    <string name="permlab_bluetoothWhitelist">Colocar na lista de autorizações o acesso do dispositivo Bluetooth.</string>
+    <string name="permdesc_bluetoothWhitelist">Permite que a aplicação coloque temporariamente um dispositivo Bluetooth na lista de autorizações, permitindo que esse dispositivo envie ficheiros para este dispositivo sem a confirmação do utilizador.</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="unknown_device">Dispositivo desconhecido</string>
+    <string name="airplane_error_title">Modo de avião</string>
+    <string name="airplane_error_msg">Não pode utilizar o Bluetooth em modo de Avião.</string>
+    <string name="bt_enable_title" />
+    <string name="bt_enable_line1">Para utilizar os serviços Bluetooth, tem de ativar primeiro o Bluetooth.</string>
+    <string name="bt_enable_line2">Ativar o Bluetooth agora?</string>
+    <string name="bt_enable_cancel">Cancelar</string>
+    <string name="bt_enable_ok">Ativar</string>
+    <string name="incoming_file_confirm_cancel">Recusar</string>
+    <string name="incoming_file_confirm_ok">Aceitar</string>
+    <string name="incoming_file_confirm_timeout_ok">OK</string>
+    <string name="incoming_file_confirm_timeout_content">Foi excedido o tempo limite durante a aceitação de um ficheiro de \"%1$s\"</string>
+    <string name="notification_sent_fail">Partilha Bluetooth: ficheiro %1$s não enviado</string>
+    <string name="download_line1">De: \"%1$s\"</string>
+    <string name="download_line4" />
+    <string name="bt_error_btn_ok">OK</string>
+    <string name="unknown_file">Ficheiro desconhecido</string>
+    <string name="unknown_file_desc">"Não existe nenhuma aplicação para executar este tipo de ficheiro. 
+"</string>
+    <string name="not_exist_file">Nenhum ficheiro</string>
+    <string name="not_exist_file_desc">"O ficheiro não existe. 
+"</string>
+    <string name="enabling_progress_title">Aguarde...</string>
+    <string name="enabling_progress_content">A ligar Bluetooth…</string>
+    <string name="bt_sm_2_1">Não existe espaço suficiente no cartão SD para guardar o ficheiro de “%1$s”</string>
+    <string name="ErrorTooManyRequests">Existem demasiados pedidos em processamento. Tente novamente mais tarde.</string>
+    <string name="status_pending">Ainda não foi iniciada a transferência do ficheiro.</string>
+    <string name="status_running">Transferência do ficheiro em curso.</string>
+    <string name="status_success">Transferência de ficheiros concluída com êxito.</string>
+    <string name="status_not_accept">O conteúdo não é suportado.</string>
+    <string name="status_forbidden">Transferência proibida pelo aparelho de destino.</string>
+    <string name="status_canceled">Transferência cancelada pelo utilizador.</string>
+    <string name="status_file_error">Problema de armazenamento.</string>
+    <string name="status_no_sd_card">Sem cartão SD. Insira um cartão SD para guardar os ficheiros transferidos.</string>
+    <string name="status_connection_error">A ligação falhou.</string>
+    <string name="status_protocol_error">Não é possível processar o pedido corretamente.</string>
+    <string name="status_unknown_error">Erro desconhecido.</string>
+    <string name="btopp_live_folder">Bluetooth recebido</string>
+    <string name="download_success">Recepção completa de %1$s.</string>
+    <string name="upload_success">Envio de %1$s concluído</string>
+    <string name="inbound_history_title">Transferências de entrada</string>
+    <string name="outbound_history_title">Transferências de saída</string>
+    <string name="no_transfers">O histórico de transferências está vazio.</string>
+    <string name="transfer_clear_dlg_msg">Todos os itens serão removidos da lista.</string>
+    <string name="transfer_menu_clear_all">Limpar lista</string>
+    <string name="transfer_menu_open">Abrir</string>
+    <string name="transfer_menu_clear">Limpar da lista</string>
+    <string name="transfer_clear_dlg_title">Limpar</string>
+    <string name="bluetooth_map_settings_app_icon">Ícone de aplicação</string>
+    <string name="app_name">Bluetooth Share</string>
+    <string name="insert_record">Inserir registo</string>
+    <string name="update_record">Confirmar registo</string>
+    <string name="ack_record">Registo de confirmação</string>
+    <string name="deleteAll_record">Eliminar todo o registo</string>
+    <string name="ok_button">OK</string>
+    <string name="delete_record">Eliminar registo</string>
+    <string name="start_server">Iniciar servidor TCP</string>
+    <string name="notify_server">Notificar servidor TCP</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>左かっこ</item>
+        <item>右かっこ</item>
+        <item>階乗</item>
+        <item>自然対数</item>
+        <item>対数</item>
+        <item>平方根</item>
+        <item>割る</item>
+        <item>掛ける</item>
+        <item>足す</item>
+        <item>引く</item>
+        <item>ポイント</item>
+        <item>累乗</item>
+        <item>タンジェント</item>
+        <item>サイン</item>
+        <item>コサイン</item>
+        <item>パイ</item>
+        <item>イコール</item>
+    </string-array>
+</resources>

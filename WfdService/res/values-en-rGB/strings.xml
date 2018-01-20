@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen projection Service</string>
+    <string name="wfd_service">Screen projection service</string>
+    <string name="mirroring_on">Screen projection service is running</string>
+    <string name="tosat_standby">Screen projection is standby</string>
+    <string name="wifi_display_notification_connected_title">Projecting</string>
+    <string name="wifi_display_notification_disconnect">Disconnect</string>
+    <string name="wifi_display_notification_touch_for_detail">Touch for more information</string>
+    <string name="wifi_display_notification_sink_detail">Please do not turn off WLAN</string>
+</resources>

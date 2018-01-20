@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_picker">
+        <item>Çamur ördeği</item>
+        <item>Mavi</item>
+        <item>Çivit mavisi</item>
+        <item>Mor</item>
+        <item>Pembe</item>
+        <item>Kırmızı</item>
+    </string-array>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="error">Eroare</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">E</string>
+    <string name="ln">ln</string>
+    <string name="lg">jurnal</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">Câmpul pentru introducerea textului a atins lungimea maximă.</string>
+    <string name="outoff_storage">Spațiu de stocare insuficient, eliberați spațiu înainte de utilizare</string>
+    <string name="upgrade_title_message">S-a detectat o nouă versiune, upgradați?</string>
+    <string name="calculator_version_upgrade_notification_title">Upgradează calculator</string>
+    <string name="alert_dialog_cancel">Anulaţi</string>
+    <string name="alert_dialog_ok">Confirmaţi</string>
+    <string name="cts_warning_text">Aplicația trebuie să obțină permisiunile relevante sau nu va funcționa.</string>
+    <string name="cts_warning_title">Această caracteristică necesită activarea următoarelor permisiuni, accesați setările pentru a le activa ?</string>
+    <string name="cts_phone">"·Telefon
+"</string>
+    <string name="cts_storage">"·Stocare
+"</string>
+    <string name="go_permission_setting">Activaţi</string>
+    <string name="del">Eliminaţi</string>
+    <string name="clear">CLR</string>
+    <string name="basic">Panou de bază</string>
+    <string name="advanced">Panou avansat</string>
+    <string name="clear_history">Goliți istoric</string>
+    <string name="text_copied_toast">Text copiat.</string>
+    <string name="leftParenDesc">paranteza din stânga</string>
+    <string name="rightParenDesc">Paranteza din dreapta</string>
+    <string name="factorialDesc">factorial</string>
+    <string name="lnDesc">logaritm natural</string>
+    <string name="lgDesc">logaritm</string>
+    <string name="sqrtDesc">rădăcină pătrată</string>
+    <string name="divDesc">împarte</string>
+    <string name="mulDesc">înmulțire</string>
+    <string name="plusDesc">plus</string>
+    <string name="minusDesc">minus</string>
+    <string name="dotDesc">punct</string>
+    <string name="powerDesc">sarcină electrică</string>
+    <string name="delDesc">Eliminaţi</string>
+    <string name="clearDesc">Goliți coșul de gunoi</string>
+    <string name="tanDesc">tangent</string>
+    <string name="sinDesc">sine</string>
+    <string name="cosDesc">cosine</string>
+    <string name="eDesc">Numărul lui Euler</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">egal</string>
+    <string name="clearAll">AC</string>
+</resources>

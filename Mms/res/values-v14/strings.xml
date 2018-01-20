@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences_title">Message Settings</string>
+    <string name="pref_title_sms_disabled">Messaging Disabled</string>
+    <string name="pref_summary_sms_disabled">Touch to set messaging as your default messaging app</string>
+    <string name="pref_title_sms_enabled">Messaging Enabled</string>
+    <string name="pref_summary_sms_enabled">Touch to change your default messaging app</string>
+    <string name="select_music_items_one">Local audio</string>
+</resources>

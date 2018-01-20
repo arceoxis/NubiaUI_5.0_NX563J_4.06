@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_button_height">42.0dip</dimen>
+    <dimen name="common_list_item_height_large">65.0dip</dimen>
+    <dimen name="common_list_item_height_normal">60.0dip</dimen>
+    <dimen name="common_button_width">160.0dip</dimen>
+    <dimen name="common_nubia_notify_title_size">14.0sp</dimen>
+    <dimen name="common_main_gridview_margin_top">12.0dip</dimen>
+    <dimen name="common_main_gridview_margin_bottom">24.0dip</dimen>
+    <dimen name="common_harass_dialpad_bottem">0.0dip</dimen>
+    <dimen name="common_wheel_view_text_size">10.0dip</dimen>
+</resources>

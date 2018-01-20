@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="zbiglauncher_default_screen_size">2</integer>
+    <integer name="help_message_word_size">140</integer>
+</resources>

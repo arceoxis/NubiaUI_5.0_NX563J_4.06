@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="video">Vidéo</string>
+    <string name="more">Plus</string>
+    <string name="list">Liste</string>
+    <string name="grid">Grille</string>
+    <string name="hide_video">Masquer la vidéo</string>
+    <string name="hide">Masquer</string>
+    <string name="ok">OK</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="share">Partager</string>
+    <string name="time">Heures</string>
+    <string name="path">"Chemin d'accès"</string>
+    <string name="duration">Durée</string>
+    <string name="file_size">Taille fichier</string>
+    <string name="video_dolby">Dolby Audio</string>
+    <string name="video_dts">DTS</string>
+    <string name="details">Détails</string>
+    <string name="player_send_not_available">"Aucune application disponible pour l'envoi"</string>
+    <string name="snapshot">Cliché</string>
+    <string name="rename">Renommer</string>
+    <string name="filenameisnull">Nom de fichier incorrect. Saisissez à nouveau un nom de fichier.</string>
+    <string name="trimming">Emondage</string>
+    <string name="please_wait">Veuillez patienter</string>
+    <string name="trim_copy">_copier</string>
+    <string name="resolution">Densité:</string>
+    <string name="player_unknown_title">Titre inconnu</string>
+    <string name="player_replay">Répéter à</string>
+    <string name="video_send_not_available">"Aucune application disponible pour l'envoi"</string>
+    <string name="video_cannot_get_details">Impossible de récupérer les détails</string>
+    <string name="player_press_again">Rappuyez pour quitter</string>
+    <string name="folder_download">Télécharger</string>
+    <string name="close">Fermer</string>
+    <string name="overwrite">"Couvrir la vidéo d'origine"</string>
+    <string name="save_as_new">Sauvegarder comme nouvelle vidéo</string>
+</resources>

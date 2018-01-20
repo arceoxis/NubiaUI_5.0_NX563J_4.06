@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_status_activity_title">Status</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
+    <string name="wifiap_configure_subtext">%1$s%2$sWifiap WLAN portabel</string>
+    <string name="wifiap_configure_ssid_default">Androidwifiap</string>
+    <string name="wifiap_configure_ap_text">Siapkan wifiap WLAN</string>
+    <string name="wifiap_list_category">PERANGKAT TERSAMBUNG</string>
+    <string name="wifiap_turn_on_hint">Untuk menggunakan wifiap WLAN, aktifkan terlebih dahulu.</string>
+    <string name="wifiap_settings_desc">Wifiap WLAN dapat membagikan koneksi Internet data ponsel ini dengan perangkat PC/seluler lainnya melalui WLAN.</string>
+    <string name="wifiap_settings_indication">Setelah wifiap WLAN diaktifkan, perangkat PC/seluler lainnya dapat terhubung dengannya dan mulai menggunakan internet melalui langkah berikut ini:</string>
+    <string name="wifiap_settings_indication_step1">1. Aktifkan WLAN pada perangkat PC/Seluler.</string>
+    <string name="wifiap_settings_indication_step2">2. Temukan “%s” dalam daftar jaringan WLAN.</string>
+    <string name="wifiap_settings_indication_step3_ssid">3. Pilih “%s”.</string>
+    <string name="wifiap_settings_indication_step3_all" formatted="false">3. Pilih “%s” lalu Masukkan “%s” pada ruas sandi.</string>
+    <string name="wifiap_settings_indication_step4">4. Mulai gunakan Internet pada perangkat PC/Seluler</string>
+    <string name="wifiap_settings_menu_help">Bantuan</string>
+    <string name="wifi_tether_checkbox_text">Hotspot Wi-Fi portabel</string>
+    <string name="wifiap_default_device_name">Anonim</string>
+    <string name="wifiap_title">Hotspot WLAN</string>
+    <string name="wifi_ssid">Nama jaringan</string>
+    <string name="wifi_ssid_hint">Masukkan SSID</string>
+    <string name="wifi_security">Keamanan</string>
+    <string name="wifi_password">Kata sandi</string>
+    <string name="wifi_show_password">Tampilkan sandi</string>
+    <string name="wifi_save">Simpan</string>
+    <string name="credentials_password_too_short">Sandi minimal terdiri dari 8 karakter.</string>
+    <string name="wifi_security_none">Buka</string>
+    <string name="open_security_settings_note">Dengan Keamanan terbuka, perangkat mana pun dapat terhubung ke Hotspot Mobile Anda dan menggunakan koneksi data seluler Anda.</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_ap_band_config">Pilih Pita AP</string>
+    <string name="wifi_ap_choose_2G">Pita 2,4 GHz</string>
+    <string name="wifi_ap_choose_5G">Pita 5 GHz</string>
+    <string name="wifi_tether_configure_ap_text">Setel hotspot WLAN</string>
+    <string name="wifi_cancel">Batal</string>
+    <string name="maximum_connections_button_text">Koneksi Maksimum</string>
+    <string name="wifi_hotspot_mode_title">Selalu aktifkan Hotspot WiFi</string>
+    <string name="wifi_calling_wizard_title">Tutorial Panggilan Wi-Fi</string>
+    <string name="wifi_call_setting">Setelan Panggilan Wifi</string>
+    <string name="wifi_call_setting_title">Panggilan Wi-Fi</string>
+    <string name="dialog_not_show_again">Jangan tampilkan lagi</string>
+    <string name="wifi_ap_broadcast_ssid">Nama jaringan siaran(SSID)</string>
+    <string name="question_what_is_wifi_calling">" Apa yang dimaksud dengan Panggilan Wi-Fi?"</string>
+    <string name="answer_question_what_is_wifi_calling">Panggilan Wi-Fi memungkinkan Anda membuat dan menerima panggilan suara dan pesan teks/multimedia melalui Wi-Fi saat telepon Anda terhubung dengan jaringan Wi-Fi dan didaftarkan dengan jaringan MetroPCS untuk Panggilan Wi-Fi.</string>
+    <string name="question_how_enable_wifi">Bagaimana saya mengaktifkan Wi-Fi?</string>
+    <string name="answer_question_how_enable_wifi">Untuk mengaktifkan Wi-Fi, gunakan bagian kontrol nirkabel dari menu setelan Android Anda.</string>
+    <string name="question_how_enable_wifi_calling">Bagaimana saya mengaktifkan Panggilan Wi-Fi?</string>
+    <string name="answer_question_how_enable_wifi_calling">Secara default, telepon Anda diaktifkan untuk Panggilan Wi-Fi segera setelah Anda mengaktifkan radio Wi-Fi. Panggilan Wi-Fi dapat dikontrol dari Setelan Panggilan Wi-Fi.</string>
+    <string name="question_if_use_Wifi">Bagaimana cara mengetahui saat menggunakan Wi-Fi untuk panggilan saya?</string>
+    <string name="answer_question_if_use_Wifi">Saat telepon Anda terhubung dengan jaringan Wi-Fi, telepon akan otomatis mencoba untuk mendaftar dengan jaringan MetroPCS untuk panggilan Wi-Fi. Setelah pendaftaran berhasil diselesaikan, Anda akan melihat ikon Panggilan Wi-Fi dalam Bar Status. Anda juga akan dapat melihat ikon Panggilan Wi-Fi yang ditampilkan dalam pemanggil (di lokasi ikon panggilan biasa Anda) dan Anda akan melihat pesan secara singkat di bagian atas layar yang memberitahukan bahwa Panggilan akan dibuat melalui Wi-Fi.</string>
+    <string name="question_charge_diff_about_wifi_call">Apakah panggilan atau SMS/MMS melalui Wi-Fi akan dikenakan biaya terpisah dari panggilan seluler saya?</string>
+    <string name="answer_question_charge_diff_about_wifi_call">Keuntungan utama dari Panggilan Wi-Fi adalah untuk meningkatkan jangkauan dalam lokasi Panggilan dan pesan Wi-Fi yang dibuat melalui Wi-Fi akan dikenakan biaya seperti panggilan seluler untuk paket data tertentu.</string>
+    <string name="question_what_happen_without_wifi_coverage">Apa yang terjadi jika saya kehilangan jangkauan Wi-Fi?</string>
+    <string name="answer_question_what_happen_without_wifi_coverage">Saat telepon kehilangan jangkauan Wi-Fi, panggilan aktif akan terputus dan telepon akan tersambung ke jaringan seluler jika memungkinkan. Anda akan menerima perintah jika panggilan Anda terputus karena hilangnya jangkauan Wi-Fi.</string>
+    <string name="wifi_calling_wizard_learn_more">Pelajari lebih lanjut</string>
+    <string name="wifi_calling_help_wizard_title">Pelajari semua mengenai Panggilan Wi-Fi</string>
+    <string name="wifi_calling_wizard_content_step_1">"Ini merupakan tutorial dari panggilan wi-fi. 
+ \"Lewati\" akan melewati wizard saat ini. 
+ \"Pelajari lebih lanjut\" akan menampilkan info lebih lanjut mengenai hal tersebut."</string>
+    <string name="wifi_calling_wizard_content_step_2">"Panggilan Wi-Fi menjadikan Anda selalu dalam jangkauan. Dengan panggilan Wi-Fi, Anda dapat mengirim dan menerima panggilan dan pesan melalui jaringan Wi-Fi menggunakan paket data T-mobile Anda yang sudah ada.  
+  Tidak ada pengaturan khusus yang diperlukan untuk panggilan Wi-Fi.  Dari menu Setelan, masuk ke Nirkabel dan Jaringan dan sambungkan ke jaringan Wi-Fi untuk memulai. "</string>
+    <string name="wifi_calling_wizard_content_step_3">"Setelah Anda melihat ikon Panggilan Wi-Fi di bilah status, telepon Anda siap untuk Panggilan Wi-Fi. "</string>
+    <string name="wifi_calling_wizard_content_step_4">Untuk tetap berada dalam mode Panggilan Wi-Fi, tetaplah berada dalam jangkauan jaringan Wi-Fi. Anda akan mendengar bunyi bip dan melihat pesan di layar yang memberi tahu Anda jika panggilan terputus karena Anda keluar dari jangkauan.</string>
+    <string name="skip_label">Lewati</string>
+    <string name="wifi_calling_connection_pref_title">Preferensi koneksi</string>
+    <string name="wifi_call_preferrd_setting_title">Preferensi Panggilan Wi-Fi</string>
+    <string name="wifi_calling_settings_menu_help">Bantuan</string>
+</resources>

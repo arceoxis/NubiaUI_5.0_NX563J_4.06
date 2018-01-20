@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>%1$s ตั้งเป็นน้อยกว่า 1 นาทีนับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %2$s นับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %3$s นับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %2$s และ %3$s นับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %4$s นับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %2$s และ %4$s นับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %3$s and %4$s นับแต่นี้ไป</item>
+        <item>%1$s ตั้งเป็น %2$s, %3$s และ %4$s นับแต่นี้ไป</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>nawias otwierający</item>
+        <item>nawias zamykający</item>
+        <item>silnia</item>
+        <item>logarytm naturalny</item>
+        <item>logarytm</item>
+        <item>pierwiastek kwadratowy</item>
+        <item>dzielone przez</item>
+        <item>mnożone przez</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> przecinek </item>
+        <item>do potęgi</item>
+        <item>tangens</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>równa się</item>
+    </string-array>
+</resources>

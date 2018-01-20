@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="error">Błąd</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tg</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">Pole tekstu wejściowego osiąga Maks. długość.</string>
+    <string name="outoff_storage">Niewystarczająca ilość miejsca, zwolnij trochę miejsca</string>
+    <string name="upgrade_title_message">wykryto nową wersję, upgradeować?</string>
+    <string name="calculator_version_upgrade_notification_title">Uaktualnienie kalkulatora</string>
+    <string name="alert_dialog_cancel">Anuluj</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="cta_warning">sprostowanie</string>
+    <string name="cta_warning_cancel">Anuluj</string>
+    <string name="cta_warning_ok">OK</string>
+    <string name="cta_warning_text">Aplikacja będzie mieć dostęp do twojej sieci, pamięci i stanu telefonu, kontynuować?</string>
+    <string name="cts_warning_text">Aplikacja wymaga uzyskania odpowiednich uprawnień, albo nie będzie działać.</string>
+    <string name="cts_warning_title">Funkcja ta wymaga uaktywnienia następujących pozwoleń, iść do ustawień aby je aktywować?</string>
+    <string name="cts_phone">"·Telefon
+"</string>
+    <string name="cts_storage">"·Pamięć
+"</string>
+    <string name="go_permission_setting">Włącz</string>
+    <string name="del">USUŃ</string>
+    <string name="clear">CZYŚĆ</string>
+    <string name="basic">Panel podstawowy</string>
+    <string name="advanced">Panel zaawansowany</string>
+    <string name="clear_history">Wyczyść historię</string>
+    <string name="text_copied_toast">Tekst został skopiowany.</string>
+    <string name="leftParenDesc">nawias otwierający</string>
+    <string name="rightParenDesc">nawias zamykający</string>
+    <string name="factorialDesc">silnia</string>
+    <string name="lnDesc">logarytm naturalny</string>
+    <string name="lgDesc">logarytm</string>
+    <string name="sqrtDesc">pierwiastek kwadratowy</string>
+    <string name="divDesc">podzielić</string>
+    <string name="mulDesc">pomnożyć</string>
+    <string name="plusDesc">plus</string>
+    <string name="minusDesc">minus</string>
+    <string name="dotDesc">przecinek</string>
+    <string name="powerDesc">potęga</string>
+    <string name="delDesc">usuń</string>
+    <string name="clearDesc">wyczyść</string>
+    <string name="tanDesc">tangens</string>
+    <string name="sinDesc">sinus</string>
+    <string name="cosDesc">cosinus</string>
+    <string name="eDesc">liczba Eulera</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">równa się</string>
+    <string name="clearAll">Zasilacz</string>
+</resources>

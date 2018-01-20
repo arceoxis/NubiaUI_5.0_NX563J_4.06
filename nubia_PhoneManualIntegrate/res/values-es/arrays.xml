@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ui_3x_feedback_location_service_types">
+        <item>Común</item>
+        <item>Rápido</item>
+    </string-array>
+    <string-array name="feature_category">
+        <item>Llamativo</item>
+        <item>Cámara</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="faq_category">
+        <item>Caliente</item>
+        <item>Categoría</item>
+    </string-array>
+</resources>

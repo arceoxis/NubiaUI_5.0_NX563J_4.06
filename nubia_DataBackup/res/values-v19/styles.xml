@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="actionBarThemeDark" parent="@style/Theme.Nubia.ActionBar.Dark">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="actionMenuTextColor">@color/nubia_material_light</item>
+        <item name="homeAsUpIndicator">@drawable/nubia_ic_ab_back_material</item>
+        <item name="fakeStatusBarBackground">@color/ui50_green_background</item>
+    </style>
+    <style name="actionBarTheme" parent="@style/Theme.Nubia.ActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="homeAsUpIndicator">@drawable/nubia_ic_ab_back_material</item>
+        <item name="fakeStatusBarBackground">@color/ui40_actionbar_light</item>
+    </style>
+</resources>

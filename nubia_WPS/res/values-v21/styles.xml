@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="phone_home_browser_search_icon">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+        <item name="android:layout_width">@dimen/phone_home_browser_search_icon_size</item>
+        <item name="android:layout_height">@dimen/phone_home_browser_search_icon_size</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="phone_public_title_bar_icon">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingTop">15.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:paddingBottom">15.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">50.0dip</item>
+        <item name="android:layout_height">50.0dip</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+    <style name="phone_public_titlebar_return" parent="@style/phone_public_title_bar_icon" />
+    <style name="phone_public_toggle_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="phone_public_nobg_red" parent="@style/phone_public_button_base">
+        <item name="android:textColor">@drawable/phone_public_red_text_color</item>
+        <item name="android:background">@drawable/public_grid_item_popwindow_selector</item>
+    </style>
+    <style name="phone_public_nobg_blue" parent="@style/phone_public_button_base">
+        <item name="android:textColor">@drawable/phone_public_blue_text_color</item>
+        <item name="android:background">@drawable/phone_public_list_selector</item>
+    </style>
+    <style name="phone_public_nobg_white" parent="@style/phone_public_button_base">
+        <item name="android:textColor">@drawable/phone_public_white_text_color</item>
+        <item name="android:background">@drawable/phone_public_list_selector</item>
+    </style>
+    <style name="phone_public_nobg_black" parent="@style/phone_public_button_base">
+        <item name="android:textColor">@drawable/phone_public_black_text_color</item>
+        <item name="android:background">@drawable/phone_public_list_selector</item>
+    </style>
+    <style name="Custom_Dialog" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/PhoneDialogAnimation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateUnchanged</item>
+        <item name="android:colorPrimaryDark">@color/phone_home_dlg_statusbar_color</item>
+    </style>
+    <style name="ThemeBase" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:buttonStyle">@style/Button</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/public_scrollbar_horizontal</item>
+        <item name="android:scrollbarThumbVertical">@drawable/public_scrollbar_vertical</item>
+        <item name="android:autoCompleteTextViewStyle">@style/autoCompleteTextView</item>
+        <item name="android:checkboxStyle">@style/CheckBox</item>
+        <item name="android:editTextStyle">@style/editText</item>
+        <item name="android:listViewStyle">@style/listview_style</item>
+        <item name="android:progressBarStyle">@style/CirclProgressBarMedium</item>
+        <item name="android:radioButtonStyle">@style/RadioButton</item>
+        <item name="android:textSize">@dimen/public_text_size</item>
+        <item name="android:textColor">@drawable/color_black</item>
+        <item name="android:progressBarStyleLargeInverse">@style/CirclProgressBarLarge</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:colorPrimary">@color/phone_home_pink_bg_color</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:windowEnterTransition">@android:transition/explode</item>
+        <item name="android:windowExitTransition">@android:transition/explode</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="my_autoCompleteTextViewStyle">@style/MyAutoCompleteTextView</item>
+        <item name="MaterialProgressBarCycle">@style/material_progressbar_cycle</item>
+        <item name="MaterialProgressBarHorizontal">@style/material_progressbar_horizontal</item>
+    </style>
+    <style name="public_seekbar_base" parent="@android:style/Widget.SeekBar">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="public_radio_button_base" parent="@style/phone_public_radio_button">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="public_checkbox_base" parent="@style/phone_public_check_box">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="ThemeBase.Dialog" parent="@style/ThemeBase">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+    <style name="OfficeAppTheme.Transparent" parent="@style/OfficeAppTheme">
+        <item name="android:windowBackground">@drawable/color_alpha_00</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorPrimary">@color/phone_docinfos_title_et</item>
+        <item name="android:navigationBarColor">@color/color_black</item>
+    </style>
+    <style name="Transluent" parent="@android:style/Theme.Material.NoActionBar.TranslucentDecor">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+    <style name="public_image_bg_style">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="public_image_bg_style_focusable">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="public_image_bg_style_no_borderless">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="public_image_bg_null_style">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="public_image_bg_style_bounded">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="public_image_bg_null_style_bounded">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+    <style name="WriterTheme" parent="@style/OfficeAppTheme">
+        <item name="android:checkboxStyle">@style/writer_CheckBox</item>
+        <item name="android:progressBarStyle">@style/writer_circlProgressBar_medium</item>
+        <item name="android:progressBarStyleHorizontal">@style/writer_ProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/phone_writer_seekbar_style</item>
+        <item name="android:radioButtonStyle">@style/writer_RadioButton</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/writer_circlProgressBar_large</item>
+        <item name="android:colorPrimary">@color/phone_docinfos_title_docs</item>
+        <item name="activity_theme_Style">@style/writer_theme_style</item>
+        <item name="activity_theme_color">@color/public_writer_theme_color</item>
+    </style>
+    <style name="PdfTheme" parent="@style/OfficeAppTheme">
+        <item name="android:windowBackground">@color/color_white</item>
+        <item name="android:checkboxStyle">@style/pdf_checkBox_style</item>
+        <item name="android:progressBarStyle">@style/pdf_circlProgressBar_medium_style</item>
+        <item name="android:seekBarStyle">@style/pdf_seekbar_style</item>
+        <item name="android:radioButtonStyle">@style/pdf_radioButton_style</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/pdf_circlProgressBar_large_style</item>
+        <item name="android:colorPrimary">@color/phone_docinfos_title_pdf</item>
+        <item name="activity_theme_Style">@style/pdf_theme_style</item>
+    </style>
+    <style name="SpreadsheetTheme" parent="@style/OfficeAppTheme">
+        <item name="android:windowBackground">@color/color_white</item>
+        <item name="android:checkboxStyle">@style/SSPhoneCheckBox</item>
+        <item name="android:editTextStyle">@style/SSPhoneEdittext</item>
+        <item name="android:progressBarStyleHorizontal">@style/phone_ss_ProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/phone_ss_seekbar_style</item>
+        <item name="android:radioButtonStyle">@style/SSPhoneRadioButton</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/phone_ss_progressbar</item>
+        <item name="android:colorPrimary">@color/phone_docinfos_title_et</item>
+        <item name="my_autoCompleteTextViewStyle">@style/ssphone_autocomplete</item>
+        <item name="activity_theme_Style">@style/phone_ss_theme_style</item>
+        <item name="activity_theme_color">@color/phone_public_ss_theme_color</item>
+    </style>
+    <style name="PptTheme" parent="@style/OfficeAppTheme">
+        <item name="android:windowBackground">@color/ppt_slide_bg_color</item>
+        <item name="android:checkboxStyle">@style/PptPhoneCheckBox</item>
+        <item name="android:editTextStyle">@style/PptPhoneEdittext</item>
+        <item name="android:progressBarStyleHorizontal">@style/PptPhoneProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/PptPhoneSeekbarStyle</item>
+        <item name="android:radioButtonStyle">@style/PptPhoneRadioButton</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/PptPhoneCirclProgressBarLarge</item>
+        <item name="android:colorPrimary">@color/phone_lolipop_title_ppt</item>
+        <item name="my_autoCompleteTextViewStyle">@style/Pptphone_autocomplete</item>
+        <item name="activity_theme_Style">@style/PptPhoneThemeStyle</item>
+        <item name="activity_theme_color">@color/public_ppt_theme_color</item>
+    </style>
+    <style name="home_button" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/phone_public_fontsize_dp_m</item>
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="HomeTheme" parent="@style/OfficeAppTheme">
+        <item name="android:checkboxStyle">@style/home_checkbox</item>
+        <item name="android:editTextStyle">@style/home_edittext</item>
+        <item name="android:progressBarStyleHorizontal">@style/home_progressbar_horizontal</item>
+        <item name="android:radioButtonStyle">@style/home_radiobutton</item>
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:progressBarStyleLargeInverse">@style/home_circle_progressbar_large</item>
+        <item name="my_autoCompleteTextViewStyle">@style/home_autocomplete</item>
+        <item name="activity_theme_Style">@style/home_theme_style</item>
+        <item name="activity_theme_color">@color/public_default_theme_color</item>
+    </style>
+    <style name="HomeTheme_HomeActivity" parent="@style/HomeTheme">
+        <item name="android:windowBackground">@color/color_white</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="phone_public_button_base" parent="@style/phone_public_button_padding">
+        <item name="android:theme">@android:style/Theme.Material</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+</resources>

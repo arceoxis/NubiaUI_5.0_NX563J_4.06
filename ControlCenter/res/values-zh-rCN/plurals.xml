@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="quick_settings_bluetooth_connected_label">
+        <item quantity="other">已连接 %d</item>
+    </plurals>
+</resources>

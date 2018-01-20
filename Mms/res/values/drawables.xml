@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="class_zero_background">#7f040000</item>
+    <item type="drawable" name="text_color_red">#ffff4444</item>
+    <item type="drawable" name="text_color_black">#ff000000</item>
+    <item type="drawable" name="two_panel_left_selected">#1a000000</item>
+</resources>

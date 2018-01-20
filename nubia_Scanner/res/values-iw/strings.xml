@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_body">"1. אתה צריך להתחבר לרשת סלולרית או לרשת Wi-Fi כדי להשתמש ביישום זה, והמפעיל שלך עלול לחחייב אותך עבור השימוש בנתונים. לפרטים, אנא פנה למפעיל שלך. 
+2. בעת שימוש ביישום זה, אתה צריך להשתמש במצלמה כדי לצלם תמונות וסרטוני וידאו."</string>
+    <string name="permission_title">הסכם משתמש</string>
+    <string name="app_name">סרוק</string>
+    <string name="action_settings">הכן</string>
+    <string name="hello_world">שלום עולם!</string>
+    <string name="str_scan_title">סורק</string>
+    <string name="str_send_scan_already">נשלח</string>
+    <string name="str_scan_ing">טוען</string>
+    <string name="str_image_add_exception">התרחשה שגיאה בעת הוספת התמונה, נסה שוב</string>
+    <string name="str_scan_failed">לא ניתן לזהות את התמונה</string>
+    <string name="str_scan_time_out">אין תוצאות מוכרות</string>
+    <string name="str_scan_resume">גע במסך כדי להמשיך סריקה</string>
+    <string name="str_scan_content_qrcode">הנח את קוד QR / ברקוד לתוך המסגרת עמ שנוכל לסרוק באופן אוטומטי</string>
+    <string name="str_scan_content_card">הנח את הכרטיס השם לתוך המסגרת עמ שנוכל לסרוק באופן אוטומטי</string>
+    <string name="str_scan_content_card_support">עובד באמצעות CamCard</string>
+    <string name="str_send_scan_to_desktop">שלח סרוק על שולחן העבודה שלך בטלפון</string>
+    <string name="str_capture_qrcode_result">תוצאות סריקה</string>
+    <string name="copy_text_succeed">מועתק ללוח</string>
+    <string name="str_result_head_text">תוצאות סריקה: טקסט</string>
+    <string name="str_result_head_contact">תוצאות סריקה: כרטיס שם</string>
+    <string name="str_result_head_website">תוצאות סריקה: אתר</string>
+    <string name="str_result_head_barcode">תוצאות סריקה: ברקוד</string>
+    <string name="str_result_head_wifi">תוצאות סריקה: רשת אלחוטית</string>
+    <string name="str_result_body_hint_wifi">הרשת האלחוטית החינמית עלולה להוות סכנה</string>
+    <string name="str_result_body_hint_url_safe">האתר בטוח</string>
+    <string name="str_result_body_hint_url_unsafe">האתר עלול לא בטוח</string>
+    <string name="str_result_body_address_name">שֵׁם</string>
+    <string name="str_result_body_address_no_name">שם ריק</string>
+    <string name="str_result_body_address_telephone">מספר טלפון</string>
+    <string name="str_result_body_address_nicknames">כינוי</string>
+    <string name="str_result_body_address_emails">אימייל</string>
+    <string name="str_result_body_address_note">הערות</string>
+    <string name="str_result_body_address_address">כתובת</string>
+    <string name="str_result_body_address_org">חֶברָה</string>
+    <string name="str_result_body_address_birthday">יום הולדת</string>
+    <string name="str_result_body_address_url">אתר אינטרנט</string>
+    <string name="str_result_body_wifi_name">שם משתמש</string>
+    <string name="str_result_body_wifi_password">סיסמה</string>
+    <string name="str_result_body_wifi_type">סוּג</string>
+    <string name="str_qrcode_result_foot_text_lift_button">עותק</string>
+    <string name="str_qrcode_result_foot_text_right_button">הוסף לפנקס</string>
+    <string name="str_qrcode_result_foot_contact_lift_button">צור קשר</string>
+    <string name="str_qrcode_result_foot_contact_right_button">הוסף לאנשי קשר</string>
+    <string name="str_qrcode_result_foot_url_middle_button">בקר באתר</string>
+    <string name="str_qrcode_result_foot_url_middle_button_barcode">חפש</string>
+    <string name="str_qrcode_result_foot_wifi_middle_button">קישור לרשת</string>
+    <string name="str_action_wechat">סריקה באמצעות WeChat</string>
+    <string name="str_action_alipay">סריקה באמצעות Alipay</string>
+    <string name="str_action_scanner_code">קוד סריקה</string>
+    <string name="str_action_scanner_card">כרטיס שם סריקה</string>
+    <string name="str_open_alipay_fail">סריקה נכשלה באמצעות Alipay, ייתכן שAlipay לא מותקן אצלך</string>
+    <string name="str_open_wechat_fail">סריקה נכשלה באמצעות WeChat, ייתכן WeChat, לא מותקן אצלך</string>
+</resources>

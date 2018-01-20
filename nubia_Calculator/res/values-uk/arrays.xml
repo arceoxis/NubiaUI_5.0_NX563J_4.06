@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>ліва дужка</item>
+        <item>права дужка</item>
+        <item>факторіал</item>
+        <item>натуральний логарифм</item>
+        <item>логарифм</item>
+        <item>квадратний корінь</item>
+        <item>поділити на</item>
+        <item>помножити на</item>
+        <item>плюс</item>
+        <item>мінус</item>
+        <item> крапка </item>
+        <item>показник ступеня</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пі</item>
+        <item>дорівнює</item>
+    </string-array>
+</resources>

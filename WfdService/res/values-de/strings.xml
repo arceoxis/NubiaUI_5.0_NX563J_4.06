@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bildschirmprojektionsdienst</string>
+    <string name="wfd_service">Bildschirmprojektionsdienst</string>
+    <string name="mirroring_on">Bildschirmprojektionsdienst läuft</string>
+    <string name="tosat_standby">Bildschirmprojektion ist im Standby</string>
+    <string name="wifi_display_notification_connected_title">Übertragen</string>
+    <string name="wifi_display_notification_disconnect">Verbinden</string>
+    <string name="wifi_display_notification_touch_for_detail">Für weitere Informationen berühren</string>
+    <string name="wifi_display_notification_sink_detail">Bitte schalten Sie das W-LAN nicht aus</string>
+</resources>

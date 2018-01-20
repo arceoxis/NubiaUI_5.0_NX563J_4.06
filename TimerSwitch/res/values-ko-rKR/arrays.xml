@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>%1$s 시간이 지금으로부터 1분 이내입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %2$s입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %3$s입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %2$s 및 %3$s입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %4$s입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %2$s 및 %4$s입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %3$s 및 %4$s입니다.</item>
+        <item>%1$s 시간이 지금으로부터 %2$s, %3$s 및 %4$s입니다.</item>
+    </string-array>
+</resources>

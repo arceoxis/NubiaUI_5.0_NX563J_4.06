@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Se eliminarán %1$s conversaciones.</item>
+        <item quantity="one">Se eliminará una conversación.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">%ssegundo</item>
+        <item quantity="few">%s segundos</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s resultados para \"%2$s\"</item>
+        <item quantity="one">%1$s resultado para \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">Otros mensajes (%1$s)</item>
+        <item quantity="one">Otro mensaje (%1$s)</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personas</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s plantillas se eliminarán.</item>
+        <item quantity="one">Se eliminará una plantilla.</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">y otras personas %1$s</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s hilos para \"%2$s\"</item>
+        <item quantity="one">%1$s hilos para \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s mensajes para \"%2$s\"</item>
+        <item quantity="one">%1$s mensajes para \"%2$s\"</item>
+    </plurals>
+</resources>

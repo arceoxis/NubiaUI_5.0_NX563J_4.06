@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>বাম প্যারেন্টেসিস</item>
+        <item>ডানদিকের বন্ধনী</item>
+        <item>কারখানা সম্পর্কিত</item>
+        <item>স্বাভাবিক লগারিদম</item>
+        <item>লগ্যারিদম</item>
+        <item>বর্গমূল</item>
+        <item>দ্বারা বিভক্ত</item>
+        <item>দ্বারা গুণিত</item>
+        <item>যোগ</item>
+        <item>বিয়োগ</item>
+        <item>পয়েন্ট</item>
+        <item>পাওয়ার ব্যবহার চার্জ</item>
+        <item>স্পর্শক</item>
+        <item>সাইন</item>
+        <item>কোসাইন</item>
+        <item>পি</item>
+        <item>সমান</item>
+    </string-array>
+</resources>

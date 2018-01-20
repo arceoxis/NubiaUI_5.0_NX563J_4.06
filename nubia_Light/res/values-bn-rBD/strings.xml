@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">ফ্ল্যাশলাইট</string>
+    <string name="close">বন্ধ করুন</string>
+    <string name="nocamere">ক্যামেরা নিষ্ক্রিয় আছে বা অন্য কোন অ্যাপ দ্বারা ব্যবহৃত হচ্ছে। দয়া করে ক্যামেরা ব্যবহারের অনুমতি দিন বা ক্যামেরা ব্যবহার করার জন্য অন্য অ্যাপগুলি বন্ধ করুন।</string>
+    <string name="keepon">সর্বদা ফ্ল্যাশলাইটের আলো জ্বালিয়ে রাখার জন্য ওপরে সোয়াইপ করুন</string>
+    <string name="allkeepon">সর্বদা আলো জ্বালিয়ে রাখুন</string>
+    <string name="light_already_open">চালু আছে</string>
+    <string name="cts_tip_message">এই বৈশিষ্ট্যটির জন্য নিম্নলিখিত অনুমতিগুলি সক্রিয় করার প্রয়োজন আছে, সেটিংসে গিয়ে সেগুলিকে সক্রিয় করবেন?</string>
+    <string name="cts_tip_camera">·ক্যামেরা</string>
+    <string name="cts_tip_phone">·টেলিফোন</string>
+    <string name="cts_tip_enable">চালু করুন</string>
+    <string name="cts_tip_quit">বাতিল করুন</string>
+</resources>

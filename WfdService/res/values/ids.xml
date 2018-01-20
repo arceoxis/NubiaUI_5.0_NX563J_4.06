@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="wfd_notification_icon">false</item>
+    <item type="id" name="wfd_common_state_info">false</item>
+    <item type="id" name="wfd_common_state_sub_info">false</item>
+    <item type="id" name="wfd_action_button">false</item>
+    <item type="id" name="wfd_line">false</item>
+</resources>

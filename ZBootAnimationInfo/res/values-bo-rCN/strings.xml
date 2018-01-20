@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">འཕྲུལ་ཆས་སྒུལ་སློང་འགུལ་རིས།</string>
+    <string name="str_author_info">རྩོམ་པ་པོའི་ཆ་འཕྲིན།</string>
+    <string name="str_view_origin_picture">འདྲ་པར་ལ་ལྟ་བཤེར་བྱེད།</string>
+    <string name="str_click_picture">པར་རིས་རྡེབ།</string>
+    <string name="str_view_detail">གནས་ཚུལ་ཕྲ་མོར་ལྟ་རྟོག་བྱེད།</string>
+    <string name="str_i_know">ངས་ཤེས་སོང་།</string>
+    <string name="str_slip_info">གཡས་གཡོན་དུ་འདྲེད་འགུལ་བྱས་ན་བརྗེ་སྤོར་བྱེད།</string>
+    <string name="str_thanks_share">དྲ་གྲོགས་%1$s་ཡི་མཉམ་རོལ་ལ་བཀའ་དྲིན་ཆེ་ཞུ།</string>
+</resources>

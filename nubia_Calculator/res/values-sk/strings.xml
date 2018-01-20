@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string name="error">Chyba</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">Zapísaný text v poli dosiahol max. dĺžku.</string>
+    <string name="outoff_storage">Nedostatočný úložný priestor, uvoľnite priestor pred používaním</string>
+    <string name="upgrade_title_message">Detekovaná nová verzia, aktualizovať?</string>
+    <string name="calculator_version_upgrade_notification_title">Aktualizácia kalkulačky</string>
+    <string name="alert_dialog_cancel">Zrušiť</string>
+    <string name="alert_dialog_ok">Potvrdiť</string>
+    <string name="cta_warning">Odvolanie</string>
+    <string name="cta_warning_cancel">Zrušiť</string>
+    <string name="cta_warning_ok">Potvrdiť</string>
+    <string name="cta_warning_text">Aplikácia sa pripojí k Vašej sieti, pamäti a stavu telefónu, pokračovať?</string>
+    <string name="cts_warning_text">Aplikácia musí získať potrebné povolenia, inak nebude fungovať.</string>
+    <string name="cts_warning_title">Táto funkcia si vyžaduje nasledujúce povolenia - prejsť na nastavenia a povoliť ich?</string>
+    <string name="cts_phone">"·Telefón
+"</string>
+    <string name="cts_storage">"·Úložisko
+"</string>
+    <string name="go_permission_setting">Zapnúť</string>
+    <string name="del">ODSTRÁNIŤ</string>
+    <string name="clear">Vymaz.</string>
+    <string name="basic">Základné funkcie</string>
+    <string name="advanced">Rozšírené funkcie</string>
+    <string name="clear_history">Vymazať históriu</string>
+    <string name="text_copied_toast">Text bol skopírovaný.</string>
+    <string name="leftParenDesc">ľavá zátvorka</string>
+    <string name="rightParenDesc">pravá zátvorka</string>
+    <string name="factorialDesc">faktoriál</string>
+    <string name="lnDesc">prirodzený logaritmus</string>
+    <string name="lgDesc">logaritmus</string>
+    <string name="sqrtDesc">druhá odmocnina</string>
+    <string name="divDesc">deliť</string>
+    <string name="mulDesc">vynásobiť</string>
+    <string name="plusDesc">plus</string>
+    <string name="minusDesc">mínus</string>
+    <string name="dotDesc">desatinná čiarka</string>
+    <string name="powerDesc">umocniť</string>
+    <string name="delDesc">odstrániť</string>
+    <string name="clearDesc">vymazať</string>
+    <string name="tanDesc">tangens</string>
+    <string name="sinDesc">sínus</string>
+    <string name="cosDesc">kosínus</string>
+    <string name="eDesc">Eulerovo číslo</string>
+    <string name="piDesc">pí</string>
+    <string name="equalDesc">sa rovná</string>
+    <string name="clearAll">AC</string>
+</resources>

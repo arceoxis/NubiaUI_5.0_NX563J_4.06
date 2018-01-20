@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_names">
+        <item>አቢጃን</item>
+        <item>አክራ</item>
+        <item>አዲስ አበባ</item>
+        <item>አልጀርስ</item>
+        <item>ብላንቲር</item>
+        <item>ብራዛቪል</item>
+        <item>ካይሮ</item>
+        <item>ካዛብላንካ</item>
+        <item>ኮናክሪ</item>
+        <item>ዳካር</item>
+        <item>ዳሬሰላም</item>
+        <item>ጅቡቲ</item>
+        <item>ፍሪታውን</item>
+        <item>ጋቦሮኔ</item>
+        <item>ሀራሬ</item>
+        <item>ጆሃንስበርግ</item>
+        <item>ካምፓላ</item>
+        <item>ካርቱም</item>
+        <item>ኪጋሊ</item>
+        <item>ኪንሻሳ</item>
+        <item>ሌጎስ</item>
+        <item>ማሴሩ</item>
+        <item>ሞቃዲሹ</item>
+        <item>ናይሮቢ</item>
+        <item>ሳኦ ቶሜ</item>
+        <item>ቲምቡክቱ</item>
+        <item>ትሪፖሊ</item>
+        <item>ቱኒስ</item>
+        <item>አንኮሬጅ</item>
+        <item>ሜንዶዛ</item>
+        <item>አሩባ</item>
+        <item>አሱንሲዮን</item>
+        <item>ባርቤዶስ</item>
+        <item>ቤሊዝ</item>
+        <item>ቦጎታ</item>
+        <item>ቦነስ አይረስ</item>
+        <item>ካንኩን</item>
+        <item>ካራካስ</item>
+        <item>ኬይማን</item>
+        <item>ቺካጎ</item>
+        <item>ኮስታ ሪካ</item>
+        <item>ኩራሳዎ</item>
+        <item>ዳውሰን ክሪክ</item>
+        <item>ዴንቨር</item>
+        <item>ዲትሮይት</item>
+        <item>ዶሚኒካ</item>
+        <item>ኤድመንተን</item>
+        <item>ኤል ሳልቫዶር</item>
+        <item>ፎርታለዛ</item>
+        <item>ግራንድ ቱርክ</item>
+        <item>ግረናዳ</item>
+        <item>ጓቲማላ</item>
+        <item>ጉያና</item>
+        <item>ሃሊፋክስ</item>
+        <item>ሀቫና</item>
+        <item>ኢንዲያናፖሊስ</item>
+        <item>ኖክስ</item>
+        <item>ማሬንጎ</item>
+        <item>ፒተርስበርግ</item>
+        <item>ቴል ሲቲ</item>
+        <item>ቨቫይ</item>
+        <item>ቪንሰነስ</item>
+        <item>ዊናማክ</item>
+        <item>ኪንግስተን</item>
+        <item>ኑዌስትራ ሰኞራ ዴ ላ ፓዝ</item>
+        <item>ሊማ</item>
+        <item>ሎስ አንጀለስ</item>
+        <item>ሉዊስቪል</item>
+        <item>ማናጉዋ</item>
+        <item>ማርቲኒክ</item>
+        <item>ሜንዶዛ</item>
+        <item>ሜትላካትላ</item>
+        <item>ሜክሲኮ ከተማ</item>
+        <item>ሞንተሬይ</item>
+        <item>ሞንተቪዴዮ</item>
+        <item>ሞንትሪል</item>
+        <item>ናሳው</item>
+        <item>ኒው ዮርክ</item>
+        <item>ቤውላህ</item>
+        <item>መሃል</item>
+        <item>ኒው ሳሌም</item>
+        <item>ፓናማ</item>
+        <item>ፊኒክስ</item>
+        <item>ፖርት ኦፍ ስፔን</item>
+        <item>ፖርት-ኦ-ፕሪንስ</item>
+        <item>ፖርቶ ሪኮ</item>
+        <item>ሳንቶ ዶሚንጎ</item>
+        <item>ሳዎ ፓውሎ</item>
+        <item>ሴንት ጆንስ</item>
+        <item>ሴንት ኪትስ</item>
+        <item>ሴንት ሉሲያ</item>
+        <item>ሴንት ቶማስ</item>
+        <item>ቲጇና</item>
+        <item>ቶሮንቶ</item>
+        <item>ቫንኩቨር</item>
+        <item>ዊኒፔግ</item>
+        <item>ደቡብ ዋልታ</item>
+        <item>ሎንግየርቢየን</item>
+        <item>አልማቲ</item>
+        <item>አማን</item>
+        <item>አናዲር</item>
+        <item>አክታው</item>
+        <item>ባግዳድ</item>
+        <item>ባህሬን</item>
+        <item>ባኩ</item>
+        <item>ባንኮክ</item>
+        <item>ቤይሩት</item>
+        <item>ካልካታ</item>
+        <item>ደማስቆ</item>
+        <item>ዳካ</item>
+        <item>ዱባይ</item>
+        <item>ጋዛ</item>
+        <item>ኬብሮን</item>
+        <item>ሆ ቺ ሚን</item>
+        <item>ሆንግ ኮንግ</item>
+        <item>ኢስታንቡል</item>
+        <item>ጃካርታ</item>
+        <item>እየሩሳሌም</item>
+        <item>ካቡል</item>
+        <item>ካራቺ</item>
+        <item>ካትማንዱ</item>
+        <item>ኳላ ላምፑር</item>
+        <item>ኩዌት</item>
+        <item>ማካው</item>
+        <item>ማኒላ</item>
+        <item>ሙስካት</item>
+        <item>ፍኖም ፐን</item>
+        <item>ፒዮንግያንግ</item>
+        <item>ኳታር</item>
+        <item>ራንጉን</item>
+        <item>ሪያድ</item>
+        <item>ሳይጎን</item>
+        <item>ሴውል</item>
+        <item>ሲንጋፖር</item>
+        <item>ታይፔይ</item>
+        <item>ቴህራን</item>
+        <item>ቴል አቪቭ</item>
+        <item>ቶክዮ</item>
+        <item>ኡላንባታር</item>
+        <item>ቤርሙዳ</item>
+        <item>ካናሪ</item>
+        <item>ኬፕ ቨርዴ</item>
+        <item>ሬይክጃቪክ</item>
+        <item>ስታንሊ</item>
+        <item>አዴላይድ</item>
+        <item>ብሪስቤን</item>
+        <item>ካንቤራ</item>
+        <item>ዳርዊን</item>
+        <item>ሜልቦርን</item>
+        <item>ኒው ሳውዝ ዌልስ</item>
+        <item>ፐርዝ</item>
+        <item>ኲንስላንድ</item>
+        <item>ሲድኒ</item>
+        <item>ቪክቶሪያ</item>
+        <item>ኒውፋውንድላንድ</item>
+        <item>ሳስካቸዋን</item>
+        <item>ኢስተር ደሴት</item>
+        <item>አምስተርዳም</item>
+        <item>አንዶራ</item>
+        <item>አቴንስ</item>
+        <item>ቤልፋስት</item>
+        <item>ቤልግሬድ</item>
+        <item>በርሊን</item>
+        <item>ብራቲስላቫ</item>
+        <item>ብራስልስ</item>
+        <item>ቡካረስት</item>
+        <item>ቡዳፔስት</item>
+        <item>ቺሲናው</item>
+        <item>ኮፐንሃገን</item>
+        <item>ደብሊን</item>
+        <item>ጂብራልታር</item>
+        <item>ሄልሲንኪ</item>
+        <item>አይል ኦፍ ማን</item>
+        <item>ኢስታንቡል</item>
+        <item>ኪዬቭ</item>
+        <item>ሊስቦን</item>
+        <item>ለንደን</item>
+        <item>ሉክሰምበርግ</item>
+        <item>ማድሪድ</item>
+        <item>ማልታ</item>
+        <item>ሚንስክ</item>
+        <item>ሞናኮ</item>
+        <item>ሞስኮ</item>
+        <item>ኦስሎ</item>
+        <item>ፓሪስ</item>
+        <item>ፕራግ</item>
+        <item>ሪጋ</item>
+        <item>ሮም</item>
+        <item>ሳን ማሪኖ</item>
+        <item>ሳራየቮ</item>
+        <item>ሲምፈሮፖል</item>
+        <item>ስኮፕዬ</item>
+        <item>ሶፊያ</item>
+        <item>ስቶኮልም</item>
+        <item>ታሊን</item>
+        <item>ቫቲካን</item>
+        <item>ቪዬና</item>
+        <item>ቪልኒየስ</item>
+        <item>ዋርሳው</item>
+        <item>ዛግሬብ</item>
+        <item>ዙሪክ</item>
+        <item>አንታናናሪቮ</item>
+        <item>ማልዲቪስ</item>
+        <item>ሞሪሽየስ</item>
+        <item>ኦክላንድ</item>
+        <item>ፊጂ</item>
+        <item>ጉዋም</item>
+        <item>ሆኖሉሉ</item>
+        <item>ኪሪቲማቲ</item>
+        <item>ኖኡሚያ</item>
+        <item>ሳሞዋ</item>
+        <item>ታሂቲ</item>
+        <item>አንቲጓ</item>
+        <item>ኦስቲን</item>
+        <item>ቦስተን</item>
+        <item>ካልጋሪ</item>
+        <item>ኮሎምበስ</item>
+        <item>ዳላስ</item>
+        <item>ኖክስቪል</item>
+        <item>ሜምፊስ</item>
+        <item>ማያሚ</item>
+        <item>ሚኒያፖሊስ</item>
+        <item>ኦታዋ</item>
+        <item>ፊላዴልፊያ</item>
+        <item>ፖርትላንድ</item>
+        <item>ሳን ዲዬጎ</item>
+        <item>ሳን ፍራንሲስኮ</item>
+        <item>ሶልት ሌክ ሲቲ</item>
+        <item>ሳን ሆሴ</item>
+        <item>ሳን ሳልቫዶር</item>
+        <item>ሲያትል</item>
+        <item>ሴንት ሉዊስ</item>
+        <item>ዋሺንግተን ዲ.ሲ.</item>
+        <item>ሂዩስተን</item>
+        <item>ሳን አንቶኒዮ</item>
+        <item>ጃክሰንቪል</item>
+        <item>ባልቲሞር</item>
+        <item>ናሽቪል</item>
+        <item>ሚልዋውኪ</item>
+        <item>ኦክላሆማ ከተማ</item>
+        <item>ላስ ቬጋስ</item>
+        <item>አልበርከርኪ</item>
+        <item>ተክሰን</item>
+        <item>ሳክራሜንቶ</item>
+        <item>አትላንታ</item>
+        <item>ክሊቭላንድ</item>
+        <item>ኒው ኦርሊንስ</item>
+        <item>ታምፓ</item>
+        <item>ፒትስበርግ</item>
+        <item>ሲንሲናቲ</item>
+        <item>ማውንቴን ቪው</item>
+        <item>ሬኖ</item>
+        <item>ብላክ ሮክ ሲቲ</item>
+        <item>ዶሃ</item>
+        <item>ቤጂንግ</item>
+        <item>ሙምባይ</item>
+        <item>ዴልሂ</item>
+        <item>ኦሳካ</item>
+        <item>ላሆር</item>
+        <item>ሰንዓ</item>
+        <item>ባርሴሎና</item>
+        <item>ሙኒክ</item>
+        <item>ሚላን</item>
+        <item>ፍራንክፈርት</item>
+        <item>ሃኖይ</item>
+        <item>አንካራ</item>
+        <item>ባንጋሎር</item>
+        <item>ብራሲሊያ</item>
+        <item>ኬፕ ታውን</item>
+        <item>ኢስላማባድ</item>
+        <item>ሪዮ ዴ ጀኔይሮ</item>
+        <item>አን አርቦር</item>
+        <item>ቡልደር</item>
+        <item>ካምብሪጅ</item>
+        <item>ኪርክላንድ</item>
+        <item>ማዲሰን</item>
+        <item>ሃይደራባድ</item>
+        <item>ሬስተን</item>
+    </string-array>
+    <string-array name="timer_notifications">
+        <item>ከአንድ ደቂቃ በታች ይቀራል</item>
+        <item>%1$s ይቀራል</item>
+        <item>%2$s ይቀራል</item>
+        <item>%1$s%2$s ይቀራል</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>"ማንቂያ ከአሁን ወዲያ ከ1 ደቂቃ በታች  የተዘጋጀ ነው፡፡"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ%1$s የተዘጋጀ ነው።"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ%2$s የተዘጋጀ ነው።"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ %1$s እና %2$s የተዘጋጀ ነው።"</item>
+        <item>ማንቂያ ከአሁን ጀምሮ ለ%3$s የተዘጋጀ ነው።</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ %1$s እና %3$s የተዘጋጀ ነው።"</item>
+        <item>" ማንቂያ ከአሁን ጀምሮ ለ %2$s እና %3$s የተዘጋጀ ነው።"</item>
+        <item>ይህ ማንቂያ ከአሁን ጀምሮ ለ%1$s%2$s%3$s የተዘጋጀ ነው።</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>15 ደቂቃዎች</item>
+        <item>20 ደቂቃዎች</item>
+        <item>25 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>በጭራሽ</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>አሸልብ</item>
+        <item>አጥፋ</item>
+        <item>ምንም አትስራ</item>
+    </string-array>
+    <string-array name="sw_share_strings">
+        <item>ፈጣን ነዎት።</item>
+        <item>በልፋትዎ ውጤት ይደሰቱ።</item>
+        <item>Androidዎች ፈጣን በመሆን ይታወቃሉ፣ ግን የእርስዎን ያህል ፈጣን አይደሉም!</item>
+        <item>ኡፎይ።</item>
+        <item>L33t ጊዜ።</item>
+        <item>እንደዚህ ያለ እጅግ በጣም ከፍተኛ ፍጥነት።</item>
+        <item>የጊዜ ዋርፕ እንድገመው።</item>
+        <item>ወደ ግራ ዘለል ማለት ብቻ ነው።</item>
+        <item>የመጣደፍ ተሰጥዖ አለዎት</item>
+        <item>የብርሃን ፍጥነት።</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>አናሎግ</item>
+        <item>ዲጂታል</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>የማርሻል ደሴቶች</item>
+        <item>የሚድዌይ ደሴት</item>
+        <item>ሀዋይ</item>
+        <item>አላስካ</item>
+        <item>ፓሰፊክ ሰዓት</item>
+        <item>ቲጇና</item>
+        <item>አሪዞና</item>
+        <item>ቺዋዋ</item>
+        <item>የተራራ ሰዓት</item>
+        <item>መካከለኛው አሜሪካ</item>
+        <item>የመካከለኛው ሰዓት</item>
+        <item>ሜክሲኮ ከተማ</item>
+        <item>ሳስካታቸዋን</item>
+        <item>ቦጎታ</item>
+        <item>ምስራቃዊ ሰዓት</item>
+        <item>ቬኔዝዌላ</item>
+        <item>የአትላንቲክ ሰዓት (ባርባዶስ)</item>
+        <item>የአትላንቲክ ሰዓት (ካናዳ)</item>
+        <item>ማናኡስ</item>
+        <item>ሳንቲያጎ</item>
+        <item>ኒውፋውንድላንድ</item>
+        <item>ብራሲሊያ</item>
+        <item>ቦነስ አይረስ</item>
+        <item>ግሪንላንድ</item>
+        <item>ሞንተቪዴዮ</item>
+        <item>ማዕከላዊ-አትላንቲክ</item>
+        <item>አዞረስ</item>
+        <item>ኬፕ ቨርዴ ደሴቶች</item>
+        <item>ካዛብላንካ</item>
+        <item>ለንደን፣ ደብሊን</item>
+        <item>አምስተርዳም፣ በርሊን</item>
+        <item>ቤልግሬድ</item>
+        <item>ብራስልስ</item>
+        <item>ሳራየቮ</item>
+        <item>ዊንድሆዌክ</item>
+        <item>የምዕራብ አፍሪካ ሰዓት</item>
+        <item>አማን፣ ዮርዳኖስ</item>
+        <item>አቴንስ፣ ኢስታንቡል</item>
+        <item>ቤሩት፣ ሊባኖስ</item>
+        <item>ካይሮ</item>
+        <item>ሄልሲንኪ</item>
+        <item>እየሩሳሌም</item>
+        <item>ሚንስክ</item>
+        <item>ሀራሬ</item>
+        <item>ባግዳድ</item>
+        <item>ሞስኮ</item>
+        <item>ኩዌት</item>
+        <item>ናይሮቢ</item>
+        <item>ቴህራን</item>
+        <item>ባኩ</item>
+        <item>ትብሊሲ</item>
+        <item>የረቫን</item>
+        <item>ዱባይ</item>
+        <item>ካቡል</item>
+        <item>ኢስላማባድ፣ ካራቺ</item>
+        <item>ኡራልስክ</item>
+        <item>የካተሪንበርግ</item>
+        <item>ኮልካታ</item>
+        <item>ሽሪላንካ</item>
+        <item>ካትማንዱ</item>
+        <item>አስታና</item>
+        <item>ያንጎን</item>
+        <item>ክራስኖያርስክ</item>
+        <item>ባንግኮክ</item>
+        <item>ቤጂንግ</item>
+        <item>ሆንግ ኮንግ</item>
+        <item>ኢርኩትስክ</item>
+        <item>ኳላ ላምፑር</item>
+        <item>ፐርዝ</item>
+        <item>ታይፔይ</item>
+        <item>ሴኦል</item>
+        <item>ቶኪዮ፣ ኦሳካ</item>
+        <item>ያኩትስክ</item>
+        <item>አዴላይድ</item>
+        <item>ዳርዊን</item>
+        <item>ብሪስቤን</item>
+        <item>ሆባርት</item>
+        <item>ሲድኒ፣ ካንቤራ</item>
+        <item>ቭላዲቮስቶክ</item>
+        <item>ጉዋም</item>
+        <item>ማጋዳን</item>
+        <item>ኦክላንድ</item>
+        <item>ፊጂ</item>
+        <item>ቶንጋ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nubia_preloaded_drawables">
+        <item>@drawable/nubia_ab_background_line</item>
+        <item>@drawable/nubia_ic_ab_back_material</item>
+        <item>@drawable/nubia_actionbar_tab_bg</item>
+        <item>@drawable/nubia_list_divider_material</item>
+        <item>@drawable/nubia_ic_search_api_material</item>
+        <item>@drawable/nubia_ic_go_search_api_material</item>
+        <item>@drawable/nubia_ic_clear_material</item>
+        <item>@drawable/nubia_item_background_material</item>
+        <item>@drawable/nubia_menu_item_background</item>
+        <item>@drawable/nubia_menu_item_bottom_background</item>
+        <item>@drawable/nubia_btn_default_material</item>
+        <item>@drawable/nubia_switch_thumb_material</item>
+        <item>@drawable/nubia_switch_track_material</item>
+        <item>@drawable/nubia_switch_thumb_material_anim</item>
+    </array>
+    <array name="nubia_preloaded_color_state_lists">
+        <item>@color/nubia_primary_text_material_light</item>
+        <item>@color/nubia_secondary_text_material_light</item>
+    </array>
+    <array name="letter_tile_colors">
+        <item>#ffffea00</item>
+        <item>#ffffc20d</item>
+        <item>#ffffaa33</item>
+        <item>#ffff7733</item>
+        <item>#ffff4d4d</item>
+        <item>#fff23091</item>
+        <item>#ffbb33ff</item>
+        <item>#ff7733ff</item>
+        <item>#ff4d5bff</item>
+        <item>#ff3388ff</item>
+        <item>#ff00bfff</item>
+        <item>#ff00ebbc</item>
+        <item>#ff00e35f</item>
+        <item>#ff49cc3d</item>
+        <item>#ff90d900</item>
+        <item>#ffd2e600</item>
+    </array>
+    <integer-array name="nubia_config_autoBrightnessLevels">
+        <item>1</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+        <item>400</item>
+        <item>900</item>
+        <item>2000</item>
+        <item>5000</item>
+    </integer-array>
+    <integer-array name="nubia_config_autoBrightnessLcdBacklightValues">
+        <item>23</item>
+        <item>46</item>
+        <item>88</item>
+        <item>111</item>
+        <item>120</item>
+        <item>134</item>
+        <item>164</item>
+        <item>206</item>
+        <item>244</item>
+    </integer-array>
+    <integer-array name="config_mNubiaLowPattern">
+        <item>30</item>
+    </integer-array>
+    <string-array name="app_ops_labels">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>write/delete contacts</item>
+        <item>read call log</item>
+        <item>write/delete call log</item>
+        <item>read calendar</item>
+        <item>write/delete calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS/MMS</item>
+        <item>write/delete SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read SMS/MMS</item>
+        <item>write/delete ICC SMS</item>
+        <item>modify settings</item>
+        <item>Display pop-up window</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ring volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>toast window</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>write wallpaper</item>
+        <item>assist structure</item>
+        <item>assist screenshot</item>
+        <item>read phone state</item>
+        <item>add voicemail</item>
+        <item>use sip</item>
+        <item>process outgoing calls</item>
+        <item>use fingerprint</item>
+        <item>body sensors</item>
+        <item>read cell broadcasts</item>
+        <item>mock location</item>
+        <item>read external storage</item>
+        <item>write external storage</item>
+        <item>turn screen on</item>
+        <item>get accounts</item>
+        <item>change wlan</item>
+        <item>change bluetooth</item>
+        <item>send MMS</item>
+        <item>write/delete MMS</item>
+        <item>delete SMS</item>
+        <item>delete MMS</item>
+        <item>delete contracts</item>
+        <item>delete call log</item>
+        <item>install shortcut</item>
+        <item>run in background</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Install Package</item>
+    </string-array>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+</resources>

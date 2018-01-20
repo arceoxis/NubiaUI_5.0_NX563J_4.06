@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adjunct_instruction_texts">
+        <item>1.什么是小号？</item>
+        <item>"
+小号是您nubia账号下，专门用来在指定游戏里创建多个游戏账号的一种便捷功能。
+
+"</item>
+        <item>2.小号和nubia账号的关系是怎样的？</item>
+        <item>"
+多个小号与一个nubia账号绑定，不可分离、不可删除、没有独立密码。一个游戏最多可以建立5个小号。
+
+"</item>
+        <item>3.多个小号可以多次参与nubia应用中心活动，在其中领取多个礼包吗？</item>
+        <item>"
+不可以，在nubia应用中心中一个nubia账号只能参与一次活动，领取一个礼包，但游戏内的活动多个小号可同时参与。
+
+如仍有疑问请咨询客服qq：4007006600。"</item>
+    </string-array>
+    <string-array name="float_toolbar_items">
+        <item>@string/floatview_user_info</item>
+        <item>@string/floatview_message</item>
+        <item>@string/floatview_gift</item>
+        <item>@string/floatview_bbs</item>
+        <item>@string/floatview_hot_point</item>
+    </string-array>
+    <string-array name="hot_point_items">
+        <item>@string/strategy</item>
+        <item>@string/reviews</item>
+        <item>@string/news</item>
+    </string-array>
+</resources>

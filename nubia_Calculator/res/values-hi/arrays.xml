@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>बायां कोष्ठक</item>
+        <item>दायां कोष्ठक</item>
+        <item>क्रमगुणित</item>
+        <item>प्राकृतिक लघुगणक</item>
+        <item>लघुगणक</item>
+        <item>वर्गमूल</item>
+        <item>इसके द्वारा विभाजित</item>
+        <item>इससे गुणित</item>
+        <item>योग</item>
+        <item>ऋण</item>
+        <item> अंक </item>
+        <item>घात</item>
+        <item>स्पर्शज्या</item>
+        <item>ज्या</item>
+        <item>कोज्या</item>
+        <item>पाई</item>
+        <item>बराबर है</item>
+    </string-array>
+</resources>

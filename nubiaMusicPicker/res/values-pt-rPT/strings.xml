@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicPicker</string>
+    <string name="unknown_artist_name">Artista desconhecido</string>
+    <string name="unknown_album_name">Álbum desconhecido</string>
+    <string name="sdcard_missing_message">O SD cartão não é inserido.</string>
+    <string name="no_recordfile">Sem Gravações</string>
+    <string name="add_recordfile">Para gravar um arquivo com o seu gravador de som primeiro</string>
+    <string name="no_musicfile">Sem Arquivos de Música</string>
+    <string name="silent">Silêncio</string>
+    <string name="cancel_picker">Cancelar</string>
+    <string name="ok_picker">OK</string>
+    <string name="custom_ring">Melodia Default</string>
+    <string name="cut_fail">Não pode cortar este arquivo</string>
+    <string name="cut_success">Cortar e ajustar com sucesso</string>
+    <string name="cut_copy">_copiando</string>
+    <string name="dlg_wait">Cortando</string>
+    <string name="dlg_title">Ajustes de Melodia</string>
+    <string name="dlg_message">Se quer ajustar como a sua melodia?</string>
+    <string name="dlg_yes">Sim</string>
+    <string name="dlg_no">Não</string>
+    <string name="internal_media">Media Internal</string>
+    <string name="external_media">Música Local</string>
+    <string name="record_media">Gravações</string>
+    <string name="picker_title">Melodias</string>
+    <string name="picker_ringer_silent_mode">O telefone é %s estado, favor aumente o volume.</string>
+    <string name="picker_silent_mode">Mute</string>
+    <string name="picker_vibrate_mode">vibração</string>
+    <string name="wait_loading">Carregando os dados...</string>
+    <string name="music_file_unexist">O arquivo não existe.</string>
+</resources>

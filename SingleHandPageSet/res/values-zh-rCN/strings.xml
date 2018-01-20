@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">单手模式</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_single">欢迎进入单手模式</string>
+    <string name="welcome_to_single2">点击屏幕为你测试最合适你的单手模式</string>
+    <string name="test_single1">放置拇指</string>
+    <string name="test_single2">单手握持手机，伸直拇指平放在屏幕上画一段圆弧</string>
+    <string name="test_single_invalid">平放在屏幕上画一段圆弧</string>
+    <string name="show_single">最适合你的单手小屏</string>
+    <string name="try_more">再试一次</string>
+    <string name="begin">开始使用</string>
+    <string name="welcome_to_begin">欢迎使用为你适配的单手模式</string>
+    <string name="single_hand_cancel">取消</string>
+    <string name="single_hand_setting">去设置</string>
+    <string name="single_hand_dialog_message">%1$s已被单手模式屏蔽。在%1$s页面启用单手模式， 需要进入系统设置-更多特色功能-单手模式-屏蔽单手应用，更改设置。</string>
+</resources>

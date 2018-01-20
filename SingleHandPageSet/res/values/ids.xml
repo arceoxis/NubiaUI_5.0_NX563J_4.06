@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="animation">false</item>
+    <item type="id" name="promText">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="set">false</item>
+</resources>

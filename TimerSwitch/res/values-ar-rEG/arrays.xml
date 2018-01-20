@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>تم تعيين %1$s‏ إلى أقل من دقيقة واحدة من الآن.</item>
+        <item>تم تعيين %1$s‏ إلى %2$s من الآن.</item>
+        <item>تم تعيين ‏%1$s‏ إلى ‏%3$s‏ من الآن.</item>
+        <item>تم تعيين ‏%1$s‏ إلى ‏%2$s‏ و‏%3$s‏ من الآن.</item>
+        <item>تم تعيين ‏%1$s‏ إلى ‏%4$s‏ من الآن.</item>
+        <item>تم تعيين ‏%1$s‏ إلى ‏%2$s‏ و‏%4$s‏ من الآن.</item>
+        <item>تم تعيين ‏%1$s‏ إلى ‏%3$s‏ و‏%4$s‏ من الآن.</item>
+        <item>تم تعيين ‏%1$s‏ إلى ‏%2$s‏ و‏%3$s‏ و‏%4$s‏ من الآن.</item>
+    </string-array>
+</resources>

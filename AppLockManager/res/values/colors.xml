@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lock_pattern_background">#00000000</color>
+    <color name="lock_pattern_view_regular_color">#ff37474f</color>
+    <color name="lock_pattern_view_success_color">#ff009688</color>
+    <color name="lock_pattern_view_error_color">#fff4511e</color>
+    <color name="unlock_pattern_view_regular_color">@android:color/white</color>
+    <color name="unlock_pattern_view_success_color">@color/theme_accent</color>
+    <color name="unlock_pattern_view_error_color">#fff4511e</color>
+    <color name="theme_accent">#ff009688</color>
+    <color name="statusbar_color">#fff5f5f5</color>
+    <color name="app_background_gradient_top">#ff29aab3</color>
+    <color name="app_background_gradient_bottom">#ff1fc39c</color>
+    <color name="ev_heading_text_error">#ffcc0000</color>
+    <color name="ev_heading_text_message">#ff555555</color>
+    <color name="ev_heading_text_done">#ff29aab3</color>
+    <color name="progress_bar_gradient_left">#ff1fc39c</color>
+    <color name="progress_bar_gradient_right">#ff29aab3</color>
+    <color name="counter_text_color">#ff1fc39c</color>
+    <color name="target_box_no_eyes">#ff777777</color>
+    <color name="target_box_has_eyes">#ff1fc39c</color>
+    <color name="notification_text_color">#ff555555</color>
+    <color name="notification_text_color_complete">#ffffffff</color>
+    <color name="enroll_success_tint">#ff00dd33</color>
+    <color name="enroll_failed_tint">#ffff4d4d</color>
+    <color name="enroll_normal_hint">#ff000000</color>
+    <color name="theme_color_red">#ffff4d4d</color>
+    <color name="capture_window_overlay_color">#ffffffff</color>
+    <color name="divider_line_color">#42506070</color>
+</resources>

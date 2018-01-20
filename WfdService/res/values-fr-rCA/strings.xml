@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Service de projection sur l'écran"</string>
+    <string name="wfd_service">"SService de projection sur l'écran"</string>
+    <string name="mirroring_on">"Le service de projection sur l'écran est activé"</string>
+    <string name="tosat_standby">"La projection sur l'écran est en veille"</string>
+</resources>

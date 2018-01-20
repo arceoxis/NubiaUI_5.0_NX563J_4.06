@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>kairysis skliaustas</item>
+        <item>dešinysis skliaustas</item>
+        <item>faktorialas</item>
+        <item>natūralusis logaritmas</item>
+        <item>logaritmas</item>
+        <item>kvadratinė šaknis</item>
+        <item>padalyta iš</item>
+        <item>padauginta iš</item>
+        <item>pliusas</item>
+        <item>minusas</item>
+        <item> taškas </item>
+        <item>laipsnis</item>
+        <item>tangentas</item>
+        <item>sinusas</item>
+        <item>kosinusas</item>
+        <item>pi</item>
+        <item>atitinka</item>
+    </string-array>
+</resources>

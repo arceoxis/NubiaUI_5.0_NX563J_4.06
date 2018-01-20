@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name">
+        <item>China (Continente)</item>
+    </string-array>
+    <string-array name="safe_question">
+        <item>Sin preguntas de seguridad</item>
+        <item>¿Cuál es el nombre de tu madre?</item>
+        <item>¿Cuál es el nombre de tu abuelo?</item>
+        <item>¿En qué ciudad nació tu padre?</item>
+        <item>¿Cuál es el nombre de uno de tus profesores?</item>
+        <item>¿Cuál es el modelo de tu computadora?</item>
+        <item>¿Cuál es el nombre de tu restaurante favorito?</item>
+        <item>¿Cuáles son los últimos cuatro números de tu licencia de conducir?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">widget zegar</string>
+    <string name="digital_clock_widget">Świat cyfrowy zegar</string>
+    <string name="analog_clock_widget">Świat analogowy zegar</string>
+    <string name="digital_big_clock_widget">Cyfrowy zegar</string>
+    <string name="analog_big_clock_widget">Analogowy zegar</string>
+</resources>

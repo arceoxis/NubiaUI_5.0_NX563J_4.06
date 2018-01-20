@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">ཁྱེད་ཀྱི་ད་དུང་ཚོད་ལྟ་%d་བྱས་ཆོག གལ་ཏེ་དག་པོ་མ་བྱུང་ན། SIM་བུ་སྒྲོག་ངེས་ཡིན།</item>
+        <item quantity="one">ཁྱེད་ཀྱི་ད་དུང་ཚོད་ལྟ་%d་བྱས་ཆོག གལ་ཏེ་དག་པོ་མ་བྱུང་ན། SIM་བུ་སྒྲོག་ངེས་ཡིན།</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">འདས་པའི་ཉིན་%dནང་དུ།</item>
+        <item quantity="one">འདས་པའི་ཉིན་%dནང་དུ།</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">སྐར་ཆ་%d</item>
+        <item quantity="one">སྐར་ཆ 1</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">སྐར་མ་%d</item>
+        <item quantity="one">སྐར་མ་1</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">དུས་ཆུང་%d</item>
+        <item quantity="one">དུས་ཆུང་ 1</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">སྤྱོད་ཐུབ་པའི་Wi-Fi དྲ་རྒྱ།</item>
+        <item quantity="one">སྤྱོད་ཐུབ་པའི་Wi-Fi དྲ་རྒྱ།</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">སྤྱོད་ཐུབ་པའི་Wi-Fi སྒོ་འབྱེད།</item>
+        <item quantity="one">སྤྱོད་ཐུབ་པའི་Wi-Fi སྒོ་འབྱེད།</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$dཡི་%2$d</item>
+        <item quantity="one">ཟླ་སྒྲིག་ཚན་པ་1</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">%d་རྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད་རོགས།</item>
+        <item quantity="one">སྐར་ཆ་1་གི་རྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད་རོགས།</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">སྐར་མ་%1$d（%2$sལ）</item>
+        <item quantity="one">སྐར་མ་1（%2$sལ）</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">སྐར་མ་%1$d（%2$sལ）</item>
+        <item quantity="one">སྐར་མ་1（%2$sལ）</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">དུས་ཆུང་%1$d（%2$sལ）</item>
+        <item quantity="one">དུས་ཆུང་ 1（%2$sལ）</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">དུས་ཆུང་%1$d（%2$sལ）</item>
+        <item quantity="one">དུས་ཆུང་ 1（%2$sལ）</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">སྐར་མ%d</item>
+        <item quantity="one">སྐར་མ་1</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">སྐར་མ%d</item>
+        <item quantity="one">སྐར་མ་1</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">དུས་ཆུང་%d</item>
+        <item quantity="one">དུས་ཆུང་ 1</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">དུས་ཆུང་%d</item>
+        <item quantity="one">དུས་ཆུང་ 1</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$dབདམས་ཟིན།</item>
+        <item quantity="one">%1$dབདམས་ཟིན།</item>
+    </plurals>
+</resources>

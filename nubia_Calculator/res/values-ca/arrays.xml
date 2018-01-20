@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>parèntesi esquerre</item>
+        <item>parèntesi dret</item>
+        <item>factorial</item>
+        <item>logaritme natural</item>
+        <item>logaritme</item>
+        <item>arrel quadrada</item>
+        <item>dividit per</item>
+        <item>multiplicat per</item>
+        <item>més</item>
+        <item>menys</item>
+        <item> punt </item>
+        <item>potència</item>
+        <item>tangent</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>és igual a</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Light">
+        <item name="android:textColorPrimary">@color/nubia_primary_text_material_light</item>
+        <item name="android:textColorSecondary">@color/nubia_secondary_text_material_light</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.Nubia.Large</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.Nubia.Medium</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.Nubia.Small</item>
+        <item name="android:buttonStyle">@style/Widget.flycow.Button</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:listViewStyle">@style/Widget.Nubia.ListView</item>
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Nubia.Activity</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:alertDialogTheme">@style/Flycow.Dialog</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="textAppearanceExtraSmall">@style/TextAppearance.Nubia.ExtraSmall</item>
+    </style>
+</resources>

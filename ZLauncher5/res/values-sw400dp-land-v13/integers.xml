@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="folder_max_count_x">5</integer>
+    <integer name="folder_max_count_y">3</integer>
+    <integer name="custom_screen_camera_numColumns">6</integer>
+</resources>

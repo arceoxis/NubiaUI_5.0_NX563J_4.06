@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>kreisā iekava</item>
+        <item>labā iekava</item>
+        <item>faktoriāls</item>
+        <item>naturālais logaritms</item>
+        <item>logaritms</item>
+        <item>kvadrātsakne</item>
+        <item>dalīts ar</item>
+        <item>reizināts ar</item>
+        <item>plus</item>
+        <item>mīnus</item>
+        <item> komats </item>
+        <item>pakāpe</item>
+        <item>tangenss</item>
+        <item>sinuss</item>
+        <item>kosinuss</item>
+        <item>pī</item>
+        <item>vienāds ar</item>
+    </string-array>
+</resources>

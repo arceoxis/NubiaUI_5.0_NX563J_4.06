@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Вы уверены, что хотите удалить все выбранные элементы?</item>
+        <item quantity="one">Вы уверены, что хотите удалить все выбранные элементы?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Выбрано %1$d</item>
+        <item quantity="zero">Выбрано %1$d</item>
+        <item quantity="one">Выбрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_items_hide_selected">
+        <item quantity="other">скрыть %1$d</item>
+        <item quantity="zero">скрыть %1$d</item>
+        <item quantity="one">скрыть %1$d</item>
+    </plurals>
+</resources>

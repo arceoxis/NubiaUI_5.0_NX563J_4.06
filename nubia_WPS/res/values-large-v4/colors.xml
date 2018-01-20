@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="phone_public_default_text_color">#ff36363d</color>
+    <color name="pad_home_bg">#ffffffff</color>
+    <color name="pad_home_topbar_underline_color">#ffe2e2e2</color>
+    <color name="pad_home_pop_bar_vertical_line_color">#ff898989</color>
+    <color name="pad_home_pop_bar_default_text_color">#ff37363b</color>
+    <color name="pad_home_dialog_divide_color">#ffb5b9c0</color>
+    <color name="pad_home_drop_down_dialog_underline_color">#ffc6c6c6</color>
+    <color name="pad_home_titlebar_text_color">#ff888888</color>
+    <color name="pad_home_name_text_color">#ff36363d</color>
+    <color name="pad_home_description_text_color">#ffa9a9a9</color>
+    <color name="pad_home_button_text_color">#ff868686</color>
+    <color name="pad_home_dialog_text_color">#fffc3756</color>
+    <color name="pad_home_small_text_color">#ff90919f</color>
+    <color name="pad_home_banner_page_color">#ffd5d5d5</color>
+    <color name="pad_home_banner_fill_color">#ff488ae4</color>
+    <color name="pad_home_about_dialog_vertical_line_color">#ffe1e2e5</color>
+    <color name="pad_home_docsinfo_dialog_img_background">#ffc7c5c6</color>
+    <color name="pad_home_file_property_info_text_color">#ff9a9a9e</color>
+    <color name="pad_home_listview_divide_line_color">#ffe2e2e2</color>
+    <color name="pad_home_listview_divide_line_color_stress">#ffcacaca</color>
+    <color name="pad_home_fb_title_delete_mode_button_text_color">#ffe2e2e2</color>
+    <color name="pad_home_fb_list_item_backgroud_color">#ffffffff</color>
+    <color name="pad_home_fb_titlebar_delete_mode_backgroud_color">#fffafafa</color>
+    <color name="pad_home_tip_bg">#fffef1bd</color>
+    <color name="pad_home_cs_loginview_hint_color">#ffc6c6c6</color>
+</resources>

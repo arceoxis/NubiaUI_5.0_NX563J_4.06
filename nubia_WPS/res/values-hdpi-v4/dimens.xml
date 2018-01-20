@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="public_saveas_dialog_btn_height">30.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_encrypt_min_width">90.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_encrypt_max_width">100.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_encrypt_padding">10.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_save_min_width">90.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_save_max_width">100.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_save_padding">10.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_saveas_margin_right">10.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_saveas_min_width">90.0dip</dimen>
+    <dimen name="public_saveas_dialog_btn_saveas_max_width">100.0dip</dimen>
+</resources>

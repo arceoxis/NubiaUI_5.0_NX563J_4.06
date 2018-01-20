@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Balas</item>
+        <item>Balas semua</item>
+        <item>Kirim semula</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Kejayaan</item>
+        <item>Tiada sambungan</item>
+        <item>Tidak boleh mendaftar masuk</item>
+        <item>Ralat keselamatan</item>
+        <item>Tidak boleh segerakkan</item>
+        <item>Ralat Dalaman</item>
+        <item>Ralat pelayan</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Lebih baharu</item>
+        <item>Lebih lama</item>
+        <item>Senarai perbualan</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Tunjukkan perbualan terbaharu selepas anda memadamkan</item>
+        <item>Tunjukkan perbualan dahulu selepas anda memadamkan</item>
+        <item>Tunjukkan senarai perbualan selepas anda memadamkan</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arkib</item>
+        <item>Padam</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Arkib</item>
+        <item>Padam</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>Sentiasa tunjukkan tindakan mesej pada bahagian atas skrin</item>
+        <item>Hanya tunjukkan tindakan mesej pada bahagian atas skrin apabila diputarkan ke potret</item>
+        <item>Jangan tunjukkan tindakan mesej di luar pengepala mesej</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>Sentiasa tunjukkan</item>
+        <item>Hanya tunjukkan dalam potret</item>
+        <item>Jangan tunjukkan</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Teks bersaiz-biasa</item>
+        <item>Teks besar</item>
+        <item>Teks besar</item>
+    </string-array>
+</resources>

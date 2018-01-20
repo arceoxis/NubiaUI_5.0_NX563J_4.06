@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_web_refiner_advertisements">
+        <item quantity="other">%dโฆษณา</item>
+        <item quantity="one">%dโฆษณา</item>
+    </plurals>
+    <plurals name="pref_web_refiner_trackers">
+        <item quantity="other">%dการติดตาม</item>
+        <item quantity="one">%dการติดตาม</item>
+    </plurals>
+    <plurals name="pref_web_refiner_malware">
+        <item quantity="other">%dมัลแวร์คุกคาม</item>
+        <item quantity="one">%dมัลแวร์คุกคาม</item>
+    </plurals>
+</resources>

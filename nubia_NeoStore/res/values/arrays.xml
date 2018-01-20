@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rank">
+        <item>@string/arrays_rank1</item>
+        <item>@string/arrays_rank2</item>
+    </string-array>
+    <string-array name="detail_tab_4">
+        <item>@string/arrays_detail_tab1</item>
+        <item>@string/arrays_detail_tab2</item>
+        <item>@string/arrays_detail_tab4</item>
+        <item>@string/arrays_detail_tab3</item>
+    </string-array>
+    <string-array name="detail_tab_3">
+        <item>@string/arrays_detail_tab1</item>
+        <item>@string/arrays_detail_tab2</item>
+        <item>@string/arrays_detail_tab3</item>
+    </string-array>
+    <string-array name="detail_tab">
+        <item>@string/arrays_detail_tab1</item>
+        <item>@string/arrays_detail_tab2</item>
+        <item>@string/arrays_detail_tab4</item>
+    </string-array>
+    <string-array name="detail_tab_normal">
+        <item>@string/arrays_detail_tab1</item>
+        <item>@string/arrays_detail_tab2</item>
+    </string-array>
+    <string-array name="gift">
+        <item>@string/exchanged_gift</item>
+        <item>@string/picked_up_gift</item>
+    </string-array>
+    <string-array name="appoint">
+        <item>@string/all</item>
+        <item>@string/already_online</item>
+    </string-array>
+    <string-array name="coupon">
+        <item>@string/tobeused</item>
+        <item>@string/expired</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+        <item>@string/saturday</item>
+        <item>@string/sunday</item>
+    </string-array>
+    <string-array name="main_tab">
+        <item>@string/gui_category</item>
+        <item>@string/gui_recommend</item>
+        <item>@string/gui_app</item>
+        <item>@string/gui_game</item>
+        <item>@string/gui_rank</item>
+    </string-array>
+    <string-array name="gui_manager">
+        <item>@string/gui_manage_download</item>
+        <item>@string/arrays_manager1</item>
+        <item>@string/arrays_manager2</item>
+        <item>@string/gui_manage_tools</item>
+    </string-array>
+    <string-array name="scan_suggest">
+        <item>@string/steal_account</item>
+        <item>@string/sms_intercept</item>
+        <item>@string/fake_app</item>
+        <item>@string/deduct_money</item>
+        <item>@string/privacy_spy</item>
+        <item>@string/remote_ctrl</item>
+        <item>@string/system_destory</item>
+        <item>@string/fraud_trick</item>
+        <item>@string/rogue_action</item>
+        <item>@string/other_dangerous</item>
+    </string-array>
+</resources>

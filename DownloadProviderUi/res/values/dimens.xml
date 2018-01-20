@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="checkmark_area">48.0dip</dimen>
+    <dimen name="nubia_download_bottom_height">66.0dip</dimen>
+    <dimen name="nubia_download_bottom_spacing">30.0dip</dimen>
+    <dimen name="nubia_download_button_height">36.0dip</dimen>
+    <dimen name="nubia_download_select_all_distance">170.0dip</dimen>
+    <dimen name="nubia_download_max_icon_size">36.0dip</dimen>
+</resources>

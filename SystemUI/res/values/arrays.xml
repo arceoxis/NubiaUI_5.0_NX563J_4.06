@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Disconnecting…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>all</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>kernel only</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Off</item>
+        <item>All log buffers</item>
+        <item>All but radio log buffers</item>
+        <item>kernel log buffer only</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="window_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_values">
+        <item>0</item>
+        <item>.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/142</item>
+        <item>720x480/142,secure</item>
+        <item>1280x720/213</item>
+        <item>1280x720/213,secure</item>
+        <item>1920x1080/320</item>
+        <item>1920x1080/320,secure</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,secure</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>None</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+    </string-array>
+    <string-array name="app_process_limit_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <integer-array name="color_mode_ids">
+        <item>0</item>
+        <item>-1</item>
+        <item>7</item>
+    </integer-array>
+    <array name="config_hideWhenDisabled_packageNames" />
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+        <item>kor</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>5</item>
+        <item>20</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>#c6ff0000</item>
+        <item>#c6ff0000</item>
+        <item>#c6ffffff</item>
+    </array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <string-array name="multi_data_type">
+        <item>array/telephony_data_type_sim1</item>
+        <item>array/telephony_data_type_sim1</item>
+        <item>array/telephony_data_type_sim1</item>
+    </string-array>
+    <string-array name="telephony_data_type_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_data_fully_connected_g</item>
+        <item>drawable/stat_sys_data_fully_connected_e</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_1x</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_1x</item>
+        <item>drawable/stat_sys_data_fully_connected_h</item>
+        <item>drawable/stat_sys_data_fully_connected_h</item>
+        <item>drawable/stat_sys_data_fully_connected_h</item>
+        <item>0</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_g</item>
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_type_sim2" />
+    <array name="telephony_data_type_sim3" />
+    <string-array name="telephony_data_type_generation">
+        <item>drawable/stat_sys_data_fully_connected_3g</item>
+        <item>drawable/stat_sys_data_fully_connected_4g</item>
+    </string-array>
+    <string-array name="telephony_data_type_description">
+        <item>0</item>
+        <item>string/accessibility_data_connection_gprs</item>
+        <item>string/accessibility_data_connection_edge</item>
+        <item>string/accessibility_data_connection_3g</item>
+        <item>string/accessibility_data_connection_cdma</item>
+        <item>string/accessibility_data_connection_3g</item>
+        <item>string/accessibility_data_connection_3g</item>
+        <item>string/accessibility_data_connection_cdma</item>
+        <item>string/accessibility_data_connection_3.5g</item>
+        <item>string/accessibility_data_connection_3.5g</item>
+        <item>string/accessibility_data_connection_3.5g</item>
+        <item>0</item>
+        <item>string/accessibility_data_connection_3g</item>
+        <item>string/accessibility_data_connection_lte</item>
+        <item>string/accessibility_data_connection_3g</item>
+        <item>string/accessibility_data_connection_3.5g</item>
+        <item>string/accessibility_data_connection_gprs</item>
+        <item>string/accessibility_data_connection_3g</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="telephony_data_type_generation_description">
+        <item>string/accessibility_data_connection_3g</item>
+        <item>string/accessibility_data_connection_4g</item>
+    </string-array>
+    <string-array name="multi_data_activity">
+        <item>array/data_activity_sim1</item>
+        <item>array/data_activity_sim1</item>
+        <item>array/data_activity_sim1</item>
+    </string-array>
+    <string-array name="data_activity_sim1">
+        <item>array/telephony_data_activity_unknown_sim1</item>
+        <item>array/telephony_data_activity_g_sim1</item>
+        <item>array/telephony_data_activity_e_sim1</item>
+        <item>array/telephony_data_activity_2g_sim1</item>
+        <item>array/telephony_data_activity_3g_sim1</item>
+        <item>array/telephony_data_activity_4g_sim1</item>
+        <item>array/telephony_data_activity_h_sim1</item>
+        <item>array/telephony_data_activity_hp_sim1</item>
+        <item>array/telephony_data_activity_1x_sim1</item>
+        <item>array/telephony_data_activity_lte_sim1</item>
+    </string-array>
+    <array name="data_activity_sim2" />
+    <array name="data_activity_sim3" />
+    <string-array name="telephony_data_activity_unknown_sim1">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_unknown_sim2" />
+    <array name="telephony_data_activity_unknown_sim3" />
+    <string-array name="telephony_data_activity_g_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_g_sim2" />
+    <array name="telephony_data_activity_g_sim3" />
+    <string-array name="telephony_data_activity_e_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_e_sim2" />
+    <array name="telephony_data_activity_e_sim3" />
+    <string-array name="telephony_data_activity_2g_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_2g_sim2" />
+    <array name="telephony_data_activity_2g_sim3" />
+    <string-array name="telephony_data_activity_3g_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_3g_sim2" />
+    <array name="telephony_data_activity_3g_sim3" />
+    <string-array name="telephony_data_activity_4g_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_4g_sim2" />
+    <array name="telephony_data_activity_4g_sim3" />
+    <string-array name="telephony_data_activity_h_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_h_sim2" />
+    <array name="telephony_data_activity_h_sim3" />
+    <string-array name="telephony_data_activity_hp_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_hp_sim2" />
+    <array name="telephony_data_activity_hp_sim3" />
+    <string-array name="telephony_data_activity_1x_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_1x_sim2" />
+    <array name="telephony_data_activity_1x_sim3" />
+    <string-array name="telephony_data_activity_lte_sim1">
+        <item>0</item>
+        <item>drawable/stat_sys_signal_in</item>
+        <item>drawable/stat_sys_signal_out</item>
+        <item>drawable/stat_sys_signal_inout</item>
+        <item>0</item>
+    </string-array>
+    <array name="telephony_data_activity_lte_sim2" />
+    <array name="telephony_data_activity_lte_sim3" />
+    <string-array name="multi_signal_strength">
+        <item>array/telephony_siganl_strength_sim1</item>
+        <item>array/telephony_siganl_strength_sim1</item>
+        <item>array/telephony_siganl_strength_sim1</item>
+    </string-array>
+    <string-array name="multi_signal_strength_roaming">
+        <item>array/telephony_siganl_strength_roaming_sim1</item>
+        <item>array/telephony_siganl_strength_roaming_sim1</item>
+        <item>array/telephony_siganl_strength_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_siganl_strength_sim1">
+        <item>array/telephony_signal_strength_g_sim1</item>
+        <item>array/telephony_signal_strength_e_sim1</item>
+        <item>array/telephony_signal_strength_3g_sim1</item>
+        <item>array/telephony_signal_strength_4g_sim1</item>
+        <item>array/telephony_signal_strength_h_sim1</item>
+        <item>array/telephony_signal_strength_hp_sim1</item>
+        <item>array/telephony_signal_strength_1x_sim1</item>
+        <item>array/telephony_signal_strength_cdma_sim1</item>
+        <item>array/telephony_signal_strength_umts_sim1</item>
+    </string-array>
+    <array name="telephony_siganl_strength_sim2" />
+    <array name="telephony_siganl_strength_sim3" />
+    <string-array name="telephony_siganl_strength_roaming_sim1">
+        <item>array/telephony_signal_strength_g_roaming_sim1</item>
+        <item>array/telephony_signal_strength_e_roaming_sim1</item>
+        <item>array/telephony_signal_strength_3g_roaming_sim1</item>
+        <item>array/telephony_signal_strength_4g_roaming_sim1</item>
+        <item>array/telephony_signal_strength_h_roaming_sim1</item>
+        <item>array/telephony_signal_strength_hp_roaming_sim1</item>
+        <item>array/telephony_signal_strength_1x_roaming_sim1</item>
+        <item>array/telephony_signal_strength_cdma_roaming_sim1</item>
+        <item>array/telephony_signal_strength_umts_roaming_sim1</item>
+    </string-array>
+    <array name="telephony_siganl_strength_roaming_sim2" />
+    <array name="telephony_siganl_strength_roaming_sim3" />
+    <string-array name="telephony_signal_strength_g_sim1">
+        <item>array/signal_strength_g_normal_sim1</item>
+        <item>array/signal_strength_g_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_g_roaming_sim1">
+        <item>array/signal_strength_g_normal_roaming_sim1</item>
+        <item>array/signal_strength_g_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_e_sim1">
+        <item>array/signal_strength_e_normal_sim1</item>
+        <item>array/signal_strength_e_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_e_roaming_sim1">
+        <item>array/signal_strength_e_normal_roaming_sim1</item>
+        <item>array/signal_strength_e_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_3g_sim1">
+        <item>array/signal_strength_3g_normal_sim1</item>
+        <item>array/signal_strength_3g_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_3g_roaming_sim1">
+        <item>array/signal_strength_3g_normal_roaming_sim1</item>
+        <item>array/signal_strength_3g_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_4g_sim1">
+        <item>array/signal_strength_4g_normal_sim1</item>
+        <item>array/signal_strength_4g_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_4g_roaming_sim1">
+        <item>array/signal_strength_4g_normal_roaming_sim1</item>
+        <item>array/signal_strength_4g_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_h_sim1">
+        <item>array/signal_strength_h_normal_sim1</item>
+        <item>array/signal_strength_h_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_h_roaming_sim1">
+        <item>array/signal_strength_h_normal_roaming_sim1</item>
+        <item>array/signal_strength_h_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_hp_sim1">
+        <item>array/signal_strength_hp_normal_sim1</item>
+        <item>array/signal_strength_hp_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_hp_roaming_sim1">
+        <item>array/signal_strength_hp_normal_roaming_sim1</item>
+        <item>array/signal_strength_hp_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_1x_sim1">
+        <item>array/signal_strength_1x_normal_sim1</item>
+        <item>array/signal_strength_1x_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_1x_roaming_sim1">
+        <item>array/signal_strength_1x_normal_roaming_sim1</item>
+        <item>array/signal_strength_1x_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_cdma_sim1">
+        <item>array/signal_strength_cdma_normal_sim1</item>
+        <item>array/signal_strength_cdma_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_cdma_roaming_sim1">
+        <item>array/signal_strength_cdma_normal_roaming_sim1</item>
+        <item>array/signal_strength_cdma_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_umts_sim1">
+        <item>array/signal_strength_umts_normal_sim1</item>
+        <item>array/signal_strength_umts_fully_sim1</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_umts_roaming_sim1">
+        <item>array/signal_strength_umts_normal_roaming_sim1</item>
+        <item>array/signal_strength_umts_fully_roaming_sim1</item>
+    </string-array>
+    <string-array name="signal_strength_g_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_g_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_g_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_g_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_e_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_e_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_e_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_e_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_3g_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_3g_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_3g_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_3g_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_4g_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_4g_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_4g_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_4g_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_h_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_h_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_h_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_h_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_hp_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_hp_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_hp_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_hp_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_1x_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_1x_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_1x_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_1x_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_cdma_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_cdma_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_cdma_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_cdma_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_umts_normal_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_umts_fully_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_umts_normal_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_umts_fully_roaming_sim1">
+        <item>drawable/stat_sys_signal_0_fully</item>
+        <item>drawable/stat_sys_signal_1_fully</item>
+        <item>drawable/stat_sys_signal_2_fully</item>
+        <item>drawable/stat_sys_signal_3_fully</item>
+        <item>drawable/stat_sys_signal_4_fully</item>
+    </string-array>
+    <string-array name="signal_strength_description">
+        <item>string/accessibility_no_phone</item>
+        <item>string/accessibility_phone_one_bar</item>
+        <item>string/accessibility_phone_two_bars</item>
+        <item>string/accessibility_phone_three_bars</item>
+        <item>string/accessibility_phone_signal_full</item>
+    </string-array>
+    <string-array name="multi_signal_null">
+        <item>drawable/stat_sys_signal_null</item>
+        <item>drawable/stat_sys_signal_null</item>
+        <item>drawable/stat_sys_signal_null</item>
+    </string-array>
+    <string-array name="multi_no_sim">
+        <item>drawable/ic_qs_no_sim</item>
+        <item>drawable/ic_qs_no_sim</item>
+        <item>drawable/ic_qs_no_sim</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_g_sim2">
+        <item>array/signal_strength_g_normal_sim2</item>
+        <item>array/signal_strength_g_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_g_roaming_sim2">
+        <item>array/signal_strength_g_normal_roaming_sim2</item>
+        <item>array/signal_strength_g_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_e_sim2">
+        <item>array/signal_strength_e_normal_sim2</item>
+        <item>array/signal_strength_e_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_e_roaming_sim2">
+        <item>array/signal_strength_e_normal_roaming_sim2</item>
+        <item>array/signal_strength_e_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_3g_sim2">
+        <item>array/signal_strength_3g_normal_sim2</item>
+        <item>array/signal_strength_3g_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_3g_roaming_sim2">
+        <item>array/signal_strength_3g_normal_roaming_sim2</item>
+        <item>array/signal_strength_3g_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_4g_sim2">
+        <item>array/signal_strength_4g_normal_sim2</item>
+        <item>array/signal_strength_4g_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_4g_roaming_sim2">
+        <item>array/signal_strength_4g_normal_roaming_sim2</item>
+        <item>array/signal_strength_4g_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_h_sim2">
+        <item>array/signal_strength_h_normal_sim2</item>
+        <item>array/signal_strength_h_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_h_roaming_sim2">
+        <item>array/signal_strength_h_normal_roaming_sim2</item>
+        <item>array/signal_strength_h_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_hp_sim2">
+        <item>array/signal_strength_hp_normal_sim2</item>
+        <item>array/signal_strength_hp_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_hp_roaming_sim2">
+        <item>array/signal_strength_hp_normal_roaming_sim2</item>
+        <item>array/signal_strength_hp_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_1x_sim2">
+        <item>array/signal_strength_1x_normal_sim2</item>
+        <item>array/signal_strength_1x_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_1x_roaming_sim2">
+        <item>array/signal_strength_1x_normal_roaming_sim2</item>
+        <item>array/signal_strength_1x_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_cdma_sim2">
+        <item>array/signal_strength_cdma_normal_sim2</item>
+        <item>array/signal_strength_cdma_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_cdma_roaming_sim2">
+        <item>array/signal_strength_cdma_normal_roaming_sim2</item>
+        <item>array/signal_strength_cdma_fully_roaming_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_umts_sim2">
+        <item>array/signal_strength_umts_normal_sim2</item>
+        <item>array/signal_strength_umts_fully_sim2</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_umts_roaming_sim2">
+        <item>array/signal_strength_umts_normal_roaming_sim2</item>
+        <item>array/signal_strength_umts_fully_roaming_sim2</item>
+    </string-array>
+    <array name="signal_strength_g_normal_sim2" />
+    <array name="signal_strength_g_fully_sim2" />
+    <array name="signal_strength_g_normal_roaming_sim2" />
+    <array name="signal_strength_g_fully_roaming_sim2" />
+    <array name="signal_strength_e_normal_sim2" />
+    <array name="signal_strength_e_fully_sim2" />
+    <array name="signal_strength_e_normal_roaming_sim2" />
+    <array name="signal_strength_e_fully_roaming_sim2" />
+    <array name="signal_strength_3g_normal_sim2" />
+    <array name="signal_strength_3g_fully_sim2" />
+    <array name="signal_strength_3g_normal_roaming_sim2" />
+    <array name="signal_strength_3g_fully_roaming_sim2" />
+    <array name="signal_strength_4g_normal_sim2" />
+    <array name="signal_strength_4g_fully_sim2" />
+    <array name="signal_strength_4g_normal_roaming_sim2" />
+    <array name="signal_strength_4g_fully_roaming_sim2" />
+    <array name="signal_strength_h_normal_sim2" />
+    <array name="signal_strength_h_fully_sim2" />
+    <array name="signal_strength_h_normal_roaming_sim2" />
+    <array name="signal_strength_h_fully_roaming_sim2" />
+    <array name="signal_strength_hp_normal_sim2" />
+    <array name="signal_strength_hp_fully_sim2" />
+    <array name="signal_strength_hp_normal_roaming_sim2" />
+    <array name="signal_strength_hp_fully_roaming_sim2" />
+    <array name="signal_strength_1x_normal_sim2" />
+    <array name="signal_strength_1x_fully_sim2" />
+    <array name="signal_strength_1x_normal_roaming_sim2" />
+    <array name="signal_strength_1x_fully_roaming_sim2" />
+    <array name="signal_strength_cdma_normal_sim2" />
+    <array name="signal_strength_cdma_fully_sim2" />
+    <array name="signal_strength_cdma_normal_roaming_sim2" />
+    <array name="signal_strength_cdma_fully_roaming_sim2" />
+    <array name="signal_strength_umts_normal_sim2" />
+    <array name="signal_strength_umts_fully_sim2" />
+    <array name="signal_strength_umts_normal_roaming_sim2" />
+    <array name="signal_strength_umts_fully_roaming_sim2" />
+    <string-array name="telephony_signal_strength_g_sim3">
+        <item>array/signal_strength_g_normal_sim3</item>
+        <item>array/signal_strength_g_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_g_roaming_sim3">
+        <item>array/signal_strength_g_normal_roaming_sim3</item>
+        <item>array/signal_strength_g_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_e_sim3">
+        <item>array/signal_strength_e_normal_sim3</item>
+        <item>array/signal_strength_e_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_e_roaming_sim3">
+        <item>array/signal_strength_e_normal_roaming_sim3</item>
+        <item>array/signal_strength_e_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_3g_sim3">
+        <item>array/signal_strength_3g_normal_sim3</item>
+        <item>array/signal_strength_3g_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_3g_roaming_sim3">
+        <item>array/signal_strength_3g_normal_roaming_sim3</item>
+        <item>array/signal_strength_3g_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_4g_sim3">
+        <item>array/signal_strength_4g_normal_sim3</item>
+        <item>array/signal_strength_4g_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_4g_roaming_sim3">
+        <item>array/signal_strength_4g_normal_roaming_sim3</item>
+        <item>array/signal_strength_4g_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_h_sim3">
+        <item>array/signal_strength_h_normal_sim3</item>
+        <item>array/signal_strength_h_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_h_roaming_sim3">
+        <item>array/signal_strength_h_normal_roaming_sim3</item>
+        <item>array/signal_strength_h_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_hp_sim3">
+        <item>array/signal_strength_hp_normal_sim3</item>
+        <item>array/signal_strength_hp_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_hp_roaming_sim3">
+        <item>array/signal_strength_hp_normal_roaming_sim3</item>
+        <item>array/signal_strength_hp_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_1x_sim3">
+        <item>array/signal_strength_1x_normal_sim3</item>
+        <item>array/signal_strength_1x_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_1x_roaming_sim3">
+        <item>array/signal_strength_1x_normal_roaming_sim3</item>
+        <item>array/signal_strength_1x_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_cdma_sim3">
+        <item>array/signal_strength_cdma_normal_sim3</item>
+        <item>array/signal_strength_cdma_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_cdma_roaming_sim3">
+        <item>array/signal_strength_cdma_normal_roaming_sim3</item>
+        <item>array/signal_strength_cdma_fully_roaming_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_umts_sim3">
+        <item>array/signal_strength_umts_normal_sim3</item>
+        <item>array/signal_strength_umts_fully_sim3</item>
+    </string-array>
+    <string-array name="telephony_signal_strength_umts_roaming_sim3">
+        <item>array/signal_strength_umts_normal_roaming_sim3</item>
+        <item>array/signal_strength_umts_fully_roaming_sim3</item>
+    </string-array>
+    <array name="signal_strength_g_normal_sim3" />
+    <array name="signal_strength_g_fully_sim3" />
+    <array name="signal_strength_g_normal_roaming_sim3" />
+    <array name="signal_strength_g_fully_roaming_sim3" />
+    <array name="signal_strength_e_normal_sim3" />
+    <array name="signal_strength_e_fully_sim3" />
+    <array name="signal_strength_e_normal_roaming_sim3" />
+    <array name="signal_strength_e_fully_roaming_sim3" />
+    <array name="signal_strength_3g_normal_sim3" />
+    <array name="signal_strength_3g_fully_sim3" />
+    <array name="signal_strength_3g_normal_roaming_sim3" />
+    <array name="signal_strength_3g_fully_roaming_sim3" />
+    <array name="signal_strength_4g_normal_sim3" />
+    <array name="signal_strength_4g_fully_sim3" />
+    <array name="signal_strength_4g_normal_roaming_sim3" />
+    <array name="signal_strength_4g_fully_roaming_sim3" />
+    <array name="signal_strength_h_normal_sim3" />
+    <array name="signal_strength_h_fully_sim3" />
+    <array name="signal_strength_h_normal_roaming_sim3" />
+    <array name="signal_strength_h_fully_roaming_sim3" />
+    <array name="signal_strength_hp_normal_sim3" />
+    <array name="signal_strength_hp_fully_sim3" />
+    <array name="signal_strength_hp_normal_roaming_sim3" />
+    <array name="signal_strength_hp_fully_roaming_sim3" />
+    <array name="signal_strength_1x_normal_sim3" />
+    <array name="signal_strength_1x_fully_sim3" />
+    <array name="signal_strength_1x_normal_roaming_sim3" />
+    <array name="signal_strength_1x_fully_roaming_sim3" />
+    <array name="signal_strength_cdma_normal_sim3" />
+    <array name="signal_strength_cdma_fully_sim3" />
+    <array name="signal_strength_cdma_normal_roaming_sim3" />
+    <array name="signal_strength_cdma_fully_roaming_sim3" />
+    <array name="signal_strength_umts_normal_sim3" />
+    <array name="signal_strength_umts_fully_sim3" />
+    <array name="signal_strength_umts_normal_roaming_sim3" />
+    <array name="signal_strength_umts_fully_roaming_sim3" />
+    <string-array name="battery_level_icon">
+        <item>dimen/stat_sys_battery_level_100</item>
+        <item>dimen/stat_sys_battery_level_95</item>
+        <item>dimen/stat_sys_battery_level_90</item>
+        <item>dimen/stat_sys_battery_level_85</item>
+        <item>dimen/stat_sys_battery_level_80</item>
+        <item>dimen/stat_sys_battery_level_75</item>
+        <item>dimen/stat_sys_battery_level_70</item>
+        <item>dimen/stat_sys_battery_level_60</item>
+        <item>dimen/stat_sys_battery_level_55</item>
+        <item>dimen/stat_sys_battery_level_50</item>
+        <item>dimen/stat_sys_battery_level_45</item>
+        <item>dimen/stat_sys_battery_level_40</item>
+        <item>dimen/stat_sys_battery_level_35</item>
+        <item>dimen/stat_sys_battery_level_30</item>
+        <item>dimen/stat_sys_battery_level_25</item>
+        <item>dimen/stat_sys_battery_level_20</item>
+        <item>dimen/stat_sys_battery_level_15</item>
+        <item>dimen/stat_sys_battery_level_10</item>
+        <item>dimen/stat_sys_battery_level_5</item>
+    </string-array>
+    <string-array name="zen_mode_times">
+        <item>@string/zen_mode_time_forever</item>
+        <item>@string/zen_mode_time_one</item>
+        <item>@string/zen_mode_time_two</item>
+        <item>@string/zen_mode_time_four</item>
+        <item>@string/zen_mode_time_eight</item>
+    </string-array>
+    <string-array name="service_white_list_options_item">
+        <item>@string/reset_service_white_list</item>
+    </string-array>
+    <array name="car_facet_icons" />
+    <array name="car_facet_intent_uris" />
+    <array name="car_facet_longpress_intent_uris" />
+    <array name="car_facet_package_filters" />
+    <array name="car_facet_category_filters" />
+    <integer-array name="config_showVoiceAndDataForSub">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="volume_stream_titles">
+        <item>Voice calls</item>
+        <item>System</item>
+        <item>Notifications</item>
+        <item>Media</item>
+        <item>Alarms</item>
+        <item></item>
+        <item>Bluetooth calls</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <array name="recents_tv_blacklist_array" />
+    <string-array name="not_support_swipeup_list">
+        <item>com.android.incallui/.InCallActivity</item>
+        <item>cn.nubia.deskclock.preset/cn.nubia.deskclock.activity.AlarmAlertFullScreen</item>
+        <item>cn.nubia.deskclock.preset/cn.nubia.deskclock.countdown.CountdownAlert</item>
+        <item>cn.nubia.v5light.preset</item>
+        <item>cn.nubia.singlehandpageset/.MainActivity</item>
+        <item>cn.nubia.singlehandpageset/.SecondActivity</item>
+        <item>android.app.cts.uiautomation</item>
+        <item>com.google.android.packageinstaller</item>
+    </string-array>
+    <string-array name="not_support_swipeup_toast_list">
+        <item>com.android.incallui/.InCallActivity</item>
+    </string-array>
+    <string-array name="not_support_switch_list">
+        <item>cn.nubia.calculator2.preset</item>
+        <item>cn.nubia.calendar.preset</item>
+        <item>cn.nubia.music.preset</item>
+        <item>cn.nubia.weather</item>
+        <item>com.android.contacts</item>
+        <item>cn.nubia.contacts</item>
+        <item>cn.nubia.security2</item>
+        <item>cn.nubia.powersaving</item>
+        <item>cn.nubia.harassintercept</item>
+        <item>cn.nubia.antivirus</item>
+        <item>cn.nubia.phonemanualintegrate.preset</item>
+        <item>cn.nubia.databackup</item>
+        <item>cn.nubia.wfd</item>
+        <item>cn.nubia.systemupdate</item>
+        <item>cn.nubia.deskclock.preset</item>
+        <item>cn.nubia.processmanager</item>
+        <item>cn.nubia.soundrecorder.preset</item>
+        <item>com.kugou.android</item>
+        <item>com.yulore.framework</item>
+        <item>cn.nubia.bootanimationinfo</item>
+        <item>com.halfbrick.fruitninja</item>
+        <item>cn.nubia.thememanager</item>
+        <item>cn.jj</item>
+        <item>com.qqgame.mic</item>
+        <item>com.tencent.qqlive</item>
+        <item>com.tencent.tmgp.cf</item>
+        <item>cn.nubia.sensor</item>
+        <item>cn.nubia.email</item>
+        <item>com.qqgame.hlddz</item>
+        <item>com.tencent.tmgp.xymobile</item>
+        <item>cn.nubia.notepad.preset</item>
+    </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <string-array name="origin_carrier_names">
+        <item>"CHINA  MOBILE"</item>
+        <item>CMCC</item>
+        <item>CHN-UNICOM</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item>中國移動</item>
+        <item>中國聯通</item>
+        <item>中國電信</item>
+        <item>China Mobile (HD)</item>
+        <item>红茶移动</item>
+        <item>CMCC (HD)</item>
+        <item>CHN-CT</item>
+        <item>Redtea Roaming</item>
+        <item>Redtea</item>
+        <item>Searching for Service</item>
+    </string-array>
+    <string-array name="locale_carrier_names">
+        <item>China_Mobile</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Telecom</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Telecom</item>
+        <item>China_Mobile</item>
+        <item>China_Unicom</item>
+        <item>China_Telecom</item>
+        <item>China_Mobile</item>
+        <item>BlackTea_Mobile</item>
+        <item>China_Mobile</item>
+        <item>China_Telecom</item>
+        <item>BlackTea_Mobile</item>
+        <item>BlackTea_Mobile</item>
+        <item>roamingTextSearching</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pick_wallpaper">Wallpapers</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <string name="wallpaper_instructions_lockscreen">Lock Screen</string>
+    <string name="wallpaper_instructions_both">Both</string>
+    <string name="wallpaper_instructions_preset">Preset Wallpaper</string>
+    <string name="set_lock_wallpaper_ok">Lockscreen wallpaper set successfully</string>
+    <string name="save_smart_wallpaper_ok">Preset wallpaper saved successfully</string>
+</resources>

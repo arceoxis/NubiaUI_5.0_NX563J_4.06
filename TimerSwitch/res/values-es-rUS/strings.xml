@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Encendido/apagado programado</string>
+    <string name="timer_switch">Temporizador</string>
+    <string name="switch_on">Encendido programado</string>
+    <string name="switch_off">Apagado programado</string>
+    <string name="every_day">Todos los días</string>
+    <string name="switch_on_time">Establecer hora de encendido</string>
+    <string name="switch_off_time">Establecer hora de apagado</string>
+    <string name="date_time_24hour">Usar formato de 24 hs</string>
+    <string name="date_time_date_format">Elegir el formato de fecha</string>
+    <string name="label">Etiqueta</string>
+    <string name="switch_repeat">Repetir</string>
+    <string name="expand_switch">Expander temporizador</string>
+    <string name="collapse_switch">Contraer temporizador</string>
+    <string name="reset_switch">Reestablecer temporizador</string>
+    <string name="day">un día</string>
+    <string name="days">%s días</string>
+    <string name="hour">1 hora</string>
+    <string name="hours">%s horas</string>
+    <string name="minute">1 minuto</string>
+    <string name="minutes">%s minutos</string>
+    <string name="never">Nunca</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">Cancelar</string>
+    <string name="switch_off_dialog_ok">Apagado</string>
+    <string name="switch_off_dialog_title">Apagado programado</string>
+    <string name="switch_off_message">Tu teléfono se apagará en %s segundos</string>
+    <string name="switch_off_message_second">Tu teléfono se apagará en %s segundo</string>
+    <string name="done_label">Listo</string>
+    <string name="hour_picker_description">Control deslizante circular de horas</string>
+    <string name="minute_picker_description">Control deslizante circular de minutos</string>
+    <string name="select_hours">Seleccionar horas</string>
+    <string name="select_minutes">Seleccionar minutos</string>
+    <string name="day_picker_description">Cuadrícula mensual de días</string>
+    <string name="year_picker_description">Lista de años</string>
+    <string name="select_day">Seleccionar mes y día</string>
+    <string name="select_year">Seleccionar año</string>
+    <string name="item_is_selected">%1$s seleccionado</string>
+    <string name="deleted_key">%1$s borrado</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

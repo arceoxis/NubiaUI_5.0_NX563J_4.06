@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_btn_clear">
+        <item>清空</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_d">
+        <item>確定</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_delete">
+        <item>删除</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_fix_openfail">
+        <item>修正異常</item>
+        <item>繼續打開</item>
+    </string-array>
+    <string-array name="alert_btn_tip_exit_pcode">
+        <item>繼續等待</item>
+        <item>返回</item>
+    </string-array>
+    <string-array name="alert_btn_tip_exit_tts">
+        <item>繼續朗讀</item>
+        <item>退出朗讀</item>
+    </string-array>
+    <string-array name="alert_btn_tip_install_dict">
+        <item>安裝(約48.7M)</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_tip_install_tts">
+        <item>安裝</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_tip_offline_tts">
+        <item>離線朗讀</item>
+        <item>繼續播放</item>
+    </string-array>
+    <string-array name="alert_btn_tip_update_tts">
+        <item>更新</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_cloud_login">
+        <item>去綁定</item>
+        <item>暫不綁定</item>
+    </string-array>
+    <string-array name="apk_download_wifi_tips">
+        <item>繼續下載</item>
+        <item>不下載</item>
+    </string-array>
+    <string-array name="btn_cancel">
+        <item>取消</item>
+    </string-array>
+    <string-array name="btn_ok">
+        <item>確定</item>
+    </string-array>
+    <string-array name="cancel">
+        <item>取消</item>
+    </string-array>
+    <string-array name="cartoon_download_net_alert">
+        <item>取消</item>
+        <item>繼續下載</item>
+    </string-array>
+    <string-array name="cartoon_download_net_alert2">
+        <item>繼續下載</item>
+        <item>全部暫停</item>
+    </string-array>
+    <string-array name="cartoon_net_alert">
+        <item>取消</item>
+        <item>繼續閱讀</item>
+    </string-array>
+    <string-array name="chap_cache_download">
+        <item>退出閱讀</item>
+        <item>繼續下載</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>Auto-Detect</item>
+        <item>Unicode(UTF-8)</item>
+        <item>簡體中文(GBK)</item>
+        <item>簡體中文(GB2312)</item>
+        <item>繁體中文(BIG5)</item>
+        <item>繁體中文(Big5_HKSCS)</item>
+        <item>Western(ISO-8859-1)</item>
+        <item>Western(Windows)</item>
+        <item>Central European(ISO-8859-2)</item>
+        <item>Central European(Windows)</item>
+        <item>Unicode(UTF-16LE)</item>
+        <item>Unicode(UTF-16BE)</item>
+        <item>Arabic(ISO-8859-6)</item>
+        <item>Arabic(Windows)</item>
+        <item>Baltic(ISO-8859-4)</item>
+        <item>Baltic(Windows)</item>
+        <item>Cyrillic(ISO-8859-5)</item>
+        <item>Cyrillic(Windows)</item>
+        <item>Cyrillic(KOI8-R)</item>
+        <item>Greek(ISO-8859-7)</item>
+        <item>Greek(Windows)</item>
+        <item>Hebrew(ISO-8859-8)</item>
+        <item>Hebrew(Windows)</item>
+        <item>Japanese(EUC-JP)</item>
+        <item>Japanese(Windows)</item>
+        <item>Korean(EUC-KR)</item>
+        <item>Korean(Windows)</item>
+        <item>Turkish(ISO-8859-9)</item>
+        <item>Turkish(Windows)</item>
+        <item>Thai(Windows)</item>
+        <item>Vietnamese(Windows)</item>
+    </string-array>
+    <string-array name="charset_value">
+        <item>auto</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>GB2312</item>
+        <item>BIG5</item>
+        <item>BIG5-HKSCS</item>
+        <item>ISO-8859-1</item>
+        <item>windows-1252</item>
+        <item>ISO-8859-2</item>
+        <item>windows-1250</item>
+        <item>UTF-16LE</item>
+        <item>UTF-16BE</item>
+        <item>ISO-8859-6</item>
+        <item>windows-1256</item>
+        <item>ISO-8859-4</item>
+        <item>windows-1257</item>
+        <item>ISO-8859-5</item>
+        <item>windows-1251</item>
+        <item>KOI8-R</item>
+        <item>ISO-8859-7</item>
+        <item>windows-1253</item>
+        <item>ISO-8859-8</item>
+        <item>windows-1255</item>
+        <item>EUC-JP</item>
+        <item>Shift_JIS</item>
+        <item>EUC-KR</item>
+        <item>ISO-2022-KR</item>
+        <item>ISO-8859-9</item>
+        <item>windows-1254</item>
+        <item>windows-874</item>
+        <item>windows-1258</item>
+    </string-array>
+    <string-array name="cloudSave">
+        <item>保存修改</item>
+    </string-array>
+    <integer-array name="custom_color_bg_array">
+        <item>0xFF816768</item>
+        <item>0xFF7C7364</item>
+        <item>0xFF596476</item>
+        <item>0xFF6B7D65</item>
+        <item>0xFF688080</item>
+        <item>0xFF321010</item>
+        <item>0xFFB69B94</item>
+        <item>0xFFC5BBAE</item>
+        <item>0xFFCACBBB</item>
+        <item>0xFFB5BA9A</item>
+        <item>0xFFBACABD</item>
+        <item>0xFF20321A</item>
+        <item>0xFFDBD1C5</item>
+        <item>0xFFFFFAFA</item>
+        <item>0xFFC0C0C0</item>
+        <item>0xFF5E5E5E</item>
+        <item>0xFF333333</item>
+        <item>0xFF000000</item>
+    </integer-array>
+    <integer-array name="custom_color_font_array">
+        <item>0xFFFFFFFF</item>
+        <item>0xFFC0C0C0</item>
+        <item>0xFF8C8C8C</item>
+        <item>0xFF666666</item>
+        <item>0xFF333333</item>
+        <item>0xFF000000</item>
+        <item>0xFFE2DBD2</item>
+        <item>0xFFD0DFD1</item>
+        <item>0xFFB8D2CF</item>
+        <item>0xFFDCDFCE</item>
+        <item>0xFFD9C7C2</item>
+        <item>0xFF212936</item>
+        <item>0xFF454039</item>
+        <item>0xFF374234</item>
+        <item>0xFF3D4E4E</item>
+        <item>0xFF44393A</item>
+        <item>0xFF5F5353</item>
+        <item>0xFF271010</item>
+    </integer-array>
+    <string-array name="diagnose_net_type">
+        <item>wifi</item>
+        <item>移動2G(net)</item>
+        <item>移動3G(net)</item>
+        <item>移動4G(net)</item>
+        <item>移動2G(wap)</item>
+        <item>移動3G(wap)</item>
+        <item>移動4G(wap)</item>
+        <item>電信2G(net)</item>
+        <item>電信3G(net)</item>
+        <item>電信4G(net)</item>
+        <item>電信2G(wap)</item>
+        <item>電信3G(wap)</item>
+        <item>電信4G(wap)</item>
+        <item>聯通2G(net)</item>
+        <item>聯通3G(net)</item>
+        <item>聯通4G(net)</item>
+        <item>聯通2G(wap)</item>
+        <item>聯通3G(wap)</item>
+        <item>聯通4G(wap)</item>
+        <item>其他網絡</item>
+    </string-array>
+    <string-array name="go_setting">
+        <item>去設置</item>
+    </string-array>
+    <string-array name="gps_setting_btn_d">
+        <item>設置</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="ok">
+        <item>確定</item>
+    </string-array>
+    <string-array name="sinaShareSentence">
+        <item>用兩分鐘快速簡讀一下，也許這是一本不容錯過的好書哦！</item>
+        <item>身為朋友，做你的“好書篩檢程式”是我的榮幸，別問我是誰，請叫我雷鋒</item>
+        <item>讀書時，是自己與自己對話最好的時光！</item>
+        <item>好書只曬給懂它的人</item>
+        <item>人生旅途中，我們總是疲憊不堪，讀讀這本《%s》吧！為了明天的希望</item>
+    </string-array>
+    <string-array name="theme_list10">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_pager.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_layout_pad100.xml</item>
+        <item>theme_layout_pad100_chuban.xml</item>
+        <item>theme_layout_pad100_wangwen.xml</item>
+        <item>theme_layout_pad100_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="theme_list3">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_pager.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_bgfine.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_layout_phone35.xml</item>
+        <item>theme_layout_phone35_chuban.xml</item>
+        <item>theme_layout_phone35_wangwen.xml</item>
+        <item>theme_layout_phone35_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="theme_list7">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_pager.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_layout_pad70.xml</item>
+        <item>theme_layout_pad70_chuban.xml</item>
+        <item>theme_layout_pad70_wangwen.xml</item>
+        <item>theme_layout_pad70_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="umd_charset_array">
+        <item>Unicode(UTF-16LE)</item>
+        <item>Unicode(UTF-16BE)</item>
+    </string-array>
+    <string-array name="umd_charset_value">
+        <item>UTF-16LE</item>
+        <item>UTF-16BE</item>
+    </string-array>
+</resources>

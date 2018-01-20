@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_hotspot_mode_entries">
+        <item>Her zaman</item>
+        <item>5 dk kullanılmadığında kapat</item>
+        <item>10 dakika kullanılmadığında kapat</item>
+    </string-array>
+    <string-array name="wifi_hotspot_mode_entryValues">
+        <item>Always</item>
+        <item>Turn_off_5min</item>
+        <item>Turn_off_10min</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Settings" parent="@style/Theme.SettingsBase">
+        <item name="android:colorBackground">@color/color_background</item>
+        <item name="android:colorPrimaryDark">@color/statusbar_color</item>
+        <item name="android:statusBarColor">@color/statusbar_color</item>
+        <item name="android:preferenceFragmentStyle">@style/PreferenceFragmentStyle</item>
+        <item name="android:preferencePanelStyle">@style/PreferencePanelSinglePane</item>
+        <item name="android:preferenceHeaderPanelStyle">@style/PreferenceHeaderPanelSinglePane</item>
+        <item name="android:preferenceListStyle">@style/PreferenceHeaderListSinglePane</item>
+        <item name="android:preferenceFragmentListStyle">@style/PreferenceFragmentListSinglePane</item>
+        <item name="android:preferenceFragmentPaddingSide">@dimen/settings_side_margin</item>
+        <item name="android:regularColor">@color/lock_pattern_view_regular_color</item>
+        <item name="android:errorColor">@color/lock_pattern_view_error_color</item>
+        <item name="android:successColor">@color/lock_pattern_view_success_color</item>
+        <item name="wifi_signal">@drawable/wifi_signal</item>
+        <item name="apnPreferenceStyle">@style/ApnPreference</item>
+        <item name="switchBarTheme">@style/ThemeOverlay.SwitchBar.Settings</item>
+        <item name="preferenceBackgroundColor">@android:color/transparent</item>
+        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="fingerprint_progress_bar_size">@dimen/fingerprint_progress_bar_size</item>
+        <item name="fingerprint_ring_radius">@dimen/fingerprint_ring_radius</item>
+        <item name="ic_menu_add">@drawable/ic_menu_add_dark</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/ic_menu_moreoverflow_holo_dark</item>
+        <item name="ic_wps">@drawable/ic_wps_light</item>
+        <item name="side_margin">@dimen/settings_side_margin</item>
+        <item name="wifi_signal_color">?android:colorAccent</item>
+    </style>
+    <style name="Theme.DialogWhenLarge" parent="@style/Theme.Nubia.ActionBar">
+        <item name="android:colorBackground">@android:color/white</item>
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/statusbar_color</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:preferenceFragmentStyle">@style/PreferenceFragmentStyle</item>
+        <item name="preferenceBackgroundColor">@android:color/transparent</item>
+    </style>
+</resources>

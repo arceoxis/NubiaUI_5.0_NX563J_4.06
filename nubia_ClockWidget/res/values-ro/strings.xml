@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WidgetCeas</string>
+    <string name="digital_clock_widget">Ceas mondial digital</string>
+    <string name="analog_clock_widget">Ceas mondial analogic</string>
+    <string name="digital_big_clock_widget">Ceas digital</string>
+    <string name="analog_big_clock_widget">Ceas analogic</string>
+    <string name="month">lună</string>
+    <string name="day">ziua</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">Luni</string>
+    <string name="tuesday">Marţi</string>
+    <string name="wednesday">Miercuri</string>
+    <string name="thursday">Joi</string>
+    <string name="friday">Vineri</string>
+    <string name="saturday">Sâmbătă</string>
+    <string name="sunday">Duminică</string>
+</resources>

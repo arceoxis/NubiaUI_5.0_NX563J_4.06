@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">信息</string>
+    <string name="undelivered_msg_dialog_body">"无法发送此信息
+尝试发送时间：%s"</string>
+    <string name="undelivered_sms_dialog_body">无法发送信息</string>
+    <string name="slide_show_part">幻灯片%1$s (共%2$s张)</string>
+    <string name="to_hint">" 输入收件人"</string>
+    <string name="type_to_compose_text_enter_to_send">" 输入内容"</string>
+    <string name="compose_disabled_toast">无法写信息，因为此应用不是默认的信息应用</string>
+    <string name="compressing">图片过大，正在压缩…</string>
+    <string name="failed_to_add_media">无法将此%1$s添加到彩信中</string>
+    <string name="discard_message_reason">没有有效的接收者</string>
+    <string name="cannot_send_message">无法发送信息</string>
+    <string name="type_to_compose_text_or_leave_blank">输入文字或保留空白</string>
+    <string name="preferences_title">信息设置</string>
+    <string name="pref_notification_settings_title">通知信息设置</string>
+    <string name="pref_mms_settings_title">彩信设置</string>
+    <string name="pref_sms_settings_title">短信设置</string>
+    <string name="pref_title_sms_disabled">信息功能已关闭</string>
+    <string name="pref_summary_sms_disabled">触摸即可将“信息”设为您的默认信息应用</string>
+    <string name="pref_title_sms_enabled">信息功能已开启</string>
+    <string name="pref_summary_sms_enabled">触摸即可更改您的默认信息应用</string>
+    <string name="pref_summary_mms_delivery_reports">为发送的信息获取发送报告</string>
+    <string name="pref_summary_mms_read_reports">为发送的信息获取阅读报告</string>
+    <string name="pref_summary_sms_delivery_reports">为发送的信息获取发送报告</string>
+    <string name="pref_title_mms_read_reports">阅读报告</string>
+    <string name="pref_title_notification_vibrateWhen">响铃时振动</string>
+    <string name="pref_title_mms_auto_retrieval">自动下载</string>
+    <string name="pref_summary_mms_auto_retrieval">默认手动下载</string>
+    <string name="pref_title_mms_retrieval_during_roaming">漫游时自动下载</string>
+    <string name="pref_summary_mms_retrieval_during_roaming">漫游时自动下载信息</string>
+    <string name="no_conversations">没有信息</string>
+    <string name="loading_conversations">正在加载</string>
+    <string name="attach_take_photo">拍照</string>
+    <string name="attach_record_video">录像</string>
+    <string name="dl_failure_notification">无法下载来自%2$s的彩信“%1$s”</string>
+    <string name="search_empty">没有搜索结果</string>
+</resources>

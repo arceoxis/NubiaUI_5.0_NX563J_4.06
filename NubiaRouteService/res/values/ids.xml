@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nubia_lettertext" />
+    <item type="id" name="nubia_datePickerView" />
+    <item type="id" name="nubia_timePickerView" />
+    <item type="id" name="nubia_year_spinner" />
+    <item type="id" name="nubia_month_spinner" />
+    <item type="id" name="nubia_day_spinner" />
+    <item type="id" name="nubia_hour_spinner" />
+    <item type="id" name="nubia_minute_spinner" />
+    <item type="id" name="nubia_blank_region" />
+    <item type="id" name="nubia_pcenterPanel" />
+    <item type="id" name="nubia_dialog_animate_view" />
+    <item type="id" name="nubia_parentPanel" />
+    <item type="id" name="home" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="nubia_fake_status_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="header_layout">false</item>
+    <item type="id" name="application_list">false</item>
+    <item type="id" name="emptyTip">false</item>
+    <item type="id" name="wifi_bottom">false</item>
+    <item type="id" name="devicepicker_bottom">false</item>
+    <item type="id" name="add_application">false</item>
+    <item type="id" name="clean_traffic">false</item>
+    <item type="id" name="delete_layout">false</item>
+    <item type="id" name="delete_app_button">false</item>
+    <item type="id" name="image_icon">false</item>
+    <item type="id" name="text_app_name">false</item>
+    <item type="id" name="wlan_traffic">false</item>
+    <item type="id" name="mobile_traffic">false</item>
+    <item type="id" name="tv_checkbox">false</item>
+    <item type="id" name="turshow">false</item>
+    <item type="id" name="WifiLetOnAndIngView">false</item>
+    <item type="id" name="average_speed">false</item>
+    <item type="id" name="mobile_data_usage_tips">false</item>
+    <item type="id" name="mobile_data_usage">false</item>
+    <item type="id" name="active_notify_icon">false</item>
+    <item type="id" name="active_notify_title">false</item>
+    <item type="id" name="active_wifi_icon">false</item>
+    <item type="id" name="active_notify_wifi_summary">false</item>
+    <item type="id" name="active_lte_icon">false</item>
+    <item type="id" name="active_notify_lte_summary">false</item>
+    <item type="id" name="custom_title_root">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="title_mutil_selects">false</item>
+    <item type="id" name="btn_selectAll">false</item>
+    <item type="id" name="inactive_notify_icon">false</item>
+    <item type="id" name="inactive_notify_title">false</item>
+    <item type="id" name="inactive_notify_summary">false</item>
+    <item type="id" name="list_header_view">false</item>
+    <item type="id" name="divider_last">false</item>
+    <item type="id" name="nubia_animPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="nubia_title_content_bg">false</item>
+    <item type="id" name="nubia_title_content_divider">false</item>
+    <item type="id" name="nubia_bold_divider">false</item>
+    <item type="id" name="nubia_button_bg">false</item>
+    <item type="id" name="nubia_center_title_content_divider">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="progress_percent">false</item>
+    <item type="id" name="progress_number">false</item>
+    <item type="id" name="nubia_button_left">false</item>
+    <item type="id" name="nubia_button_mid1">false</item>
+    <item type="id" name="nubia_button_mid2">false</item>
+    <item type="id" name="nubia_button_right">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="nubia_year_label">false</item>
+    <item type="id" name="nubia_month_label">false</item>
+    <item type="id" name="nubia_day_label">false</item>
+    <item type="id" name="nubia_date_picker_view">false</item>
+    <item type="id" name="nubia_lunar_date_layout">false</item>
+    <item type="id" name="nubia_lunar_textview">false</item>
+    <item type="id" name="nubia_switch_button">false</item>
+    <item type="id" name="nubia_dialog_activity_panel">false</item>
+    <item type="id" name="nubia_dialog_activity_cancel">false</item>
+    <item type="id" name="nubia_dialog_activity_ok">false</item>
+    <item type="id" name="nubia_dialog_activity_title">false</item>
+    <item type="id" name="nubia_dialog_activity_content">false</item>
+    <item type="id" name="nubia_card1">false</item>
+    <item type="id" name="nubia_card2">false</item>
+    <item type="id" name="nubia_progressBar">false</item>
+    <item type="id" name="download_button">false</item>
+    <item type="id" name="my_list_view_2">false</item>
+    <item type="id" name="bottom">false</item>
+    <item type="id" name="nubia_month_day_spinner">false</item>
+    <item type="id" name="nubia_time_hour_textview">false</item>
+    <item type="id" name="nubia_lunar_time_picker_view">false</item>
+    <item type="id" name="nubia_lunar_time_layout">false</item>
+    <item type="id" name="nubia_more_popup_panel">false</item>
+    <item type="id" name="nubia_more_popup_mock_status_bar">false</item>
+    <item type="id" name="nubia_more_popup_top_View">false</item>
+    <item type="id" name="nubia_more_popup_top_divider">false</item>
+    <item type="id" name="nubia_more_popup_dropdown">false</item>
+    <item type="id" name="nubia_more_popup_list">false</item>
+    <item type="id" name="nubia_more_popup_bottom_divider">false</item>
+    <item type="id" name="nubia_more_popup_bottom_View">false</item>
+    <item type="id" name="nubia_more_popup_text">false</item>
+    <item type="id" name="nubia_edittext_container">false</item>
+    <item type="id" name="nubia_message">false</item>
+    <item type="id" name="headers">false</item>
+    <item type="id" name="list_footer">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="back_button">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="nubia_seekbar">false</item>
+    <item type="id" name="nubia_switchWidget">false</item>
+    <item type="id" name="nubia_preference_category_right_layout">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="nubia_search_button">false</item>
+    <item type="id" name="nubia_search_edit_frame">false</item>
+    <item type="id" name="nubia_search_mag_icon">false</item>
+    <item type="id" name="nubia_search_plate">false</item>
+    <item type="id" name="nubia_search_src_text">false</item>
+    <item type="id" name="nubia_total">false</item>
+    <item type="id" name="nubia_search_close_btn">false</item>
+    <item type="id" name="nubia_submit_area">false</item>
+    <item type="id" name="nubia_search_go_btn">false</item>
+    <item type="id" name="seekbar">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="nubia_ampm_spinner">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="icon_app1">false</item>
+    <item type="id" name="icon_app2">false</item>
+    <item type="id" name="icon_app3">false</item>
+    <item type="id" name="icon_app4">false</item>
+    <item type="id" name="icon_app5">false</item>
+    <item type="id" name="more_app">false</item>
+    <item type="id" name="no_prompt_checkbox">false</item>
+    <item type="id" name="custom_more_view">false</item>
+    <item type="id" name="search_layout">false</item>
+    <item type="id" name="search_view">false</item>
+    <item type="id" name="layout_bottom">false</item>
+    <item type="id" name="turshowcontent">false</item>
+    <item type="id" name="turshow_top_close_id">false</item>
+    <item type="id" name="turshow_tips_title_id">false</item>
+    <item type="id" name="edge_tips_content">false</item>
+    <item type="id" name="turboshowleadpagebutton">false</item>
+    <item type="id" name="nubia_on">false</item>
+    <item type="id" name="nubia_off">false</item>
+    <item type="id" name="pressed">false</item>
+    <item type="id" name="not_pressed">false</item>
+    <item type="id" name="off">false</item>
+    <item type="id" name="on">false</item>
+</resources>

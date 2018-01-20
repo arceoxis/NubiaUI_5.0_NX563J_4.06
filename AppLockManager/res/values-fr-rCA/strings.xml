@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockpassword_choose_your_pattern_header">Choisissez votre schéma</string>
+    <string name="lockpassword_confirm_your_pattern_header">Confirmez votre schéma</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Les mots de passe ne correspondent pas.</string>
+    <string name="lockpassword_password_set_toast">Le mot de passe a été défini.</string>
+    <string name="lockpassword_pattern_set_toast">Le schéma a été défini.</string>
+    <string name="lockpattern_change_lock_pattern_label">Modifier le schéma</string>
+    <string name="lockpattern_need_to_unlock">Confirmer le schéma enregistré</string>
+    <string name="lockpattern_need_to_unlock_wrong">Réessayer :</string>
+    <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage</string>
+    <string name="lockpattern_recording_inprogress">Retirez le doigt lorsque vous avez terminé.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points. Veuillez réessayer.</string>
+    <string name="lockpattern_pattern_entered_header">Schéma enregistré</string>
+    <string name="lockpattern_need_to_confirm">Redessinez le schéma pour confirmer</string>
+    <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage est le suivant :</string>
+    <string name="lockpattern_confirm_button_text">OK</string>
+    <string name="lockpattern_restart_button_text">Redessiner</string>
+    <string name="lockpattern_retry_button_text">Réessayer</string>
+    <string name="lockpattern_continue_button_text">Continuer</string>
+    <string name="lockpattern_settings_title">Schéma de déverrouillage</string>
+    <string name="lockpattern_settings_enable_title">Schéma obligatoire</string>
+    <string name="lockpattern_settings_enable_summary">"Dessiner un schéma pour déverrouiller l'écran"</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Faire apparaître le schéma</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Créer un schéma</string>
+    <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma</string>
+    <string name="lockpattern_settings_help_how_to_record">Comment dessiner un schéma de déverrouillage :</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop de tentatives échouées!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Réessayez dans %d secondes.</string>
+    <string name="lockpattern_tutorial_cancel_label">Annuler</string>
+    <string name="lockpattern_tutorial_continue_label">Bouton pour atteindre le titre suivant</string>
+    <string name="cancel">Annuler</string>
+    <string name="enroll_retry_btn">"J'ai compris"</string>
+    <string name="enroll_instr_title">Aide</string>
+    <string name="enroll_instr_btn">"J'ai compris"</string>
+    <string name="enroll_complete_btn">Terminé</string>
+    <string name="enroll_dialog_cancel">Annuler</string>
+    <string name="enroll_dialog_setting">Configurer</string>
+    <string name="eyeprint_dialog_btn">OK</string>
+    <string name="capture_scan_again_button">Continuer</string>
+    <string name="enroll_retry">Réessayer</string>
+    <string name="lockpattern_show_identify_unlock">Confirmer le schéma enregistré</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_play_seekbar_thumb_pad">-1.0dip</dimen>
+    <dimen name="guide_goto_bookstore_image_padding">16.0dip</dimen>
+    <dimen name="guide_goto_bookstore_join_textsize">12.0sp</dimen>
+    <dimen name="guide_goto_bookstore_message_textsize">12.0sp</dimen>
+    <dimen name="guide_goto_bookstore_padding">36.0dip</dimen>
+    <dimen name="guide_goto_bookstore_title_textsize">24.0sp</dimen>
+    <dimen name="layoutheight_login_banner">80.0dip</dimen>
+    <dimen name="paddingAccount_large">10.0dip</dimen>
+    <dimen name="paddingAccount_normal">4.0dip</dimen>
+    <dimen name="paddingAccount_small">2.0dip</dimen>
+    <dimen name="paddingAccount_xlarge">15.0dip</dimen>
+    <dimen name="audio_play_trend_radius">1.0px</dimen>
+    <dimen name="channel_manager_grid_item_text_size">11.0sp</dimen>
+    <dimen name="channel_manager_tip_font_size">13.0sp</dimen>
+    <dimen name="padding_20">15.0dip</dimen>
+    <dimen name="sliding_tab_strip_rect_radius">1.0px</dimen>
+    <dimen name="soft_update_des_size">10.0sp</dimen>
+    <dimen name="soft_update_margin">12.0dip</dimen>
+    <dimen name="soft_update_title_size">12.0sp</dimen>
+    <dimen name="splash_top_font_size">21.0sp</dimen>
+    <dimen name="wifi_tip_font_size">12.0sp</dimen>
+    <dimen name="guide_view_text_size">11.0sp</dimen>
+</resources>

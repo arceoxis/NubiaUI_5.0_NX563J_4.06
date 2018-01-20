@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hodiny widget</string>
+    <string name="digital_clock_widget">Digitální světové hodiny</string>
+    <string name="analog_clock_widget">Analogové světové hodiny</string>
+    <string name="digital_big_clock_widget">Digitální hodiny</string>
+    <string name="analog_big_clock_widget">Analogové hodiny</string>
+    <string name="month">měsíc</string>
+    <string name="day">den</string>
+    <string name="am">dop</string>
+    <string name="pm">odp</string>
+    <string name="monday">Pon</string>
+    <string name="tuesday">Út</string>
+    <string name="wednesday">Stř</string>
+    <string name="thursday">Čtv</string>
+    <string name="friday">Pát</string>
+    <string name="saturday">Sob</string>
+    <string name="sunday">Ne</string>
+</resources>

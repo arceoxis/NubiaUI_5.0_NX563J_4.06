@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pick_wallpaper">Fondos de pantalla</string>
+    <string name="wallpaper_instructions">Estab Fondo</string>
+    <string name="wallpaper_instructions_lockscreen">Bloq Pant</string>
+    <string name="wallpaper_instructions_both">Ambos</string>
+    <string name="wallpaper_instructions_preset">Prestablecer fondo de pantalla</string>
+    <string name="set_lock_wallpaper_ok">Fondo de pantalla de bloqueo establecido con éxito</string>
+    <string name="save_smart_wallpaper_ok">Preestablecer fondo de pantalla guardado con éxito</string>
+</resources>

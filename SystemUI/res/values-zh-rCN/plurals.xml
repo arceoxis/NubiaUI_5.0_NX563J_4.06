@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">概览中有 %d 个屏幕</item>
+        <item quantity="one">概览中有 1 个屏幕</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">PIN 码错误，还有 %d 次机会</item>
+        <item quantity="one">PIN 码错误，还有 %d 次机会</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">PUK 码错误，还有 %d 次机会</item>
+        <item quantity="one">PUK 码错误，还有 %d 次机会</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">设备已保持锁定状态达 %d 小时。请确认解锁图案。</item>
+        <item quantity="one">设备已保持锁定状态达 %d 小时。请确认解锁图案。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">设备已保持锁定状态达 %d 小时。请确认 PIN 码。</item>
+        <item quantity="one">设备已保持锁定状态达 %d 小时。请确认 PIN 码。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">设备已保持锁定状态达 %d 小时。请确认密码。</item>
+        <item quantity="one">设备已保持锁定状态达 %d 小时。请确认密码。</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">输入电话卡 PIN，还有%d次机会</item>
+        <item quantity="one">输入电话卡 PIN，还有%d次机会</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">电话卡被停用，需输入电话卡PUK，还有 %d 次机会</item>
+        <item quantity="one">电话卡被停用，需输入电话卡PUK，还有 %d 次机会如失败电话卡将永远无法使用， 有关详情请联系运营商</item>
+    </plurals>
+    <plurals name="step_info">
+        <item quantity="other">%d步</item>
+        <item quantity="one">%d步</item>
+    </plurals>
+</resources>

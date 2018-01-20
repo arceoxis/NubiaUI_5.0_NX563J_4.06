@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="phone_home_drawer_user_image_padding_top">48.0dip</dimen>
+    <dimen name="phone_home_drawer_logo_text_padding_top">44.0dip</dimen>
+    <dimen name="phone_home_passcode_indicator_layout_padding_top">24.0dip</dimen>
+</resources>

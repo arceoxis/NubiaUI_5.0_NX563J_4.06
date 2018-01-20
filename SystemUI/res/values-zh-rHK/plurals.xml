@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">概覽中有 %d 個畫面</item>
+        <item quantity="one">概覽中有 1 個畫面</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM PIN 碼不正確，您剩下 %d 次機會輸入。</item>
+        <item quantity="one">SIM PIN 碼不正確，您剩下 %d 次機會輸入。如果仍然輸入錯誤，您必須聯絡流動網絡供應商為您的裝置解鎖。</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM PUK 碼不正確，您剩下 %d 次機會輸入。如果仍然輸入錯誤，SIM 將永久無法使用。</item>
+        <item quantity="one">SIM PUK 碼不正確，您剩下 %d 次機會輸入。如果仍然輪入錯誤，SIM 將永久無法使用。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">設備已保持鎖定狀態達 %d 小時。請確定解鎖圖案。</item>
+        <item quantity="one">設備已保持鎖定狀態達 %d 小時。請確定解鎖圖案。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">設備已保持鎖定狀態達 %d 小時。請確定 PIN 碼。</item>
+        <item quantity="one">設備已保持鎖定狀態達 %d 小時。請確定 PIN 碼。</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">設備已保持鎖定狀態達 %d 小時。請確定密碼。</item>
+        <item quantity="one">設備已保持鎖定狀態達 %d 小時。請確定密碼。</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">剩餘%d次機會輸入SIM PIN碼</item>
+        <item quantity="one">剩餘%d次機會輸入SIM PIN碼</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM 卡現已停用，剩餘%d次機會輸入PUK碼</item>
+        <item quantity="one">SIM 卡現已停用，剩餘%d次機會輸入PUK碼,如果仍然輸入錯誤，SIM 將永久無法使用。如需瞭解詳細資訊，請與您的流動網絡供應商聯絡。</item>
+    </plurals>
+    <plurals name="step_info">
+        <item quantity="other">%d步</item>
+        <item quantity="one">%d步</item>
+    </plurals>
+</resources>

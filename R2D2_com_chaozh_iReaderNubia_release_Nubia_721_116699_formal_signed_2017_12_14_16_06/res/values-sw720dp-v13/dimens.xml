@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bookshelf_gridview_item_horizontalSpacing">40.0dip</dimen>
+    <dimen name="bookshelf_gridview_item_with">130.0dip</dimen>
+    <dimen name="bookshelf_gridview_padding">20.0dip</dimen>
+    <dimen name="menu_setting_item_height">55.0dip</dimen>
+    <dimen name="menu_setting_item_height_37">49.0dip</dimen>
+    <dimen name="splash_button_bg_radius">30.0dip</dimen>
+    <dimen name="splash_enter_button_height">38.0dip</dimen>
+    <dimen name="splash_sex_content_top">150.0dip</dimen>
+</resources>

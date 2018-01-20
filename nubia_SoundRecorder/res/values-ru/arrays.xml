@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Хорошее, 320kbps, mp3</item>
+        <item>Стандартное, 128kbps, mp3</item>
+        <item>Удовлетворительное, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Хорошее</item>
+        <item>Стандартное</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Телефон/neoRecorder</item>
+        <item>SD-карта/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Телефон/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Рингтон для входящего звонка</item>
+        <item>Рингтон для будильника</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>СИМ-Карта 1</item>
+        <item>СИМ-Карта 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Сделать фотографии</item>
+        <item>Выбрать фотографию из Галлереи</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Посмотреть фотографию</item>
+        <item>Удалить фотографию</item>
+        <item>Сделать новую фотографию</item>
+        <item>Выбрать новую фотографию из Галлереи</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Сохранить вместе</item>
+        <item>Сохранить отдельно</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>сортировать по времени</item>
+        <item>сортировать по тегу</item>
+        <item>сортировать по длительности</item>
+    </string-array>
+</resources>

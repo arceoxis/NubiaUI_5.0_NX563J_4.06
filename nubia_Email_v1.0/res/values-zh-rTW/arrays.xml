@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>回覆</item>
+        <item>回覆全部</item>
+        <item>轉發</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>成功</item>
+        <item>無連接</item>
+        <item>不能登錄</item>
+        <item>安全錯誤</item>
+        <item>不能同步</item>
+        <item>內部錯誤</item>
+        <item>伺服器錯誤</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>較新</item>
+        <item>較舊</item>
+        <item>對話列表</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>刪除後顯示較新的對話</item>
+        <item>刪除後顯示較舊的對話</item>
+        <item>刪除後顯示對話列表</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>檔案</item>
+        <item>刪除</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>檔案</item>
+        <item>刪除</item>
+    </string-array>
+    <string-array name="prefSummaries_snapHeader">
+        <item>總是在螢幕上方顯示訊息動態</item>
+        <item>縱向旋轉螢幕時，訊息動態僅顯示在螢幕上方</item>
+        <item>訊息動態不要顯示在訊息標題外側</item>
+    </string-array>
+    <string-array name="prefEntries_snapHeader">
+        <item>總是顯示</item>
+        <item>僅縱向顯示</item>
+        <item>不要顯示</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>正常大小的文字</item>
+        <item>大號字體</item>
+        <item>超大字體</item>
+    </string-array>
+</resources>

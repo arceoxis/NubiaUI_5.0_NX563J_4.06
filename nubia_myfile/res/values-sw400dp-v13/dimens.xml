@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_column_width">123.0dip</dimen>
+    <dimen name="no_file_tip_margin_top">36.0dip</dimen>
+    <dimen name="no_file_tip_size">18.0sp</dimen>
+    <dimen name="folder_layout_marginLeft">36.0dip</dimen>
+    <dimen name="searchview_layout_margin_right">30.0dip</dimen>
+    <dimen name="grid_image_layout_width">131.0dip</dimen>
+    <dimen name="grid_image_layout_height">131.0dip</dimen>
+    <dimen name="grid_textview_layout_width">129.0dip</dimen>
+    <dimen name="otg_not_available_page_image_margin_top">120.0dip</dimen>
+    <dimen name="otg_not_available_page_margin_left">30.0dip</dimen>
+    <dimen name="otg_not_available_page_margin_top">230.0dip</dimen>
+    <dimen name="otg_not_available_page_text_size">18.0sp</dimen>
+    <dimen name="otg_not_available_page_horizontal_margin_bottom">120.0dip</dimen>
+    <dimen name="otg_not_available_page_horizontal_margin_left">30.0dip</dimen>
+    <dimen name="otg_not_available_page_horizontal_margin_top">80.0dip</dimen>
+    <dimen name="otg_not_available_page_horizontal_relativeLayout_margin_left">42.0dip</dimen>
+    <dimen name="otg_not_available_page_horizontal_relativeLayout_margin_right">25.0dip</dimen>
+    <dimen name="otg_not_available_page_horizontal_relativeLayout_margin_top">100.0dip</dimen>
+    <dimen name="nubia_tab_indicator_margin_top">37.0dip</dimen>
+    <dimen name="file_path_text_size">20.0sp</dimen>
+    <dimen name="picture_grid_background_size">180.0dip</dimen>
+    <dimen name="picture_grid_frame_size">145.0dip</dimen>
+    <dimen name="privacy_space_layout_padding_right">20.0dip</dimen>
+    <dimen name="search_back_image_layout_margin_left">20.0dip</dimen>
+    <dimen name="searchview_layout_margin_left">30.0dip</dimen>
+    <dimen name="grid_file_checkbox_area_padding_right">10.0dip</dimen>
+    <dimen name="grid_file_checkbox_area_padding_top">14.0dip</dimen>
+    <dimen name="categorybar_phone_layout_margin_left">16.0dip</dimen>
+    <dimen name="dropdown_item_layout_height">50.0dip</dimen>
+    <dimen name="home_category_grid_height">400.0dip</dimen>
+    <dimen name="file_count_size">13.0sp</dimen>
+</resources>

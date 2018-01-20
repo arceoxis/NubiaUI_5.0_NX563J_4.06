@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s Konversationen werden gelöscht.</item>
+        <item quantity="one">Eine Konversation wird gelöscht.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s Sek.</item>
+        <item quantity="one">%s Sek.</item>
+        <item quantity="few">%s Sek.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s Ergebnisse für \"%2$s\"</item>
+        <item quantity="one">%1$s Ergebnis für \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s weitere Nachrichten</item>
+        <item quantity="one">+%1$s weitere Nachricht</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s Personen</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s Phrasen werden gelöscht.</item>
+        <item quantity="one">Eine Phrase wird gelöscht.</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">" und weitere %1$s Leute"</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s Threads für \"%2$s\"</item>
+        <item quantity="one">%1$s Thread für \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s Nachrichten für \"%2$s\"</item>
+        <item quantity="one">%1$s Nachricht für \"%2$s\"</item>
+    </plurals>
+</resources>

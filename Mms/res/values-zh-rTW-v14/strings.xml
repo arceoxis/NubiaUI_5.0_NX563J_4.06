@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="to_hint">" 傳送到"</string>
+    <string name="type_to_compose_text_enter_to_send">" 輸入訊息"</string>
+    <string name="preferences_title">簡訊設置</string>
+    <string name="pref_mms_settings_title">多媒體訊息設置</string>
+    <string name="pref_sms_settings_title">短訊設置</string>
+    <string name="pref_summary_sms_delivery_reports">請求為每條傳送短訊傳送回條</string>
+    <string name="no_conversations">無會話群組</string>
+    <string name="search_empty">沒有相符項目</string>
+</resources>

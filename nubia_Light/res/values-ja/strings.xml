@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">懐中電灯</string>
+    <string name="close">消す</string>
+    <string name="nocamere">カメラは無効になっているか、他のアプリで使用されています。カメラ権限を有効にするか、他のアプリを終了してカメラを使用してください。</string>
+    <string name="keepon">懐中電灯が常に点灯するように上方向にスワイプします。</string>
+    <string name="allkeepon">常に点灯</string>
+    <string name="light_already_open">点灯した</string>
+    <string name="cts_tip_message">この機能を有効にするには、次の権限が必要です。</string>
+    <string name="cts_tip_camera">・ カメラ</string>
+    <string name="cts_tip_phone">・ 電話</string>
+    <string name="cts_tip_enable">有効</string>
+    <string name="cts_tip_quit">取消</string>
+</resources>

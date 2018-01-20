@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">Infos zur Startanimation</string>
+    <string name="str_author_info">Verfasserinfo</string>
+    <string name="str_view_origin_picture">Bild anzeigen</string>
+    <string name="str_click_picture">Bild anklicken</string>
+    <string name="str_view_detail">Details anzeigen</string>
+    <string name="str_i_know">Ich weiß</string>
+    <string name="str_slip_info">Zum Seitenwechsel nach links oder rechts neigen</string>
+    <string name="str_thanks_share">"Danke %1$s für's Teilen"</string>
+</resources>

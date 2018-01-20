@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Latarka</string>
+    <string name="close">Zamknij</string>
+    <string name="nocamere">Konflikt z aparatem</string>
+    <string name="keepon">Przesuń do góry, by włączyć latarkę</string>
+    <string name="allkeepon">Latarka jest włączona</string>
+    <string name="light_already_open">Latarka jest już włączona</string>
+    <string name="cts_tip_message">Ta funkcja wymaga włączenia następujących uprawnień, przejść do ustawień i włączyc?</string>
+    <string name="cts_tip_camera">·Aparat</string>
+    <string name="cts_tip_phone">·Telefon</string>
+    <string name="cts_tip_enable">Włącz</string>
+    <string name="cts_tip_quit">Anuluj</string>
+</resources>

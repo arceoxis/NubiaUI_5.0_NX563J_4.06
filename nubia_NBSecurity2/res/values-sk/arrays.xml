@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>Neželané textové správy</item>
+        <item>Obťažujúce hovory</item>
+        <item>Správa blokovania</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>Kedy má moja mama narodeniny?</item>
+        <item>Kedy má môj otec narodeniny?</item>
+        <item>Ktorá je najdôležitejšia osoba v mojom živote?</item>
+        <item>Kam by si chcel(a) ísť najviac?</item>
+        <item>Ktorá je moja obľúbená farba?</item>
+        <item>Ktorý je najdôležitejší deň môjho života?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Prijať len Biely zoznam</item>
+        <item>Blokovať len čierny zoznam</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>Spam SMS</item>
+        <item>Obťažujúce hovory</item>
+        <item>Správca blokovania</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Nedávne</item>
+        <item>Kontakt</item>
+        <item>Textová správa</item>
+        <item>Ručne</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>Textová správa</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Spravovanie čierneho zoznamu</item>
+        <item>Blokovať nastavenia</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Zadržanie všetkých</item>
+        <item>Zadržanie Čierny</item>
+        <item>Zadržanie neznámych</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Zavolať</item>
+        <item>Pridať čierny zoznam</item>
+        <item>Vymazať kontakty</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>vymazať číslo z čierneho zoznamu</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Povolené</item>
+        <item>Ignorované</item>
+        <item>Vždy sa opýtať</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Ochrana osobných údajov</item>
+        <item>Zabezpečenie</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Približná poloha</item>
+        <item>Upresniť miesto</item>
+        <item>GPS</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>upraviť denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>WLAN sken</item>
+        <item>Upozornenie</item>
+        <item>skenovanie mobilnej siete</item>
+        <item>Realizovať hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>Poslať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať núdzovú SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať WAP push</item>
+        <item>Poslať SMS</item>
+        <item>čítať ICC SMS</item>
+        <item>písať ICC SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>Zapnúť WLAN</item>
+        <item>Zapnúť Bluetooth</item>
+        <item>Zapnúť Mobilné dáta</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>Odoslať MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>upraviť denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>Poloha</item>
+        <item>Dodatočné oznámenie</item>
+        <item>Poloha</item>
+        <item>Realizovať hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>Poslať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať SMS</item>
+        <item>Poslať SMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>Zapnúť WLAN</item>
+        <item>Zapnúť Bluetooth</item>
+        <item>Zapnúť Mobilné dáta</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>Odoslať MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Približná poloha</item>
+        <item>Upresniť miesto</item>
+        <item>GPS</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>upraviť denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>WLAN sken</item>
+        <item>Upozornenie</item>
+        <item>skenovanie mobilnej siete</item>
+        <item>Realizovať hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať núdzovú SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať WAP push</item>
+        <item>Poslať SMS</item>
+        <item>čítať ICC SMS</item>
+        <item>písať ICC SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>tlačidlá médií</item>
+        <item>audio zaostrenie</item>
+        <item>hlavný ovládač hlasitosti</item>
+        <item>hlasitosť hlasu</item>
+        <item>Hlasitosť vyzváňania</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíkov</item>
+        <item>Hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>monitorovať miesto</item>
+        <item>monitorovať miesto s vysokou energiou</item>
+        <item>Zapnúť WLAN</item>
+        <item>Zapnúť Bluetooth</item>
+        <item>Zapnúť Mobilné dáta</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať MMS</item>
+        <item>automatické spustenie</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>upraviť denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>Poloha</item>
+        <item>Dodatočné oznámenie</item>
+        <item>Poloha</item>
+        <item>Realizovať hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať SMS</item>
+        <item>Poslať SMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>tlačidlá médií</item>
+        <item>audio zaostrenie</item>
+        <item>hlavný ovládač hlasitosti</item>
+        <item>hlasitosť hlasu</item>
+        <item>Hlasitosť vyzváňania</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíkov</item>
+        <item>Hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Zapnúť WLAN</item>
+        <item>Zapnúť Bluetooth</item>
+        <item>Zapnúť Mobilné dáta</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať MMS</item>
+        <item>automatické spustenie</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Približná poloha</item>
+        <item>Upresniť miesto</item>
+        <item>GPS</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>písať kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>písať denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>WLAN sken</item>
+        <item>Upozornenie</item>
+        <item>skenovanie mobilnej siete</item>
+        <item>Vykonávať telefonické hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať núdzovú SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať WAP push</item>
+        <item>Poslať SMS</item>
+        <item>čítať ICC SMS</item>
+        <item>písať ICC SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>tlačidlá médií</item>
+        <item>audio zaostrenie</item>
+        <item>hlavný ovládač hlasitosti</item>
+        <item>hlasitosť hlasu</item>
+        <item>Hlasitosť vyzváňania</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíkov</item>
+        <item>Hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>monitorovať miesto</item>
+        <item>monitorovať miesto s vysokou energiou</item>
+        <item>získať stavy používanía</item>
+        <item>stlmiť/zrušiť stlmenie mikrofónu</item>
+        <item>okno toastu</item>
+        <item>projektové médiá</item>
+        <item>aktivovať VPN</item>
+        <item>Zapnúť WLAN</item>
+        <item>Zapnúť Bluetooth</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať MMS</item>
+        <item>automatické spustenie</item>
+        <item>Otvoriť NFC</item>
+        <item>vymazať SMS</item>
+        <item>vymazať MMS</item>
+        <item>Vymazať kontakty</item>
+        <item>Vymazať denník hovorov</item>
+        <item>Zapnúť Mobilné dáta</item>
+        <item>Inštalovať skratku</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>písať kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>písať denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>Poloha</item>
+        <item>Dodatočné oznámenie</item>
+        <item>Poloha</item>
+        <item>Vykonávať telefonické hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať SMS</item>
+        <item>Poslať SMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>tlačidlá médií</item>
+        <item>audio zaostrenie</item>
+        <item>hlavný ovládač hlasitosti</item>
+        <item>hlasitosť hlasu</item>
+        <item>hlasitosť zvonenia</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíkov</item>
+        <item>Hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>získať stavy používanía</item>
+        <item>stlmiť/zrušiť stlmenie mikrofónu</item>
+        <item>okno toastu</item>
+        <item>projektové médiá</item>
+        <item>aktivovať VPN</item>
+        <item>Zapnúť WLAN</item>
+        <item>Zapnúť Bluetooth</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať MMS</item>
+        <item>automatické spustenie</item>
+        <item>Otvoriť NFC</item>
+        <item>vymazať SMS</item>
+        <item>vymazať MMS</item>
+        <item>Vymazať kontakty</item>
+        <item>Vymazať denník hovorov</item>
+        <item>Zmena dát</item>
+        <item>Inštalovať skratku</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovať</item>
+        <item>Prečítať vaše kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>načítať denník hovorov</item>
+        <item>upraviť denník hovorov</item>
+        <item>načítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>Poloha</item>
+        <item>Dodatočné oznámenie</item>
+        <item>Poloha</item>
+        <item>Vykonávať telefonické hovory</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať SMS</item>
+        <item>Poslať SMS</item>
+        <item>Čítať SMS/MMS</item>
+        <item>písať SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>upozornenia prístupu</item>
+        <item>Fotoaparát</item>
+        <item>zaznamenať zvuk</item>
+        <item>prehrať audio</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>tlačidlá médií</item>
+        <item>audio zaostrenie</item>
+        <item>hlavný ovládač hlasitosti</item>
+        <item>hlasitosť hlasu</item>
+        <item>hlasitosť zvonenia</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíkov</item>
+        <item>Hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>získať stavy používanía</item>
+        <item>stlmiť/zrušiť stlmenie mikrofónu</item>
+        <item>okno toastu</item>
+        <item>projektové médiá</item>
+        <item>aktivovať VPN</item>
+        <item>písať tapetu</item>
+        <item>pomocná štruktúra</item>
+        <item>asistencia pri screenshote</item>
+        <item>načítať stav telefónu</item>
+        <item>pridať hlasovú správu</item>
+        <item>použiť kúsok</item>
+        <item>spracovanie odchádzajúcich hovorov</item>
+        <item>použiť odtlačok prsta</item>
+        <item>senzory tela</item>
+        <item>načítať vysielanie buniek</item>
+        <item>poloha mock</item>
+        <item>načítať vonkajšiu pamäť</item>
+        <item>zapisovať na vonkajšiu pamäť</item>
+        <item>zapnúť obrazovku</item>
+        <item>získať účty</item>
+        <item>zmeniť wlan</item>
+        <item>zmeniť bluetooth</item>
+        <item>Odoslať MMS</item>
+        <item>písať MMS</item>
+        <item>vymazať SMS</item>
+        <item>vymazať MMS</item>
+        <item>vymazať zmluvy</item>
+        <item>Vymazať denník hovorov</item>
+        <item>Inštalovať skratku</item>
+        <item>spustiť v pozadí</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Povolenia</item>
+        <item>Aplikácia</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Trieda ochrany súkromia</item>
+        <item>Základná trieda</item>
+        <item>Trieda oznámení</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Zavolať</item>
+        <item>Všetky kontakty</item>
+        <item>SMS a MMS</item>
+        <item>Multimediálna správa</item>
+        <item>Informácie o umiestnení</item>
+        <item>Kalendár</item>
+        <item>MIC</item>
+        <item>Fotoaparát</item>
+        <item>Senzor tela</item>
+        <item>Priestor pamäte</item>
+        <item>Zmeniť Wifi</item>
+        <item>Zmeniť Bluetooth</item>
+        <item>Zmeniť nastavenia</item>
+        <item>Inštalovať skratku</item>
+        <item>Zobraziť vyskakovacie okno</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Inštalovať balík</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Povoliť</item>
+        <item>Opýtať sa</item>
+        <item>Zakázať</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Povoliť</item>
+        <item>Zakázať</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Trieda ochrany súkromia</item>
+        <item>Základná trieda</item>
+        <item>Trieda oznámení</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Manuálne pridať automaticky sa spúšťajúce aplikácie</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Odoslať</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Len manuálna kalibrácia</item>
+        <item>Automatická kalibrácia každý deň</item>
+        <item>Automatická kalibrácia každé tri dni</item>
+        <item>Automatická kalibrácia každý týždeň</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Odstrániť všetky záznamy</item>
+        <item>Poslať ďalej</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Pridať</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Pozvať partnera, aby sa pridal do hry „Skrývačky“. Získajte hviezdy, keď vykonáte skúšku ochrany proti ukradnutiu!</item>
+        <item>"1. Dovoliť priateľom ukryť Váš telefón 
+"</item>
+        <item>"2. Poď a hľadaj, ja som ťa našiel 
+"</item>
+        <item>"3. Nemôžem to nájsť. Čo mám robiť? 
+"</item>
+        <item>4. Máte to! Dôverujte nubia neoSafe!</item>
+        <item>"5. Použite iný telefón na odoslanie textovej správy s obsahom 信牛盾 na Váš vlastný telefón, a držte sa pokynov 
+"</item>
+        <item>"OK, mám v dlani hviezdičky. Je to také jednoduché! Neobávajte sa toho, kam ste položili telefón! Nezabúdajte, že telefón musí byť zapnutý pre prijatie textovej správy. 
+ Ukážte to Vašim priateľom teraz!"</item>
+    </string-array>
+</resources>

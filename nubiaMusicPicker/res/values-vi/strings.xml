@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicPicker</string>
+    <string name="unknown_artist_name">Nghệ sĩ không được rõ</string>
+    <string name="unknown_album_name">Album không xác định</string>
+    <string name="sdcard_missing_message">Thẻ SD chưa được lắp vào.</string>
+    <string name="no_recordfile">không Recordings</string>
+    <string name="add_recordfile">Để ghi một tập tin với máy ghi âm của bạn lúc đầu</string>
+    <string name="no_musicfile">không có âm nhạc</string>
+    <string name="silent">Im lặng</string>
+    <string name="cancel_picker">Hủy</string>
+    <string name="ok_picker">OK</string>
+    <string name="custom_ring">Âm thanh mặc định</string>
+    <string name="cut_fail">không thể cắt tập tin này</string>
+    <string name="cut_success">Cắt và thiết lập thành công</string>
+    <string name="cut_copy">Sao chép</string>
+    <string name="dlg_wait">Cắt</string>
+    <string name="dlg_title">Cài đặt nhạc chuông</string>
+    <string name="dlg_message">Bạn có chắc chắn muốn đặt nó như nhạc chuông của bạn?</string>
+    <string name="dlg_yes">Có</string>
+    <string name="dlg_no">Không</string>
+    <string name="internal_media">Truyền thông nội bộ</string>
+    <string name="external_media">Nhạc nội bộ</string>
+    <string name="record_media">Recordings</string>
+    <string name="picker_title">Nhạc chuông</string>
+    <string name="picker_ringer_silent_mode">Điện thoai ở tình trạng %s, vui lòng tăng âm lượng</string>
+    <string name="picker_silent_mode">Tắt tiếng</string>
+    <string name="picker_vibrate_mode">Rung</string>
+    <string name="wait_loading">Đang tải dữ liệu</string>
+    <string name="music_file_unexist">Tập tin không được tồn tại.</string>
+</resources>

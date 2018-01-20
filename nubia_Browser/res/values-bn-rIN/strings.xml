@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_alert_title">"' %1$s '-এ পৃষ্ঠাটি এটি সূচিত করছে:"</string>
+    <string name="password_prompt_title">সুনিশ্চিত করুন</string>
+    <string name="password_prompt_message">আপনি কি চান যে ব্রাউজারটি এই পাসওয়ার্ডকে মনে রাখুক?</string>
+    <string name="password_prompt_never">কখনও নয়</string>
+    <string name="password_prompt_remember">মনে রাখুন</string>
+    <string name="password_prompt_not_now">এখন নয়</string>
+</resources>

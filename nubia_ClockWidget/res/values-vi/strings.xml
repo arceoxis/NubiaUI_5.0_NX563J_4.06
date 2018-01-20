@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiện ích Đồng hồ</string>
+    <string name="digital_clock_widget">Đồng Hồ Thế Giới Kỹ Thuật Số</string>
+    <string name="analog_clock_widget">Đồng Hồ Thế Giới Analog</string>
+    <string name="digital_big_clock_widget">Đồng hồ kỹ thuật số</string>
+    <string name="analog_big_clock_widget">Đồng hồ Analog</string>
+    <string name="month">Tháng</string>
+    <string name="day">Ngày</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">Thứ Hai</string>
+    <string name="tuesday">Thứ ba</string>
+    <string name="wednesday">Thứ Tư</string>
+    <string name="thursday">Thứ Năm</string>
+    <string name="friday">Thứ Sáu</string>
+    <string name="saturday">Thứ Bảy</string>
+    <string name="sunday">Chủ Nhật</string>
+</resources>

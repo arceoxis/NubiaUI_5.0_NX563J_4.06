@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">Boot animation information</string>
+    <string name="str_author_info">Author Info</string>
+    <string name="str_view_origin_picture">View Picture</string>
+    <string name="str_click_picture">Click Picture</string>
+    <string name="str_view_detail">View Detail Info</string>
+    <string name="str_i_know">I Know</string>
+    <string name="str_slip_info">Slide left or right to change page</string>
+    <string name="str_thanks_share">Thank %1$s for sharing</string>
+</resources>

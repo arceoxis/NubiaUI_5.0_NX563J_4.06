@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jam</string>
+    <string name="digital_clock_widget">Jam Dunia Digital</string>
+    <string name="analog_clock_widget">Jam Dunia Analog</string>
+    <string name="digital_big_clock_widget">Jam digital</string>
+    <string name="analog_big_clock_widget">Jam analog</string>
+    <string name="month">Bulan</string>
+    <string name="day">Hari</string>
+    <string name="am">pagi</string>
+    <string name="pm">malam</string>
+    <string name="monday">Senin</string>
+    <string name="tuesday">Selasa</string>
+    <string name="wednesday">Rabu</string>
+    <string name="thursday">Kamis</string>
+    <string name="friday">Jumat</string>
+    <string name="saturday">Sabtu</string>
+    <string name="sunday">Minggu</string>
+</resources>

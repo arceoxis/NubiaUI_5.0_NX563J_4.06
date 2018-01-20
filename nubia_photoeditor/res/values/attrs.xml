@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="blade_color" format="color" />
+    <attr name="background_color" format="color" />
+    <attr name="blade_space" format="dimension" />
+    <attr name="nubiaSwitchStylenew" format="reference" />
+    <attr name="thumbnew" format="reference" />
+    <attr name="tracknew" format="reference" />
+    <attr name="textOnnew" format="string" />
+    <attr name="textOffnew" format="string" />
+    <attr name="thumbTextPaddingnew" format="dimension" />
+    <attr name="switchTextAppearancenew" format="reference" />
+    <attr name="switchMinWidthnew" format="dimension" />
+    <attr name="switchMinHightnew" format="dimension" />
+    <attr name="switchPaddingnew" format="dimension" />
+    <attr name="splitTracknew" format="boolean" />
+    <attr name="showTextnew" format="boolean" />
+    <attr name="max_width" format="dimension" />
+    <attr name="elemSize" format="dimension" />
+    <attr name="elemEndSize" format="dimension" />
+    <attr name="iconSize" format="dimension" />
+</resources>

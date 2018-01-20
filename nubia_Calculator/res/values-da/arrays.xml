@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>venstre parentes</item>
+        <item>højre parentes</item>
+        <item>faktoriel</item>
+        <item>naturlig logaritme</item>
+        <item>logaritme</item>
+        <item>kvadratrod</item>
+        <item>divideret med</item>
+        <item>ganget med</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> point </item>
+        <item>tænd/sluk</item>
+        <item>tangent</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>lig med</item>
+    </string-array>
+</resources>

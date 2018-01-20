@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad_home_myoffice_middle_padding_left">50.0dip</dimen>
+    <dimen name="pad_home_myoffice_middle_padding_right">50.0dip</dimen>
+</resources>

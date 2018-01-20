@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolatrice</string>
+    <string name="error">Errore</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">E</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">"Il campo per l'input di testo ha raggiunto il limite massimo"</string>
+    <string name="outoff_storage">"Memoria insufficiente, è necessario liberare spazio di memoria prima dell'utilizzo"</string>
+    <string name="upgrade_title_message">è stata trovata una nuova versione, aggiornare?</string>
+    <string name="calculator_version_upgrade_notification_title">Aggiornamento del calcolatore</string>
+    <string name="alert_dialog_cancel">Annulla</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="cts_warning_text">"L'applicazione richiede i relativi permessi o non potrà operare."</string>
+    <string name="cts_warning_title">Questa funzione richiede i seguenti permessi per essere abilitata, aprire le impostazioni e procedere?</string>
+    <string name="cts_phone">"·Telefono
+"</string>
+    <string name="cts_storage">"·Memoria
+"</string>
+    <string name="go_permission_setting">Attiva</string>
+    <string name="del">ELIMINA</string>
+    <string name="clear">CANC</string>
+    <string name="basic">Pannello base</string>
+    <string name="advanced">Pannello avanzato</string>
+    <string name="clear_history">Cancella cronologia</string>
+    <string name="text_copied_toast">Testo copiato.</string>
+    <string name="leftParenDesc">parentesi aperta</string>
+    <string name="rightParenDesc">parentesi chiusa</string>
+    <string name="factorialDesc">fattoriale</string>
+    <string name="lnDesc">logaritmo naturale</string>
+    <string name="lgDesc">logaritmo</string>
+    <string name="sqrtDesc">radice quadrata</string>
+    <string name="divDesc">divisione</string>
+    <string name="mulDesc">moltiplicazione</string>
+    <string name="plusDesc">più</string>
+    <string name="minusDesc">meno</string>
+    <string name="dotDesc">punto</string>
+    <string name="powerDesc">potenza</string>
+    <string name="delDesc">elimina</string>
+    <string name="clearDesc">azzera</string>
+    <string name="tanDesc">tangente</string>
+    <string name="sinDesc">seno</string>
+    <string name="cosDesc">coseno</string>
+    <string name="eDesc">numero di Eulero</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">uguale a</string>
+    <string name="clearAll">CA</string>
+</resources>

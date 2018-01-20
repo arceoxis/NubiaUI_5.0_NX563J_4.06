@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_status_activity_title">Estado</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
+    <string name="wifiap_configure_subtext">%1$s%2$s wifiap WLAN portátil</string>
+    <string name="wifiap_configure_ssid_default">Androidwifiap</string>
+    <string name="wifiap_configure_ap_text">Establecer wifiap WLAN</string>
+    <string name="wifiap_list_category">DISPOSITIVOS CONECTADOS</string>
+    <string name="wifiap_turn_on_hint">Para usar wifiap WLAN, actívala.</string>
+    <string name="wifiap_settings_desc">La wifiap WLAN puede compartir los datos de conexión a Internet de este teléfono con otros PC o dispositivos móviles mediante WLAN.</string>
+    <string name="wifiap_settings_indication">Tras activar la wifiap WLAN, otros PC o dispositivos móviles pueden conectarse a ella y acceder a Internet siguiendo estos pasos:</string>
+    <string name="wifiap_settings_indication_step1">1. Enciende la WLAN en el PC o dispositivo móvil.</string>
+    <string name="wifiap_settings_indication_step2">2. Busca «%s» en la lista de redes WLAN.</string>
+    <string name="wifiap_settings_indication_step3_ssid">3. Selecciona «%s».</string>
+    <string name="wifiap_settings_indication_step3_all" formatted="false">3. Selecciona “%s” y escribe “%s” en el campo de contraseña.</string>
+    <string name="wifiap_settings_indication_step4">4. Empieza a usar Internet en el PC o dispositivo móvil.</string>
+    <string name="wifiap_settings_menu_help">Ayuda</string>
+    <string name="wifi_tether_checkbox_text">Zona Wi-Fi portátil</string>
+    <string name="wifiap_default_device_name">Anónimo</string>
+    <string name="wifiap_title">Zona WLAN</string>
+    <string name="wifi_ssid">Nombre de la red</string>
+    <string name="wifi_ssid_hint">Introduce el SSID</string>
+    <string name="wifi_security">Seguridad</string>
+    <string name="wifi_password">Contraseña</string>
+    <string name="wifi_show_password">Mostrar contraseña</string>
+    <string name="wifi_save">Guardar</string>
+    <string name="credentials_password_too_short">La contraseña debe tener un mínimo de ocho caracteres.</string>
+    <string name="wifi_security_none">Abrir</string>
+    <string name="open_security_settings_note">Con la seguridad abierta, cualquier dispositivo puede conectarse a tu punto de acceso móvil y utilizar tu conexión de datos móviles.</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_ap_band_config">Seleccionar banda de AP</string>
+    <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
+    <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
+    <string name="wifi_tether_configure_ap_text">Configurar zona WLAN</string>
+    <string name="wifi_cancel">Cancelar</string>
+    <string name="maximum_connections_button_text">Conexiones máximas</string>
+    <string name="wifi_hotspot_mode_title">Mantener activado punto de acceso Wi-Fi</string>
+    <string name="wifi_calling_wizard_title">Tutorial de llamadas Wi-Fi</string>
+    <string name="wifi_call_setting">Ajustes de llamadas Wi-Fi</string>
+    <string name="wifi_call_setting_title">Llamadas Wi-Fi</string>
+    <string name="dialog_not_show_again">No volver a mostrar</string>
+    <string name="wifi_ap_broadcast_ssid">Nombre de red de emisión(SSID)</string>
+    <string name="question_what_is_wifi_calling">" ¿Qué son las llamadas Wi-Fi?"</string>
+    <string name="answer_question_what_is_wifi_calling">Las llamadas Wi-Fi te permiten realizar y recibir llamadas de voz y mensajes de texto o multimedia mediante Wi-Fi cuando el teléfono está conectado a una red Wi-Fi y registrado en la red MetroPCS de llamadas Wi-Fi.</string>
+    <string name="question_how_enable_wifi">¿Cómo habilito la conexión Wi-Fi?</string>
+    <string name="answer_question_how_enable_wifi">Para habilitar la conexión Wi-Fi, usa la sección de controles inalámbricos del menú de ajustes de Android.</string>
+    <string name="question_how_enable_wifi_calling">¿Cómo habilito las llamadas Wi-Fi?</string>
+    <string name="answer_question_how_enable_wifi_calling">De forma predeterminada, las llamadas Wi-Fi se habilitan en el teléfono en cuanto se activa la radio Wi-Fi. Las llamadas Wi-Fi se pueden controlar desde los ajustes de llamadas Wi-Fi.</string>
+    <string name="question_if_use_Wifi">¿Cómo sé si estoy utilizando la red Wi-Fi para mis llamadas?</string>
+    <string name="answer_question_if_use_Wifi">Cuando tu teléfono se asocia a una red Wi-Fi, intenta registrarse automáticamente en la red MetroPCS de llamadas Wi-Fi. Cuando se haya completado el registro correctamente, verás el icono de llamadas Wi-Fi en la barra de estado. También verás el icono de llamadas Wi-Fi en el marcador (en lugar del icono de llamadas habitual) y se mostrará brevemente un mensaje en la parte superior de la pantalla para indicar que las llamadas se realizarán mediante Wi-Fi.</string>
+    <string name="question_charge_diff_about_wifi_call">¿Las llamadas y los SMS o MMS mediante Wi-Fi cuestan lo mismo que mis llamadas móviles?</string>
+    <string name="answer_question_charge_diff_about_wifi_call">La ventaja principal de las llamadas Wi-Fi es el incremento de la cobertura en lugares con Wi-Fi. Las llamadas y los mensajes realizados mediante Wi-Fi cuestan lo mismo que las llamadas móviles de algunos planes.</string>
+    <string name="question_what_happen_without_wifi_coverage">¿Qué ocurre si pierdo la cobertura Wi-Fi?</string>
+    <string name="answer_question_what_happen_without_wifi_coverage">Cuando el dispositivo pierda la cobertura Wi-Fi, las llamadas activas finalizarán y el teléfono intentará conectarse a la red móvil si es posible. Si la llamada finaliza debido a la pérdida de cobertura Wi-Fi, recibirás un mensaje.</string>
+    <string name="wifi_calling_wizard_learn_more">Más información</string>
+    <string name="wifi_calling_help_wizard_title">Obtenga información sobre las llamadas Wi-Fi</string>
+    <string name="wifi_calling_wizard_content_step_1">"Presentamos el tutorial de llamadas Wi-Fi. 
+ \"Omitir\" ignorará el asistente esta vez. 
+ \"Más información\" mostrará más detalles sobre del tema"</string>
+    <string name="wifi_calling_wizard_content_step_2">"Las llamadas Wi-Fi te permiten olvidarte de la cobertura intermitente. Con las llamadas Wi-Fi, podrás realizar y recibir llamadas y mensajes mediante una red Wi-Fi con tu plan actual de T-Mobile.  
+  Las llamadas Wi-Fi no requieren ningún tipo de configuración especial.  En el menú Ajustes, ve a Conexiones inalámbricas y redes y conéctate a una red Wi-Fi para comenzar."</string>
+    <string name="wifi_calling_wizard_content_step_3">"Cuando veas el icono de llamadas Wi-Fi en la barra de estado, el teléfono estará preparado para las llamadas Wi-Fi. "</string>
+    <string name="wifi_calling_wizard_content_step_4">Para conservar una llamada Wi-Fi, mantente dentro del alcance de la red Wi-Fi. Si la llamada finaliza porque te has alejado del alcance de la red, escucharás un sonido y se mostrará un mensaje en la pantalla.</string>
+    <string name="skip_label">Omitir</string>
+    <string name="wifi_calling_connection_pref_title">Preferencias de conexión</string>
+    <string name="wifi_call_preferrd_setting_title">Preferencias de llamadas Wi-Fi</string>
+    <string name="wifi_calling_settings_menu_help">Ayuda</string>
+</resources>

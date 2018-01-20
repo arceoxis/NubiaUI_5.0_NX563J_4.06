@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="set_ringtone_array">
+        <item>设为来电铃声</item>
+        <item>设为短信铃声</item>
+        <item>设为指定联系人铃声</item>
+        <item>设为闹钟铃声</item>
+    </string-array>
+    <string-array name="set_ringtone_two_card_array">
+        <item>设为卡1来电铃声</item>
+        <item>设为卡2来电铃声</item>
+        <item>设为短信铃声</item>
+        <item>设为指定联系人铃声</item>
+        <item>设为闹钟铃声</item>
+    </string-array>
+    <string-array name="set_ringtone_array_no_alarm">
+        <item>设为来电铃声</item>
+        <item>设为短信铃声</item>
+        <item>设为指定联系人铃声</item>
+    </string-array>
+    <string-array name="set_ringtone_two_card_array_no_alarm">
+        <item>设为卡1来电铃声</item>
+        <item>设为卡2来电铃声</item>
+        <item>设为短信铃声</item>
+        <item>设为指定联系人铃声</item>
+    </string-array>
+</resources>

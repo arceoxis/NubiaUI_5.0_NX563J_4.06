@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Nubia.CompoundButton.RadioButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+        <item name="android:button">?android:listChoiceIndicatorSingle</item>
+    </style>
+    <style name="TextAppearance.Nubia.Medium" parent="@android:style/TextAppearance.Material.Medium">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Nubia" parent="@android:style/TextAppearance.Material" />
+    <style name="TextAppearance.Nubia.AlertDialog.CheckedTextView" parent="@style/TextAppearance.Nubia.Medium">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">@color/nubia_alert_dialog_list_item_color</item>
+    </style>
+    <style name="common_ui_divider">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@color/gray</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="Widget.Nubia.Button" parent="@android:style/Widget.Material.Light.Button">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">@dimen/common_dialog_posneg_tvsize</item>
+        <item name="android:background">@drawable/nubia_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton.Center" parent="@style/Widget.Nubia.Button.AlertDialogBorderlessButton">
+        <item name="android:textColor">@color/nubia_background_green</item>
+        <item name="android:background">@drawable/nubia_center_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton" parent="@style/Widget.Nubia.Button">
+        <item name="android:textColor">@color/nubia_background_green</item>
+        <item name="android:background">@drawable/nubia_bottom_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="dialog_anim">
+        <item name="android:windowEnterAnimation">@anim/dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_out</item>
+    </style>
+    <style name="dialog_anim_from_toptobottom">
+        <item name="android:windowEnterAnimation">@anim/dialog_in_from_toptobottom</item>
+        <item name="android:windowExitAnimation">@anim/dialog_out_from_toptobottom</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton_Left" parent="@style/Widget.Nubia.Button">
+        <item name="android:textColor">@color/nubia_background_green</item>
+        <item name="android:background">@drawable/nubia_center_alert_dialog_btn_default_material_left</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton_Right" parent="@style/Widget.Nubia.Button">
+        <item name="android:textColor">@color/nubia_background_green</item>
+        <item name="android:background">@drawable/nubia_center_alert_dialog_btn_default_material_right</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+    </style>
+    <style name="Theme.NoTitle" parent="@android:style/Theme.Holo.Light">
+        <item name="android:buttonStyle">@style/Widget.Nubia.Button</item>
+        <item name="android:windowBackground">@drawable/app_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:radioButtonStyle">@style/Widget.Nubia.CompoundButton.RadioButton</item>
+        <item name="android:checkMark">@drawable/abc_btn_radio_material</item>
+    </style>
+    <style name="Theme.NoTitle.Whtistatusbar" parent="@android:style/Theme.Holo.Light">
+        <item name="android:buttonStyle">@style/Widget.Nubia.Button</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:radioButtonStyle">@style/Widget.Nubia.CompoundButton.RadioButton</item>
+        <item name="android:checkMark">@drawable/abc_btn_radio_material</item>
+    </style>
+    <style name="Theme.FullScreenPlayer" parent="@android:style/Theme.Holo.Light">
+        <item name="android:buttonStyle">@style/Widget.Nubia.Button</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:radioButtonStyle">@style/Widget.Nubia.CompoundButton.RadioButton</item>
+        <item name="android:checkMark">@drawable/abc_btn_radio_material</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="widget_img">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">53.0dip</item>
+        <item name="android:layout_height">53.0dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="widget_img_click">
+        <item name="android:background">@drawable/widget_img_clickview</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">53.0dip</item>
+        <item name="android:layout_height">53.0dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="player_SeekBar" parent="@android:style/Widget.Material.Light.SeekBar">
+        <item name="android:maxHeight">2.0dip</item>
+        <item name="android:progressDrawable">@drawable/player_progress_img</item>
+        <item name="android:minHeight">2.0dip</item>
+        <item name="android:thumb">@drawable/player_progress_thumb</item>
+        <item name="android:thumbOffset">0.0dip</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
+    </style>
+</resources>

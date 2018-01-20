@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences_title">短訊設置</string>
+    <string name="pref_mms_settings_title">多媒體訊息設置</string>
+    <string name="pref_sms_settings_title">短訊設置</string>
+    <string name="pref_summary_sms_delivery_reports">請求為每條傳送短訊傳送回條</string>
+    <string name="no_conversations">無對話群組</string>
+    <string name="search_empty">無符合的結果</string>
+</resources>

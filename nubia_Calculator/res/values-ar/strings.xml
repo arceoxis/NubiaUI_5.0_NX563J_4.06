@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الآلة الحاسبة</string>
+    <string name="error">خطأ</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">مساحة إدخال النص وصلت للحد الأقصى.</string>
+    <string name="outoff_storage">مساحة التخزين غير كافية، يرجى تفريغ المساحة قبل الاستخدام</string>
+    <string name="upgrade_title_message">تم اكتشاف إصدار جديد، الترقية؟</string>
+    <string name="calculator_version_upgrade_notification_title">ترقية الحاسبة</string>
+    <string name="alert_dialog_cancel">إلغاء</string>
+    <string name="alert_dialog_ok">موافق</string>
+    <string name="cta_warning">تنويه</string>
+    <string name="cta_warning_cancel">إلغاء</string>
+    <string name="cta_warning_ok">موافق</string>
+    <string name="cta_warning_text">التطبيق سيصل لشبكتك، مساحة التخزين وحالة الهاتف، الاستمرار؟</string>
+    <string name="cts_warning_text">يحتاج التطبيق للحصول على الأذون المعنية، أو لن يعمل.</string>
+    <string name="cts_warning_title">تحتاج هذه الخاصية الأذون التالية لتمكينها، الذهاب إلى الإعدادات وتمكينها؟</string>
+    <string name="cts_phone">"·الهاتف
+"</string>
+    <string name="cts_storage">"·التخزين
+"</string>
+    <string name="go_permission_setting">تشغيل</string>
+    <string name="del">حذف</string>
+    <string name="clear">محو</string>
+    <string name="basic">اللوحة الأساسية</string>
+    <string name="advanced">اللوحة المتقدمة</string>
+    <string name="clear_history">محو السجل</string>
+    <string name="text_copied_toast">تم نسخ النص.</string>
+    <string name="leftParenDesc">قوس أيسر</string>
+    <string name="rightParenDesc">قوس أيمن</string>
+    <string name="factorialDesc">العامل</string>
+    <string name="lnDesc">اللوغاريتم الطبيعي</string>
+    <string name="lgDesc">لوغاريتم</string>
+    <string name="sqrtDesc">جذر تربيعي</string>
+    <string name="divDesc">قسمة</string>
+    <string name="mulDesc">ضرب</string>
+    <string name="plusDesc">علامة الجمع</string>
+    <string name="minusDesc">علامة الطرح</string>
+    <string name="dotDesc">نقطة</string>
+    <string name="powerDesc">الطاقة</string>
+    <string name="delDesc">حذف</string>
+    <string name="clearDesc">محو</string>
+    <string name="tanDesc">المماس</string>
+    <string name="sinDesc">جيب الزاوية</string>
+    <string name="cosDesc">جيب التمام</string>
+    <string name="eDesc">رقم إيولر</string>
+    <string name="piDesc">باي</string>
+    <string name="equalDesc">تساوي</string>
+    <string name="clearAll">AC</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done_label">Fertig</string>
+    <string name="hour_picker_description">Kreisförmiger Schieberegler für Stunden</string>
+    <string name="minute_picker_description">Kreisförmiger Schieberegler für Minuten</string>
+    <string name="select_hours">Stunden auswählen</string>
+    <string name="select_minutes">Minuten auswählen</string>
+    <string name="day_picker_description">Monatsraster mit einzelnen Tagen</string>
+    <string name="year_picker_description">Jahresliste</string>
+    <string name="select_day">Monat und Tag auswählen</string>
+    <string name="select_year">Jahr auswählen</string>
+    <string name="item_is_selected">%1$s ausgewählt</string>
+    <string name="deleted_key">%1$s gelöscht</string>
+</resources>

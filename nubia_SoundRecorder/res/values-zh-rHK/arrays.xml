@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="record_custom_quality_array">
+        <item>清晰, 320kbps, mp3</item>
+        <item>標準, 128kbps, mp3</item>
+        <item>省空間, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>清晰</item>
+        <item>標準</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>手機存儲/neoRecorder</item>
+        <item>SD卡存儲/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>手機存儲/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>來電鈴音</item>
+        <item>鬧鈴</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>卡1</item>
+        <item>卡2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>拍照</item>
+        <item>從圖庫中選擇照片</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>檢視照片</item>
+        <item>移除照片</item>
+        <item>拍攝新照片</item>
+        <item>從圖庫中選擇新照片</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>拼合儲存</item>
+        <item>獨立儲存</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>依時間排序</item>
+        <item>依標籤排序</item>
+        <item>依時間長度排序</item>
+    </string-array>
+</resources>

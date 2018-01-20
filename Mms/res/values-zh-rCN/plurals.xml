@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">系统将删除 %1$s 个会话</item>
+        <item quantity="one">系统将删除 1 个会话</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s 条符合“%2$s”的搜索结果</item>
+        <item quantity="one">%1$s 条符合“%2$s”的搜索结果</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s 条其他短信</item>
+        <item quantity="one">+%1$s 条其他短信</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s 个人</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">系统将删除 %1$s 条短语。</item>
+        <item quantity="one">系统将删除 1 条短语。</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">" 和 其他%1$s人"</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s 个符合“%2$s”的会话</item>
+        <item quantity="one">%1$s 个符合“%2$s”的会话</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s 条符合“%2$s”的信息</item>
+        <item quantity="one">%1$s 条符合“%2$s”的信息</item>
+    </plurals>
+    <plurals name="search_message_count">
+        <item quantity="other">%1$s条信息</item>
+        <item quantity="one">1条信息</item>
+    </plurals>
+</resources>

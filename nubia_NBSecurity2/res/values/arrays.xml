@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="common_harass_categories">
+        <item>Spam text messages</item>
+        <item>Harassing phone calls</item>
+        <item>Block Management</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>"What date is my mother's birthday?"</item>
+        <item>"What date is my father's birthday?"</item>
+        <item>Who is the most important person in my life?</item>
+        <item>What place do you most want to go?</item>
+        <item>What is my favorite color?</item>
+        <item>Which day is the most important day in my life?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Accept Whitelist only</item>
+        <item>Block Blacklist only</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>Spam SMS</item>
+        <item>Crank calls</item>
+        <item>Block manager</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Recent</item>
+        <item>Contact</item>
+        <item>SMS</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>SMS</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Blacklist management</item>
+        <item>Block settings</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>Delete</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Interception All</item>
+        <item>Interception Black</item>
+        <item>Interception Stranger</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Call</item>
+        <item>Add black list</item>
+        <item>Delete contacts</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>delete blacklist number</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Allowed</item>
+        <item>Ignored</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Privacy</item>
+        <item>Security</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Approximate location</item>
+        <item>Accurate location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>WLAN scan</item>
+        <item>notification</item>
+        <item>mobile network scan</item>
+        <item>Make calls</item>
+        <item>Read SMS/MMS</item>
+        <item>send SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>Display pop-up window</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>Turn on WLAN</item>
+        <item>Turn on Bluetooth</item>
+        <item>Turn on Mobile data</item>
+        <item>send MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>send MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Make calls</item>
+        <item>Read SMS/MMS</item>
+        <item>send SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>Send SMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Modify settings</item>
+        <item>Display pop-up window</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Turn on WLAN</item>
+        <item>Turn on Bluetooth</item>
+        <item>Turn on Mobile data</item>
+        <item>Send MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>send MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Approximate location</item>
+        <item>Accurate location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>WLAN scan</item>
+        <item>notification</item>
+        <item>Mobile network scan</item>
+        <item>Make calls</item>
+        <item>Read SMS/MMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>Display pop-up window</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ringtone volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>Turn on WLAN</item>
+        <item>Turn on Bluetooth</item>
+        <item>Turn on Mobile data</item>
+        <item>send MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Make calls</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>Send SMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Modify settings</item>
+        <item>Display pop-up window</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ringtone volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Turn on WLAN</item>
+        <item>Turn on Bluetooth</item>
+        <item>Turn on Mobile data</item>
+        <item>Send MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Approximate location</item>
+        <item>Accurate location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>write contacts</item>
+        <item>read call log</item>
+        <item>write call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>WLAN scan</item>
+        <item>notification</item>
+        <item>Mobile network scan</item>
+        <item>call phone</item>
+        <item>Read SMS/MMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>Display pop-up window</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ringtone volume</item>
+        <item>media volume</item>
+        <item>alarm volume</item>
+        <item>notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>toast window</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>Turn on WLAN</item>
+        <item>Turn on Bluetooth</item>
+        <item>send MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>write MMS</item>
+        <item>auto start</item>
+        <item>Open NFC</item>
+        <item>delete SMS</item>
+        <item>delete MMS</item>
+        <item>delete contacts</item>
+        <item>delete call log</item>
+        <item>Turn on Mobile data</item>
+        <item>install shortcut</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Write contacts</item>
+        <item>Read call log</item>
+        <item>Write call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Call phone</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>Send SMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Modify settings</item>
+        <item>Display pop-up window</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Toast window</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>Turn on WLAN</item>
+        <item>Turn on Bluetooth</item>
+        <item>Send MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
+        <item>Open NFC</item>
+        <item>Delete SMS</item>
+        <item>Delete MMS</item>
+        <item>Delete contacts</item>
+        <item>Delete call log</item>
+        <item>Data change</item>
+        <item>install shortcut</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Call phone</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive SMS</item>
+        <item>Send SMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS</item>
+        <item>Modify settings</item>
+        <item>Display pop-up window</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Toast window</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>Write wallpaper</item>
+        <item>Assist structure</item>
+        <item>Assist screenshot</item>
+        <item>Read phone state</item>
+        <item>Add voicemail</item>
+        <item>Use sip</item>
+        <item>Process outgoing calls</item>
+        <item>Use fingerprint</item>
+        <item>Body sensors</item>
+        <item>Read cell broadcasts</item>
+        <item>Mock location</item>
+        <item>Read/Write external storage</item>
+        <item>Read/Write external storage</item>
+        <item>Turn screen on</item>
+        <item>Get accounts</item>
+        <item>Change wlan</item>
+        <item>Change bluetooth</item>
+        <item>Send MMS</item>
+        <item>Write MMS</item>
+        <item>Delete SMS</item>
+        <item>Delete MMS</item>
+        <item>Delete contracts</item>
+        <item>Delete call log</item>
+        <item>Install shortcut</item>
+        <item>Run in background</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_op_group_by_op_pop">
+        <item>@string/app_ops_op_all_allowed</item>
+        <item>@string/app_ops_op_all_ask</item>
+        <item>@string/app_ops_op_all_ignored</item>
+    </string-array>
+    <string-array name="app_op_group_by_op_pop_spec">
+        <item>@string/app_ops_op_all_allowed</item>
+        <item>@string/app_ops_op_all_ignored</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Permissions</item>
+        <item>Application</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Privacy class</item>
+        <item>Basic class</item>
+        <item>Notify class</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Call</item>
+        <item>Contacts</item>
+        <item>Messaging</item>
+        <item>MMS</item>
+        <item>Location Info</item>
+        <item>Calendar</item>
+        <item>MIC</item>
+        <item>Camera</item>
+        <item>Body Sensor</item>
+        <item>Read/Write external storage</item>
+        <item>Change Wifi</item>
+        <item>Change Blutooth</item>
+        <item>Change Settings</item>
+        <item>Install Shortcut</item>
+        <item>Display pop-up window</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Install Package</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Allow</item>
+        <item>Ask</item>
+        <item>Forbid</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Allow</item>
+        <item>Forbid</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Privacy class</item>
+        <item>Basic class</item>
+        <item>Notify class</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Manually add autostart apps</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Submit</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Manual calibration only</item>
+        <item>Auto calibration every day</item>
+        <item>Auto calibration every three days</item>
+        <item>Auto calibration every week</item>
+    </string-array>
+    <integer-array name="traffic_calibration_auto_check_day">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="month_traffic_warning_percent">
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+    </string-array>
+    <integer-array name="month_traffic_warning_default_value">
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+    </integer-array>
+    <string-array name="day_traffic_warning_percent">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+    </string-array>
+    <integer-array name="day_traffic_warning_default_value">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </integer-array>
+    <string-array name="day_traffic_used_above_quota_warning">
+        <item>@string/day_traffic_used_above_quota_warning</item>
+        <item>@string/day_traffic_used_above_quota_warning_off_net</item>
+    </string-array>
+    <string-array name="traffic_helper_setting_tab_title">
+        <item>@string/sim_card_1</item>
+        <item>@string/sim_card_2</item>
+    </string-array>
+    <string-array name="traffic_statistics_turnaround_options">
+        <item>@string/traffic_statistics_turnaround_option_day</item>
+        <item>@string/traffic_statistics_turnaround_option_week</item>
+        <item>@string/traffic_statistics_turnaround_option_month</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Delete all records</item>
+        <item>Forward</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Add</item>
+    </string-array>
+    <string-array name="command_name">
+        <item>信牛盾</item>
+        <item>xiangling#</item>
+        <item>suoding#</item>
+        <item>qingchu#</item>
+        <item>zhaohui#</item>
+        <item>dingwei#</item>
+    </string-array>
+    <string-array name="command_id">
+        <item>0</item>
+        <item>1#</item>
+        <item>2#</item>
+        <item>3#</item>
+        <item>4#</item>
+        <item>5#</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Invite a partner to join the “Hide-and-seek” game. Win stars while completing anti-theft rehearsal!</item>
+        <item>"1. Let your friends hide your phone 
+"</item>
+        <item>"2. Come and seek it, I have found you 
+"</item>
+        <item>"3. I cannot find it. What shall I do? 
+"</item>
+        <item>4. You got it! Trust nubia NeoSafe!</item>
+        <item>"5. use another phone to send a text message containing 信牛盾 to your own phone, and follow the instructions 
+"</item>
+        <item>"OK, I have got stars in hand. It is so simple! Do not worry where you put your phone! Remember that your phone must be turned on to receive a text message. 
+ Show it to your friends now!"</item>
+    </string-array>
+</resources>

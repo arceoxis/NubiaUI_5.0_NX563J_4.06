@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="sub_switch_widget">false</item>
+    <item type="id" name="type">false</item>
+    <item type="id" name="sim_name">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="carrier">false</item>
+    <item type="id" name="number">false</item>
+    <item type="id" name="recognize_text">false</item>
+    <item type="id" name="radiogroup">false</item>
+    <item type="id" name="lte_text">false</item>
+    <item type="id" name="select_ok_btn">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="color_icon">false</item>
+    <item type="id" name="color_text">false</item>
+</resources>

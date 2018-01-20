@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WFD-Dienst</string>
+    <string name="perm_label">QC-Wi-Fi-Anzeigestapel</string>
+    <string name="perm_desc">Auf Qualcomm-Wi-Fi-Display-Stapel-APIs zugreifen</string>
+</resources>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>ข้อความสแปม</item>
+        <item>โทรศัพท์สายที่รบกวน</item>
+        <item>การจัดการบล็อก</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>วันไหนเป็นวันเกิดคุณแม่ของฉัน</item>
+        <item>วันไหนเป็นวันเกิดคุณพ่อของฉัน</item>
+        <item>ใครเป็นคนที่สำคัญที่สุดในชีวิตของฉัน</item>
+        <item>ที่ไหนที่คุณอยากไปที่สุด</item>
+        <item>สีอะไรเป็นสีที่ฉันชอบมากที่สุด</item>
+        <item>วันไหนเป็นวันสำคัญที่สุดในชีวิตของฉัน</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>ยอมรับรายการที่อนุญาตเท่านั้น</item>
+        <item>บล็อกแบล็คลิสต์เท่านั้น</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>ข้อความสแปม</item>
+        <item>โทรศัพท์สายที่รบกวน</item>
+        <item>การจัดการบล็อก</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>เมื่อไม่นานมานี้</item>
+        <item>ผู้ติดต่อ</item>
+        <item>SMS</item>
+        <item>ด้วยมือ</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>SMS</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>การจัดการแบล็คลิสต์</item>
+        <item>การตั้งค่าบล็อก</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>สกัดกั้นคนทั้งหมด</item>
+        <item>สกัดกั้นแบล็คลิสต์</item>
+        <item>สกัดกั้นคนแปลกหน้า</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>โทร</item>
+        <item>เพิ่มแบล็คลิสต์</item>
+        <item>ลบผู้ติดต่อ</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>ลบออกจากแบล็คลิสต์</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>ได้รับอนุญาต</item>
+        <item>ไม่สนใจ</item>
+        <item>ถามเสมอ</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>ข้อมูลส่วนบุคคล</item>
+        <item>ความปลอดภัย</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>ตำแหน่งที่โดยประมาณ</item>
+        <item>ตำแหน่งที่แม่นยำ</item>
+        <item>GPS</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>แก้ไขรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>แก้ไขบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>WLANสแกน</item>
+        <item>การแจ้ง</item>
+        <item>เครือข่ายโมบายสแกน</item>
+        <item>โทร</item>
+        <item>อ่านSMS</item>
+        <item>ส่งSMS</item>
+        <item>รับSMS</item>
+        <item>รับSMSที่ฉุกเฉิน</item>
+        <item>รับMMS</item>
+        <item>รับWAP PUSH</item>
+        <item>ส่งSMS</item>
+        <item>อ่านICC SMS</item>
+        <item>เขียนICC SMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>เปิดข้อมูลโมบาย</item>
+        <item>ส่งMMS</item>
+        <item>อ่านMMS</item>
+        <item>ส่งMMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>แก้ไขรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>แก้ไขบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>ตำแหน่ง</item>
+        <item>ประกาศการแจ้ง</item>
+        <item>ตำแหน่ง</item>
+        <item>โทร</item>
+        <item>อ่านSMS</item>
+        <item>ส่งSMS</item>
+        <item>รับSMS</item>
+        <item>รับSMS</item>
+        <item>รับMMS</item>
+        <item>รับSMS</item>
+        <item>ส่งSMS</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>เปิดข้อมูลโมบาย</item>
+        <item>ส่งMMS</item>
+        <item>อ่านMMS</item>
+        <item>ส่งMMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>ตำแหน่งที่โดยประมาณ</item>
+        <item>ตำแหน่งที่แม่นยำ</item>
+        <item>GPS</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>แก้ไขรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>แก้ไขบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>WLANสแกน</item>
+        <item>การแจ้ง</item>
+        <item>เครือข่ายโมบายสแกน</item>
+        <item>โทร</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>รับSMS</item>
+        <item>รับSMSที่ฉุกเฉิน</item>
+        <item>รับMMS</item>
+        <item>รับWAP PUSH</item>
+        <item>ส่งSMS</item>
+        <item>อ่านICC SMS</item>
+        <item>เขียนICC SMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มมีเดีย</item>
+        <item>ออดิโอโฟกัส</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงวอยซ์</item>
+        <item>ระดับความดังเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงของการแจ้งเตือน</item>
+        <item>ระดับเสียงบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>เฝ้าตรวจตำแหน่ง</item>
+        <item>เฝ้าตรวจตำแหน่งที่บริโภคพลังงานสูง</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>เปิดข้อมูลโมบาย</item>
+        <item>ส่งMMS</item>
+        <item>อ่านMMS</item>
+        <item>เขียนMMS</item>
+        <item>เริ่มต้นโดยอัตโนมัติ</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>แก้ไขรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>แก้ไขบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>ตำแหน่ง</item>
+        <item>ประกาศการแจ้ง</item>
+        <item>ตำแหน่ง</item>
+        <item>โทร</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>รับSMS</item>
+        <item>รับSMS</item>
+        <item>รับMMS</item>
+        <item>รับSMS</item>
+        <item>ส่งSMS</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มมีเดีย</item>
+        <item>ออดิโอโฟกัส</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงวอยซ์</item>
+        <item>ระดับความดังเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงของการแจ้งเตือน</item>
+        <item>ระดับเสียงบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>เปิดข้อมูลโมบาย</item>
+        <item>ส่งMMS</item>
+        <item>อ่านMMS</item>
+        <item>เขียนMMS</item>
+        <item>เริ่มต้นโดยอัตโนมัติ</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>ตำแหน่งที่โดยประมาณ</item>
+        <item>ตำแหน่งที่แม่นยำ</item>
+        <item>GPS</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>บันทึกรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>บันทึกบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>WLANสแกน</item>
+        <item>การแจ้ง</item>
+        <item>เครือข่ายโมบายสแกน</item>
+        <item>โทร</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>รับSMS</item>
+        <item>รับSMSที่ฉุกเฉิน</item>
+        <item>รับMMS</item>
+        <item>รับWAP PUSH</item>
+        <item>ส่งSMS</item>
+        <item>อ่านICC SMS</item>
+        <item>เขียนICC SMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มมีเดีย</item>
+        <item>ออดิโอโฟกัส</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงวอยซ์</item>
+        <item>ระดับความดังเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงของการแจ้งเตือน</item>
+        <item>ระดับเสียงบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>เฝ้าตรวจตำแหน่ง</item>
+        <item>เฝ้าตรวจตำแหน่งที่บริโภคพลังงานสูง</item>
+        <item>รับสถิติการใช้งาน</item>
+        <item>ปิดเสียง/เปิดเสียงไมโครโฟน</item>
+        <item>ปรากฏขึ้นหน้าต่าง</item>
+        <item>มีเดียที่ฉาย</item>
+        <item>เปิดใช้งานVPN</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>ส่งMMS</item>
+        <item>อ่านMMS</item>
+        <item>เขียนMMS</item>
+        <item>เริ่มต้นโดยอัตโนมัติ</item>
+        <item>เปิดNFC</item>
+        <item>ลบSMS</item>
+        <item>ลบMMS</item>
+        <item>ลบผู้ติดต่อ</item>
+        <item>ลบบันทึกการโทร</item>
+        <item>เปิดข้อมูลโมบาย</item>
+        <item>สร้างทางลัด</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>บันทึกรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>บันทึกบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>ตำแหน่ง</item>
+        <item>ประกาศการแจ้ง</item>
+        <item>ตำแหน่ง</item>
+        <item>โทร</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>รับSMS</item>
+        <item>รับSMS</item>
+        <item>รับMMS</item>
+        <item>รับSMS</item>
+        <item>ส่งSMS</item>
+        <item>อ่านSMS</item>
+        <item>เขียนSMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มมีเดีย</item>
+        <item>ออดิโอโฟกัส</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงวอยซ์</item>
+        <item>ระดับความดังเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงของการแจ้งเตือน</item>
+        <item>ระดับเสียงบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>รับสถิติการใช้งาน</item>
+        <item>ปิดเสียง/เปิดเสียงไมโครโฟน</item>
+        <item>ปรากฏขึ้นหน้าต่าง</item>
+        <item>มีเดียที่ฉาย</item>
+        <item>เปิดใช้งานVPN</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>ส่งMMS</item>
+        <item>อ่านMMS</item>
+        <item>เขียนMMS</item>
+        <item>เริ่มต้นโดยอัตโนมัติ</item>
+        <item>เปิดNFC</item>
+        <item>ลบSMS</item>
+        <item>ลบMMS</item>
+        <item>ลบผู้ติดต่อ</item>
+        <item>ลบบันทึกการโทร</item>
+        <item>เปิดข้อมูลโมบาย</item>
+        <item>สร้างทางลัด</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>สั่น</item>
+        <item>อ่านรายชื่อผู้ติดต่อ</item>
+        <item>แก้ไขรายชื่อผู้ติดต่อ</item>
+        <item>อ่านบันทึกการโทร</item>
+        <item>แก้ไขบันทึกการโทร</item>
+        <item>อ่านปฏิทิน</item>
+        <item>แก้ไขปฏิทิน</item>
+        <item>ตำแหน่ง</item>
+        <item>ประกาศการแจ้ง</item>
+        <item>ตำแหน่ง</item>
+        <item>โทร</item>
+        <item>อ่านSMS/MMS</item>
+        <item>เขียนSMS/MMS</item>
+        <item>รับSMS/MMS</item>
+        <item>รับSMS/MMS</item>
+        <item>รับSMS/MMS</item>
+        <item>รับSMS/MMS</item>
+        <item>ส่งSMS/MMS</item>
+        <item>อ่านSMS/MMS</item>
+        <item>เขียนSMS/MMS</item>
+        <item>แก้ไขการตั้งค่า</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>เข้าถึงการแจ้ง</item>
+        <item>กล้อง</item>
+        <item>บันทึกออดิโอ</item>
+        <item>เล่นออดิโอ</item>
+        <item>อ่านคลิปบอร์ด</item>
+        <item>แก้ไขคลิปบอร์ด</item>
+        <item>ปุ่มมีเดีย</item>
+        <item>ออดิโอโฟกัส</item>
+        <item>ระดับเสียงหลัก</item>
+        <item>ระดับเสียงวอยซ์</item>
+        <item>ระดับความดังเสียงเรียกเข้า</item>
+        <item>ระดับเสียงของสื่อ</item>
+        <item>ระดับเสียงปลุก</item>
+        <item>ระดับเสียงของการแจ้งเตือน</item>
+        <item>ระดับเสียงบลูทูธ</item>
+        <item>ทำงานตลอดเวลา</item>
+        <item>ตำแหน่ง</item>
+        <item>ตำแหน่ง</item>
+        <item>รับสถิติการใช้งาน</item>
+        <item>ปิดเสียง/เปิดเสียงไมโครโฟน</item>
+        <item>ปรากฏขึ้นหน้าต่าง</item>
+        <item>มีเดียที่ฉาย</item>
+        <item>เปิดใช้งานVPN</item>
+        <item>เขียนวอลล์เปเปอร์</item>
+        <item>ช่วยเหลือโครงสร้าง</item>
+        <item>ช่วยเหลือจับภาพหน้าจอ</item>
+        <item>อ่านสภาพโทรศัพท์</item>
+        <item>เพิ่มอีเมล์เสียง</item>
+        <item>ใช้จิบ</item>
+        <item>ขั้นตอนการโทรออก</item>
+        <item>ใช้ลายนิ้วมือ</item>
+        <item>เซ็นเซอร์ร่างกาย</item>
+        <item>อ่านรายการออกอากาศเซลล์</item>
+        <item>จำลองสถานที่ตั้ง</item>
+        <item>อ่านที่เก็บภายนอก</item>
+        <item>เขียนที่เก็บภายนอก</item>
+        <item>เปิดหน้าจอ</item>
+        <item>ได้รับบัญชี</item>
+        <item>เปิดWLAN</item>
+        <item>เปิดบลูทูธ</item>
+        <item>สร้างทางลัด</item>
+        <item>เขียนMMS</item>
+        <item>ลบSMS</item>
+        <item>ลบMMS</item>
+        <item>ลบตามสัญญา</item>
+        <item>ลบบันทึกการโทร</item>
+        <item>ติดตั้งทางลัด</item>
+        <item>พื้นหลังทำงาน</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>การอนุญาต</item>
+        <item>แอปพลิเคชัน</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>ระดับความเป็นส่วนตัว</item>
+        <item>ระดับพื้นฐาน</item>
+        <item>Notify class</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>โทร</item>
+        <item>สมุดโทรศัพท์</item>
+        <item>ข้อความ</item>
+        <item>ข้อมูลสถานที่</item>
+        <item>ปฏิทิน</item>
+        <item>ไมโครโฟน</item>
+        <item>กล้อง</item>
+        <item>เซ็นเซอร์ร่างกาย</item>
+        <item>พื้นที่จัดเก็บ</item>
+        <item>WiFi</item>
+        <item>บลูทูธ</item>
+        <item>การตั้งค่า</item>
+        <item>ทางลัด</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>วาดอยู่ด้านบน</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>อนุญาต</item>
+        <item>การเตือน</item>
+        <item>ห้าม</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>อนุญาต</item>
+        <item>ห้าม</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>ระดับความเป็นส่วนตัว</item>
+        <item>ระดับความปลอดภัย</item>
+        <item>Notify class</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>เพิ่มโปรแกรมเริ่มทำงานอัตโนมัติ</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>ส่ง</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>การปรับเทียบด้วยมือเท่านั้น</item>
+        <item>การปรับเทียบโดยอัตโนมัติทุกวัน</item>
+        <item>การปรับเทียบโดยอัตโนมัติทุก3วัน</item>
+        <item>การปรับเทียบโดยอัตโนมัติทุกสัปดาห์</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>ลบบันทึกทั้งหมด</item>
+        <item>ส่งต่อ</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>เพิ่ม</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>เชิญคู่เพื่อจะเข้าร่วมเกมซ่อนและค้นหา ชนะจะได้ดาวในขณะที่เสร็จสิ้นการซ้อมกันขโมย</item>
+        <item>"1 ให้เพื่อนของคุณซ่อนโทรศัพท์มือถือของคุณ
+"</item>
+        <item>"2 มาค้นหานะ ฉันได้พบคุณแล้ว
+"</item>
+        <item>"3 ฉันยังหาไม่เจอเลย ฉันจะทำอย่างไร
+"</item>
+        <item>คุณได้รับแล้ว เชื่อใจnubia neosafe</item>
+        <item>"5 ใช้โทรศัพท์เครื่องอื่นส่งข้อความที่มีXinniudunไปให้โทรศัพท์ของคุณเอง และปฏิบัติตามคำแนะนำเหล่านี้
+"</item>
+        <item>"OK ฉันได้หนึ่งดาวในมือแล้ว ง่ายมาก ไม่ต้องกังวลคุณวางโทรศัพท์ของคุณอยู่ที่ไหน จำไว้ว่าโทรศัพท์ของคุณจะต้องเปิดเพื่อรับข้อความ
+ แสดงให้เพื่อนของคุณตอนนี้"</item>
+    </string-array>
+</resources>

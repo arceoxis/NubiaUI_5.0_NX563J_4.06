@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>ama-parenthesis esobunxele</item>
+        <item>I-parenthesis yesokudla</item>
+        <item>ngokwesimo</item>
+        <item>i-logarithm yemvelo</item>
+        <item>i-logarithm</item>
+        <item>Impande yesikwele</item>
+        <item>ihlukaniswe nge</item>
+        <item>kuphindaphindwa ngo</item>
+        <item>kuhlanganise</item>
+        <item>susa</item>
+        <item> iphoyinti </item>
+        <item>Amandla</item>
+        <item>i-tangent</item>
+        <item>i-sine</item>
+        <item>i-cosine</item>
+        <item>i-Pi</item>
+        <item>okulinganayo</item>
+    </string-array>
+</resources>

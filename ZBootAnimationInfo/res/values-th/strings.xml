@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">รายละเอียดภาพเคลื่อนไหว</string>
+    <string name="str_author_info">รายละเอียดผู้เขียน</string>
+    <string name="str_view_origin_picture">แสดงภาพ</string>
+    <string name="str_click_picture">คลิ๊กที่ภาพ</string>
+    <string name="str_view_detail">แสดงรายละเอียด</string>
+    <string name="str_i_know">ฉันรู้</string>
+    <string name="str_slip_info">เลื่อนไปทางซ้ายหรือขวาเพื่อเปลี่ยนภาพ</string>
+    <string name="str_thanks_share">ขอบคุณ %1$s สำหรับการแบ่งปัน</string>
+</resources>

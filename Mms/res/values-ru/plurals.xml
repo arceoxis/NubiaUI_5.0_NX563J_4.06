@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Цепочки (%1$s) будут удалены.</item>
+        <item quantity="one">Цепочка будет удалена.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Поиск \"%1$s\" (%2$s)</item>
+        <item quantity="one">Поиск \"%1$s\" (%2$s)</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">Еще сообщений: %1$s</item>
+        <item quantity="one">Еще сообщений: %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s фраз будет удалено.</item>
+        <item quantity="one">Одна фраза будет удалена.</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">"  и другим %1$s людям"</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s ведет к \"%2$s\"</item>
+        <item quantity="one">%1$s ведут к \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s отправляет сообщение \"%2$s\"</item>
+        <item quantity="one">%1$s отправляют сообщение \"%2$s\"</item>
+    </plurals>
+</resources>

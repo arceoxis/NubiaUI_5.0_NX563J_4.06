@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="country_name">
+        <item>China(Mainland)</item>
+    </string-array>
+    <string-array name="country_code">
+        <item>+86</item>
+    </string-array>
+    <string-array name="country_code_for_mobile_login">
+        <item>+86</item>
+    </string-array>
+    <string-array name="safe_question">
+        <item>No safe question</item>
+        <item>"What's your mother's name ?"</item>
+        <item>"What's your grandpa's name ?"</item>
+        <item>Which city is your father born ?</item>
+        <item>"What's one of your teacher's name ?"</item>
+        <item>"What's the models of your computer ?"</item>
+        <item>"What's the name of your favorite restaurant ?"</item>
+        <item>"What's the last four numbers of your driver license ?"</item>
+    </string-array>
+    <string-array name="safe_code">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

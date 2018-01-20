@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicPicker</string>
+    <string name="unknown_artist_name">هنرمند ناشناس</string>
+    <string name="unknown_album_name">آلبوم ناشناس</string>
+    <string name="sdcard_missing_message">کارت SD در تلفن شما قرار داده نشده است.</string>
+    <string name="no_recordfile">مورد ضبط شده‌ای نیست</string>
+    <string name="add_recordfile">ابتدا از ضبط‌کننده صدا برای ایجاد یک ضبط صوت استفاده کنید.</string>
+    <string name="no_musicfile">فایل موسیقی‌ای موجود نیست</string>
+    <string name="silent">ساکت</string>
+    <string name="cancel_picker">لغو</string>
+    <string name="ok_picker">تأیید</string>
+    <string name="custom_ring">آهنگ زنگ پیش‌فرض</string>
+    <string name="cut_fail">برش این فایل ممکن نیست</string>
+    <string name="cut_success">برش و تنظیم با موفقیت انجام شد</string>
+    <string name="cut_copy">_در حال کپی کردن</string>
+    <string name="dlg_wait">در حال برش</string>
+    <string name="dlg_title">تنظیمات آهنگ زنگ</string>
+    <string name="dlg_message">این فایل به عنوان آهنگ زنگ تلفن شما تنظیم شود؟</string>
+    <string name="dlg_yes">بله</string>
+    <string name="dlg_no">خیر</string>
+    <string name="internal_media">رسانه داخلی</string>
+    <string name="external_media">موسیقی محلی</string>
+    <string name="record_media">ضبط کننده صدا</string>
+</resources>

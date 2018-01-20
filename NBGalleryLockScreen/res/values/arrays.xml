@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name_def">
+        <item>Recommend</item>
+        <item>Scenery</item>
+        <item>Building</item>
+        <item>Sports</item>
+        <item>Fashion</item>
+        <item>Star</item>
+    </string-array>
+    <string-array name="user_faves_more">
+        <item>Set wallpaper</item>
+        <item>Remove this photo</item>
+    </string-array>
+    <string-array name="entries_color_list_preference">
+        <item>Senior Black</item>
+        <item>Senior Red</item>
+        <item>Senior Green</item>
+    </string-array>
+    <string-array name="entryvalues_color_list_preference">
+        <item>Senior Black</item>
+        <item>Senior Red</item>
+        <item>Senior Green</item>
+    </string-array>
+    <string-array name="preset_image_path">
+        <item>preset/nubia_gallery_lockscreen_preset_image_1</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_2</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_3</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_4</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_5</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_6</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_7</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_8</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_9</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_10</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_11</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_12</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_13</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_14</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_15</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_16</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_17</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_18</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_19</item>
+        <item>preset/nubia_gallery_lockscreen_preset_image_20</item>
+    </string-array>
+    <string-array name="preset_image_version">
+        <item>V2.0</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="preset_images_key">
+        <item>preset_image_1</item>
+        <item>preset_image_2</item>
+        <item>preset_image_3</item>
+        <item>preset_image_4</item>
+        <item>preset_image_5</item>
+        <item>preset_image_6</item>
+        <item>preset_image_7</item>
+        <item>preset_image_8</item>
+        <item>preset_image_9</item>
+        <item>preset_image_10</item>
+        <item>preset_image_11</item>
+        <item>preset_image_12</item>
+        <item>preset_image_13</item>
+        <item>preset_image_14</item>
+        <item>preset_image_15</item>
+        <item>preset_image_16</item>
+        <item>preset_image_17</item>
+        <item>preset_image_18</item>
+        <item>preset_image_19</item>
+        <item>preset_image_20</item>
+    </string-array>
+    <string-array name="gallery_category_names">
+        <item>推荐</item>
+        <item>风景</item>
+        <item>建筑</item>
+        <item>美女</item>
+        <item>明星</item>
+        <item>时尚</item>
+        <item>美食</item>
+        <item>影视</item>
+        <item>汽车</item>
+        <item>创意</item>
+        <item>体育</item>
+    </string-array>
+    <string-array name="gallery_category_statistics">
+        <item>GalleryLockScreen_Recommend_Setting</item>
+        <item>GalleryLockScreen_Scenery_Setting</item>
+        <item>GalleryLockScreen_Building_Setting</item>
+        <item>GalleryLockScreen_Beauty_Setting</item>
+        <item>GalleryLockScreen_Star_Setting</item>
+        <item>GalleryLockScreen_Fashion_Setting</item>
+        <item>GalleryLockScreen_Food_Setting</item>
+        <item>GalleryLockScreen_Movie_Setting</item>
+        <item>GalleryLockScreen_Car_Setting</item>
+        <item>GalleryLockScreen_Originality_Setting</item>
+        <item>GalleryLockScreen_Sports_Setting</item>
+    </string-array>
+    <string-array name="preset_image_1">
+        <item>preset/nubia_gallery_lockscreen_preset_image_1</item>
+        <item>雪山日落</item>
+        <item>当夕阳西下的时候，你并非一无所有，比方说你还有晚霞。</item>
+    </string-array>
+    <string-array name="preset_image_2">
+        <item>preset/nubia_gallery_lockscreen_preset_image_2</item>
+        <item>深秋爱意</item>
+        <item>深秋的爱意，有梦的人才敢说的憧憬。</item>
+    </string-array>
+    <string-array name="preset_image_3">
+        <item>preset/nubia_gallery_lockscreen_preset_image_3</item>
+        <item>仰望天空</item>
+        <item>当你迷茫的时候，别忘了仰望天空。</item>
+    </string-array>
+    <string-array name="preset_image_4">
+        <item>preset/nubia_gallery_lockscreen_preset_image_4</item>
+        <item>风云变幻</item>
+        <item>宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。</item>
+    </string-array>
+    <string-array name="preset_image_5">
+        <item>preset/nubia_gallery_lockscreen_preset_image_5</item>
+        <item>人生远足</item>
+        <item>人生，恰似一次永不停止的远足。</item>
+    </string-array>
+    <string-array name="preset_image_6">
+        <item>preset/nubia_gallery_lockscreen_preset_image_6</item>
+        <item>秋意浓</item>
+        <item>晚趁寒潮望山去，满林黄叶雁声多。</item>
+    </string-array>
+    <string-array name="preset_image_7">
+        <item>preset/nubia_gallery_lockscreen_preset_image_7</item>
+        <item>山丘里的家乡</item>
+        <item>穿越绵延的山丘，只为寻找家乡的田野，泥土的芬芳。</item>
+    </string-array>
+    <string-array name="preset_image_8">
+        <item>preset/nubia_gallery_lockscreen_preset_image_8</item>
+        <item>梦的颜色</item>
+        <item>梦想的颜色，本就该如童话一般，绚烂多彩。</item>
+    </string-array>
+    <string-array name="preset_image_9">
+        <item>preset/nubia_gallery_lockscreen_preset_image_9</item>
+        <item>蜿蜒山路</item>
+        <item>每一条走上来的路，都有它不得不那样跋涉的理由。</item>
+    </string-array>
+    <string-array name="preset_image_10">
+        <item>preset/nubia_gallery_lockscreen_preset_image_10</item>
+        <item>高山仰止</item>
+        <item>不甘于渺小，总会达到被仰望的高度。</item>
+    </string-array>
+    <string-array name="preset_image_11">
+        <item>preset/nubia_gallery_lockscreen_preset_image_11</item>
+        <item>山顶城堡</item>
+        <item>寻一处可能感动你的房子，笑看涛生云灭。</item>
+    </string-array>
+    <string-array name="preset_image_12">
+        <item>preset/nubia_gallery_lockscreen_preset_image_12</item>
+        <item>夜空下的白塔</item>
+        <item>白塔下，梵天素手画，扬尘轻舞琉璃纱。</item>
+    </string-array>
+    <string-array name="preset_image_13">
+        <item>preset/nubia_gallery_lockscreen_preset_image_13</item>
+        <item>成功之路</item>
+        <item>在这繁华世界中，车流似银光流淌，照亮我的成功之路。©视界@旅行摄影师穆穆</item>
+    </string-array>
+    <string-array name="preset_image_14">
+        <item>preset/nubia_gallery_lockscreen_preset_image_14</item>
+        <item>梦里的水乡</item>
+        <item>只愿沉溺在这山水环绕之中，远离尘世的纷纷扰扰。</item>
+    </string-array>
+    <string-array name="preset_image_15">
+        <item>preset/nubia_gallery_lockscreen_preset_image_15</item>
+        <item>摩根汽车</item>
+        <item>人生如车，只要你不回避与退缩，生命的掌声终会为你响起。</item>
+    </string-array>
+    <string-array name="preset_image_16">
+        <item>preset/nubia_gallery_lockscreen_preset_image_16</item>
+        <item>原野上的小屋</item>
+        <item>山峰，从来不会因为雪的冷落就放弃巍峨。</item>
+    </string-array>
+    <string-array name="preset_image_17">
+        <item>preset/nubia_gallery_lockscreen_preset_image_17</item>
+        <item>高峰滑雪</item>
+        <item>超越对手，超越自我，是我们的目标，是我们的信念。</item>
+    </string-array>
+    <string-array name="preset_image_18">
+        <item>preset/nubia_gallery_lockscreen_preset_image_18</item>
+        <item>滑翔跳伞</item>
+        <item>拒绝一成不变，去体验惊心动魄的人生。</item>
+    </string-array>
+    <string-array name="preset_image_19">
+        <item>preset/nubia_gallery_lockscreen_preset_image_19</item>
+        <item>银河星空</item>
+        <item>只要抬头看着星空，世界就会变得好大好大。</item>
+    </string-array>
+    <string-array name="preset_image_20">
+        <item>preset/nubia_gallery_lockscreen_preset_image_20</item>
+        <item>遗迹之门</item>
+        <item>那不平的棱角，显示沧桑的轮回，在尘世，独显张扬。©视界@赵捷</item>
+    </string-array>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+</resources>

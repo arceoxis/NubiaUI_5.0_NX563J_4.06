@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Çince (GBK)</item>
+        <item>Çince (Big5)</item>
+        <item>Japonca (ISO-2022-JP)</item>
+        <item>Japonca (SHIFT_JIS)</item>
+        <item>Japonca (EUC-JP)</item>
+        <item>Korece (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Her zaman açık</item>
+        <item>İsteğe bağlı</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Mevcut sayfa</item>
+        <item>Boş sayfa</item>
+        <item>Varsayılan sayfa</item>
+        <item>En çok ziyaret edilen siteler</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>%s engellendi.</item>
+        <item>"%1$s ve %2$s engellendi. "</item>
+        <item>"%1$s, %2$s ve $3$s engellendi. "</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Çok Küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Uzak</item>
+        <item>Orta</item>
+        <item>Kapat</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Hiçbir zaman</item>
+        <item>Yalnızca Kablosuzda</item>
+        <item>Her zaman</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>Küçük</item>
+        <item>Varsayılan</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Hiçbir zaman</item>
+        <item>Yalnızca Kablosuzda</item>
+        <item>Her zaman</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>Sonsuza kadar yoksay</item>
+        <item>24 saat için izin ver</item>
+        <item>Sonsuza kadar izin ver</item>
+        <item>Her zaman sor</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Bilgisayar</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+        <item>privacy_clear_cookies</item>
+        <item>privacy_clear_form_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>Giriş Geçmişi</item>
+        <item>Ziyaret Geçmişi</item>
+        <item>Önbellek</item>
+        <item>Çerezler</item>
+        <item>Form Şifreleri</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>show_security_warnings</item>
+        <item>do_not_track</item>
+        <item>accept_cookies</item>
+        <item>save_formdata</item>
+        <item>enable_geolocation</item>
+        <item>remember_passwords</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>Güvenlik uyarıl. göster</item>
+        <item>İzleme</item>
+        <item>Çerezleri kabul et</item>
+        <item>Form verilerini hatırla</item>
+        <item>Konumu etkinleştir</item>
+        <item>Şifreleri hatırla</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>block_popup_windows</item>
+        <item>open_in_background</item>
+        <item>enable_javascript</item>
+        <item>allow_media_downloads</item>
+        <item>load_images</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>"Pop-up'ları engelle"</item>
+        <item>Arka planda aç</item>
+        <item>"JavaScript'i etkinleştir"</item>
+        <item>Medya İndirmelerine İzin Ver</item>
+        <item>Görselleri yükle</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>bir</item>
+        <item>iki</item>
+        <item>üç</item>
+        <item>dört</item>
+        <item>beş</item>
+        <item>altı</item>
+        <item>yedi</item>
+        <item>sekiz</item>
+        <item>dokuz</item>
+        <item>On</item>
+        <item>On bir</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>Mobil ağ</item>
+    </string-array>
+</resources>

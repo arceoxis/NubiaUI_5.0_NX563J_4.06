@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Net, 320kbps, mp3</item>
+        <item>Standart, 128kbps, mp3</item>
+        <item>Yer-tasarruflu, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Net</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Telefon/neoRecorder</item>
+        <item>SD Kart/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Telefon/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Gelen arama zil sesi</item>
+        <item>Alarm zil sesi</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>SIM Kart 1</item>
+        <item>SIM Kart 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Fotoğraf çek</item>
+        <item>"Galeri'den bir fotoğraf seç"</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Fotoğrafı görüntüle</item>
+        <item>Fotoğrafı Sil</item>
+        <item>Yeni bir fotoğraf çek</item>
+        <item>Galeriden yeni bir fotoğraf seç</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Birleşik kaydet</item>
+        <item>Ayrı kaydet</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>zamana göre sırala</item>
+        <item>etikete göre sırala</item>
+        <item>süreye göre sırala</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="nubia_preference_fragment_scrollbarStyle">0x02000000</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="max_digits">14</integer>
+    <integer name="init_font">73</integer>
+    <integer name="init_font_higher">62</integer>
+    <integer name="init_font_smaller">51</integer>
+    <integer name="init_font_small">48</integer>
+</resources>

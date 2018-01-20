@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppStartTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+    <style name="BaseTheme" parent="@style/AppTheme">
+        <item name="android:buttonStyle">@android:style/Widget.Button</item>
+        <item name="android:buttonStyleToggle">@style/ToggleButtonStyle</item>
+        <item name="android:windowBackground">@color/f6f6f6</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleSize">@dimen/dimen_135</item>
+        <item name="android:windowAnimationStyle">@style/ActivityAnim</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+    <style name="permissionConfirmStyle" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+</resources>

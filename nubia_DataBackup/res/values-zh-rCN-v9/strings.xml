@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">备份</string>
+    <string name="target_device_wifi_storage_title">WLAN硬盘</string>
+    <string name="wifi_not_enable">未连接WLAN</string>
+</resources>

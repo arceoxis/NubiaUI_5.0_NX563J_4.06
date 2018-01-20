@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Rect_Width">266.6953dip</dimen>
+    <dimen name="Rect_Height">266.6953dip</dimen>
+    <dimen name="has_bussinesscard_scan_content_text_view_y_qrcode">92.0dip</dimen>
+    <dimen name="not_bussinesscard_scan_content_text_view_y_qrcode">122.0dip</dimen>
+    <dimen name="has_bussinesscard_scan_content_text_view_y_bussinesscard">143.0dip</dimen>
+    <dimen name="has_bussinesscard_framing_rect_top_margin_qrcode">117.0dip</dimen>
+    <dimen name="not_bussinesscard_framing_rect_top_margin_qrcode">457.0px</dimen>
+    <dimen name="has_bussinesscard_framing_rect_top_margin_bussinesscard">186.0dip</dimen>
+    <dimen name="qrcode_frame_width">800.0px</dimen>
+    <dimen name="qrcode_frame_height">800.0px</dimen>
+    <dimen name="businesscard_frame_width">984.0px</dimen>
+    <dimen name="businesscard_frame_height">592.0px</dimen>
+    <dimen name="action_scanner_group_margin_top">388.0dip</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="content_str_array">
+        <item>Chiudi</item>
+        <item>10 minuti</item>
+        <item>30 minuti</item>
+        <item>60 minuti</item>
+        <item>90 minuti</item>
+    </string-array>
+</resources>

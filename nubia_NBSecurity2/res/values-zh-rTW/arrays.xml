@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="common_harass_categories">
+        <item>垃圾短信</item>
+        <item>騷擾電話</item>
+        <item>攔截管理</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>我媽媽的生日是？</item>
+        <item>我爸爸的生日是？</item>
+        <item>我最重要的人是？</item>
+        <item>我最想去的地方是?</item>
+        <item>我最喜歡的顏色是?</item>
+        <item>我人生中最重要的一天是？</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>只接受許可清單</item>
+        <item>只攔截黑名單</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>垃圾短信</item>
+        <item>騷擾電話</item>
+        <item>攔截管理</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>最近</item>
+        <item>聯繫人</item>
+        <item>短信</item>
+        <item>手動</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>短信</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>黑名單管理</item>
+        <item>攔截設定</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>刪除</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>攔截所有人</item>
+        <item>攔截黑名單</item>
+        <item>攔截陌生人</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>呼叫</item>
+        <item>新增黑名單</item>
+        <item>刪除記錄</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>刪除黑名單</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>已允許</item>
+        <item>已忽略</item>
+        <item>總是詢問</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>隱私</item>
+        <item>安全性</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>粗略位置</item>
+        <item>精准位置</item>
+        <item>GPS</item>
+        <item>震動</item>
+        <item>讀取連絡人</item>
+        <item>修改連絡人</item>
+        <item>讀取通話記錄</item>
+        <item>修改通話記錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>WLAN 掃描</item>
+        <item>通知</item>
+        <item>手機網路掃描</item>
+        <item>撥打電話</item>
+        <item>读取簡訊/彩信</item>
+        <item>编写簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收紧急簡訊</item>
+        <item>接收多媒體簡訊</item>
+        <item>接收 WAP PUSH 消息</item>
+        <item>發送短信</item>
+        <item>讀取 ICC 簡訊</item>
+        <item>寫入 ICC 簡訊</item>
+        <item>修改設置</item>
+        <item>顯示浮動資訊框</item>
+        <item>訪問通知</item>
+        <item>相機</item>
+        <item>錄製音頻</item>
+        <item>播放音頻</item>
+        <item>讀取剪貼板內容</item>
+        <item>修改剪貼板內容</item>
+        <item>打開WLAN</item>
+        <item>打開藍牙</item>
+        <item>打開移動數據</item>
+        <item>發送多媒體簡訊</item>
+        <item>讀取多媒體簡訊</item>
+        <item>發送多媒體簡訊</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>位置</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>震動</item>
+        <item>讀取聯繫人</item>
+        <item>修改聯繫人</item>
+        <item>讀取通話記錄</item>
+        <item>修改通話記錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>位置</item>
+        <item>發布通知</item>
+        <item>位置</item>
+        <item>撥打電話</item>
+        <item>讀取簡訊</item>
+        <item>發送簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收多媒體簡訊</item>
+        <item>接收簡訊</item>
+        <item>發送簡訊</item>
+        <item>讀取簡訊</item>
+        <item>發送簡訊</item>
+        <item>修改設定</item>
+        <item>顯示浮動資訊框</item>
+        <item>訪問通知</item>
+        <item>相機</item>
+        <item>錄製音頻</item>
+        <item>播放音頻</item>
+        <item>讀取剪貼板內容</item>
+        <item>修改剪貼板內容</item>
+        <item>打開WLAN</item>
+        <item>打開藍牙</item>
+        <item>打開移動數據</item>
+        <item>發送多媒體簡訊</item>
+        <item>讀取多媒體簡訊</item>
+        <item>發送多媒體簡訊</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>粗略位置</item>
+        <item>精準位置</item>
+        <item>GPS</item>
+        <item>震動</item>
+        <item>讀取聯繫人</item>
+        <item>修改聯繫人</item>
+        <item>讀取通話記錄</item>
+        <item>修改通話記錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>WLAN 掃描</item>
+        <item>通知</item>
+        <item>手機網絡掃描</item>
+        <item>撥打電話</item>
+        <item>讀取簡訊</item>
+        <item>編寫簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收緊急簡訊</item>
+        <item>接收多媒體簡訊</item>
+        <item>接收 WAP PUSH 消息</item>
+        <item>發送簡訊</item>
+        <item>讀取 ICC 簡訊</item>
+        <item>寫入 ICC 簡訊</item>
+        <item>修改設定</item>
+        <item>顯示浮動資訊框</item>
+        <item>訪問通知</item>
+        <item>攝像頭</item>
+        <item>錄製音頻</item>
+        <item>播放音頻</item>
+        <item>讀取剪貼板內容</item>
+        <item>修改剪貼板內容</item>
+        <item>媒體按鈕</item>
+        <item>音頻焦點</item>
+        <item>主音量</item>
+        <item>語音音量</item>
+        <item>鈴聲音量</item>
+        <item>媒體音量</item>
+        <item>鬧鐘音量</item>
+        <item>通知音量</item>
+        <item>藍牙音量</item>
+        <item>保持喚醒狀態</item>
+        <item>監測位置</item>
+        <item>監控高電耗位置信息服務</item>
+        <item>打開WiFi</item>
+        <item>打開藍牙</item>
+        <item>打開移動數據</item>
+        <item>發送多媒體簡訊</item>
+        <item>讀取多媒體簡訊</item>
+        <item>編寫多媒體簡訊</item>
+        <item>自啟動</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>位置</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>震動</item>
+        <item>讀取聯繫人</item>
+        <item>修改聯繫人</item>
+        <item>讀取通話記錄</item>
+        <item>修改通話記錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>位置</item>
+        <item>發布通知</item>
+        <item>位置</item>
+        <item>撥打電話</item>
+        <item>讀取簡訊</item>
+        <item>編寫簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收多媒體簡訊</item>
+        <item>接收簡訊</item>
+        <item>發送簡訊</item>
+        <item>讀取簡訊</item>
+        <item>編寫簡訊</item>
+        <item>修改設定</item>
+        <item>顯示浮動資訊框</item>
+        <item>訪問通知</item>
+        <item>攝像頭</item>
+        <item>錄製音頻</item>
+        <item>播放音頻</item>
+        <item>讀取剪貼板內容</item>
+        <item>修改剪貼板內容</item>
+        <item>媒體按鈕</item>
+        <item>音頻焦點</item>
+        <item>主音量</item>
+        <item>語音音量</item>
+        <item>鈴聲音量</item>
+        <item>媒體音量</item>
+        <item>鬧鐘音量</item>
+        <item>通知音量</item>
+        <item>藍牙音量</item>
+        <item>保持喚醒狀態</item>
+        <item>位置</item>
+        <item>位置信息</item>
+        <item>打開WLAN</item>
+        <item>打開藍牙</item>
+        <item>打開移動數據</item>
+        <item>發送多媒體簡訊</item>
+        <item>讀取多媒體簡訊</item>
+        <item>編寫多媒體簡訊</item>
+        <item>自啟動</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>粗略位置</item>
+        <item>精準位置</item>
+        <item>GPS</item>
+        <item>震動</item>
+        <item>讀取聯繫人</item>
+        <item>寫聯繫人</item>
+        <item>讀取通話記錄</item>
+        <item>寫通話記錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>WLAN掃描</item>
+        <item>通知</item>
+        <item>手機網絡掃描</item>
+        <item>撥打電話</item>
+        <item>讀取簡訊</item>
+        <item>寫簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收緊急簡訊</item>
+        <item>接收多媒體簡訊</item>
+        <item>接收 WAP PUSH 消息</item>
+        <item>發送簡訊</item>
+        <item>讀取 ICC 簡訊</item>
+        <item>寫入 ICC 簡訊</item>
+        <item>修改設定</item>
+        <item>顯示浮動資訊框</item>
+        <item>訪問通知</item>
+        <item>攝像頭</item>
+        <item>錄製音頻</item>
+        <item>播放音頻</item>
+        <item>讀取剪貼板內容</item>
+        <item>修改剪貼板內容</item>
+        <item>媒體按鈕</item>
+        <item>音頻焦點</item>
+        <item>主音量</item>
+        <item>語音音量</item>
+        <item>鈴聲音量</item>
+        <item>媒體音量</item>
+        <item>鬧鐘音量</item>
+        <item>通知音量</item>
+        <item>藍牙音量</item>
+        <item>保持喚醒狀態</item>
+        <item>監測位置</item>
+        <item>監控高電耗位置信息服務</item>
+        <item>获取使用情况统计信息</item>
+        <item>将麦克风静音或取消静音</item>
+        <item>弹出提示窗口</item>
+        <item>投影媒体</item>
+        <item>激活VPN</item>
+        <item>打开WLAN</item>
+        <item>打开蓝牙</item>
+        <item>发送多媒體簡訊</item>
+        <item>读取多媒體簡訊</item>
+        <item>写多媒體簡訊</item>
+        <item>自启动</item>
+        <item>打开NFC</item>
+        <item>删除簡訊</item>
+        <item>删除多媒體簡訊</item>
+        <item>删除联系人</item>
+        <item>删除通话记录</item>
+        <item>打开移动数据</item>
+        <item>創建案頭快捷方式</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>位置</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>震動</item>
+        <item>讀取聯繫人</item>
+        <item>寫聯繫人</item>
+        <item>讀取通話記錄</item>
+        <item>寫通話記錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>位置</item>
+        <item>發布通知</item>
+        <item>位置</item>
+        <item>撥打電話</item>
+        <item>讀取簡訊</item>
+        <item>寫簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收多媒體簡訊</item>
+        <item>接收簡訊</item>
+        <item>發送簡訊</item>
+        <item>讀取簡訊</item>
+        <item>寫簡訊</item>
+        <item>修改設定</item>
+        <item>顯示浮動資訊框</item>
+        <item>訪問通知</item>
+        <item>攝像頭</item>
+        <item>錄製音頻</item>
+        <item>播放音頻</item>
+        <item>讀取剪貼板內容</item>
+        <item>修改剪貼板內容</item>
+        <item>媒體按鈕</item>
+        <item>音頻焦點</item>
+        <item>主音量</item>
+        <item>語音音量</item>
+        <item>鈴聲音量</item>
+        <item>媒體音量</item>
+        <item>鬧鐘音量</item>
+        <item>通知音量</item>
+        <item>藍牙音量</item>
+        <item>保持喚醒狀態</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>獲取使用情況統計信息</item>
+        <item>將麥克風靜音或取消靜音</item>
+        <item>彈出提示窗口</item>
+        <item>投影媒體</item>
+        <item>激活VPN</item>
+        <item>打開WLAN</item>
+        <item>打開藍牙</item>
+        <item>發送多媒體簡訊</item>
+        <item>讀取多媒體簡訊</item>
+        <item>寫多媒體簡訊</item>
+        <item>自啟動</item>
+        <item>打開NFC</item>
+        <item>刪除簡訊</item>
+        <item>刪除多媒體簡訊</item>
+        <item>刪除聯繫人</item>
+        <item>刪除通話記錄</item>
+        <item>打開移動數據</item>
+        <item>創建案頭快捷方式</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>位置</item>
+        <item>位置</item>
+        <item>位置</item>
+        <item>震動</item>
+        <item>讀取聯絡人資料</item>
+        <item>修改聯絡人資料</item>
+        <item>讀取通話紀錄</item>
+        <item>修改通話紀錄</item>
+        <item>讀取日曆</item>
+        <item>修改日曆</item>
+        <item>位置</item>
+        <item>發佈通知</item>
+        <item>位置</item>
+        <item>撥打電話</item>
+        <item>讀取簡訊/彩信</item>
+        <item>寫入簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收簡訊</item>
+        <item>接收彩信</item>
+        <item>接收簡訊</item>
+        <item>傳送簡訊</item>
+        <item>讀取簡訊</item>
+        <item>寫入簡訊</item>
+        <item>修改設定</item>
+        <item>在最上層繪圖</item>
+        <item>存取通知</item>
+        <item>相機</item>
+        <item>錄音</item>
+        <item>播放音訊</item>
+        <item>讀取剪貼簿</item>
+        <item>修改剪貼簿</item>
+        <item>媒體按鈕</item>
+        <item>音訊焦點</item>
+        <item>主音量</item>
+        <item>語音音量</item>
+        <item>鈴聲音量</item>
+        <item>媒體音量</item>
+        <item>鬧鐘音量</item>
+        <item>通知音量</item>
+        <item>藍牙音量</item>
+        <item>停用休眠</item>
+        <item>定位</item>
+        <item>定位</item>
+        <item>取得使用統計資料</item>
+        <item>關閉/開啟麥克風</item>
+        <item>彈出提示窗口</item>
+        <item>投影媒體</item>
+        <item>啟用 VPN</item>
+        <item>寫入桌布</item>
+        <item>輔助結構</item>
+        <item>輔助螢幕擷取畫面</item>
+        <item>讀取電話的狀態</item>
+        <item>增加語音郵件</item>
+        <item>使用IP電話</item>
+        <item>使用打電話的權限</item>
+        <item>使用指紋</item>
+        <item>使用身體傳感器</item>
+        <item>使用小區廣播服務</item>
+        <item>使用模擬位置信息</item>
+        <item>讀寫手機儲存</item>
+        <item>讀寫手機儲存</item>
+        <item>申請點亮屏幕的權限</item>
+        <item>申請獲取賬戶的權限</item>
+        <item>打開Wi-Fi</item>
+        <item>打開藍牙</item>
+        <item>發送彩信</item>
+        <item>編輯彩信</item>
+        <item>刪除簡訊</item>
+        <item>刪除彩信</item>
+        <item>刪除聯絡人資料</item>
+        <item>刪除通話紀錄</item>
+        <item>創建案頭快捷方式</item>
+        <item>後台運行</item>
+        <item>後台程式開啟控制</item>
+        <item>鎖屏程式開啟控制</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>權限</item>
+        <item>應用程式</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>隱私類</item>
+        <item>基礎類</item>
+        <item>通知類</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>電話</item>
+        <item>通訊錄</item>
+        <item>訊息</item>
+        <item>彩信</item>
+        <item>位置資訊</item>
+        <item>日曆</item>
+        <item>麥克風</item>
+        <item>相機</item>
+        <item>身體感測器</item>
+        <item>讀寫手機儲存</item>
+        <item>Wi-Fi</item>
+        <item>藍牙</item>
+        <item>设置</item>
+        <item>創建案頭快捷方式</item>
+        <item>顯示浮動資訊框</item>
+        <item>後台程式開啟控制</item>
+        <item>鎖屏程式開啟控制</item>
+        <item>安裝應用</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>允許</item>
+        <item>詢問</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>允許</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>隱私類</item>
+        <item>基礎類</item>
+        <item>通知類</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>手動添加自啟動應用</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>發送</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>僅手動校準</item>
+        <item>每日自動校準</item>
+        <item>每3天自動校準</item>
+        <item>每週自動校準</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>徹底刪除記錄</item>
+        <item>轉發</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>添加</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>邀請一位小伙伴，一起挑戰“躲貓貓”的手機防丟演習遊戲，給防丟加星星！</item>
+        <item>"1、讓小伙伴把手機藏起來
+"</item>
+        <item>"2、來找咯，看見你的小pp咯
+"</item>
+        <item>"3、哪裡都找不到，怎麼辦呢？ 
+"</item>
+        <item>"4、有啦！信牛盾啊！ 
+"</item>
+        <item>"5、另一部手機發送“信牛盾”給自己的手機，跟著指示操作
+"</item>
+        <item>"達拉，星星到手咯，簡單吧，以後不用擔心忘記手機放哪裡啦！記得手機要開著機能收到短信才能找到哦~~
+快找小伙伴來秀一下吧~~"</item>
+    </string-array>
+</resources>

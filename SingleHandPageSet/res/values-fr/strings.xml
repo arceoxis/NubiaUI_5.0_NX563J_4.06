@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Mode d'une seule main"</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="welcome_to_single">"Bienvenue à Mode d'une seule main"</string>
+    <string name="welcome_to_single2">"Touchez l'écran pour obtenir le mode d'une seule main qui vous convient"</string>
+    <string name="test_single1">Placez votre pouce</string>
+    <string name="test_single2">"Tenez votre téléphone d'une seule main Étirez votre pouce pour dessiner un arc"</string>
+    <string name="test_single_invalid">"Placez votre pouce sur l'écran et dessinez un arc"</string>
+    <string name="show_single">"Mode d'une seule main qui correspondent le mieux à votre main"</string>
+    <string name="try_more">Réessayer</string>
+    <string name="begin">Commencer à utiliser</string>
+    <string name="welcome_to_begin">"Bienvenue à VOTRE Mode d'une seule main"</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تشغيل وإيقاف تشغيل مُجَدوَل</string>
+    <string name="timer_switch">مفتاح المؤقت</string>
+    <string name="switch_on">تشغيل مُجَدوَل</string>
+    <string name="switch_off">إيقاف تشغيل مُجَدوَل</string>
+    <string name="every_day">كل يوم</string>
+    <string name="switch_on_time">تعيين وقت البدء</string>
+    <string name="switch_off_time">تعيين وقت إيقاف التشغيل</string>
+    <string name="date_time_24hour">استخدام تنسيق 24 ساعة</string>
+    <string name="date_time_date_format">اختيار تنسيق التاريخ</string>
+    <string name="label">تصنيف</string>
+    <string name="switch_repeat">التكرار</string>
+    <string name="expand_switch">مفتاح التوسيع</string>
+    <string name="collapse_switch">مفتاح الطي</string>
+    <string name="reset_switch">إعادة تعيين المفتاح</string>
+    <string name="day">يوم واحد</string>
+    <string name="days">%s يوم</string>
+    <string name="hour">ساعة واحدة</string>
+    <string name="hours">%s ساعة</string>
+    <string name="minute">دقيقة واحدة</string>
+    <string name="minutes">%s دقيقة</string>
+    <string name="never">مطلقًا</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">إلغاء</string>
+    <string name="switch_off_dialog_ok">إيقاف التشغيل</string>
+    <string name="switch_off_dialog_title">إيقاف تشغيل مُجَدوَل</string>
+    <string name="switch_off_message">سيتوقف هاتفك عن التشغيل خلال %s‏ seconds</string>
+    <string name="switch_off_message_second">سيتوقف هاتفك عن التشغيل خلال ‏%s‏ second</string>
+    <string name="done_label">تم</string>
+    <string name="hour_picker_description">شريط التمرير الدائري للساعات</string>
+    <string name="minute_picker_description">شريط التمرير الدائري للدقائق</string>
+    <string name="select_hours">تحديد الساعات</string>
+    <string name="select_minutes">تحديد الدقائق</string>
+    <string name="day_picker_description">شبكة الشهر مكونة من الأيام</string>
+    <string name="year_picker_description">قائمة الأعوام</string>
+    <string name="select_day">تحديد الشهر واليوم</string>
+    <string name="select_year">تحديد العام</string>
+    <string name="item_is_selected">تم تحديد %1$s</string>
+    <string name="deleted_key">تم حذف %1$s</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

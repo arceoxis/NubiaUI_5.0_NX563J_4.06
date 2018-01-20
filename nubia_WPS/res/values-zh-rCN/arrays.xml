@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="complete_emails">
+        <item>\@163.com</item>
+        <item>\@qq.com</item>
+        <item>\@126.com</item>
+        <item>\@gmail.com</item>
+        <item>\@sina.com</item>
+        <item>\@vip.qq.com</item>
+        <item>\@yahoo.com.cn</item>
+        <item>\@21cn.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@foxmail.com</item>
+        <item>\@139.com</item>
+        <item>\@sohu.com</item>
+        <item>\@live.cn</item>
+        <item>\@yahoo.cn</item>
+        <item>\@yeah.net</item>
+    </string-array>
+</resources>

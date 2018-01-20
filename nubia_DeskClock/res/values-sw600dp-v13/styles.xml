@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SetAlarmTheme" parent="@android:style/Theme.Holo.Dialog" />
+    <style name="AlarmAlertFullScreenTheme" parent="@android:style/Theme.Holo.Wallpaper.NoTitleBar">
+        <item name="android:colorForeground">#ffffffff</item>
+        <item name="android:windowBackground">@color/transparent_white</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTitleStyle">@style/AlarmAlertFullScreenWindowTitle</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>%1$s atur untuk kurang dari 1 menit dari sekarang.</item>
+        <item>%1$s atur untuk %2$s dari sekarang.</item>
+        <item>%1$s atur untuk %3$s dari sekarang.</item>
+        <item>%1$s atur untuk %2$s dan %3$s dari sekarang.</item>
+        <item>%1$s atur untuk %4$s dari sekarang.</item>
+        <item>%1$s atur untuk %2$s dan %4$s dari sekarang.</item>
+        <item>%1$s atur untuk %3$s dan %4$s dari sekarang.</item>
+        <item>%1$s atur untuk %2$s, %3$s, dan %4$s dari sekarang.</item>
+    </string-array>
+</resources>

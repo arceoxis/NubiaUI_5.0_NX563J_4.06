@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="nav_tab_orientation">0</integer>
+    <integer name="max_suggest_lines_landscape">20</integer>
+    <integer name="max_suggest_lines_portrait">20</integer>
+</resources>

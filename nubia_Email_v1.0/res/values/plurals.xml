@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="draft">
+        <item quantity="other">Drafts</item>
+        <item quantity="one">Draft</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Delete these %1$d conversations?</item>
+        <item quantity="one">Delete this conversation?</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archive these %1$d conversations?</item>
+        <item quantity="one">Archive this conversation?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Discard these %1$d messages?</item>
+        <item quantity="one">Discard this message?</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Unstarring %1$d conversations</item>
+        <item quantity="one">Unstarring %1$d conversation</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations ignored</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations ignored</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations reported as spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations reported as spam</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations reported as non-spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations reported as non-spam</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations marked as unimportant</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations marked as unimportant</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations reported as phishing</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations reported as phishing</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations archived</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations archived</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversations deleted</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversations deleted</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Changed folders</item>
+        <item quantity="one">Changed folder</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d new messages</item>
+        <item quantity="one">%1$d new message</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Unfold %1$d older Emails</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d old Emails unfolded</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d Unread Emails</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d new messages</item>
+        <item quantity="one">%1$d new message</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messages will be permanently deleted.</item>
+        <item quantity="one">%1$d message will be permanently deleted.</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d messages</item>
+        <item quantity="one">%1$d message</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d attachments</item>
+        <item quantity="one">%1$d attachment</item>
+    </plurals>
+    <plurals name="attachment_count">
+        <item quantity="other">%d attachments</item>
+        <item quantity="one">%d attachment</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_dialog">
+        <item quantity="other">Delete these %1$d conversations</item>
+        <item quantity="one">Delete this conversation</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation_dialog">
+        <item quantity="other">Discard these %1$d messages</item>
+        <item quantity="one">Discard this message</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation_dialog">
+        <item quantity="other">Archive these %1$d conversations</item>
+        <item quantity="one">Archive this conversation</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_19">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_1b">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_1c">false</item>
+</resources>

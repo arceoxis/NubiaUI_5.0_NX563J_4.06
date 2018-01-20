@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>no subject</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>@string/select_dialog_items_one</item>
+        <item>@string/select_dialog_items_two</item>
+        <item>@string/select_dialog_items_three</item>
+        <item>@string/select_dialog_items_four</item>
+        <item>@string/select_dialog_items_five</item>
+        <item>@string/select_dialog_items_six</item>
+        <item>@string/select_dialog_items_seven</item>
+        <item>@string/select_dialog_items_eight</item>
+        <item>@string/select_dialog_items_nine</item>
+        <item>@string/select_dialog_items_ten</item>
+        <item>@string/select_dialog_items_other</item>
+    </string-array>
+    <string-array name="pref_slideshow_open_mode_choices">
+        <item>@string/open_mode_newspapers</item>
+        <item>@string/open_mode_slideshow</item>
+    </string-array>
+    <string-array name="pref_slideshow_open_mode_values">
+        <item>NEWSPAPER</item>
+        <item>SLIDESHOW</item>
+    </string-array>
+    <string-array name="default_phrases">
+        <item>@string/default_phrases_one</item>
+        <item>@string/default_phrases_two</item>
+        <item>@string/default_phrases_three</item>
+        <item>@string/default_phrases_four</item>
+        <item>@string/default_phrases_five</item>
+        <item>@string/default_phrases_six</item>
+        <item>@string/default_phrases_seven</item>
+        <item>@string/default_phrases_eight</item>
+        <item>@string/default_phrases_nine</item>
+        <item>@string/default_phrases_ten</item>
+        <item>@string/default_phrases_eleven</item>
+        <item>@string/default_phrases_twelve</item>
+        <item>@string/default_phrases_thirteen</item>
+        <item>@string/default_phrases_fourteen</item>
+        <item>@string/default_phrases_fifteen</item>
+    </string-array>
+    <string-array name="select_music_items">
+        <item>@string/select_music_items_one</item>
+        <item>@string/select_music_items_two</item>
+        <item>@string/select_music_items_three</item>
+    </string-array>
+    <string-array name="more_items">
+        <item>@string/message_order</item>
+        <item>@string/favourite_msg_label</item>
+        <item>@string/preferences_title</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_2">false</item>
+</resources>

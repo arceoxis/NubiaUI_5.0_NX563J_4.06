@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="lv_default_circle_indicator_centered">true</bool>
+    <bool name="lv_default_circle_indicator_snap">false</bool>
+    <bool name="lv_default_line_indicator_centered">true</bool>
+    <bool name="lv_default_title_indicator_selected_bold">true</bool>
+    <bool name="lv_default_underline_indicator_fades">true</bool>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="additional_bootanimation_info_title">Keterangan animasi boot</string>
+    <string name="str_author_info">Info Penulis</string>
+    <string name="str_view_origin_picture">Lihat Gambar</string>
+    <string name="str_click_picture">Klik Gambar</string>
+    <string name="str_view_detail">Lihat Info Rinci</string>
+    <string name="str_i_know">Saya tahu.</string>
+    <string name="str_slip_info">Geser kiri atau kanan untuk mengganti halaman</string>
+    <string name="str_thanks_share">Terima kasih %1$s telah berbagi</string>
+</resources>

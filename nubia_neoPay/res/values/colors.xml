@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_shadow">#ffd4d4d4</color>
+    <color name="black_overlay">#60000000</color>
+    <color name="white_overlay">#40ffffff</color>
+    <color name="window_background">#ffffffff</color>
+    <color name="color_black_10">#19000000</color>
+    <color name="color_black_26">#42000000</color>
+    <color name="color_black_57">#91000000</color>
+    <color name="color_black_87">#dd000000</color>
+    <color name="color_black_90">#e5000000</color>
+    <color name="color_white_100">#ffffffff</color>
+    <color name="color_brown">#ffff7e00</color>
+    <color name="color_gray">#ff999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_nocoupon">#7f1a1a1a</color>
+    <color name="window_background_gray">#fff1f1f1</color>
+    <color name="translucent_background">#60000000</color>
+</resources>

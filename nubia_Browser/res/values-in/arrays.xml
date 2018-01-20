@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>China (GBK)</item>
+        <item>China (Big5)</item>
+        <item>Jepang (ISO-2022-JP)</item>
+        <item>Jepang (SHIFT_JIS)</item>
+        <item>Jepang (EUC-JP)</item>
+        <item>Korea (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Selalu hidup</item>
+        <item>Sesuai permintaan</item>
+        <item>Mati</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Laman ini</item>
+        <item>Laman kosong</item>
+        <item>Laman default</item>
+        <item>Situs yang paling sering dikunjungi</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>Diblokir %s.</item>
+        <item>Diblokir %1$s dan %2$s.</item>
+        <item>Diblokir %1$s, %2$s dan $3$s.</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Kecil</item>
+        <item>Kecil</item>
+        <item>Normal</item>
+        <item>Besar</item>
+        <item>Sangat besar</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Jauh</item>
+        <item>Sedang</item>
+        <item>Tutup</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Tidak Pernah</item>
+        <item>Hanya pada Wi-Fi</item>
+        <item>Selalu</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>kecil</item>
+        <item>Awalan</item>
+        <item>Lebih besar</item>
+        <item>Terbesar</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Tidak pernah</item>
+        <item>Hanya pada Wi-Fi</item>
+        <item>Selalu</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>Tolak selamanya</item>
+        <item>Bolehkan untuk 24 jam</item>
+        <item>Izinkan selamanya</item>
+        <item>Selalu tanya</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Komputer</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+        <item>privacy_clear_cookies</item>
+        <item>privacy_clear_form_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>Riwayat ketikan</item>
+        <item>Riwayat kunjungan</item>
+        <item>Berkas cache</item>
+        <item>Cookies</item>
+        <item>Formulir kata sandi</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>show_security_warnings</item>
+        <item>do_not_track</item>
+        <item>accept_cookies</item>
+        <item>save_formdata</item>
+        <item>enable_geolocation</item>
+        <item>remember_passwords</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>Tampilkan peringatan keamanan</item>
+        <item>Jangan Lacak</item>
+        <item>Terima cookie</item>
+        <item>Ingat data formulir</item>
+        <item>Aktifkan lokasi</item>
+        <item>Ingat sandi</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>block_popup_windows</item>
+        <item>open_in_background</item>
+        <item>enable_javascript</item>
+        <item>allow_media_downloads</item>
+        <item>load_images</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>Cekal jendela munculan</item>
+        <item>Buka di latar belakang</item>
+        <item>Aktifkan JavaScript</item>
+        <item>Izinkan Unduh Media</item>
+        <item>Muat gambar</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>satu</item>
+        <item>dua</item>
+        <item>tiga</item>
+        <item>empat</item>
+        <item>lima</item>
+        <item>enam</item>
+        <item>tujuh</item>
+        <item>delapan</item>
+        <item>sembilan</item>
+        <item>sepuluh</item>
+        <item>sebelas</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>Jaringan seluler</item>
+    </string-array>
+</resources>

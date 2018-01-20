@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="video_masking_color">#8c000000</color>
+    <color name="text_view_color">#ffffffff</color>
+    <color name="dim_foreground_dark">#ffbebebe</color>
+</resources>

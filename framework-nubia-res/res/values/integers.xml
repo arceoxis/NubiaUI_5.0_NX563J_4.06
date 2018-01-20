@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="nubia_screen_orientation">1</integer>
+    <integer name="config_autoBrightnessSettingIncreaseMininumBrightness">0</integer>
+    <integer name="config_autoBrightnessSettingManualSettingBoundary">107</integer>
+    <integer name="config_autoBrightnessSettingManualSettingRangeA">110</integer>
+    <integer name="config_autoBrightnessSettingManualSettingRangeB">82</integer>
+    <integer name="nubia_preference_fragment_scrollbarStyle">0x02000000</integer>
+</resources>

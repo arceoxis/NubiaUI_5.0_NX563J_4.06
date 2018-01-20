@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wfd 服務</string>
+    <string name="perm_label">QC Wi-Fi 顯示堆疊</string>
+    <string name="perm_desc">存取 Qualcomm Wi-Fi 顯示堆疊 APIs</string>
+    <string name="wfd_service">放送螢幕</string>
+    <string name="mirroring_on">正在放送螢幕中</string>
+    <string name="tosat_standby">螢幕投影已暫停</string>
+    <string name="wifi_display_notification_connected_title">螢幕投影進行中</string>
+    <string name="wifi_display_notification_disconnect">斷開</string>
+    <string name="wifi_display_notification_touch_for_detail">點擊查看連接資訊</string>
+    <string name="wifi_display_notification_sink_detail">請勿關閉WLAN</string>
+</resources>

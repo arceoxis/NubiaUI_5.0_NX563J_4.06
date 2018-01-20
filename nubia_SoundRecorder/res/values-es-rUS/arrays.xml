@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Alta Calidad: mp3@320kbps</item>
+        <item>Estándar: mp3@128kbps</item>
+        <item>MMS: amr@12.8kbps</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Alta Calidad</item>
+        <item>Estándar</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Teléfono/neoRecorder</item>
+        <item>Tarjeta SD/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Teléfono/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Tono de timbre de llamadas entrantes</item>
+        <item>Tono de timbre de alarmas</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>Tarjeta SIM 1</item>
+        <item>Tarjeta SIM 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Tomar foto</item>
+        <item>Seleccione una foto de la galería</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Ver foto</item>
+        <item>Eliminar foto</item>
+        <item>Tomar una foto nueva</item>
+        <item>Seleccione una foto de la galería</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Guarda fusión</item>
+        <item>Guardar separado</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Ordenar por hora</item>
+        <item>Ordenar por etiqueta</item>
+        <item>Ordenar por duración</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_pbap_pce_profile">false</bool>
+    <bool name="config_sendPackageName">false</bool>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <bool name="nubia_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="allow_emergency_numbers_in_call_log">true</bool>
+    <bool name="allow_local_dtmf_tones">true</bool>
+    <bool name="tty_enabled">true</bool>
+    <bool name="use_speaker_when_docked">true</bool>
+    <bool name="config_enable_emergency_video_calling">false</bool>
+</resources>

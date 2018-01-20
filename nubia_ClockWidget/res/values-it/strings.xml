@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widget Orologio</string>
+    <string name="digital_clock_widget">Orologio Mondiale Digitale</string>
+    <string name="analog_clock_widget">Orologio Mondiale Analogico</string>
+    <string name="digital_big_clock_widget">Orologio digitale</string>
+    <string name="analog_big_clock_widget">Orologio analogico</string>
+    <string name="month">mese</string>
+    <string name="day">giorno</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">Lunedì</string>
+    <string name="tuesday">Martedì</string>
+    <string name="wednesday">Mercoledì</string>
+    <string name="thursday">Giovedì</string>
+    <string name="friday">Venerdì</string>
+    <string name="saturday">Sabato</string>
+    <string name="sunday">Domenica</string>
+</resources>

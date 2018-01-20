@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">車用套件</string>
+    <string name="bluetooth_remember_choice">一律允許</string>
+    <string name="dun_notif_ticker">藍牙 DUN 要求</string>
+    <string name="dun_notif_title">DUN 工作階段金鑰要求</string>
+    <string name="dun_notif_message">輕觸即可連線至「%1$s」。</string>
+    <string name="dun_acceptance_timeout_message">接受與 %1$s 的連線時發生作業逾時</string>
+    <string name="bluetooth_dun_request">DUN 要求</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s 想使用 DUN。允許 %2$s 存取?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s 想存取您手機的資料夾。允許 %2$s 存取?</string>
+    <string name="ftp_acceptance_dialog_header">手機資料夾存取</string>
+    <string name="ftp_session_key_dialog_title">輸入 %1$s 的工作階段金鑰</string>
+    <string name="ftp_session_key_dialog_header">必須有藍牙工作階段金鑰</string>
+    <string name="ftp_acceptance_timeout_message">接受與 %1$s 的連線時發生作業逾時</string>
+    <string name="ftp_authentication_timeout_message">使用 %1$s 輸入工作階段金鑰時發生逾時</string>
+    <string name="ftp_notif_ticker">藍牙連線要求</string>
+    <string name="ftp_notif_title">FTP 工作階段金鑰要求</string>
+    <string name="ftp_notif_message">輕觸即可連線至「%1$s」。</string>
+    <string name="bluetooth_ftp_request">FTP 要求</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s 想存取您的檔案和資料夾。允許 %2$s 存取?</string>
+    <string name="map_acceptance_dialog_title">%1$s 想存取您手機的資料夾。允許 %2$s 存取?</string>
+    <string name="map_acceptance_dialog_header">手機資料夾存取</string>
+    <string name="map_session_key_dialog_title">輸入 %1$s 的工作階段金鑰</string>
+    <string name="map_session_key_dialog_header">必須有藍牙工作階段金鑰</string>
+    <string name="map_acceptance_timeout_message">接受與 %1$s 的連線時發生作業逾時</string>
+    <string name="map_authentication_timeout_message">使用 %1$s 輸入工作階段金鑰時發生逾時</string>
+    <string name="map_notif_ticker">藍牙連線要求</string>
+    <string name="map_notif_title">MAP 工作階段金鑰要求</string>
+    <string name="map_notif_message">輕觸即可連線至「%1$s」。</string>
+    <string name="map_alert_conn_failed_message">藍牙 MAP 連線失敗。</string>
+    <string name="bluetooth_mas_request">訊息存取要求</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s 想存取您的訊息。允許 %2$s 存取?</string>
+    <string name="sap_notif_ticker">藍牙 SIM 卡存取要求</string>
+    <string name="sap_notif_title">SAP 工作階段金鑰要求</string>
+    <string name="sap_notif_message">輕觸即可連線至「%1$s」。</string>
+    <string name="sap_acceptance_timeout_message">接受與 %1$s 的連線時發生作業逾時</string>
+    <string name="bluetooth_sap_request">SAP 要求</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s 想存取您的 SIM 卡。允許 %2$s 存取?</string>
+</resources>

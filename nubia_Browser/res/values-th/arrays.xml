@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>เกาหลี (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>เปิดใช้เสมอ</item>
+        <item>ตามคำขอ</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>หน้าเว็บปัจจุบัน</item>
+        <item>หน้าว่าง</item>
+        <item>หน้าเว็บเริ่มต้น</item>
+        <item>ไซต์ที่เข้าชมบ่อยที่สุด</item>
+        <item>อื่นๆ</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>"บล็อก%s. "</item>
+        <item>"บล็อก%1$sและ%2$s. "</item>
+        <item>"บล็อก%1$s %2$sและ$3$s. "</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>เล็กมาก</item>
+        <item>เล็ก</item>
+        <item>ปกติ</item>
+        <item>ใหญ่</item>
+        <item>ใหญ่มาก</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ไกล</item>
+        <item>ปานกลาง</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>ไม่เลย</item>
+        <item>Wi-Fi เท่านั้น</item>
+        <item>ทุกครั้ง</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>ขนาดเล็ก</item>
+        <item>ตัวเลือกอัตโนมัติ</item>
+        <item>ขนาดใหญ่</item>
+        <item>ขนาดใหญ่มาก</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>ไม่มี</item>
+        <item>WiFi เท่านั้น</item>
+        <item>ทุกครั้ง</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>ปฏิเสธเสมอ</item>
+        <item>อนุญาตภายใน24ชั่วโมง</item>
+        <item>อนุญาตเสมอ</item>
+        <item>ถามเสมอ</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>คอมพิวเตอร์</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+        <item>privacy_clear_cookies</item>
+        <item>privacy_clear_form_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>ประวัติอินพุต</item>
+        <item>ประวัติเข้าชม</item>
+        <item>แคช</item>
+        <item>คุกกี้</item>
+        <item>รหัสผ่านฟอร์ม</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>show_security_warnings</item>
+        <item>do_not_track</item>
+        <item>accept_cookies</item>
+        <item>save_formdata</item>
+        <item>enable_geolocation</item>
+        <item>remember_passwords</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>แสดงคำเตือนเกี่ยวกับความปลอดภัย</item>
+        <item>ไม่ติดตาม .</item>
+        <item>ยอมรับคุกกี้</item>
+        <item>จำข้อมูลในฟอร์ม</item>
+        <item>เปิดการใช้งานตำแหน่ง</item>
+        <item>จำรหัสผ่าน</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>block_popup_windows</item>
+        <item>open_in_background</item>
+        <item>enable_javascript</item>
+        <item>allow_media_downloads</item>
+        <item>load_images</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>ปิดกั้นป๊อปอัป</item>
+        <item>เปิดในพื้นหลัง</item>
+        <item>เปิดการใช้งาน JavaScript</item>
+        <item>อนุญาตให้มีเดียดาวน์โหลด</item>
+        <item>โหลดภาพ</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>หนึ่ง</item>
+        <item>สอง</item>
+        <item>สาม</item>
+        <item>สี่</item>
+        <item>ห้า</item>
+        <item>หก</item>
+        <item>เจ็ด</item>
+        <item>แปด</item>
+        <item>เก้า</item>
+        <item>สิบ</item>
+        <item>สิบเอ็ด</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>เครือข่ายโมบาย</item>
+    </string-array>
+</resources>

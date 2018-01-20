@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_center_margin">16.0dip</dimen>
+    <dimen name="pay_1_dp">1.0dip</dimen>
+    <dimen name="pay_8_dp">8.0dip</dimen>
+    <dimen name="pay_10_dp">10.0dip</dimen>
+    <dimen name="pay_12_dp">12.0dip</dimen>
+    <dimen name="pay_13_dp">13.0dip</dimen>
+    <dimen name="pay_16_dp">16.0dip</dimen>
+    <dimen name="pay_36_dp">36.0dip</dimen>
+    <dimen name="pay_40_dp">40.0dip</dimen>
+    <dimen name="pay_48_dp">48.0dip</dimen>
+    <dimen name="pay_56_dp">56.0dip</dimen>
+    <dimen name="pay_66_dp">66.0dip</dimen>
+    <dimen name="pay_86_dp">86.0dip</dimen>
+    <dimen name="pay_166_dp">166.0dip</dimen>
+    <dimen name="pay_250_dp">250.0dip</dimen>
+    <dimen name="pay_10_sp">10.0sp</dimen>
+    <dimen name="pay_11_sp">11.0sp</dimen>
+    <dimen name="pay_12_sp">12.0sp</dimen>
+    <dimen name="pay_13_sp">13.0sp</dimen>
+    <dimen name="pay_14_sp">14.0sp</dimen>
+    <dimen name="pay_16_sp">16.0sp</dimen>
+    <dimen name="pay_18_sp">18.0sp</dimen>
+</resources>

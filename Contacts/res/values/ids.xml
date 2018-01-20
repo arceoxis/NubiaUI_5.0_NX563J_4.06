@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nubia_lettertext" />
+    <item type="id" name="nubia_datePickerView" />
+    <item type="id" name="nubia_timePickerView" />
+    <item type="id" name="nubia_year_spinner" />
+    <item type="id" name="nubia_month_spinner" />
+    <item type="id" name="nubia_day_spinner" />
+    <item type="id" name="nubia_hour_spinner" />
+    <item type="id" name="nubia_minute_spinner" />
+    <item type="id" name="nubia_blank_region" />
+    <item type="id" name="nubia_pcenterPanel" />
+    <item type="id" name="nubia_dialog_animate_view" />
+    <item type="id" name="nubia_parentPanel" />
+    <item type="id" name="home" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="data" />
+    <item type="id" name="header_phones" />
+    <item type="id" name="dialog_sync_add" />
+    <item type="id" name="dialog_searching_vcard" />
+    <item type="id" name="dialog_sdcard_not_found" />
+    <item type="id" name="dialog_vcard_not_found" />
+    <item type="id" name="dialog_select_import_type" />
+    <item type="id" name="dialog_select_one_vcard" />
+    <item type="id" name="dialog_select_multiple_vcard" />
+    <item type="id" name="dialog_cache_vcard" />
+    <item type="id" name="dialog_io_exception" />
+    <item type="id" name="dialog_error_with_message" />
+    <item type="id" name="dialog_no_choose_vCard_file" />
+    <item type="id" name="dialog_cancel_confirmation" />
+    <item type="id" name="dialog_cancel_failed" />
+    <item type="id" name="dialog_delete_contact_confirmation" />
+    <item type="id" name="dialog_delete_contact_loader_id" />
+    <item type="id" name="dialog_export_confirmation" />
+    <item type="id" name="dialog_exporting_vcard" />
+    <item type="id" name="dialog_fail_to_export_with_reason" />
+    <item type="id" name="dialog_sd_not_enough_space" />
+    <item type="id" name="dialog_phone_number_call_disambiguation" />
+    <item type="id" name="dialog_phone_number_message_disambiguation" />
+    <item type="id" name="dialog_manager_id_1" />
+    <item type="id" name="dialog_manager_id_2" />
+    <item type="id" name="contact_list_filter_loader" />
+    <item type="id" name="dialog_event_date_picker" />
+    <item type="id" name="custom_dialog_content" />
+    <item type="id" name="dialButtonContainer" />
+    <item type="id" name="lastLine" />
+    <item type="id" name="slidingdrawer" />
+    <item type="id" name="calllist" />
+    <item type="id" name="showDialPadButton" />
+    <item type="id" name="dial_button" />
+    <item type="id" name="ztouch_page" />
+    <item type="id" name="add_button" />
+    <item type="id" name="sms_button" />
+    <item type="id" name="list_item_name" />
+    <item type="id" name="list_item_phone" />
+    <item type="id" name="list_item_header_photo" />
+    <item type="id" name="overflow_menu" />
+    <item type="id" name="quick_operation_view_call_log" />
+    <item type="id" name="quick_operation_view" />
+    <item type="id" name="quick_operation_view_favorite" />
+    <item type="id" name="quick_operation_view_tile" />
+    <item type="id" name="app_icon" />
+    <item type="id" name="alwaysUse" />
+    <item type="id" name="voice_sure" />
+    <item type="id" name="voice_edit" />
+    <item type="id" name="voice_cancel" />
+    <item type="id" name="voice_say_cancel" />
+    <item type="id" name="voice_say_over" />
+    <item type="id" name="voice_user_sure_page" />
+    <item type="id" name="voice_user_say_page" />
+    <item type="id" name="voice_show_result" />
+    <item type="id" name="voice_user_operate" />
+    <item type="id" name="voice_say_message_image" />
+    <item type="id" name="voice_image" />
+    <item type="id" name="voice_search_progressbar" />
+    <item type="id" name="voice_say_message_sure" />
+    <item type="id" name="voice_example_call" />
+    <item type="id" name="voice_say_message" />
+    <item type="id" name="voice_prompt_call" />
+    <item type="id" name="menu_dial_voice_help" />
+    <item type="id" name="voice_button" />
+    <item type="id" name="menu_voice_help" />
+    <item type="id" name="menu_voice_add_contact" />
+    <item type="id" name="import_sim_contacts_confirmation" />
+    <item type="id" name="yulore_superyellowpage_rl_ads" />
+    <item type="id" name="yulore_superyellowpage_vp_ads" />
+    <item type="id" name="yulore_superyellowpage_auto_focus" />
+    <item type="id" name="yulore_superyellowpage_decode" />
+    <item type="id" name="yulore_superyellowpage_decode_failed" />
+    <item type="id" name="yulore_superyellowpage_decode_succeeded" />
+    <item type="id" name="yulore_superyellowpage_encode_failed" />
+    <item type="id" name="yulore_superyellowpage_encode_succeeded" />
+    <item type="id" name="yulore_superyellowpage_launch_product_query" />
+    <item type="id" name="yulore_superyellowpage_quit" />
+    <item type="id" name="yulore_superyellowpage_restart_preview" />
+    <item type="id" name="yulore_superyellowpage_return_scan_result" />
+    <item type="id" name="yulore_superyellowpage_ll_popup" />
+    <item type="id" name="yulore_superyellowpage_tv_info" />
+    <item type="id" name="yulore_superyellowpage_bt_cancel" />
+    <item type="id" name="yulore_superyellowpage_bt_confirm" />
+    <item type="id" name="yulore_superyellowpage_rl_search" />
+    <item type="id" name="yulore_superyellowpage_iv_sc" />
+    <item type="id" name="yulore_superyellowpage_iv_search_delete" />
+    <item type="id" name="yulore_superyellowpage_et_search" />
+    <item type="id" name="yulore_superyellowpage_gv_clipper_service" />
+    <item type="id" name="yulore_superyellowpage_gv_common_number" />
+    <item type="id" name="yulore_superyellowpage_gv_handy_service" />
+    <item type="id" name="yulore_superyellowpage_view_loading" />
+    <item type="id" name="yulore_superyellowpage_pb" />
+    <item type="id" name="yulore_superyellowpage_tv_loading_txt" />
+    <item type="id" name="yulore_superyellowpage_rl_title" />
+    <item type="id" name="yulore_superyellowpage_mWebView" />
+    <item type="id" name="yulore_superyellowpage_rl_reload" />
+    <item type="id" name="yulore_superyellowpage_iv_reload" />
+    <item type="id" name="yulore_superyellowpage_mListView" />
+    <item type="id" name="yulore_superyellowpage_iv_category_pic" />
+    <item type="id" name="yulore_superyellowpage_tv_category_name" />
+    <item type="id" name="yulore_superyellowpage_iv_shop_icon" />
+    <item type="id" name="yulore_superyellowpage_tv_shopName" />
+    <item type="id" name="yulore_superyellowpage_iv_more" />
+    <item type="id" name="yulore_superyellowpage_tv_dist" />
+    <item type="id" name="yulore_superyellowpage_bt_delete" />
+    <item type="id" name="yulore_superyellowpage_tv_key" />
+    <item type="id" name="yulore_superyellowpage_lkrl_search" />
+    <item type="id" name="yulore_superyellowpage_bt_search_cancel" />
+    <item type="id" name="yulore_superyellowpage_ll_p" />
+    <item type="id" name="yulore_superyellowpage_bt_city" />
+    <item type="id" name="yulore_superyellowpage_rl_history" />
+    <item type="id" name="yulore_superyellowpage_historyListView" />
+    <item type="id" name="yulore_superyellowpage_search_tips" />
+    <item type="id" name="yulore_superyellowpage_search_no_results" />
+    <item type="id" name="yulore_superyellowpage_pb_load_progress" />
+    <item type="id" name="yulore_superyellowpage_tv_load_more" />
+    <item type="id" name="yulore_superyellowpage_tv_cityName" />
+    <item type="id" name="yulore_superyellowpage_phgv" />
+    <item type="id" name="yulore_superyellowpage_mLetterListView" />
+    <item type="id" name="yulore_superyellowpage_bt_search_back" />
+    <item type="id" name="yulore_superyellowpage_lv_search_city" />
+    <item type="id" name="yulore_superyellowpage_sv_more_info" />
+    <item type="id" name="yulore_superyellowpage_tv_more_info" />
+    <item type="id" name="yulore_superyellowpage_kl_top" />
+    <item type="id" name="yulore_superyellowpage_tv_dial_tiltle" />
+    <item type="id" name="yulore_superyellowpage_tv_dial_num" />
+    <item type="id" name="yulore_superyellowpage_bt_correction" />
+    <item type="id" name="yulore_superyellowpage_bt_topbar_back" />
+    <item type="id" name="yulore_superyellowpage_tv_topbar_title" />
+    <item type="id" name="yulore_superyellowpage_header_layout" />
+    <item type="id" name="yulore_superyellowpage_tv_sort_key" />
+    <item type="id" name="yulore_superyellowpage_rl_suggestion" />
+    <item type="id" name="yulore_superyellowpage_suggestionListView" />
+    <item type="id" name="yulore_superyellowpage_rl_clipper" />
+    <item type="id" name="yulore_superyellowpage_rl_common" />
+    <item type="id" name="yulore_superyellowpage_rl_handy" />
+    <item type="id" name="yulore_superyellowpage_bt_back" />
+    <item type="id" name="yulore_superyellowpage_bt_forward" />
+    <item type="id" name="yulore_superyellowpage_bt_refresh" />
+    <item type="id" name="yulore_superyellowpage_bt_topbar_order" />
+    <item type="id" name="yulore_superyellowpage_rl_toolbar" />
+    <item type="id" name="yulore_superyellowpage_tv_dispgrp_name" />
+    <item type="id" name="yulore_superyellowpage_tv_title" />
+    <item type="id" name="yulore_superyellowpage_lv_select" />
+    <item type="id" name="yulore_superyellowpage_bt_negative" />
+    <item type="id" name="yulore_superyellowpage_bt_positive" />
+    <item type="id" name="yulore_superyellowpage_tv_content" />
+    <item type="id" name="yulore_superyellowpage_tv_shopSubtitle" />
+    <item type="id" name="yulore_superyellowpage_iv_right_icon" />
+    <item type="id" name="yulore_superyellowpage_iv_left_icon" />
+    <item type="id" name="yulore_superyellowpage_tv_text" />
+    <item type="id" name="yulore_superyellowpage_tv_subtext" />
+    <item type="id" name="yulore_superyellowpage_tv_tag" />
+    <item type="id" name="yulore_superyellowpage_iv_large_image" />
+    <item type="id" name="yulore_superyellowpage_ra_image" />
+    <item type="id" name="yulore_superyellowpage_rl_content" />
+    <item type="id" name="yulore_superyellowpage_bt_topbar_refresh" />
+    <item type="id" name="yulore_superyellowpage_preview_view" />
+    <item type="id" name="yulore_superyellowpage_viewfinder_view" />
+    <item type="id" name="yulore_superyellowpage_tv_address" />
+    <item type="id" name="yulore_superyellowpage_rl_prompt" />
+    <item type="id" name="yulore_superyellowpage_rl_relocation" />
+    <item type="id" name="yulore_superyellowpage_rl_location" />
+    <item type="id" name="yulore_superyellowpage_iv_location" />
+    <item type="id" name="yulore_superyellowpage_iv_tg" />
+    <item type="id" name="yulore_superyellowpage_iv_myy" />
+    <item type="id" name="yulore_superyellowpage_iv_sj" />
+    <item type="id" name="yulore_superyellowpage_tv_tg_title" />
+    <item type="id" name="yulore_superyellowpage_tv_tg_content" />
+    <item type="id" name="yulore_superyellowpage_tv_tg_price" />
+    <item type="id" name="yulore_superyellowpage_tv_tg_value" />
+    <item type="id" name="yulore_superyellowpage_tv_tg_yuan" />
+    <item type="id" name="yulore_superyellowpage_ll_group_purchase" />
+    <item type="id" name="yulore_superyellowpage_groupon_listView" />
+    <item type="id" name="yulore_superyellowpage_more_listView" />
+    <item type="id" name="yulore_superyellowpage_ll_service" />
+    <item type="id" name="yulore_superyellowpage_listView_service" />
+    <item type="id" name="yulore_superyellowpage_view_line1" />
+    <item type="id" name="yulore_superyellowpage_view_line2" />
+    <item type="id" name="yulore_superyellowpage_view_line3" />
+    <item type="id" name="yulore_superyellowpage_view_line4" />
+    <item type="id" name="yulore_superyellowpage_iv_tuan" />
+    <item type="id" name="yulore_superyellowpage_ll_search_item_head_main" />
+    <item type="id" name="yulore_superyellowpage_rl_search_item_head_hotline1" />
+    <item type="id" name="yulore_superyellowpage_rl_search_item_head_hotline2" />
+    <item type="id" name="yulore_superyellowpage_ll_search_item_head_website" />
+    <item type="id" name="yulore_superyellowpage_ll_search_item_head_main_logo" />
+    <item type="id" name="yulore_superyellowpage_ll_search_item_head_main_shopName" />
+    <item type="id" name="yulore_superyellowpage_tv_search_item_head_hotline1_title" />
+    <item type="id" name="yulore_superyellowpage_tv_search_item_head_hotline1_subTitle" />
+    <item type="id" name="yulore_superyellowpage_tv_search_item_head_hotline2_title" />
+    <item type="id" name="yulore_superyellowpage_tv_search_item_head_hotline2_subTitle" />
+    <item type="id" name="yulore_superyellowpage_iv_search_item_head_hotline1_call" />
+    <item type="id" name="yulore_superyellowpage_iv_search_item_head_hotline2_call" />
+    <item type="id" name="yulore_superyellowpage_tv_search_item_head_main_subtitle" />
+    <item type="id" name="yulore_superyellowpage_tv_search_item_head_offical_website" />
+    <item type="id" name="yulore_superyellowpage_view_search_item_head_hotline1_line" />
+    <item type="id" name="yulore_superyellowpage_view_search_item_head_hotline2_line" />
+    <item type="id" name="yulore_superyellowpage_ll_comment" />
+    <item type="id" name="yulore_superyellowpage_rl_comment" />
+    <item type="id" name="yulore_superyellowpage_ll_dianping" />
+    <item type="id" name="yulore_superyellowpage_tv_comment_title" />
+    <item type="id" name="yulore_superyellowpage_tv_comment_level" />
+    <item type="id" name="yulore_superyellowpage_tv_comment_content" />
+    <item type="id" name="yulore_superyellowpage_tv_comment_size" />
+    <item type="id" name="yulore_superyellowpage_ll_service_comment" />
+    <item type="id" name="yulore_superyellowpage_ll_ads" />
+    <item type="id" name="yulore_superyellowpage_iv_ads1" />
+    <item type="id" name="yulore_superyellowpage_iv_ads2" />
+    <item type="id" name="yulore_superyellowpage_ll_indicator" />
+    <item type="id" name="yulore_superyellowpage_rl_ads2" />
+    <item type="id" name="yulore_superyellowpage_rl_ads1" />
+    <item type="id" name="yulore_superyellowpage_rl_service_groupon_more" />
+    <item type="id" name="yulore_superyellowpage_tv_service_groupon_more" />
+    <item type="id" name="yulore_superyellowpage_iv_service_groupon_more" />
+    <item type="id" name="yulore_superyellowpage_rl_service_groupon_more_up" />
+    <item type="id" name="yulore_superyellowpage_tv_service_groupon_more_up" />
+    <item type="id" name="yulore_superyellowpage_iv_service_groupon_more_up" />
+    <item type="id" name="yulore_superyellowpage_iv_search_service_icon" />
+    <item type="id" name="yulore_superyellowpage_ll_search_service" />
+    <item type="id" name="yulore_superyellowpage_ll_search_hot" />
+    <item type="id" name="yulore_superyellowpage_tv_search_service_name" />
+    <item type="id" name="yulore_superyellowpage_tv_search_service_subtitle" />
+    <item type="id" name="yulore_superyellowpage_lv_search_service" />
+    <item type="id" name="yulore_superyellowpage_ll_search_dianping" />
+    <item type="id" name="yulore_superyellowpage_rb_search_scroe" />
+    <item type="id" name="yulore_superyellowpage_tv_search_price" />
+    <item type="id" name="yulore_superyellowpage_rl_search_add" />
+    <item type="id" name="yulore_superyellowpage_iv_shop_detail_coments_come_from" />
+    <item type="id" name="yulore_superyellowpage_tv_shop_detail_coments_come_from" />
+    <item type="id" name="yulore_superyellowpage_ll_shop_detail_coments_logo" />
+    <item type="id" name="yulore_superyellowpage_lv_favorites" />
+    <item type="id" name="yulore_superyellowpage_ll_shop_slogan" />
+    <item type="id" name="yulore_superyellowpage_iv_slogan" />
+    <item type="id" name="yulore_superyellowpage_lv_history" />
+    <item type="id" name="yulore_superyellowpage_ll_favorites" />
+    <item type="id" name="yulore_superyellowpage_tv_favorites" />
+    <item type="id" name="yulore_superyellowpage_view_favorites_line" />
+    <item type="id" name="yulore_superyellowpage_bt_personal" />
+    <item type="id" name="yulore_superyellowpage_tv_tel" />
+    <item type="id" name="yulore_superyellowpage_tv_location" />
+    <item type="id" name="yulore_superyellowpage_tv_flag" />
+    <item type="id" name="yulore_superyellowpage_lv_sign" />
+    <item type="id" name="yulore_superyellowpage_rl_know" />
+    <item type="id" name="yulore_superyellowpage_tv_add" />
+    <item type="id" name="yulore_superyellowpage_rl_contact" />
+    <item type="id" name="yulore_superyellowpage_rl_cancel" />
+    <item type="id" name="yulore_superyellowpage_iv_hight_light" />
+    <item type="id" name="yulore_superyellowpage_no_any_record" />
+    <item type="id" name="yulore_superyellowpage_iv_tag" />
+    <item type="id" name="yulore_superyellowpage_et_info" />
+    <item type="id" name="yulore_superyellowpage_et_telnum" />
+    <item type="id" name="yulore_superyellowpage_bt_register" />
+    <item type="id" name="yulore_superyellowpage_ll_auth" />
+    <item type="id" name="yulore_superyellowpage_et_code" />
+    <item type="id" name="yulore_superyellowpage_bt_auth" />
+    <item type="id" name="yulore_superyellowpage_detail_root_rl" />
+    <item type="id" name="yulore_superyellowpage_rl_tensile" />
+    <item type="id" name="yulore_superyellowpage_topbar_rl" />
+    <item type="id" name="yulore_superyellowpage_target_logo" />
+    <item type="id" name="yulore_superyellowpage_detail_pullscroll" />
+    <item type="id" name="yulore_superyellowpage_include_under" />
+    <item type="id" name="yulore_superyellowpage_content_fm_call" />
+    <item type="id" name="yulore_superyellowpage_content_fm_detail" />
+    <item type="id" name="yulore_superyellowpage_fill_view" />
+    <item type="id" name="yulore_superyellowpage_include_upper" />
+    <item type="id" name="yulore_superyellowpage_bt_topbar_back_upper" />
+    <item type="id" name="yulore_superyellowpage_detail_tab_detail" />
+    <item type="id" name="yulore_superyellowpage_detail_tab_callrecords" />
+    <item type="id" name="yulore_superyellowpage_hold_mid_layout" />
+    <item type="id" name="yulore_superyellowpage_detail_tab_layout" />
+    <item type="id" name="yulore_superyellowpage_iv_shop_logo" />
+    <item type="id" name="yulore_superyellowpage_hold_tv_slogan" />
+    <item type="id" name="yulore_superyellowpage_hold_tv_flag" />
+    <item type="id" name="yulore_superyellowpage_ll_shop_title" />
+    <item type="id" name="yulore_superyellowpage_rb_shop_level" />
+    <item type="id" name="yulore_superyellowpage_tv_shop_price" />
+    <item type="id" name="yulore_superyellowpage_hold_layout_linear" />
+    <item type="id" name="yulore_superyellowpage_hold_layout_linear_target" />
+    <item type="id" name="yulore_superyellowpage_hold_title_bar_rl" />
+    <item type="id" name="yulore_superyellowpage_scroll_view_head" />
+    <item type="id" name="yulore_superyellowpage_tv_topbar_title_target" />
+    <item type="id" name="yulore_superyellowpage_container" />
+    <item type="id" name="yulore_superyellowpage_tv_ads1" />
+    <item type="id" name="yulore_superyellowpage_fm_detail_calllog_list" />
+    <item type="id" name="yulore_superyellowpage_ll_more" />
+    <item type="id" name="yulore_superyellowpage_record_date" />
+    <item type="id" name="yulore_superyellowpage_record_telnum" />
+    <item type="id" name="yulore_superyellowpage_record_logo" />
+    <item type="id" name="yulore_superyellowpage_record_duration" />
+    <item type="id" name="yulore_superyellowpage_rl_left" />
+    <item type="id" name="yulore_superyellowpage_rl_topbar_right_image" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="nubia_fake_status_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="aggregation_suggestion_name">false</item>
+    <item type="id" name="aggregation_suggestion_data">false</item>
+    <item type="id" name="aggregation_suggestion_photo">false</item>
+    <item type="id" name="empty_view">false</item>
+    <item type="id" name="tip_view">false</item>
+    <item type="id" name="tip_line_one">false</item>
+    <item type="id" name="characters_six">false</item>
+    <item type="id" name="characters_two">false</item>
+    <item type="id" name="characters_nine">false</item>
+    <item type="id" name="status_and_actionbar_view">false</item>
+    <item type="id" name="voicemail_status">false</item>
+    <item type="id" name="calllog_list">false</item>
+    <item type="id" name="dialpad_container">false</item>
+    <item type="id" name="callmatch_list">false</item>
+    <item type="id" name="dialpad_view">false</item>
+    <item type="id" name="dialpad_menu_view">false</item>
+    <item type="id" name="dial_floating_button">false</item>
+    <item type="id" name="card_switcher">false</item>
+    <item type="id" name="filter_describe">false</item>
+    <item type="id" name="order_settings">false</item>
+    <item type="id" name="capsulebutton">false</item>
+    <item type="id" name="calllog_item_view">false</item>
+    <item type="id" name="call_type">false</item>
+    <item type="id" name="volte_call_type">false</item>
+    <item type="id" name="calllog_primary_action_view">false</item>
+    <item type="id" name="calllog_second_action_view">false</item>
+    <item type="id" name="call_name">false</item>
+    <item type="id" name="missed_call_count">false</item>
+    <item type="id" name="call_number_describe">false</item>
+    <item type="id" name="call_slotId_image">false</item>
+    <item type="id" name="call_number">false</item>
+    <item type="id" name="call_geocode">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="missed_call_times">false</item>
+    <item type="id" name="call_date">false</item>
+    <item type="id" name="detail_container">false</item>
+    <item type="id" name="contact_detail_entry">false</item>
+    <item type="id" name="checkbox_stub">false</item>
+    <item type="id" name="call_log_item_divider">false</item>
+    <item type="id" name="custom_title_root">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="selected_data_count">false</item>
+    <item type="id" name="calllog_multi_button">false</item>
+    <item type="id" name="calllog_new_contact">false</item>
+    <item type="id" name="calllog_addto_contacts">false</item>
+    <item type="id" name="calllog_send_mms">false</item>
+    <item type="id" name="voicemail_status_message">false</item>
+    <item type="id" name="voicemail_status_action">false</item>
+    <item type="id" name="callmatch_primary_action_view">false</item>
+    <item type="id" name="callmatch_second_action_view">false</item>
+    <item type="id" name="call_match_name_container">false</item>
+    <item type="id" name="number_recent_devider">false</item>
+    <item type="id" name="recent">false</item>
+    <item type="id" name="list_item_date">false</item>
+    <item type="id" name="call_match_item_divider">false</item>
+    <item type="id" name="online">false</item>
+    <item type="id" name="online_text">false</item>
+    <item type="id" name="divider_bar_top">false</item>
+    <item type="id" name="callmatch_yulore_item_text">false</item>
+    <item type="id" name="divider_bottom">false</item>
+    <item type="id" name="divider_bar_bottom">false</item>
+    <item type="id" name="contacts_count">false</item>
+    <item type="id" name="fake_search_layout_bg">false</item>
+    <item type="id" name="fake_search_hint_icon">false</item>
+    <item type="id" name="fake_search_hint_text">false</item>
+    <item type="id" name="title_bar">false</item>
+    <item type="id" name="title_icon">false</item>
+    <item type="id" name="title_tips">false</item>
+    <item type="id" name="force_touch_container">false</item>
+    <item type="id" name="force_touch_primary_view">false</item>
+    <item type="id" name="star_mark">false</item>
+    <item type="id" name="missed_call_name">false</item>
+    <item type="id" name="force_touch_second_view">false</item>
+    <item type="id" name="call_img_container">false</item>
+    <item type="id" name="call_img">false</item>
+    <item type="id" name="nubiaPager_tab_layout">false</item>
+    <item type="id" name="tab">false</item>
+    <item type="id" name="pager">false</item>
+    <item type="id" name="search_layout">false</item>
+    <item type="id" name="search_view">false</item>
+    <item type="id" name="fake_search_layout">false</item>
+    <item type="id" name="search_icon">false</item>
+    <item type="id" name="search_text">false</item>
+    <item type="id" name="ok_layout">false</item>
+    <item type="id" name="emptyTip">false</item>
+    <item type="id" name="rightCharacterListView">false</item>
+    <item type="id" name="btn_ok">false</item>
+    <item type="id" name="directory_header">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="display_name">false</item>
+    <item type="id" name="count">false</item>
+    <item type="id" name="display_phone_only_view">false</item>
+    <item type="id" name="display_only_phone_text">false</item>
+    <item type="id" name="switchView">false</item>
+    <item type="id" name="title_mutil_selects">false</item>
+    <item type="id" name="btn_selectAll">false</item>
+    <item type="id" name="selected_data_count_for_star">false</item>
+    <item type="id" name="hide_photo_view">false</item>
+    <item type="id" name="photoSwitchView">false</item>
+    <item type="id" name="sub_title">false</item>
+    <item type="id" name="divider_last">false</item>
+    <item type="id" name="list_container">false</item>
+    <item type="id" name="contact_tile_quick">false</item>
+    <item type="id" name="contact_tile_content">false</item>
+    <item type="id" name="contact_tile_name">false</item>
+    <item type="id" name="contact_tile_status">false</item>
+    <item type="id" name="la_contact_tile_frequent_phone">false</item>
+    <item type="id" name="contact_tile_phone_number">false</item>
+    <item type="id" name="contact_tile_phone_type">false</item>
+    <item type="id" name="contact_tile_horizontal_divider">false</item>
+    <item type="id" name="contact_tile_image">false</item>
+    <item type="id" name="contact_tile_push_state">false</item>
+    <item type="id" name="contact_tile_secondary_button">false</item>
+    <item type="id" name="contact_tile_layout">false</item>
+    <item type="id" name="la_contacts_count_footer">false</item>
+    <item type="id" name="parent">false</item>
+    <item type="id" name="month">false</item>
+    <item type="id" name="day">false</item>
+    <item type="id" name="year">false</item>
+    <item type="id" name="date_type">false</item>
+    <item type="id" name="showButton">false</item>
+    <item type="id" name="yearRun">false</item>
+    <item type="id" name="runToggle">false</item>
+    <item type="id" name="datePicker">false</item>
+    <item type="id" name="la_detail_list_padding">false</item>
+    <item type="id" name="keyboard_button_container">false</item>
+    <item type="id" name="keyboard_button">false</item>
+    <item type="id" name="dial_container">false</item>
+    <item type="id" name="dial_button_card1">false</item>
+    <item type="id" name="dial_card_one_text">false</item>
+    <item type="id" name="dial_button_card2">false</item>
+    <item type="id" name="dial_card_two_text">false</item>
+    <item type="id" name="volte_dialpad_stub">false</item>
+    <item type="id" name="delete_button_container">false</item>
+    <item type="id" name="deleteButton">false</item>
+    <item type="id" name="dialpad_key_image">false</item>
+    <item type="id" name="dialpad_key_container">false</item>
+    <item type="id" name="calllog_delete">false</item>
+    <item type="id" name="dialpad_number_key">false</item>
+    <item type="id" name="one">false</item>
+    <item type="id" name="two">false</item>
+    <item type="id" name="three">false</item>
+    <item type="id" name="four">false</item>
+    <item type="id" name="five">false</item>
+    <item type="id" name="six">false</item>
+    <item type="id" name="seven">false</item>
+    <item type="id" name="eight">false</item>
+    <item type="id" name="nine">false</item>
+    <item type="id" name="star">false</item>
+    <item type="id" name="zero">false</item>
+    <item type="id" name="pound">false</item>
+    <item type="id" name="dialpad_bottom_bar">false</item>
+    <item type="id" name="calllog_preference_view_stub">false</item>
+    <item type="id" name="digits">false</item>
+    <item type="id" name="nubia_card1">false</item>
+    <item type="id" name="nubia_card2">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="account_type">false</item>
+    <item type="id" name="account_name">false</item>
+    <item type="id" name="account_container">false</item>
+    <item type="id" name="account">false</item>
+    <item type="id" name="account_icon">false</item>
+    <item type="id" name="account_switcher_title">false</item>
+    <item type="id" name="account_divider">false</item>
+    <item type="id" name="save_to">false</item>
+    <item type="id" name="right_arrow">false</item>
+    <item type="id" name="editorContainer">false</item>
+    <item type="id" name="add_text">false</item>
+    <item type="id" name="date_view">false</item>
+    <item type="id" name="delete_button">false</item>
+    <item type="id" name="field_type_container">false</item>
+    <item type="id" name="datepick_view">false</item>
+    <item type="id" name="expansion_view">false</item>
+    <item type="id" name="editors">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="field_type_view">false</item>
+    <item type="id" name="type_content_divider">false</item>
+    <item type="id" name="group_membership_view">false</item>
+    <item type="id" name="group_editor_container">false</item>
+    <item type="id" name="group_title">false</item>
+    <item type="id" name="group_content">false</item>
+    <item type="id" name="kind_title_layout">false</item>
+    <item type="id" name="type">false</item>
+    <item type="id" name="kind_editors">false</item>
+    <item type="id" name="add_field_footer">false</item>
+    <item type="id" name="kind_title">false</item>
+    <item type="id" name="editor_photo">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="edit_photo">false</item>
+    <item type="id" name="edit_name">false</item>
+    <item type="id" name="edit_phonetic_name">false</item>
+    <item type="id" name="organization">false</item>
+    <item type="id" name="sect_fields">false</item>
+    <item type="id" name="button_add_field">false</item>
+    <item type="id" name="button_split_contact">false</item>
+    <item type="id" name="sim_contact_name">false</item>
+    <item type="id" name="sim_contact_number">false</item>
+    <item type="id" name="usim_content">false</item>
+    <item type="id" name="edit_anr_number">false</item>
+    <item type="id" name="edit_email">false</item>
+    <item type="id" name="read_only_name">false</item>
+    <item type="id" name="button_edit_externally">false</item>
+    <item type="id" name="sect_general">false</item>
+    <item type="id" name="ring_editor_container">false</item>
+    <item type="id" name="ring_title">false</item>
+    <item type="id" name="ring_content">false</item>
+    <item type="id" name="ring_icon">false</item>
+    <item type="id" name="expansion_view_container">false</item>
+    <item type="id" name="search_cancel">false</item>
+    <item type="id" name="btn_group">false</item>
+    <item type="id" name="btn_scan">false</item>
+    <item type="id" name="btn_add_contact">false</item>
+    <item type="id" name="btn_more">false</item>
+    <item type="id" name="detail_primary_action_view">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="sub_header">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="detail_second_action_view">false</item>
+    <item type="id" name="recent_container">false</item>
+    <item type="id" name="volteType">false</item>
+    <item type="id" name="number_attribution">false</item>
+    <item type="id" name="call_card_type">false</item>
+    <item type="id" name="text_near_altericon">false</item>
+    <item type="id" name="icon_container">false</item>
+    <item type="id" name="mms_call_divider">false</item>
+    <item type="id" name="icon_alternate">false</item>
+    <item type="id" name="icon_double_card_view">false</item>
+    <item type="id" name="container">false</item>
+    <item type="id" name="title_separator">false</item>
+    <item type="id" name="content_area_linear_layout">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="devider_before_vidio">false</item>
+    <item type="id" name="video">false</item>
+    <item type="id" name="group_account">false</item>
+    <item type="id" name="header_extra_top_padding">false</item>
+    <item type="id" name="create_new_group">false</item>
+    <item type="id" name="la_group_browse_list_fragment">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="group_divider">false</item>
+    <item type="id" name="la_group_detail_fragment">false</item>
+    <item type="id" name="load_progress">false</item>
+    <item type="id" name="group_detail">false</item>
+    <item type="id" name="group_editor_activity">false</item>
+    <item type="id" name="la_group_editor_fragment">false</item>
+    <item type="id" name="read_only_warning">false</item>
+    <item type="id" name="account_header">false</item>
+    <item type="id" name="group_name">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="badge">false</item>
+    <item type="id" name="insert_group_layout">false</item>
+    <item type="id" name="add_member_field">false</item>
+    <item type="id" name="add_members">false</item>
+    <item type="id" name="group_ring_twoLine">false</item>
+    <item type="id" name="group_ring_title">false</item>
+    <item type="id" name="group_ring_name">false</item>
+    <item type="id" name="add_member_title">false</item>
+    <item type="id" name="group_member_and_delete_btn">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="checkbox1">false</item>
+    <item type="id" name="group_label">false</item>
+    <item type="id" name="group_list_header">false</item>
+    <item type="id" name="expand_icon">false</item>
+    <item type="id" name="groupDivider">false</item>
+    <item type="id" name="bluetooth_icon">false</item>
+    <item type="id" name="bluetooth_textView">false</item>
+    <item type="id" name="progress_tilte">false</item>
+    <item type="id" name="pbap_import_progressbar">false</item>
+    <item type="id" name="tip_textView">false</item>
+    <item type="id" name="tip_two_textView">false</item>
+    <item type="id" name="import_title_textView">false</item>
+    <item type="id" name="import_content_textView">false</item>
+    <item type="id" name="button_next_step">false</item>
+    <item type="id" name="button_stop_tranfer">false</item>
+    <item type="id" name="button_completed">false</item>
+    <item type="id" name="search_container">false</item>
+    <item type="id" name="search_pane">false</item>
+    <item type="id" name="fake_search_pane">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="extra_view">false</item>
+    <item type="id" name="search_mode_init_background">false</item>
+    <item type="id" name="new_contact_container">false</item>
+    <item type="id" name="search_result_layout">false</item>
+    <item type="id" name="totalContactsText">false</item>
+    <item type="id" name="allReaptLayout">false</item>
+    <item type="id" name="tip">false</item>
+    <item type="id" name="repeatLayout">false</item>
+    <item type="id" name="merge_layout">false</item>
+    <item type="id" name="merge_contact_button">false</item>
+    <item type="id" name="repeat_container">false</item>
+    <item type="id" name="mergeButton">false</item>
+    <item type="id" name="mergeItem">false</item>
+    <item type="id" name="tv_checkbox">false</item>
+    <item type="id" name="tv_button">false</item>
+    <item type="id" name="tv_name">false</item>
+    <item type="id" name="tv_number">false</item>
+    <item type="id" name="pager_tab_contacts">false</item>
+    <item type="id" name="more">false</item>
+    <item type="id" name="line">false</item>
+    <item type="id" name="qr_card">false</item>
+    <item type="id" name="photo">false</item>
+    <item type="id" name="company_title">false</item>
+    <item type="id" name="qr_image">false</item>
+    <item type="id" name="qr_fail">false</item>
+    <item type="id" name="qr_tip">false</item>
+    <item type="id" name="multiscroller">false</item>
+    <item type="id" name="menu_container">false</item>
+    <item type="id" name="transparent_view">false</item>
+    <item type="id" name="toolbar_parent">false</item>
+    <item type="id" name="detail_photo_container">false</item>
+    <item type="id" name="detail_photo">false</item>
+    <item type="id" name="content_scroller">false</item>
+    <item type="id" name="card_container">false</item>
+    <item type="id" name="no_contact_data_card">false</item>
+    <item type="id" name="communication_card">false</item>
+    <item type="id" name="quick_contact_divider">false</item>
+    <item type="id" name="recent_card">false</item>
+    <item type="id" name="arrow">false</item>
+    <item type="id" name="photo_around">false</item>
+    <item type="id" name="btn_share">false</item>
+    <item type="id" name="btn_star">false</item>
+    <item type="id" name="btn_edit">false</item>
+    <item type="id" name="btn_insert">false</item>
+    <item type="id" name="btn_addto">false</item>
+    <item type="id" name="btn_mark">false</item>
+    <item type="id" name="add_to_black_list">false</item>
+    <item type="id" name="remove_from_black_list">false</item>
+    <item type="id" name="large_title">false</item>
+    <item type="id" name="small_title">false</item>
+    <item type="id" name="nubia_resolver_title">false</item>
+    <item type="id" name="nubia_resolver_list">false</item>
+    <item type="id" name="nubia_indicator">false</item>
+    <item type="id" name="nubia_icon">false</item>
+    <item type="id" name="nubia_text1">false</item>
+    <item type="id" name="nubia_resolver_more_list">false</item>
+    <item type="id" name="nubia_resolver_more_list_icon">false</item>
+    <item type="id" name="nubia_resolver_more_list_name">false</item>
+    <item type="id" name="shortcutLayout">false</item>
+    <item type="id" name="shortcut_dial_layout">false</item>
+    <item type="id" name="one_mark">false</item>
+    <item type="id" name="one_name">false</item>
+    <item type="id" name="two_mark">false</item>
+    <item type="id" name="two_name">false</item>
+    <item type="id" name="three_mark">false</item>
+    <item type="id" name="three_name">false</item>
+    <item type="id" name="four_mark">false</item>
+    <item type="id" name="four_name">false</item>
+    <item type="id" name="five_mark">false</item>
+    <item type="id" name="five_name">false</item>
+    <item type="id" name="six_mark">false</item>
+    <item type="id" name="six_name">false</item>
+    <item type="id" name="seven_mark">false</item>
+    <item type="id" name="seven_name">false</item>
+    <item type="id" name="eight_mark">false</item>
+    <item type="id" name="eight_name">false</item>
+    <item type="id" name="nine_mark">false</item>
+    <item type="id" name="nine_name">false</item>
+    <item type="id" name="number">false</item>
+    <item type="id" name="attribution">false</item>
+    <item type="id" name="widget_container">false</item>
+    <item type="id" name="border">false</item>
+    <item type="id" name="name_and_snippet_container">false</item>
+    <item type="id" name="name_and_snippet">false</item>
+    <item type="id" name="fake_statusbar_view">false</item>
+    <item type="id" name="fake_actionbar_view">false</item>
+    <item type="id" name="fragment">false</item>
+    <item type="id" name="dialswitchbuttonlayout">false</item>
+    <item type="id" name="switchview">false</item>
+    <item type="id" name="dialswitchbuttonlayout1">false</item>
+    <item type="id" name="switchview1">false</item>
+    <item type="id" name="dialswitchbuttonlayout2">false</item>
+    <item type="id" name="switchview2">false</item>
+    <item type="id" name="yp_custom_tag_edit_text">false</item>
+    <item type="id" name="yulore_page_custom_tag_dialog_container">false</item>
+    <item type="id" name="edit_text_container">false</item>
+    <item type="id" name="dialog_deny_button">false</item>
+    <item type="id" name="dialog_allow_button">false</item>
+    <item type="id" name="yulore_page_number_tag_dialog_container">false</item>
+    <item type="id" name="bottom_btn_container">false</item>
+    <item type="id" name="cancel_btn">false</item>
+    <item type="id" name="vertical_divider">false</item>
+    <item type="id" name="clear_tag_button">false</item>
+    <item type="id" name="yulore_page_tag_type_list">false</item>
+    <item type="id" name="header_text">false</item>
+    <item type="id" name="yulore_page_number_tag_custom_img">false</item>
+    <item type="id" name="yulore_page_number_tag_info_tv">false</item>
+    <item type="id" name="yulore_page_number_tag_radio">false</item>
+    <item type="id" name="nubia_animPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="nubia_title_content_bg">false</item>
+    <item type="id" name="nubia_title_content_divider">false</item>
+    <item type="id" name="nubia_bold_divider">false</item>
+    <item type="id" name="nubia_button_bg">false</item>
+    <item type="id" name="nubia_center_title_content_divider">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="progress_percent">false</item>
+    <item type="id" name="progress_number">false</item>
+    <item type="id" name="nubia_button_left">false</item>
+    <item type="id" name="nubia_button_mid1">false</item>
+    <item type="id" name="nubia_button_mid2">false</item>
+    <item type="id" name="nubia_button_right">false</item>
+    <item type="id" name="nubia_year_label">false</item>
+    <item type="id" name="nubia_month_label">false</item>
+    <item type="id" name="nubia_day_label">false</item>
+    <item type="id" name="nubia_date_picker_view">false</item>
+    <item type="id" name="nubia_lunar_date_layout">false</item>
+    <item type="id" name="nubia_lunar_textview">false</item>
+    <item type="id" name="nubia_switch_button">false</item>
+    <item type="id" name="nubia_dialog_activity_panel">false</item>
+    <item type="id" name="nubia_dialog_activity_cancel">false</item>
+    <item type="id" name="nubia_dialog_activity_ok">false</item>
+    <item type="id" name="nubia_dialog_activity_title">false</item>
+    <item type="id" name="nubia_dialog_activity_content">false</item>
+    <item type="id" name="nubia_progressBar">false</item>
+    <item type="id" name="download_button">false</item>
+    <item type="id" name="my_list_view_2">false</item>
+    <item type="id" name="bottom">false</item>
+    <item type="id" name="nubia_month_day_spinner">false</item>
+    <item type="id" name="nubia_time_hour_textview">false</item>
+    <item type="id" name="nubia_lunar_time_picker_view">false</item>
+    <item type="id" name="nubia_lunar_time_layout">false</item>
+    <item type="id" name="nubia_more_popup_panel">false</item>
+    <item type="id" name="nubia_more_popup_mock_status_bar">false</item>
+    <item type="id" name="nubia_more_popup_top_View">false</item>
+    <item type="id" name="nubia_more_popup_top_divider">false</item>
+    <item type="id" name="nubia_more_popup_dropdown">false</item>
+    <item type="id" name="nubia_more_popup_list">false</item>
+    <item type="id" name="nubia_more_popup_bottom_divider">false</item>
+    <item type="id" name="nubia_more_popup_bottom_View">false</item>
+    <item type="id" name="nubia_more_popup_text">false</item>
+    <item type="id" name="nubia_edittext_container">false</item>
+    <item type="id" name="nubia_message">false</item>
+    <item type="id" name="headers">false</item>
+    <item type="id" name="list_footer">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="back_button">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="nubia_seekbar">false</item>
+    <item type="id" name="nubia_switchWidget">false</item>
+    <item type="id" name="nubia_preference_category_right_layout">false</item>
+    <item type="id" name="nubia_search_button">false</item>
+    <item type="id" name="nubia_search_edit_frame">false</item>
+    <item type="id" name="nubia_search_mag_icon">false</item>
+    <item type="id" name="nubia_search_plate">false</item>
+    <item type="id" name="nubia_search_src_text">false</item>
+    <item type="id" name="nubia_total">false</item>
+    <item type="id" name="nubia_search_close_btn">false</item>
+    <item type="id" name="nubia_submit_area">false</item>
+    <item type="id" name="nubia_search_go_btn">false</item>
+    <item type="id" name="seekbar">false</item>
+    <item type="id" name="footer_content">false</item>
+    <item type="id" name="footer_progressbar">false</item>
+    <item type="id" name="footer_hint_textview">false</item>
+    <item type="id" name="top_diver">false</item>
+    <item type="id" name="item">false</item>
+    <item type="id" name="tips">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="fragment_content">false</item>
+    <item type="id" name="bottom_panel">false</item>
+    <item type="id" name="clear_history_button">false</item>
+    <item type="id" name="contacts_list">false</item>
+    <item type="id" name="nubia_ampm_spinner">false</item>
+    <item type="id" name="contact_tile">false</item>
+    <item type="id" name="phone_num">false</item>
+    <item type="id" name="contact_tile_list">false</item>
+    <item type="id" name="empty_list_view">false</item>
+    <item type="id" name="contact_tile_drag_shadow_overlay">false</item>
+    <item type="id" name="yulore_superyellowpage_location">false</item>
+    <item type="id" name="yulore_superyellowpage_location_name">false</item>
+    <item type="id" name="yulore_superyellowpage_city_more">false</item>
+    <item type="id" name="yulore_superyellowpage_person_btn">false</item>
+    <item type="id" name="banner_item_vs">false</item>
+    <item type="id" name="service_item_vs">false</item>
+    <item type="id" name="servicebanner_item_vs">false</item>
+    <item type="id" name="nearby_item_vs">false</item>
+    <item type="id" name="history_item_vs">false</item>
+    <item type="id" name="category_item_vs">false</item>
+    <item type="id" name="yulore_superyellowpage_view_loadfail">false</item>
+    <item type="id" name="view_pager">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="parallax_image">false</item>
+    <item type="id" name="category_icon">false</item>
+    <item type="id" name="category_title">false</item>
+    <item type="id" name="category_segment_line">false</item>
+    <item type="id" name="category_girdview">false</item>
+    <item type="id" name="history_item">false</item>
+    <item type="id" name="history_devider">false</item>
+    <item type="id" name="history_container">false</item>
+    <item type="id" name="nearby_icon">false</item>
+    <item type="id" name="nearby_title">false</item>
+    <item type="id" name="nearby_more">false</item>
+    <item type="id" name="nearby_gridview">false</item>
+    <item type="id" name="service_icon">false</item>
+    <item type="id" name="service_badge">false</item>
+    <item type="id" name="service_title">false</item>
+    <item type="id" name="service_gridview">false</item>
+    <item type="id" name="service_open_btn">false</item>
+    <item type="id" name="service_banner_item2_img_01">false</item>
+    <item type="id" name="service_banner_item2_img_02">false</item>
+    <item type="id" name="service_banner_item3_img_01">false</item>
+    <item type="id" name="service_banner_item3_img_02">false</item>
+    <item type="id" name="service_banner_item3_img_03">false</item>
+    <item type="id" name="service_banner_ll_01">false</item>
+    <item type="id" name="service_banner_item4_img_01">false</item>
+    <item type="id" name="service_banner_item4_img_02">false</item>
+    <item type="id" name="service_banner_item4_img_03">false</item>
+    <item type="id" name="service_banner_item4_img_04">false</item>
+    <item type="id" name="servicebanner_container">false</item>
+    <item type="id" name="nubia_on">false</item>
+    <item type="id" name="nubia_off">false</item>
+    <item type="id" name="pressed">false</item>
+    <item type="id" name="not_pressed">false</item>
+    <item type="id" name="off">false</item>
+    <item type="id" name="on">false</item>
+    <item type="id" name="menu_split">false</item>
+    <item type="id" name="menu_trash">false</item>
+    <item type="id" name="menu_remove_from_call_log">false</item>
+    <item type="id" name="menu_edit_number_before_call">false</item>
+    <item type="id" name="menu_join">false</item>
+    <item type="id" name="menu_group_sms">false</item>
+    <item type="id" name="menu_group_email">false</item>
+    <item type="id" name="menu_edit_group">false</item>
+    <item type="id" name="menu_delete_group">false</item>
+    <item type="id" name="menu_clear_tag">false</item>
+</resources>

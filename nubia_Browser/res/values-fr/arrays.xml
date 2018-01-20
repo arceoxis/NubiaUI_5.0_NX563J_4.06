@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinois (GBK)</item>
+        <item>Chinois (Big5)</item>
+        <item>Japonais (ISO-2022-JP)</item>
+        <item>Japonais (SHIFT_JIS)</item>
+        <item>Japonais (EUC-JP)</item>
+        <item>Coréen (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Toujours activé</item>
+        <item>À la demande</item>
+        <item>Désactivé</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Page active</item>
+        <item>Page vierge</item>
+        <item>Page par défaut</item>
+        <item>Sites les plus visités</item>
+        <item>Autre</item>
+    </string-array>
+    <string-array name="pref_web_refiner_message">
+        <item>Bloqué %s.</item>
+        <item>Bloqué %1$s et %2$s.</item>
+        <item>Bloqué %1$s, %2$s et $3$s.</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Très petite</item>
+        <item>Petite</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Très grande</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Éloigné</item>
+        <item>Moyen</item>
+        <item>Proche</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Jamais</item>
+        <item>Wi-Fi uniquement</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>Petit</item>
+        <item>Défaut</item>
+        <item>Plus grand</item>
+        <item>Le plus grand</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Jamais</item>
+        <item>Wi-Fi uniquement</item>
+        <item>Toujours</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>Toujours refuser</item>
+        <item>Autoriser pendant 24 heures</item>
+        <item>Toujours autoriser</item>
+        <item>Toujours demander</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>ordinateur</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+        <item>privacy_clear_cookies</item>
+        <item>privacy_clear_form_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>"Histoire d'entrée"</item>
+        <item>Histoire de visite</item>
+        <item>Cache</item>
+        <item>Cookies</item>
+        <item>Mots de passe formulaire</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>show_security_warnings</item>
+        <item>do_not_track</item>
+        <item>accept_cookies</item>
+        <item>save_formdata</item>
+        <item>enable_geolocation</item>
+        <item>remember_passwords</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>Avertiss. de sécurité</item>
+        <item>Ne pas suivre</item>
+        <item>Accepter les cookies</item>
+        <item>Données de formulaires</item>
+        <item>Activer la localisation</item>
+        <item>Mémoriser mots de passe</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>block_popup_windows</item>
+        <item>open_in_background</item>
+        <item>enable_javascript</item>
+        <item>allow_media_downloads</item>
+        <item>load_images</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>Bloquer les pop-up</item>
+        <item>Ouvrir en arrière-plan</item>
+        <item>Activer JavaScript</item>
+        <item>Autoriser Téléchargements Médias</item>
+        <item>Charger les images</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>Un</item>
+        <item>Deux</item>
+        <item>Trois</item>
+        <item>Quatre</item>
+        <item>Cinq</item>
+        <item>Six</item>
+        <item>Sept</item>
+        <item>Huit</item>
+        <item>Neuf</item>
+        <item>Dix</item>
+        <item>Onze</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>Réseau mobile</item>
+    </string-array>
+</resources>

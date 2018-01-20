@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Svietidlo</string>
+    <string name="close">Vypnúť</string>
+    <string name="nocamere">Fotoaparát je vypnutý alebo používaný inými aplikáciami. Povoľte povolenia Fotoaparátu alebo zavrite ostatné aplikácie používajúce fotoaparát.</string>
+    <string name="keepon">Potiahnite smerom nahor, aby bol blesk vždy zapnutý</string>
+    <string name="allkeepon">Vždy rozsvietené</string>
+    <string name="light_already_open">Zapnuté</string>
+    <string name="cts_tip_message">Táto funkcia si vyžaduje nasledujúce povolenia - prejsť na nastavenia a povoliť ich?</string>
+    <string name="cts_tip_camera">·Fotoaparát</string>
+    <string name="cts_tip_phone">·Telefón</string>
+    <string name="cts_tip_enable">Zapnúť</string>
+    <string name="cts_tip_quit">Zrušiť</string>
+</resources>

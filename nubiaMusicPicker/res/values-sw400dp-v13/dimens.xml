@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ark_action_bar_height">120.0px</dimen>
+    <dimen name="ark_textsize_big">40.0px</dimen>
+    <dimen name="ark_textsize_mini">25.0px</dimen>
+</resources>

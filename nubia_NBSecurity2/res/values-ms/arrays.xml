@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>Mesej teks spam</item>
+        <item>Panggilan telefon mengganggu</item>
+        <item>Pengurusan Sekatan</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>Bilakah hari lahir ibu saya?</item>
+        <item>Bilakah hari lahir ayah saya?</item>
+        <item>Siapakah orang yang paling penting dalam hidup saya?</item>
+        <item>Tempat yang manakah anda paling berminat untuk pergi?</item>
+        <item>Apakah warna kegemaran saya?</item>
+        <item>Hari yang manakah yang paling penting dalam hidup saya?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Terima Senarai putih sahaja</item>
+        <item>Sekat Senarai hitam sahaja</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>SMS Spam</item>
+        <item>Panggilan engkol</item>
+        <item>Pengurus sekatan</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Terbaru</item>
+        <item>Kenalan</item>
+        <item>Mesej teks</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>Mesej teks</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Pengurusan senarai hitam</item>
+        <item>Tetapan sekatan</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>Padam</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Pintas Semua</item>
+        <item>Pintas Hitam</item>
+        <item>Pintasan Orang Asing</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Panggil</item>
+        <item>Tambah senarai hitam</item>
+        <item>Padam kenalan</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>padam nombor senarai hitam</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Dibenarkan</item>
+        <item>Tak endah</item>
+        <item>Sentiasa tanya</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Privasi</item>
+        <item>Keselamatan</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Lokasi hampir</item>
+        <item>Lokasi tepat</item>
+        <item>GPS</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>ubah suai kenalan</item>
+        <item>baca log panggilan</item>
+        <item>ubah suai log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Imbas WLAN</item>
+        <item>Pemberitahuan</item>
+        <item>imbas rangkaian mudah alih</item>
+        <item>Buat panggilan</item>
+        <item>Baca SMS/MMS</item>
+        <item>Hantar SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS kecemasan</item>
+        <item>terima MMS</item>
+        <item>terima WAP tolak</item>
+        <item>Hantar SMS</item>
+        <item>baca SMS ICC</item>
+        <item>tulis SMS ICC</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>Hidupkan WLAN</item>
+        <item>Hidupkan Bluetooth</item>
+        <item>Hidupkan data Mudah alih</item>
+        <item>Hantar MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>Hantar MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>ubah suai kenalan</item>
+        <item>baca log panggilan</item>
+        <item>ubah suai log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Lokasi</item>
+        <item>Siarkan pemberitahuan</item>
+        <item>Lokasi</item>
+        <item>Buat panggilan</item>
+        <item>Baca SMS/MMS</item>
+        <item>Hantar SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS</item>
+        <item>terima MMS</item>
+        <item>terima SMS</item>
+        <item>Hantar SMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>Hidupkan WLAN</item>
+        <item>Hidupkan Bluetooth</item>
+        <item>Hidupkan data Mudah alih</item>
+        <item>Hantar MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>Hantar MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Lokasi hampir</item>
+        <item>Lokasi tepat</item>
+        <item>GPS</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>ubah suai kenalan</item>
+        <item>baca log panggilan</item>
+        <item>ubah suai log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Imbas WLAN</item>
+        <item>Pemberitahuan</item>
+        <item>imbas rangkaian mudah alih</item>
+        <item>Buat panggilan</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS kecemasan</item>
+        <item>terima MMS</item>
+        <item>terima WAP tolak</item>
+        <item>Hantar SMS</item>
+        <item>baca SMS ICC</item>
+        <item>tulis SMS ICC</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>butang media</item>
+        <item>fokus audio</item>
+        <item>volum induk</item>
+        <item>volum suara</item>
+        <item>Kelantangan pendering</item>
+        <item>Kelantangan media</item>
+        <item>Kelantangan penggera</item>
+        <item>Kelantangan pemberitahuan</item>
+        <item>kelantangan bluetooth</item>
+        <item>Kekal berjaga</item>
+        <item>pantau lokasi kuasa tinggi</item>
+        <item>pantau lokasi kuasa tinggi</item>
+        <item>Hidupkan WLAN</item>
+        <item>Hidupkan Bluetooth</item>
+        <item>Hidupkan data Mudah alih</item>
+        <item>Hantar MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis MMS</item>
+        <item>auto mula</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>ubah suai kenalan</item>
+        <item>baca log panggilan</item>
+        <item>ubah suai log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Lokasi</item>
+        <item>Siarkan pemberitahuan</item>
+        <item>Lokasi</item>
+        <item>Buat panggilan</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS</item>
+        <item>terima MMS</item>
+        <item>terima SMS</item>
+        <item>Hantar SMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>butang media</item>
+        <item>fokus audio</item>
+        <item>volum induk</item>
+        <item>volum suara</item>
+        <item>Kelantangan pendering</item>
+        <item>Kelantangan media</item>
+        <item>Kelantangan penggera</item>
+        <item>Kelantangan pemberitahuan</item>
+        <item>kelantangan bluetooth</item>
+        <item>Kekal berjaga</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Hidupkan WLAN</item>
+        <item>Hidupkan Bluetooth</item>
+        <item>Hidupkan data Mudah alih</item>
+        <item>Hantar MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis MMS</item>
+        <item>auto mula</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Lokasi hampir</item>
+        <item>Lokasi tepat</item>
+        <item>GPS</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>tulis kenalan</item>
+        <item>baca log panggilan</item>
+        <item>tulis log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Imbas WLAN</item>
+        <item>Pemberitahuan</item>
+        <item>imbas rangkaian mudah alih</item>
+        <item>panggil telefon</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS kecemasan</item>
+        <item>terima MMS</item>
+        <item>terima WAP tolak</item>
+        <item>Hantar SMS</item>
+        <item>baca SMS ICC</item>
+        <item>tulis SMS ICC</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>butang media</item>
+        <item>fokus audio</item>
+        <item>volum induk</item>
+        <item>volum suara</item>
+        <item>Kelantangan pendering</item>
+        <item>Kelantangan media</item>
+        <item>Kelantangan penggera</item>
+        <item>Kelantangan pemberitahuan</item>
+        <item>kelantangan bluetooth</item>
+        <item>Kekal berjaga</item>
+        <item>pantau lokasi kuasa tinggi</item>
+        <item>pantau lokasi kuasa tinggi</item>
+        <item>dapatkan status penggunaan</item>
+        <item>bisu/ nyah bisu mikrofon</item>
+        <item>tetingkap bakar</item>
+        <item>media projek</item>
+        <item>aktifkan VPN</item>
+        <item>Hidupkan WLAN</item>
+        <item>Hidupkan Bluetooth</item>
+        <item>Hantar MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis MMS</item>
+        <item>auto mula</item>
+        <item>Buka NFC</item>
+        <item>padam SMS</item>
+        <item>padam MMS</item>
+        <item>Padam kenalan</item>
+        <item>Padam log panggilan</item>
+        <item>Hidupkan data Mudah alih</item>
+        <item>pasang pintas</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>tulis kenalan</item>
+        <item>baca log panggilan</item>
+        <item>tulis log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Lokasi</item>
+        <item>Siarkan pemberitahuan</item>
+        <item>Lokasi</item>
+        <item>panggil telefon</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS</item>
+        <item>terima MMS</item>
+        <item>terima SMS</item>
+        <item>Hantar SMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>butang media</item>
+        <item>fokus audio</item>
+        <item>volum induk</item>
+        <item>volum suara</item>
+        <item>volum dering</item>
+        <item>Kelantangan media</item>
+        <item>Kelantangan penggera</item>
+        <item>Kelantangan pemberitahuan</item>
+        <item>kelantangan bluetooth</item>
+        <item>Kekal berjaga</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>dapatkan status penggunaan</item>
+        <item>bisu/ nyah bisu mikrofon</item>
+        <item>tetingkap bakar</item>
+        <item>media projek</item>
+        <item>aktifkan VPN</item>
+        <item>Hidupkan WLAN</item>
+        <item>Hidupkan Bluetooth</item>
+        <item>Hantar MMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis MMS</item>
+        <item>auto mula</item>
+        <item>Buka NFC</item>
+        <item>padam SMS</item>
+        <item>padam MMS</item>
+        <item>Padam kenalan</item>
+        <item>Padam log panggilan</item>
+        <item>Tukar data</item>
+        <item>pasang pintas</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Bergetar</item>
+        <item>baca kenalan</item>
+        <item>ubah suai kenalan</item>
+        <item>baca log panggilan</item>
+        <item>ubah suai log panggilan</item>
+        <item>baca kalendar</item>
+        <item>ubah suai kalendar</item>
+        <item>Lokasi</item>
+        <item>Siarkan pemberitahuan</item>
+        <item>Lokasi</item>
+        <item>panggil telefon</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>terima SMS</item>
+        <item>terima SMS</item>
+        <item>terima MMS</item>
+        <item>terima SMS</item>
+        <item>Hantar SMS</item>
+        <item>Baca SMS/MMS</item>
+        <item>tulis SMS</item>
+        <item>ubah suai tetapan</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>akses pemberitahuan</item>
+        <item>Kamera</item>
+        <item>Rekod audi</item>
+        <item>main audio</item>
+        <item>baca papan keratan</item>
+        <item>ubah suai papan keratan</item>
+        <item>butang media</item>
+        <item>fokus audio</item>
+        <item>volum induk</item>
+        <item>volum suara</item>
+        <item>volum dering</item>
+        <item>Kelantangan media</item>
+        <item>Kelantangan penggera</item>
+        <item>Kelantangan pemberitahuan</item>
+        <item>kelantangan bluetooth</item>
+        <item>Kekal berjaga</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>dapatkan status penggunaan</item>
+        <item>bisu/ nyah bisu mikrofon</item>
+        <item>tetingkap bakar</item>
+        <item>media projek</item>
+        <item>aktifkan VPN</item>
+        <item>tulis kertas dinding</item>
+        <item>bantu struktur</item>
+        <item>bantu syot skrin</item>
+        <item>baca keadaan telefon</item>
+        <item>tambah mel suara</item>
+        <item>gunakan sip</item>
+        <item>proses panggilan keluar</item>
+        <item>gunakan cap jari</item>
+        <item>pengesan badan</item>
+        <item>baca sel penyiaran</item>
+        <item>lokasi olokan</item>
+        <item>baca simpanan luaran</item>
+        <item>tulis simpanan luaran</item>
+        <item>hidupkan skrin</item>
+        <item>dapatkan akaun</item>
+        <item>tukar wlan</item>
+        <item>tukar bluetooth</item>
+        <item>Hantar MMS</item>
+        <item>tulis MMS</item>
+        <item>padam SMS</item>
+        <item>padam MMS</item>
+        <item>padam kontrak</item>
+        <item>Padam log panggilan</item>
+        <item>pasang pintas</item>
+        <item>berjalan dalam latar belakang</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Kebenaran</item>
+        <item>Aplikasi</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Kelas privasi</item>
+        <item>Kelas jalur</item>
+        <item>Kelas pemberitahuan</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Panggil</item>
+        <item>Kenalan</item>
+        <item>Pesanan</item>
+        <item>MMS</item>
+        <item>Info Lokasi</item>
+        <item>Kalendar</item>
+        <item>MIC</item>
+        <item>Kamera</item>
+        <item>Pengesan Badan</item>
+        <item>Ruang simpanan</item>
+        <item>Tukar Wifi</item>
+        <item>Tukar Bluetooth</item>
+        <item>Tukar Tetapan</item>
+        <item>pasang pintas</item>
+        <item>Paparkan tetingkap pop-timbul</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Pasang pakej</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Benarkan</item>
+        <item>Tanya</item>
+        <item>Melarang</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Benarkan</item>
+        <item>Melarang</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Kelas privasi</item>
+        <item>Kelas jalur</item>
+        <item>Kelas pemberitahuan</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Tambah apl auto mula secara manual</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Serah</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Penentukuran manual sahaja</item>
+        <item>Auto penentukuran setiap hari</item>
+        <item>Auto penentukuran setiap tiga hari</item>
+        <item>Auto penentukuran setiap minggu</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Padamkan semua rekod</item>
+        <item>Kirim semula</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Tambah</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Jemput rakan untuk menyertai permainan Sembunyi dan cari. Menangi bintang apabila melengkapkan latihan anti-kecurian!</item>
+        <item>"1. Biarkan rakan anda menyembunyikan telefon anda 
+"</item>
+        <item>"2. Mari dan carinya, saya telah jumpa anda 
+"</item>
+        <item>"3. Saya tidak menjumpainya. Apa yang perlu saya lakukan? 
+"</item>
+        <item>4. Anda mendapatnya! Percaya NeoSafe nubia!</item>
+        <item>"5. gunakan telefon lain untuk menghantar mesej teks yang mengandungi 信牛盾 ke telefon anda sendiri dan ikut arahan tersebut 
+"</item>
+        <item>"OK, saya sudah mempunyai bintang. Sangat mudah! Jangan risau di mana anda meletakkan telefon anda! Ingat bahawa telefon anda mesti dihidupkan untuk menerima mesej. 
+ Tunjukkannya kepada rakan anda sekarang!"</item>
+    </string-array>
+</resources>

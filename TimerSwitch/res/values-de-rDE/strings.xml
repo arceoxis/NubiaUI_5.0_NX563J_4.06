@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geplante Ein- und Ausschaltung</string>
+    <string name="timer_switch">Zeitschalter</string>
+    <string name="switch_on">Geplantes Einschalten</string>
+    <string name="switch_off">Geplantes Ausschalten</string>
+    <string name="every_day">Täglich</string>
+    <string name="switch_on_time">Startzeit festlegen</string>
+    <string name="switch_off_time">Abschaltzeit festlegen</string>
+    <string name="date_time_24hour">24-Stunden-Format</string>
+    <string name="date_time_date_format">Datumsformat auswählen</string>
+    <string name="label">Name</string>
+    <string name="switch_repeat">Wiederholen</string>
+    <string name="expand_switch">Schalter erweitern</string>
+    <string name="collapse_switch">Schalter reduzieren</string>
+    <string name="reset_switch">Schalter umstellen</string>
+    <string name="day">1 Tag</string>
+    <string name="days">%s Tage</string>
+    <string name="hour">1 Stunde</string>
+    <string name="hours">%s Stunden</string>
+    <string name="minute">1 Minute</string>
+    <string name="minutes">%s MINUTEN</string>
+    <string name="never">Nie</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">Abbrechen</string>
+    <string name="switch_off_dialog_ok">Herunterfahren</string>
+    <string name="switch_off_dialog_title">Geplantes Ausschalten</string>
+    <string name="switch_off_message">Abschaltung Ihres Telefons in %s Sekunden</string>
+    <string name="switch_off_message_second">Abschaltung Ihres Telefons in %s Sekunde</string>
+    <string name="done_label">Fertig</string>
+    <string name="hour_picker_description">Kreisförmiger Schieberegler für Stunden</string>
+    <string name="minute_picker_description">Kreisförmiger Schieberegler für Minuten</string>
+    <string name="select_hours">Stunden auswählen</string>
+    <string name="select_minutes">Minuten auswählen</string>
+    <string name="day_picker_description">Monatsraster mit einzelnen Tagen</string>
+    <string name="year_picker_description">Jahresliste</string>
+    <string name="select_day">Monat und Tag auswählen</string>
+    <string name="select_year">Jahr auswählen</string>
+    <string name="item_is_selected">%1$s ausgewählt</string>
+    <string name="deleted_key">%1$s gelöscht</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_button_land_width">40.0dip</dimen>
+    <dimen name="color_button_land_height">32.0dip</dimen>
+    <dimen name="color_button_port_width">49.0dip</dimen>
+    <dimen name="color_button_port_height">46.0dip</dimen>
+    <dimen name="color_button_port_equal_width">110.0dip</dimen>
+</resources>

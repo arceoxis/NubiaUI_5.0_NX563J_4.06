@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">རྒྱུད་ཁོངས་ཀྱིས་ལབ་གླེང་%1$sགསུབ་ངེས་ཡིན།</item>
+        <item quantity="one">རྒྱུད་ཁོངས་ཀྱིས་ལབ་གླེང་1གསུབ་ངེས་ཡིན།</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">སྐར་ཆxxxx</item>
+        <item quantity="one">སྐར་ཆxxxx</item>
+        <item quantity="few">སྐར་ཆxxxx</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">1$sི་འབྲས་བུ%2$s</item>
+        <item quantity="one">1$sི་འབྲས་བུ%2$s</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">འཕྲིན་ཡིག་གཞན་པ+%1$s</item>
+        <item quantity="one">འཕྲིན་ཡིག་གཞན་པ+%1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">མི%1$s</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">འཕྲིན་པ་%1$sགསུབ་ངེས་ཡིན།</item>
+        <item quantity="one">འཕྲིན་པ་གཅིག་གསུབ་ངེས་ཡིན།</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">" དང་མི་གཞན་%1$s"</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$sཡིས2$sརྒྱུད།</item>
+        <item quantity="one">%1$sཡིས2$sརྒྱུད།</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">1$sི་འཕྲིན་པxxxx</item>
+        <item quantity="one">1$sི་འཕྲིན་པxxxx</item>
+    </plurals>
+    <plurals name="search_message_count">
+        <item quantity="other">འཕྲིན་པ%1$s</item>
+        <item quantity="one">འཕྲིན་ཐུང་1</item>
+    </plurals>
+</resources>

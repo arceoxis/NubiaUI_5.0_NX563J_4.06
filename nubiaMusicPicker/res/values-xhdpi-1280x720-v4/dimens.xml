@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ark_picker_title_width">500.0px</dimen>
+    <dimen name="ark_cut_view_height">175.0px</dimen>
+    <dimen name="ark_action_bar_height">96.0px</dimen>
+    <dimen name="ark_indicator_height">11.0px</dimen>
+    <dimen name="ark_pickercommon_layout_height">132.0px</dimen>
+    <dimen name="ark_pickercommon_button_width">300.0px</dimen>
+    <dimen name="ark_6_px">4.0px</dimen>
+    <dimen name="ark_16_px">11.0px</dimen>
+    <dimen name="ark_76_px">51.0px</dimen>
+    <dimen name="ark_musicpicker_view_width">720.0px</dimen>
+    <dimen name="ark_musicpicker_config_boundarytop">13.0px</dimen>
+    <dimen name="ark_musicpicker_config_bgtop">15.0px</dimen>
+    <dimen name="ark_musicpicker_config_spetop">19.0px</dimen>
+    <dimen name="ark_musicpicker_config_speleft">47.0px</dimen>
+    <dimen name="ark_musicpicker_boundary_width">40.0px</dimen>
+    <dimen name="ark_musicpicker_boundary_height">176.0px</dimen>
+    <dimen name="ark_musicpicker_progress_indicator_width">14.0px</dimen>
+    <dimen name="ark_musicpicker_progress_indicator_height">202.0px</dimen>
+    <dimen name="ark_musicpicker_cut_bk_width">637.0px</dimen>
+    <dimen name="ark_musicpicker_cut_bk_height">173.0px</dimen>
+    <dimen name="ark_musicpicker_spectrum_width">627.0px</dimen>
+    <dimen name="ark_musicpicker_spectrum_height">168.0px</dimen>
+    <dimen name="ark_textsize_big">32.0px</dimen>
+    <dimen name="ark_textsize_mini">20.0px</dimen>
+    <dimen name="ark_42_px">28.0px</dimen>
+    <dimen name="ark_listitem_paddingright">10.0px</dimen>
+    <dimen name="ark_music_listitem_normal">92.0px</dimen>
+    <dimen name="listview_divider_height">1.0px</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_web_refiner_advertisements">
+        <item quantity="other">%d Ads</item>
+        <item quantity="one">%d Ad</item>
+    </plurals>
+    <plurals name="pref_web_refiner_trackers">
+        <item quantity="other">%d trackers</item>
+        <item quantity="one">%d tracker</item>
+    </plurals>
+    <plurals name="pref_web_refiner_malware">
+        <item quantity="other">%d malware threats</item>
+        <item quantity="one">%d malware threat</item>
+    </plurals>
+</resources>

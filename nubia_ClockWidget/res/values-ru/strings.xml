@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string name="digital_clock_widget">Мировое время в цифровом формате</string>
+    <string name="analog_clock_widget">Мировое время в аналоговом формате</string>
+    <string name="digital_big_clock_widget">Цифровые часы</string>
+    <string name="analog_big_clock_widget">Часы</string>
+    <string name="month">месяц</string>
+    <string name="day">день</string>
+    <string name="am">АМ</string>
+    <string name="pm">РМ</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+</resources>

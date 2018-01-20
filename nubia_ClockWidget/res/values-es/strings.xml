@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widget de pruebat</string>
+    <string name="digital_clock_widget">Reloj digital</string>
+    <string name="analog_clock_widget">Reloj analógico</string>
+    <string name="digital_big_clock_widget">Reloj Digital</string>
+    <string name="analog_big_clock_widget">Reloj Analógico</string>
+    <string name="month">Mes</string>
+    <string name="day">Dia</string>
+    <string name="am">Mañana</string>
+    <string name="pm">Por la tarde</string>
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+</resources>

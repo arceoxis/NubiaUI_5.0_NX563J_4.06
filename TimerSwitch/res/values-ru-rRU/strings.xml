@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запланированное вкл. и откл.</string>
+    <string name="timer_switch">Переключение таймера</string>
+    <string name="switch_on">Запланированное включение</string>
+    <string name="switch_off">Запланированное выключение</string>
+    <string name="every_day">Каждый день</string>
+    <string name="switch_on_time">Задать время запуска</string>
+    <string name="switch_off_time">Задать время выключения</string>
+    <string name="date_time_24hour">24-часовой формат</string>
+    <string name="date_time_date_format">Формат даты</string>
+    <string name="label">Описание</string>
+    <string name="switch_repeat">Повторить</string>
+    <string name="expand_switch">Раскрыть окно переключения</string>
+    <string name="collapse_switch">Свернуть окно переключения</string>
+    <string name="reset_switch">Сбросить переключение</string>
+    <string name="day">1 день</string>
+    <string name="days">%s дн.</string>
+    <string name="hour">1 ч.</string>
+    <string name="hours">%s ч.</string>
+    <string name="minute">1 мин.</string>
+    <string name="minutes">%s мин.</string>
+    <string name="never">Не выбрано</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">Отмена</string>
+    <string name="switch_off_dialog_ok">Выключение</string>
+    <string name="switch_off_dialog_title">Запланированное выключение</string>
+    <string name="switch_off_message">Телефон отключится через %s сек.</string>
+    <string name="switch_off_message_second">Телефон отключится через %s сек.</string>
+    <string name="done_label">Готово</string>
+    <string name="hour_picker_description">Выбор часов на циферблате</string>
+    <string name="minute_picker_description">Выбор минут на циферблате</string>
+    <string name="select_hours">Выберите часы</string>
+    <string name="select_minutes">Выберите минуты</string>
+    <string name="day_picker_description">Окно выбора даты</string>
+    <string name="year_picker_description">Меню выбора года</string>
+    <string name="select_day">Выберите месяц и день</string>
+    <string name="select_year">Выберите год</string>
+    <string name="item_is_selected">Выбран элемент %1$s</string>
+    <string name="deleted_key">Цифра %1$s удалена</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

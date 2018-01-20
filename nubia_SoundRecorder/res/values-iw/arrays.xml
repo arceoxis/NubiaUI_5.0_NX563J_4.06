@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>ברור, 320kbps, mp3</item>
+        <item>רגיל, 128kbps, mp3</item>
+        <item>חסכוני בשטח, 12.8kbps, AMR</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>ברור</item>
+        <item>רגיל</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>טלפון/neoRecorder</item>
+        <item>כרטיס SD/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>טלפון/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>רינגטון שיחה נכנסת</item>
+        <item>רינגטון התראה</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>כרטיס SIM 1</item>
+        <item>כרטיס SIM 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>צלם תמונה</item>
+        <item>בחר תמונה מהגלריה</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>הצג תמונה</item>
+        <item>מחק תמונה</item>
+        <item>צלם תמונה חדש</item>
+        <item>בחר תמונה חדשה מהגלריה</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>שמור מיזוג</item>
+        <item>שמור בנפרד</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>מיין לפי זמן</item>
+        <item>מיין לפי תגית</item>
+        <item>מיין לפי משך</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>%1$s auf weniger als 1 Minute eingestellt.</item>
+        <item>%1$s auf %2$s eingestellt.</item>
+        <item>%1$s auf %3$s eingestellt.</item>
+        <item>%1$s auf %2$s und %3$s eingestellt.</item>
+        <item>%1$s auf %4$s eingestellt.</item>
+        <item>%1$s auf %2$s und %4$s eingestellt.</item>
+        <item>%1$s auf %3$s und %4$s eingestellt.</item>
+        <item>%1$s auf %2$s, %3$s und %4$s eingestellt.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">定时开关机</string>
+    <string name="timer_switch">计时器开关</string>
+    <string name="switch_on">定时开机</string>
+    <string name="switch_off">定时关机</string>
+    <string name="every_day">每天</string>
+    <string name="switch_on_time">设置启动时间</string>
+    <string name="switch_off_time">设置关闭时间</string>
+    <string name="date_time_24hour">使用24小时格式</string>
+    <string name="date_time_date_format">选择日期格式</string>
+    <string name="label">标签</string>
+    <string name="switch_repeat">重复</string>
+    <string name="expand_switch">展开开关</string>
+    <string name="collapse_switch">折叠开关</string>
+    <string name="reset_switch">重置开关</string>
+    <string name="day">1 天</string>
+    <string name="days">%s 天</string>
+    <string name="hour">1 小时</string>
+    <string name="hours">%s 小时</string>
+    <string name="minute">1 分钟</string>
+    <string name="minutes">%s 分钟</string>
+    <string name="never">永不</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">取消关机</string>
+    <string name="switch_off_dialog_ok">立即关机</string>
+    <string name="switch_off_dialog_title">定时关机</string>
+    <string name="switch_off_message">手机将于%s秒内自动关机</string>
+    <string name="switch_off_message_second">手机将于%s秒内自动关机</string>
+    <string name="done_label">完成</string>
+    <string name="hour_picker_description">小时转盘</string>
+    <string name="minute_picker_description">分钟转盘</string>
+    <string name="select_hours">选择小时</string>
+    <string name="select_minutes">选择分钟</string>
+    <string name="day_picker_description">按月份划分的日期网格</string>
+    <string name="year_picker_description">年份列表</string>
+    <string name="select_day">选择月份和日期</string>
+    <string name="select_year">选择年份</string>
+    <string name="item_is_selected">已选择 %1$s</string>
+    <string name="deleted_key">已删除 %1$s</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

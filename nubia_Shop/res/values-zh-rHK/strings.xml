@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nubia商城</string>
+    <string name="shortcut_contact_customer_title">聯系客服</string>
+    <string name="shortcut_cart">購物車</string>
+    <string name="shortcut_account">賬戶</string>
+</resources>

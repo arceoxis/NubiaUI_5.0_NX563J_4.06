@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>ชัด 320kbps, mp3</item>
+        <item>มาตรฐาน 128kbps, mp3</item>
+        <item>มีประสิทธิภาพ 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>ชัด</item>
+        <item>มาตรฐาน</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>โทรศัพท์/neoRecorder</item>
+        <item>SD การ์ด/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>โทรศัพท์/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>เสียงเรียกเข้า</item>
+        <item>เสียงเตือนปลุก</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>ซิมการ์ด 1</item>
+        <item>ซิมการ์ด 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>ถ่ายภาพ</item>
+        <item>เลือกภาพจากแกลลอรี่</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>วิวภาพ</item>
+        <item>ลบภาพ</item>
+        <item>ถ่ายภาพใหม่</item>
+        <item>เลือกภาพใหม่จากแกลลอรี่</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>บันทึกรวม</item>
+        <item>บันทึกแยก</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>หาโดยเวลา</item>
+        <item>หาโดยแท็ก</item>
+        <item>หาโดยระยะทาง</item>
+    </string-array>
+</resources>

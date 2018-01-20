@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_bluetoothShareManager">ダウンロードマネージャーにアクセスします。</string>
+    <string name="permdesc_bluetoothShareManager">BluetoothShareマネージャーへのアクセスとそれを利用したファイル転送をアプリに許可します。</string>
+    <string name="permlab_bluetoothWhitelist">Bluetooth端末によるアクセスを許可します。</string>
+    <string name="permdesc_bluetoothWhitelist">Bluetooth端末によるアクセスを一時的に許可して、ユーザーの確認を受けずにその端末からこの端末にファイルを送信することをアプリに許可します。</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="unknown_device">不明なモバイル端末</string>
+    <string name="airplane_error_title">機内モード</string>
+    <string name="airplane_error_msg">機内モードではBluetoothを使用できません。</string>
+    <string name="bt_enable_title" />
+    <string name="bt_enable_line1">Bluetoothサービスを利用するには、まずBluetoothをONにしてください。</string>
+    <string name="bt_enable_line2">Bluetoothを今すぐONにしますか？</string>
+    <string name="bt_enable_cancel">キャンセル</string>
+    <string name="bt_enable_ok">ONにする</string>
+    <string name="incoming_file_confirm_cancel">拒否</string>
+    <string name="incoming_file_confirm_ok">承諾</string>
+    <string name="incoming_file_confirm_timeout_ok">OK</string>
+    <string name="incoming_file_confirm_timeout_content">「%1$s」からのファイル受信中に接続がタイムアウトしました</string>
+    <string name="notification_sent_fail">Bluetooth共有: ファイル%1$sの送信に失敗</string>
+    <string name="download_line1">送信元: 「%1$s」</string>
+    <string name="download_line4" />
+    <string name="bt_error_btn_ok">OK</string>
+    <string name="unknown_file">不明なファイル</string>
+    <string name="unknown_file_desc">"この形式のファイルを処理するアプリがありません。
+"</string>
+    <string name="not_exist_file">ファイルがありません</string>
+    <string name="not_exist_file_desc">"そのファイルは存在しません。
+"</string>
+    <string name="enabling_progress_title">お待ちください...</string>
+    <string name="enabling_progress_content">BluetoothをONにしています...</string>
+    <string name="bt_sm_2_1">「%1$s」からのファイルを保存するのに十分な空き領域がSDカードにありません</string>
+    <string name="ErrorTooManyRequests">処理中のリクエストが多すぎるため、しばらくしてからもう一度お試しください。</string>
+    <string name="status_pending">ファイル転送はまだ開始されていません。</string>
+    <string name="status_running">ファイルを転送中です。</string>
+    <string name="status_success">ファイル転送が完了しました。</string>
+    <string name="status_not_accept">コンテンツはサポートされていません。</string>
+    <string name="status_forbidden">転送先の端末で転送が禁止されています。</string>
+    <string name="status_canceled">ユーザーが転送をキャンセルしました。</string>
+    <string name="status_file_error">ストレージのエラーです。</string>
+    <string name="status_no_sd_card">SDカードが見つかりません。転送ファイルを保存するSDカードを挿入してください。</string>
+    <string name="status_connection_error">接続できませんでした。</string>
+    <string name="status_protocol_error">リクエストを正しく処理できません。</string>
+    <string name="status_unknown_error">不明なエラーです。</string>
+    <string name="btopp_live_folder">Bluetoothで受信</string>
+    <string name="download_success">%1$sの受信が完了しました。</string>
+    <string name="upload_success">%1$sの送信が完了しました。</string>
+    <string name="inbound_history_title">外部からの転送</string>
+    <string name="outbound_history_title">外部への転送</string>
+    <string name="no_transfers">転送履歴が空です。</string>
+    <string name="transfer_clear_dlg_msg">すべてのアイテムがリストから消去されます。</string>
+    <string name="transfer_menu_clear_all">リストを消去</string>
+    <string name="transfer_menu_open">開く</string>
+    <string name="transfer_menu_clear">リストから消去</string>
+    <string name="transfer_clear_dlg_title">消去</string>
+    <string name="bluetooth_map_settings_app_icon">アプリアイコン</string>
+    <string name="app_name">Bluetooth共有</string>
+    <string name="insert_record">記録を挿入</string>
+    <string name="update_record">レコードを確認</string>
+    <string name="ack_record">Ackレコード</string>
+    <string name="deleteAll_record">レコードをすべて削除</string>
+    <string name="ok_button">OK</string>
+    <string name="delete_record">レコードを削除</string>
+    <string name="start_server">TCPサーバーを起動</string>
+    <string name="notify_server">TCPサーバーに通知</string>
+</resources>

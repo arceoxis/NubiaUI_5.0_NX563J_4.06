@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ÓraWidget</string>
+    <string name="digital_clock_widget">Digitális világóra</string>
+    <string name="analog_clock_widget">Analóg világóra</string>
+    <string name="digital_big_clock_widget">Digitális óra</string>
+    <string name="analog_big_clock_widget">Analóg óra</string>
+    <string name="month">hónap</string>
+    <string name="day">nap</string>
+    <string name="am">délelőtt</string>
+    <string name="pm">DU</string>
+    <string name="monday">Hétfő</string>
+    <string name="tuesday">Kedd</string>
+    <string name="wednesday">Szerda</string>
+    <string name="thursday">Csütörtök</string>
+    <string name="friday">Péntek</string>
+    <string name="saturday">Szombat</string>
+    <string name="sunday">Vasárnap</string>
+</resources>

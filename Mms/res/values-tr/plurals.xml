@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s mesaj dizisi silinecek.</item>
+        <item quantity="one">Bir mesaj dizisi silinecek.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s saniye</item>
+        <item quantity="one">%s saniye</item>
+        <item quantity="few">%s saniye</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%1$s\" için %2$s sonuç</item>
+        <item quantity="one">\"%1$s\" için %2$s sonuç</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s diğer mesaj</item>
+        <item quantity="one">+%1$s diğer mesaj</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s kişi</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s ifadeleri silinecektir.</item>
+        <item quantity="one">Bir ifade silinecektir.</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">" ve diğer %1$s kişi"</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">\"%1$s\" için %2$s başlıkları</item>
+        <item quantity="one">\"%1$s\" için %2$s başlığı</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">\"%1$s\" için %2$s mesajları</item>
+        <item quantity="one">\"%1$s\" için %2$s mesajı</item>
+    </plurals>
+</resources>

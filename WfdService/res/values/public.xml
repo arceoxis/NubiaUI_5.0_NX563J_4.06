@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020001" />
+    <public type="drawable" name="ic_notification_cast_on" id="0x7f020000" />
+    <public type="drawable" name="wfd_line_for_button" id="0x7f020002" />
+    <public type="layout" name="wfd_notification" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="perm_label" id="0x7f040001" />
+    <public type="string" name="perm_desc" id="0x7f040002" />
+    <public type="string" name="perm_access_fb_desc" id="0x7f040003" />
+    <public type="string" name="perm_access_fb_label" id="0x7f040004" />
+    <public type="string" name="perm_access_media_desc" id="0x7f040005" />
+    <public type="string" name="perm_access_media_label" id="0x7f040006" />
+    <public type="string" name="wfd_service" id="0x7f040007" />
+    <public type="string" name="mirroring_on" id="0x7f040008" />
+    <public type="string" name="tosat_standby" id="0x7f040009" />
+    <public type="string" name="wifi_display_notification_connected_title" id="0x7f04000a" />
+    <public type="string" name="wifi_display_notification_disconnect" id="0x7f04000b" />
+    <public type="string" name="wifi_display_notification_touch_for_detail" id="0x7f04000c" />
+    <public type="string" name="wifi_display_notification_sink_detail" id="0x7f04000d" />
+    <public type="style" name="NotificationInfo" id="0x7f050000" />
+    <public type="style" name="NotificationTitle" id="0x7f050001" />
+    <public type="id" name="wfd_notification_icon" id="0x7f060000" />
+    <public type="id" name="wfd_common_state_info" id="0x7f060001" />
+    <public type="id" name="wfd_common_state_sub_info" id="0x7f060002" />
+    <public type="id" name="wfd_action_button" id="0x7f060003" />
+    <public type="id" name="wfd_line" id="0x7f060004" />
+</resources>

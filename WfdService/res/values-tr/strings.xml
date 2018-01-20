@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekran projeksiyon Hizmeti</string>
+    <string name="wfd_service">Ekran projeksiyon hizmeti</string>
+    <string name="mirroring_on">Ekran projeksiyon hizmeti çalışıyor</string>
+    <string name="tosat_standby">Ekran projeksiyon hizmeti askıya alındı</string>
+    <string name="wifi_display_notification_connected_title">Yöneltiliyor</string>
+    <string name="wifi_display_notification_disconnect">Bağlantıyı kes</string>
+    <string name="wifi_display_notification_touch_for_detail">Daha fazla bilgi için dokunun</string>
+    <string name="wifi_display_notification_sink_detail">"Lütfen WLAN'ı kapatmayın"</string>
+</resources>

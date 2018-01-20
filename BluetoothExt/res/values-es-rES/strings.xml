@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Carkit</string>
+    <string name="bluetooth_remember_choice">Permitir siempre</string>
+    <string name="dun_notif_ticker">Solicitud DUN Bluetooth</string>
+    <string name="dun_notif_title">Solicitud de clave de sesión para DUN</string>
+    <string name="dun_notif_message">Toca para conectarte a \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">Se ha agotado el tiempo para aceptar la conexión con %1$s</string>
+    <string name="bluetooth_dun_request">Solicitud DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s quiere usar DUN. ¿Quieres permitir el acceso a %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s quiere acceder a tus carpetas de teléfono. ¿Quieres permitir el acceso a %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Acceso a carpetas de teléfono</string>
+    <string name="ftp_session_key_dialog_title">Introducir clave de sesión para %1$s</string>
+    <string name="ftp_session_key_dialog_header">Se necesita la clave de sesión de Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Se ha agotado el tiempo para aceptar la conexión con %1$s</string>
+    <string name="ftp_authentication_timeout_message">Se ha agotado el tiempo para introducir la clave de sesión con %1$s</string>
+    <string name="ftp_notif_ticker">Solicitud para conectar con Bluetooth</string>
+    <string name="ftp_notif_title">Solicitud de clave de sesión para FTP</string>
+    <string name="ftp_notif_message">Toca para conectarte a \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Solicitud Ftp</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s quiere acceder a tus archivos y carpetas. ¿Quieres permitir el acceso a %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s quiere acceder a tus carpetas de teléfono. ¿Quieres permitir el acceso a %2$s?</string>
+    <string name="map_acceptance_dialog_header">Acceso a carpetas de teléfono</string>
+    <string name="map_session_key_dialog_title">Introducir clave de sesión para %1$s</string>
+    <string name="map_session_key_dialog_header">Se necesita la clave de sesión de Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Se ha agotado el tiempo para aceptar la conexión con %1$s</string>
+    <string name="map_authentication_timeout_message">Se ha agotado el tiempo para introducir la clave de sesión con %1$s</string>
+    <string name="map_notif_ticker">Solicitud para conectar con Bluetooth</string>
+    <string name="map_notif_title">Solicitud de clave de sesión para MAP</string>
+    <string name="map_notif_message">Toca para conectarte a \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">Error en la conexión MAP de Bluetooth.</string>
+    <string name="bluetooth_mas_request">Solicitud de acceso a mensajes</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s quiere acceder a tus mensajes. ¿Quieres permitir el acceso a %2$s?</string>
+    <string name="sap_notif_ticker">Solicitud de acceso a SIM a través de Bluetooth</string>
+    <string name="sap_notif_title">Solicitud de clave de sesión para SAP</string>
+    <string name="sap_notif_message">Toca para conectarte a \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">Se ha agotado el tiempo para aceptar la conexión con %1$s</string>
+    <string name="bluetooth_sap_request">Solicitud SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s quiere acceder a tu SIM. ¿Quieres permitir el acceso a %2$s?</string>
+</resources>

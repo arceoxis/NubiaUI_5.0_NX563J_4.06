@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_web_refiner_advertisements">
+        <item quantity="other">%d reklam</item>
+        <item quantity="one">%d reklam</item>
+    </plurals>
+    <plurals name="pref_web_refiner_trackers">
+        <item quantity="other">%d izleyiciler</item>
+        <item quantity="one">%d izleyici</item>
+    </plurals>
+    <plurals name="pref_web_refiner_malware">
+        <item quantity="other">%d kötü amaçlı yazılım tehditleri</item>
+        <item quantity="one">%d kötü amaçlı yazılım tehdidi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpecificationIntroductionText">
+        <item name="android:textSize">@dimen/dimens_12</item>
+        <item name="android:textColor">@color/specification_title_context_text_color</item>
+        <item name="android:paddingTop">@dimen/dimens_20</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">@dimen/dimens_line_spacing_extra</item>
+        <item name="android:paddingStart">@dimen/dimens_16</item>
+        <item name="android:paddingEnd">@dimen/dimens_16</item>
+    </style>
+    <style name="ThemeCamera" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:colorBackground">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="NubiaToastTheme" parent="@android:style/Animation.Toast">
+        <item name="android:windowEnterAnimation">@anim/nubia_toast_show</item>
+    </style>
+    <style name="OnScreenHintTextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/primary_text_dark</item>
+        <item name="android:textColorHighlight">#ffff9200</item>
+        <item name="android:textColorHint">#ff808080</item>
+        <item name="android:textColorLink">#ff5c5cff</item>
+    </style>
+    <style name="OnScreenHintTextAppearance.Small" parent="@style/OnScreenHintTextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/secondary_text_dark</item>
+    </style>
+    <style name="Animation_OnScreenHint">
+        <item name="android:windowEnterAnimation">@anim/on_screen_hint_enter</item>
+        <item name="android:windowExitAnimation">@anim/on_screen_hint_exit</item>
+    </style>
+    <style name="ReviewPlayIcon">
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/ic_gallery_play_big</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="PopupTitleSeparator">
+        <item name="android:background">@color/popup_title_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dimens_2</item>
+    </style>
+    <style name="OnViewfinderLabel">
+        <item name="android:textSize">@dimen/dimens_13</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/video_time_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/dimens_6_5</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Intervalometer">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="VideoReviewPlayIcon">
+        <item name="android:gravity">center</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/dimens_100</item>
+        <item name="android:layout_height">@dimen/dimens_100</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="ReviewControlIcon">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/bg_pressed</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/dimens_50</item>
+        <item name="android:layout_height">@dimen/dimens_75</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="PanoViewHorizontalBar">
+        <item name="android:layout_width">@dimen/dimen_0</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">0.49</item>
+    </style>
+    <style name="PreviewSize">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/phone_height</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="FragmentSize">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/phone_height</item>
+    </style>
+    <style name="TopBarSize">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/topbar_height</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="FragmentCenterSize">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dimens_480</item>
+        <item name="android:layout_marginTop">@dimen/topbar_height</item>
+        <item name="android:layout_alignParentTop">true</item>
+    </style>
+    <style name="CenterTextStyle">
+        <item name="android:textSize">@dimen/dimens_12</item>
+        <item name="android:textColor">#99ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowDy">4.0</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="TopTipStyle">
+        <item name="android:textSize">@dimen/dimens_14</item>
+        <item name="android:textColor">@color/alpha87_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/dimens_11</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">25.0</item>
+    </style>
+    <style name="TopTipFragmentCenterSize">
+        <item name="android:textSize">@dimen/dimens_12</item>
+        <item name="android:textColor">#99ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/dimens_400</item>
+        <item name="android:shadowDy">4.0</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="TopTipSize">
+        <item name="android:textSize">@dimen/dimens_12</item>
+        <item name="android:textColor">#99ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/dimens_45</item>
+        <item name="android:shadowDy">4.0</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="BottomBarSize">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dimens_120</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="InnerBottomBarSize">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dimens_92</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="ShutterOrSwitchToButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:contentDescription">@string/accessibility_shutter_button</item>
+    </style>
+    <style name="ShutterOrSwitchToButtonIcon">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:contentDescription">@string/accessibility_shutter_button</item>
+    </style>
+    <style name="hintDialog">
+        <item name="android:windowBackground">@color/hint_bg</item>
+    </style>
+    <style name="noBgDialog">
+        <item name="android:windowBackground">@color/no_bg</item>
+    </style>
+    <style name="WelcomeCamera">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="SettingTwoLineStyle">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dimens_63</item>
+    </style>
+    <style name="SettingOneLineStyle">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dimens_52</item>
+    </style>
+    <style name="SettingTitleText">
+        <item name="android:textSize">@dimen/dimens_16</item>
+        <item name="android:textColor">@color/alpha93_black</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="SettingDetailText">
+        <item name="android:textSize">@dimen/dimens_12</item>
+        <item name="android:textColor">@color/alpha57_black</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:paddingTop">@dimen/dimens_3</item>
+        <item name="android:layout_width">@dimen/dimens_270</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ExpendHeaderDetailText">
+        <item name="android:textSize">@dimen/dimens_12</item>
+        <item name="android:textColor">@color/alpha57_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="tip_toast">
+        <item name="android:textSize">@dimen/dimens_14</item>
+        <item name="android:textColor">@color/write</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/nubia_white_dialog_bg</item>
+        <item name="android:paddingTop">@dimen/dimens_5</item>
+        <item name="android:paddingBottom">@dimen/dimens_5</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">@dimen/dimens_10</item>
+        <item name="android:paddingEnd">@dimen/dimens_10</item>
+    </style>
+    <style name="tip_toast_white">
+        <item name="android:textSize">@dimen/dimens_14</item>
+        <item name="android:textColor">@color/alpha90_black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/nubia_real_white_dialog_bg</item>
+        <item name="android:paddingTop">@dimen/dimens_5</item>
+        <item name="android:paddingBottom">@dimen/dimens_5</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">@dimen/dimens_10</item>
+        <item name="android:paddingEnd">@dimen/dimens_10</item>
+    </style>
+    <style name="Animation.NubiaDialog.AlertInCenter" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/nubia_center_alert_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_center_alert_dialog_exit</item>
+    </style>
+</resources>

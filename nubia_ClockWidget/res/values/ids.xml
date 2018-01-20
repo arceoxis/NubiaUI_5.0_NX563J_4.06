@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="analog_big_clock_widget">false</item>
+    <item type="id" name="local_city">false</item>
+    <item type="id" name="analog_clock_widget">false</item>
+    <item type="id" name="add_city">false</item>
+    <item type="id" name="world_city">false</item>
+    <item type="id" name="digital_big_clock_widget">false</item>
+    <item type="id" name="digital_clock_widget">false</item>
+</resources>

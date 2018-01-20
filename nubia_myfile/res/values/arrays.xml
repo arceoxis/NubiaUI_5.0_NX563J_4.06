@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="installed_operation">
+        <item>@string/installed_operation_open</item>
+        <item>@string/installed_operation_uninstall</item>
+    </string-array>
+    <string-array name="pic_set_as">
+        <item>@string/pic_set_as_contact</item>
+        <item>@string/pic_set_as_wallpaper</item>
+    </string-array>
+    <string-array name="open_type_selection">
+        <item>@string/open_type_selection_text</item>
+        <item>@string/open_type_selection_audio</item>
+        <item>@string/open_type_selection_video</item>
+        <item>@string/open_type_selection_image</item>
+    </string-array>
+    <string-array name="myfile_display_album_path_cn">
+        <item>/storage/emulated/0/DCIM/Camera</item>
+        <item>/storage/emulated/0/DCIM/Camera/自拍</item>
+        <item>/storage/emulated/0/DCIM/Camera/人像</item>
+        <item>/storage/emulated/0/DCIM/Camera/全景</item>
+        <item>/storage/emulated/0/DCIM/Camera/连拍</item>
+        <item>/storage/emulated/0/PhotoEditor/Pintu</item>
+        <item>/storage/emulated/0/Pictures/Screenshots</item>
+        <item>/storage/emulated/0/DCIM/Camera/多重曝光</item>
+        <item>/storage/emulated/0/DCIM/Camera/光绘</item>
+        <item>/storage/emulated/0/DCIM/Camera/电子光圈</item>
+        <item>/storage/emulated/0/DCIM/Camera/慢门</item>
+        <item>/storage/emulated/0/DCIM/Camera/星轨</item>
+        <item>/storage/emulated/0/DCIM/Camera/短视频</item>
+        <item>/storage/emulated/0/DCIM/Camera/运动轨迹</item>
+        <item>/storage/emulated/0/DCIM/Camera/Dng</item>
+        <item>/storage/emulated/0/DCIM/Camera/克隆</item>
+        <item>/storage/emulated/0/DCIM/Camera/微距</item>
+        <item>/storage/emulated/0/DCIM/Camera/立体</item>
+        <item>/storage/emulated/0/DCIM/Camera/拉焦</item>
+        <item>/storage/emulated/0/Tencent/QQ_Images</item>
+        <item>/storage/emulated/0/netease/lofter/LOFTER</item>
+        <item>/storage/emulated/0/DCIM/Camera/黑白</item>
+        <item>/storage/emulated/0/Download</item>
+        <item>/storage/emulated/0/bluetooth</item>
+    </string-array>
+    <string-array name="myfile_display_album_path_en">
+        <item>/storage/emulated/0/DCIM/Camera</item>
+        <item>/storage/emulated/0/DCIM/Camera/FrontCamera</item>
+        <item>/storage/emulated/0/DCIM/Camera/Portrait</item>
+        <item>/storage/emulated/0/DCIM/Camera/Panorama</item>
+        <item>/storage/emulated/0/DCIM/Camera/multiShoot</item>
+        <item>/storage/emulated/0/PhotoEditor/Pintu</item>
+        <item>/storage/emulated/0/Pictures/Screenshots</item>
+        <item>/storage/emulated/0/DCIM/Camera/MultiExposure</item>
+        <item>/storage/emulated/0/DCIM/Camera/LightDraw</item>
+        <item>/storage/emulated/0/DCIM/Camera/ElectronicFNO</item>
+        <item>/storage/emulated/0/DCIM/Camera/SlowShutter</item>
+        <item>/storage/emulated/0/DCIM/Camera/StarTrail</item>
+        <item>/storage/emulated/0/DCIM/Camera/VideoMaker</item>
+        <item>/storage/emulated/0/DCIM/Camera/Trajectory</item>
+        <item>/storage/emulated/0/DCIM/Camera/Dng</item>
+        <item>/storage/emulated/0/DCIM/Camera/Clone</item>
+        <item>/storage/emulated/0/DCIM/Camera/MacroCamera</item>
+        <item>/storage/emulated/0/DCIM/Camera/3D</item>
+        <item>/storage/emulated/0/DCIM/Camera/ZoomBlur</item>
+        <item>/storage/emulated/0/Tencent/QQ_Images</item>
+        <item>/storage/emulated/0/netease/lofter/LOFTER</item>
+        <item>/storage/emulated/0/DCIM/Camera/Mono</item>
+        <item>/storage/emulated/0/Download</item>
+        <item>/storage/emulated/0/bluetooth</item>
+    </string-array>
+    <string-array name="myfile_display_album_name">
+        <item>Camera</item>
+        <item>FrontCamera</item>
+        <item>Portrait</item>
+        <item>Panorama</item>
+        <item>multiShoot</item>
+        <item>Pintu</item>
+        <item>Screenshots</item>
+        <item>MultiExposure</item>
+        <item>LightDraw</item>
+        <item>ElectronicFNO</item>
+        <item>SlowShutter</item>
+        <item>StarTrail</item>
+        <item>VideoMaker</item>
+        <item>Trajectory</item>
+        <item>Dng</item>
+        <item>Clone</item>
+        <item>MacroCamera</item>
+        <item>3D</item>
+        <item>ZoomBlur</item>
+        <item>QQ</item>
+        <item>LOFTER</item>
+        <item>Mono</item>
+        <item>Download</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </string-array>
+</resources>

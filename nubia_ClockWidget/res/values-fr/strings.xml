@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string name="digital_clock_widget">Horloge numérique mondiale</string>
+    <string name="analog_clock_widget">Horloge analogique mondiale</string>
+    <string name="digital_big_clock_widget">Horloge numérique</string>
+    <string name="analog_big_clock_widget">Horloge analogique</string>
+    <string name="month">Mois</string>
+    <string name="day">Jour</string>
+    <string name="am">a.m.</string>
+    <string name="pm">p.m.</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_web_refiner_advertisements">
+        <item quantity="other">%d 個廣告</item>
+        <item quantity="one">%d 個廣告</item>
+    </plurals>
+    <plurals name="pref_web_refiner_trackers">
+        <item quantity="other">%d 個追蹤者</item>
+        <item quantity="one">%d 個追蹤者</item>
+    </plurals>
+    <plurals name="pref_web_refiner_malware">
+        <item quantity="other">%d 個惡意軟體威脅</item>
+        <item quantity="one">%d 個惡意軟體威脅</item>
+    </plurals>
+</resources>

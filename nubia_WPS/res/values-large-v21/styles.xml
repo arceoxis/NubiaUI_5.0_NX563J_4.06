@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme_TranslucentDlg_FullScreen" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:progressBarStyle">@style/phone_CirclProgressBarMedium</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateUnchanged</item>
+        <item name="android:progressBarStyleLargeInverse">@style/phone_circle_progressbar_large</item>
+        <item name="android:colorPrimaryDark">@color/phone_home_dlg_statusbar_color</item>
+    </style>
+</resources>

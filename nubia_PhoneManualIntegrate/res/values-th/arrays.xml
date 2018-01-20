@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ui_3x_feedback_location_service_types">
+        <item>ทั่วไป</item>
+        <item>อย่างรวดเร็ว</item>
+    </string-array>
+    <string-array name="feature_category">
+        <item>น่าประทับใจ</item>
+        <item>กล้อง</item>
+        <item>อื่นๆ</item>
+    </string-array>
+    <string-array name="faq_category">
+        <item>ที่เป็นที่นิยม</item>
+        <item>หมวด</item>
+    </string-array>
+</resources>

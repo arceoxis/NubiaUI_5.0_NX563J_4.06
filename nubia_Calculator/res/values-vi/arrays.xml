@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>dấu ngoặc trái</item>
+        <item>dấu ngoặc phải</item>
+        <item>giai thừa</item>
+        <item>logarit tự nhiên</item>
+        <item>logarit</item>
+        <item>dấu khai căn</item>
+        <item>chia cho</item>
+        <item>nhân với</item>
+        <item>cộng</item>
+        <item>trừ</item>
+        <item> điểm </item>
+        <item>lũy thừa</item>
+        <item>tiếp tuyến</item>
+        <item>sin</item>
+        <item>cosin</item>
+        <item>pi</item>
+        <item>bằng</item>
+    </string-array>
+</resources>

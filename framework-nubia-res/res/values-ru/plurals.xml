@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Открыть доступные Wi-Fi соединения</item>
+        <item quantity="one">Открыть доступное Wi-Fi соединение</item>
+    </plurals>
+</resources>

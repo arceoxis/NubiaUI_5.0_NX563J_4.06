@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MediaButton">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="MediaButton.Previous" parent="@style/MediaButton">
+        <item name="android:src">@drawable/ic_skip_previous_white_48dp</item>
+        <item name="android:contentDescription">@string/lockscreen_transport_prev_description</item>
+    </style>
+    <style name="MediaButton.Rew" parent="@style/MediaButton">
+        <item name="android:src">@drawable/ic_fast_rewind_white_48dp</item>
+        <item name="android:contentDescription">@string/lockscreen_transport_rew_description</item>
+    </style>
+    <style name="MediaButton.Ffwd" parent="@style/MediaButton">
+        <item name="android:src">@drawable/ic_fast_forward_white_48dp</item>
+        <item name="android:contentDescription">@string/lockscreen_transport_ffw_description</item>
+    </style>
+    <style name="MediaButton.Play" parent="@style/MediaButton">
+        <item name="android:src">@drawable/ic_play_circle_filled_white_48dp</item>
+        <item name="android:contentDescription">@string/lockscreen_transport_ffw_description</item>
+    </style>
+    <style name="MediaButton.Next" parent="@style/MediaButton">
+        <item name="android:src">@drawable/ic_skip_next_white_48dp</item>
+        <item name="android:contentDescription">@string/lockscreen_transport_ffw_description</item>
+    </style>
+    <style name="SelectPopupDialog">
+        <item name="select_dialog_multichoice">@layout/nubia_select_dialog_multichoice</item>
+        <item name="select_dialog_singlechoice">@layout/nubia_select_dialog_singlechoice</item>
+    </style>
+    <style name="DropdownPopupWindow" parent="@android:style/Widget.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/dropdown_popup_background</item>
+    </style>
+</resources>

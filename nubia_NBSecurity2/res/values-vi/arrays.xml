@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>Tin nhắn văn bản rác</item>
+        <item>Các cuộc gọi quấy rối</item>
+        <item>Quản lý chặn số</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>Sinh nhật mẹ tôi ngày nào?</item>
+        <item>Sinh nhật cha tôi ngày nào?</item>
+        <item>Ai là người quan trọng nhất trong đời tôi?</item>
+        <item>Nơi nào bạn muốn đi nhất?</item>
+        <item>Màu yêu thích của tôi là gì?</item>
+        <item>Hôm nào là ngày quan trọng nhất trong đời tôi?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Chỉ chấp nhận Danh sách cho phép</item>
+        <item>Chỉ chặn Danh sách đen</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>SMS rác</item>
+        <item>Cuộc gọi quay</item>
+        <item>Trình quản lý chặn số</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Gần đây</item>
+        <item>Địa chỉ liên hệ</item>
+        <item>Tin nhắn văn bản</item>
+        <item>Thủ công</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>Tin nhắn văn bản</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Quản lý danh sách đen</item>
+        <item>Chặn các cài đặt</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>XOÁ</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Chặn tất cả</item>
+        <item>Chặn danh sách đen</item>
+        <item>Chặn số lạ</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Gọi</item>
+        <item>Thêm danh sách đen</item>
+        <item>Xóa liên hệ</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>Xóa danh sách đen</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Được cho phép</item>
+        <item>Bị bỏ qua</item>
+        <item>Luôn hỏi</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Bảo mật</item>
+        <item>Bảo mật</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Vị trí gần đúng</item>
+        <item>Định vị chính xác</item>
+        <item>GPS</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>sửa đổi địa chỉ liên lạc</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>sửa đổi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Quét WLAN</item>
+        <item>Thông báo</item>
+        <item>Quét mạng di động</item>
+        <item>Quay số…</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>Gửi SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS khẩn cấp</item>
+        <item>nhận MMS</item>
+        <item>nhận WAP push</item>
+        <item>Gửi SMS</item>
+        <item>đọc ICC SMS</item>
+        <item>viết ICC SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>Bật WLAN</item>
+        <item>Bật Bluetooth</item>
+        <item>Bật dữ liệu di động</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>Gửi MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>sửa đổi địa chỉ liên lạc</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>sửa đổi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Vị trí</item>
+        <item>Gửi thông báo</item>
+        <item>Vị trí</item>
+        <item>Quay số…</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>Gửi SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận MMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>Gửi SMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>Bật WLAN</item>
+        <item>Bật Bluetooth</item>
+        <item>Bật dữ liệu di động</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>Gửi MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Vị trí gần đúng</item>
+        <item>Định vị chính xác</item>
+        <item>GPS</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>sửa đổi địa chỉ liên lạc</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>sửa đổi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Quét WLAN</item>
+        <item>Thông báo</item>
+        <item>Quét mạng di động</item>
+        <item>Quay số…</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS khẩn cấp</item>
+        <item>nhận MMS</item>
+        <item>nhận WAP push</item>
+        <item>Gửi SMS</item>
+        <item>đọc ICC SMS</item>
+        <item>viết ICC SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>các nút media</item>
+        <item>hội tụ âm thanh</item>
+        <item>âm lượng tổng thể</item>
+        <item>âm lượng giọng nói</item>
+        <item>Âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>âm lượng bluetooth</item>
+        <item>Không khóa màn hình</item>
+        <item>theo dõi vị trí</item>
+        <item>theo dõi vị trí điện cao</item>
+        <item>Bật WLAN</item>
+        <item>Bật Bluetooth</item>
+        <item>Bật dữ liệu di động</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết MMS</item>
+        <item>Tự động bắt đầu</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>sửa đổi địa chỉ liên lạc</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>sửa đổi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Vị trí</item>
+        <item>Gửi thông báo</item>
+        <item>Vị trí</item>
+        <item>Quay số…</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận MMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>Gửi SMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>các nút media</item>
+        <item>hội tụ âm thanh</item>
+        <item>âm lượng tổng thể</item>
+        <item>âm lượng giọng nói</item>
+        <item>Âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>âm lượng bluetooth</item>
+        <item>Không khóa màn hình</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Bật WLAN</item>
+        <item>Bật Bluetooth</item>
+        <item>Bật dữ liệu di động</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết MMS</item>
+        <item>Tự động bắt đầu</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Vị trí gần đúng</item>
+        <item>Định vị chính xác</item>
+        <item>GPS</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>ghi danh bạ</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>ghi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Quét WLAN</item>
+        <item>Thông báo</item>
+        <item>Quét mạng di động</item>
+        <item>Thực hiện cuộc gọi</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS khẩn cấp</item>
+        <item>nhận MMS</item>
+        <item>nhận WAP push</item>
+        <item>Gửi SMS</item>
+        <item>đọc ICC SMS</item>
+        <item>viết ICC SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>các nút media</item>
+        <item>hội tụ âm thanh</item>
+        <item>âm lượng tổng thể</item>
+        <item>âm lượng giọng nói</item>
+        <item>Âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>âm lượng bluetooth</item>
+        <item>Không khóa màn hình</item>
+        <item>theo dõi vị trí</item>
+        <item>theo dõi vị trí điện cao</item>
+        <item>nhận thống kê sử dụng</item>
+        <item>tắt/mở tiếng microphone</item>
+        <item>cửa sổ pop-up</item>
+        <item>truyền thông dự án</item>
+        <item>kích hoạt VPN</item>
+        <item>Bật WLAN</item>
+        <item>Bật Bluetooth</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết MMS</item>
+        <item>Tự động bắt đầu</item>
+        <item>Mở NFC</item>
+        <item>xóa SMS</item>
+        <item>xóa MMS</item>
+        <item>Xóa liên hệ</item>
+        <item>Xóa nhật ký cuộc gọi</item>
+        <item>Bật dữ liệu di động</item>
+        <item>cài đặt phím tắt</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>ghi danh bạ</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>ghi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Vị trí</item>
+        <item>Gửi thông báo</item>
+        <item>Vị trí</item>
+        <item>Thực hiện cuộc gọi</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận MMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>Gửi SMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>các nút media</item>
+        <item>hội tụ âm thanh</item>
+        <item>âm lượng tổng thể</item>
+        <item>âm lượng giọng nói</item>
+        <item>âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>âm lượng bluetooth</item>
+        <item>Không khóa màn hình</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>nhận thống kê sử dụng</item>
+        <item>tắt/mở tiếng microphone</item>
+        <item>cửa sổ pop-up</item>
+        <item>truyền thông dự án</item>
+        <item>kích hoạt VPN</item>
+        <item>Bật WLAN</item>
+        <item>Bật Bluetooth</item>
+        <item>Gửi MMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết MMS</item>
+        <item>Tự động bắt đầu</item>
+        <item>Mở NFC</item>
+        <item>xóa SMS</item>
+        <item>xóa MMS</item>
+        <item>Xóa liên hệ</item>
+        <item>Xóa nhật ký cuộc gọi</item>
+        <item>Thay đổi dữ liệu</item>
+        <item>cài đặt phím tắt</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>Rung</item>
+        <item>đọc địa chỉ liên lạc</item>
+        <item>sửa đổi địa chỉ liên lạc</item>
+        <item>đọc nhật ký cuộc gọi</item>
+        <item>sửa đổi nhật ký cuộc gọi</item>
+        <item>đọc lịch</item>
+        <item>sửa đổi lịch</item>
+        <item>Vị trí</item>
+        <item>Gửi thông báo</item>
+        <item>Vị trí</item>
+        <item>Thực hiện cuộc gọi</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>nhận MMS</item>
+        <item>nhận được tin nhắn SMS</item>
+        <item>Gửi SMS</item>
+        <item>Đọc tin nhắn SMS/MMS</item>
+        <item>viết tin nhắn SMS</item>
+        <item>sửa đổi cài đặt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>truy cập thông báo</item>
+        <item>Máy ảnh</item>
+        <item>Ghi âm âm thanh</item>
+        <item>phát âm thanh</item>
+        <item>đọc bộ nhớ tạm</item>
+        <item>sửa đổi bộ nhớ tạm</item>
+        <item>các nút media</item>
+        <item>hội tụ âm thanh</item>
+        <item>âm lượng tổng thể</item>
+        <item>âm lượng giọng nói</item>
+        <item>âm lượng chuông</item>
+        <item>Âm lượng phương tiện</item>
+        <item>Âm lượng báo thức</item>
+        <item>Âm lượng thông báo</item>
+        <item>âm lượng bluetooth</item>
+        <item>Không khóa màn hình</item>
+        <item>Vị trí</item>
+        <item>Vị trí</item>
+        <item>nhận thống kê sử dụng</item>
+        <item>tắt/mở tiếng microphone</item>
+        <item>cửa sổ pop-up</item>
+        <item>truyền thông dự án</item>
+        <item>kích hoạt VPN</item>
+        <item>ghi hình nền</item>
+        <item>hỗ trợ cấu trúc</item>
+        <item>hỗ trợ chụp màn hình</item>
+        <item>đọc trạng thái điện thoại</item>
+        <item>thêm thư thoại</item>
+        <item>sử dụng chút một</item>
+        <item>xử lý cuộc gọi đi</item>
+        <item>sử dụng dấu vân tay</item>
+        <item>cảm biến cơ thể</item>
+        <item>đọc chương trình phát sóng di động</item>
+        <item>vị trí mô phỏng</item>
+        <item>đọc bộ nhớ ngoài</item>
+        <item>ghi bộ nhớ ngoài</item>
+        <item>bật màn hình</item>
+        <item>nhận tài khoản</item>
+        <item>thay đổi wlan</item>
+        <item>thay đổi bluetooth</item>
+        <item>Gửi MMS</item>
+        <item>viết MMS</item>
+        <item>xóa SMS</item>
+        <item>xóa MMS</item>
+        <item>Xóa liên hệ</item>
+        <item>Xóa nhật ký cuộc gọi</item>
+        <item>cài đặt phím tắt</item>
+        <item>chạy ở chế độ nền</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Quyền</item>
+        <item>Ứng dụng</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Cấp bảo mật</item>
+        <item>Lớp cơ bản</item>
+        <item>Cấp thông báo</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Gọi</item>
+        <item>Danh bạ</item>
+        <item>Tin nhắn</item>
+        <item>MMS</item>
+        <item>Thông tin vị trí</item>
+        <item>Lịch</item>
+        <item>MIC</item>
+        <item>Máy ảnh</item>
+        <item>Cảm biến Cơ thể</item>
+        <item>Không gian lưu trữ</item>
+        <item>Thay đổi mạng Wifi</item>
+        <item>Thay đổi Bluetooth</item>
+        <item>Thay đổi thiết lập</item>
+        <item>cài đặt phím tắt</item>
+        <item>Hiển thị cửa sổ pop-up</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Gói cài đặt</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Cho phép</item>
+        <item>Hỏi</item>
+        <item>Ngăn cấm</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Cho phép</item>
+        <item>Ngăn cấm</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Cấp bảo mật</item>
+        <item>Lớp cơ bản</item>
+        <item>Cấp thông báo</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Tự thêm ứng dụng khởi chạy tự động</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Gửi</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Chỉ hiệu chỉnh bằng tay</item>
+        <item>Tự động cân chỉnh mỗi ngày</item>
+        <item>Tự động cân chỉnh mỗi ba ngày</item>
+        <item>Tự động cân chỉnh mỗi tuần</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Xóa tất cả bản ghi</item>
+        <item>Chuyển tiếp</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Thêm</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Mời một người bạn cùng tham gia trò chơi trốn tìm. Thắng các ngôi sao trong lúc hoàn thành diễn tập chống trộm</item>
+        <item>"1. Cho phép bạn bè ẩn điện thoại của bạn 
+"</item>
+        <item>"2. Hãy đến và tìm kiếm, tôi đã tìm thấy bạn 
+"</item>
+        <item>"3. Tôi không thể tìm ra nó. Tôi nên làm gì? 
+"</item>
+        <item>4. Được rồi! Hãy tin tưởng Nubia NeoSafe!</item>
+        <item>"5. dùng điện thoại khác để gửi một tin nhắn văn bản chứa 信牛盾 đến điện thoại của bạn, và hãy làm theo hướng dẫn 
+"</item>
+        <item>"OK, tôi đã có ngôi sao trong tay. Thật đơn giản! Đừng lo lắng, nơi bạn để điện thoại của bạn! Hãy nhớ rằng điện thoại của bạn phải được bật để nhận tin nhắn văn bản. 
+ Hiện thị nó cho bạn bè của bạn bây giờ!"</item>
+    </string-array>
+</resources>

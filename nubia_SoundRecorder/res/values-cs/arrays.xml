@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Čistý, 320kbps, mp3</item>
+        <item>Standardní, 128kbps, mp3</item>
+        <item>Úsporný, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Čistý</item>
+        <item>Standardní</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Telefon/neoRecorder</item>
+        <item>SD karta/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Telefon/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Tón příchozího hovoru</item>
+        <item>Vyzváněcí tón budíku</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>SIM karta 1</item>
+        <item>SIM karta 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Pořídit fotku</item>
+        <item>Vybrat fotku z galerie</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Zobrazit fotku</item>
+        <item>Smazat fotku</item>
+        <item>Pořídit novou fotku</item>
+        <item>Vybrat novou fotku z galerie</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Uložit dohromady</item>
+        <item>Uložit zvlášť</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>třídit dle času</item>
+        <item>třídit podle štítků</item>
+        <item>třídit podle trvání</item>
+    </string-array>
+</resources>

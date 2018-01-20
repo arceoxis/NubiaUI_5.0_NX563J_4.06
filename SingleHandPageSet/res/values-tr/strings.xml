@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TekElRehberi</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="welcome_to_single">Tek El Moduna Hoşgeldiniz</string>
+    <string name="welcome_to_single2">Tek el modunuza erişmek için ekrana tıklayın</string>
+    <string name="test_single1">Parmağınızı ekrana yaslayın</string>
+    <string name="test_single2">baş parmağınızı düzeltin ekranda yay çizin</string>
+    <string name="test_single_invalid">ekranda yay çizin</string>
+    <string name="show_single">elinize en iyi uyan tek el modu</string>
+    <string name="try_more">Tekrar dene</string>
+    <string name="begin">kullanmaya başla</string>
+    <string name="welcome_to_begin">Tek el modunuza hoşgeldiniz</string>
+</resources>

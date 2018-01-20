@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_status_activity_title">状态信息</string>
+    <string name="sim_card_number_title">SIM卡%1$d</string>
+    <string name="wifiap_configure_subtext">%1$s%2$s便携式WLAN热点</string>
+    <string name="wifiap_configure_ssid_default">Android热点</string>
+    <string name="wifiap_configure_ap_text">设置WLAN热点</string>
+    <string name="wifiap_list_category">已连接设备</string>
+    <string name="wifiap_turn_on_hint">要使用 WLAN 热点，请先将其打开。</string>
+    <string name="wifiap_settings_desc">WLAN 热点可以通过 WLAN 分享此手机的数据网络给其他电脑/移动设备。</string>
+    <string name="wifiap_settings_indication">打开 WLAN 热点后,其他电脑/移动设备可以通过以下步骤进行连接并使用网络:</string>
+    <string name="wifiap_settings_indication_step1">1. 打开电脑/移动设备上的 WLAN</string>
+    <string name="wifiap_settings_indication_step2">2. 在 WLAN 网络列表里找到“%s”</string>
+    <string name="wifiap_settings_indication_step3_ssid">3. 选择“%s”</string>
+    <string name="wifiap_settings_indication_step3_all" formatted="false">3. 选择“%s”并输入密码“%s”</string>
+    <string name="wifiap_settings_indication_step4">4. 开始在电脑/移动设备上使用网络</string>
+    <string name="wifiap_settings_menu_help">帮助</string>
+    <string name="wifiap_default_device_name">匿名</string>
+    <string name="wifiap_title">WLAN热点</string>
+    <string name="wifi_ssid">网络名称</string>
+    <string name="wifi_ssid_hint">输入SSID</string>
+    <string name="wifi_security">安全性</string>
+    <string name="wifi_password">密码</string>
+    <string name="wifi_show_password">显示密码</string>
+    <string name="wifi_save">保存</string>
+    <string name="credentials_password_too_short">密码至少应包含8个字符。</string>
+    <string name="wifi_security_none">无</string>
+    <string name="wifi_ap_band_config">选择 AP 频段</string>
+    <string name="wifi_ap_choose_2G">2.4 GHz 频段</string>
+    <string name="wifi_ap_choose_5G">5 GHz 频段</string>
+    <string name="wifi_tether_configure_ap_text">设置WLAN热点</string>
+    <string name="wifi_cancel">取消</string>
+</resources>

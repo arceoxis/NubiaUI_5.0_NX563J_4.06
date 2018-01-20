@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>پرانتز چپ</item>
+        <item>پرانتز راست</item>
+        <item>فاکتوریل</item>
+        <item>لگاریتم طبیعی</item>
+        <item>لگاریتم</item>
+        <item>ریشه دوم</item>
+        <item>تقسیم بر</item>
+        <item>ضرب در</item>
+        <item>جمع</item>
+        <item>منها</item>
+        <item> امتیاز </item>
+        <item>توان</item>
+        <item>تانژانت</item>
+        <item>سینوس</item>
+        <item>کسینوس</item>
+        <item>پی</item>
+        <item>مساوی است با</item>
+    </string-array>
+</resources>

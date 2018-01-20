@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_picker">
+        <item>청록색</item>
+        <item>파란색</item>
+        <item>남색</item>
+        <item>보라색</item>
+        <item>분홍색</item>
+        <item>빨간색</item>
+    </string-array>
+</resources>

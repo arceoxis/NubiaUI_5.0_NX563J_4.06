@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>vänsterparentes</item>
+        <item>högerparentes</item>
+        <item>fakultet</item>
+        <item>naturlig logaritm</item>
+        <item>logaritm</item>
+        <item>kvadratrot</item>
+        <item>dividerat med</item>
+        <item>multiplicerat med</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> komma </item>
+        <item>exponent</item>
+        <item>tangent</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>är lika med</item>
+    </string-array>
+</resources>

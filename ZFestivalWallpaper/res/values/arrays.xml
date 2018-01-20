@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="festival_wallpaper_names">
+        <item>cn_newyear</item>
+        <item>valentine_day</item>
+        <item>labour_day</item>
+        <item>children_day</item>
+        <item>national_day</item>
+        <item>christmas_day</item>
+        <item>traditional_year</item>
+        <item>lantern_day</item>
+        <item>dragon_boat_day</item>
+        <item>double_seventh_day</item>
+        <item>mid_autumn_day</item>
+        <item>tomb_sweeping_day</item>
+        <item>woman_day</item>
+        <item>youth_day</item>
+        <item>mother_day</item>
+        <item>father_day</item>
+        <item>teacher_day</item>
+        <item>double_ninth_festival</item>
+        <item>thanksgiving_day</item>
+    </string-array>
+    <string-array name="festival_wallpapers_fixed_date">
+        <item>cn_newyear</item>
+        <item>valentine_day</item>
+        <item>labour_day</item>
+        <item>children_day</item>
+        <item>national_day</item>
+        <item>christmas_day</item>
+        <item>woman_day</item>
+        <item>youth_day</item>
+        <item>teacher_day</item>
+    </string-array>
+    <string-array name="festival_dates_fixed_date">
+        <item>0101</item>
+        <item>0214</item>
+        <item>0501</item>
+        <item>0601</item>
+        <item>1001</item>
+        <item>1225</item>
+        <item>0308</item>
+        <item>0504</item>
+        <item>0910</item>
+    </string-array>
+    <string-array name="festival_wallpapers_relative_date">
+        <item>mother_day</item>
+        <item>father_day</item>
+        <item>thanksgiving_day</item>
+    </string-array>
+    <string-array name="festival_dates_relative_date">
+        <item>50201</item>
+        <item>60301</item>
+        <item>110405</item>
+    </string-array>
+    <string-array name="festival_wallpapers_chinese">
+        <item>traditional_year</item>
+        <item>lantern_day</item>
+        <item>dragon_boat_day</item>
+        <item>double_seventh_day</item>
+        <item>mid_autumn_day</item>
+        <item>double_ninth_festival</item>
+    </string-array>
+    <string-array name="festival_dates_chinese">
+        <item>0101</item>
+        <item>0115</item>
+        <item>0505</item>
+        <item>0707</item>
+        <item>0815</item>
+        <item>0909</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+    <string-array name="wallpapers">
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+        <item>wallpaper_6</item>
+        <item>wallpaper_7</item>
+        <item>wallpaper_9</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_16</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_12</item>
+        <item>wallpaper_13</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_17</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_8</item>
+        <item>wallpaper_11</item>
+    </string-array>
+</resources>

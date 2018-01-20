@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="folder_max_count_x">5</integer>
+    <integer name="folder_max_count_y">3</integer>
+    <integer name="apps_customize_widget_cell_count_x">4</integer>
+    <integer name="apps_customize_widget_cell_count_y">2</integer>
+</resources>

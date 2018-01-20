@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_alert_title">"' %1$s ' ఉన్న పేజీ దీన్ని తెలియజేస్తుంది:"</string>
+    <string name="password_prompt_title">ధృవీకరించు</string>
+    <string name="password_prompt_message">మీరు ఈ పాస్‌వర్డ్‌ని బ్రౌజర్ గుర్తుంచుకోవాలనుకుంటున్నారా?</string>
+    <string name="password_prompt_never">ఎన్నటికీ కాదు</string>
+    <string name="password_prompt_remember">గుర్తుంచుకో</string>
+    <string name="password_prompt_not_now">ఇప్పుడు కాదు</string>
+</resources>

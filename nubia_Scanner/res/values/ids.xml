@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="nubia_lettertext" />
+    <item type="id" name="nubia_datePickerView" />
+    <item type="id" name="nubia_timePickerView" />
+    <item type="id" name="nubia_year_spinner" />
+    <item type="id" name="nubia_month_spinner" />
+    <item type="id" name="nubia_day_spinner" />
+    <item type="id" name="nubia_hour_spinner" />
+    <item type="id" name="nubia_minute_spinner" />
+    <item type="id" name="nubia_blank_region" />
+    <item type="id" name="nubia_pcenterPanel" />
+    <item type="id" name="nubia_dialog_animate_view" />
+    <item type="id" name="nubia_parentPanel" />
+    <item type="id" name="home" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="group_position" />
+    <item type="id" name="child_position" />
+    <item type="id" name="child_id" />
+    <item type="id" name="tab_view" />
+    <item type="id" name="home_tab_view" />
+    <item type="id" name="position" />
+    <item type="id" name="load_object" />
+    <item type="id" name="menu_item_enter_anim_id" />
+    <item type="id" name="combo_view_container" />
+    <item type="id" name="auto_focus" />
+    <item type="id" name="decode" />
+    <item type="id" name="decode_local_image" />
+    <item type="id" name="decode_failed" />
+    <item type="id" name="decode_succeeded" />
+    <item type="id" name="decode_namecard_succeeded" />
+    <item type="id" name="decode_namecard_failed" />
+    <item type="id" name="encode_failed" />
+    <item type="id" name="encode_succeeded" />
+    <item type="id" name="launch_product_query" />
+    <item type="id" name="restart_preview_for_exception" />
+    <item type="id" name="quit" />
+    <item type="id" name="camera_open" />
+    <item type="id" name="restart_preview" />
+    <item type="id" name="return_scan_result" />
+    <item type="id" name="search_book_contents_failed" />
+    <item type="id" name="search_book_contents_succeeded" />
+    <item type="id" name="drag_handle" />
+    <item type="id" name="click_remove" />
+    <item type="id" name="decode_image_succeeded" />
+    <item type="id" name="decode_image_failed" />
+    <item type="id" name="version_check_receiveMessage" />
+    <item type="id" name="install_rightnow" />
+    <item type="id" name="download_rightnow" />
+    <item type="id" name="version_update_cancel" />
+    <item type="id" name="infobar_message" />
+    <item type="id" name="infobar_close_button" />
+    <item type="id" name="button_primary" />
+    <item type="id" name="button_secondary" />
+    <item type="id" name="button_tertiary" />
+    <item type="id" name="infobar_extra_check" />
+    <item type="id" name="vh_id" />
+    <item type="id" name="refresh_flash_fight" />
+    <item type="id" name="update_bottombar_state" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="nubia_fake_status_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="cts_title">false</item>
+    <item type="id" name="cts_permission_body">false</item>
+    <item type="id" name="cts_camera">false</item>
+    <item type="id" name="cts_phone">false</item>
+    <item type="id" name="cts_storage">false</item>
+    <item type="id" name="not_clone_bottombar_wechat_layout">false</item>
+    <item type="id" name="action_wechat">false</item>
+    <item type="id" name="not_clone_bottombar_alipay_layout">false</item>
+    <item type="id" name="action_alipay">false</item>
+    <item type="id" name="nubia_animPanel">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="nubia_title_content_bg">false</item>
+    <item type="id" name="nubia_title_content_divider">false</item>
+    <item type="id" name="nubia_bold_divider">false</item>
+    <item type="id" name="nubia_button_bg">false</item>
+    <item type="id" name="nubia_center_title_content_divider">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="progress_percent">false</item>
+    <item type="id" name="progress_number">false</item>
+    <item type="id" name="nubia_button_left">false</item>
+    <item type="id" name="nubia_button_mid1">false</item>
+    <item type="id" name="nubia_button_mid2">false</item>
+    <item type="id" name="nubia_button_right">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="nubia_year_label">false</item>
+    <item type="id" name="nubia_month_label">false</item>
+    <item type="id" name="nubia_day_label">false</item>
+    <item type="id" name="nubia_date_picker_view">false</item>
+    <item type="id" name="nubia_lunar_date_layout">false</item>
+    <item type="id" name="nubia_lunar_textview">false</item>
+    <item type="id" name="nubia_switch_button">false</item>
+    <item type="id" name="nubia_dialog_activity_panel">false</item>
+    <item type="id" name="nubia_dialog_activity_cancel">false</item>
+    <item type="id" name="nubia_dialog_activity_ok">false</item>
+    <item type="id" name="nubia_dialog_activity_title">false</item>
+    <item type="id" name="nubia_dialog_activity_content">false</item>
+    <item type="id" name="nubia_card1">false</item>
+    <item type="id" name="nubia_card2">false</item>
+    <item type="id" name="nubia_progressBar">false</item>
+    <item type="id" name="download_button">false</item>
+    <item type="id" name="my_list_view_2">false</item>
+    <item type="id" name="bottom">false</item>
+    <item type="id" name="nubia_month_day_spinner">false</item>
+    <item type="id" name="nubia_time_hour_textview">false</item>
+    <item type="id" name="nubia_lunar_time_picker_view">false</item>
+    <item type="id" name="nubia_lunar_time_layout">false</item>
+    <item type="id" name="nubia_more_popup_panel">false</item>
+    <item type="id" name="nubia_more_popup_mock_status_bar">false</item>
+    <item type="id" name="nubia_more_popup_top_View">false</item>
+    <item type="id" name="nubia_more_popup_top_divider">false</item>
+    <item type="id" name="nubia_more_popup_dropdown">false</item>
+    <item type="id" name="nubia_more_popup_list">false</item>
+    <item type="id" name="nubia_more_popup_bottom_divider">false</item>
+    <item type="id" name="nubia_more_popup_bottom_View">false</item>
+    <item type="id" name="nubia_more_popup_text">false</item>
+    <item type="id" name="nubia_edittext_container">false</item>
+    <item type="id" name="nubia_message">false</item>
+    <item type="id" name="headers">false</item>
+    <item type="id" name="list_footer">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="back_button">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="nubia_seekbar">false</item>
+    <item type="id" name="nubia_switchWidget">false</item>
+    <item type="id" name="nubia_preference_category_right_layout">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="nubia_search_button">false</item>
+    <item type="id" name="nubia_search_edit_frame">false</item>
+    <item type="id" name="nubia_search_mag_icon">false</item>
+    <item type="id" name="nubia_search_plate">false</item>
+    <item type="id" name="nubia_search_src_text">false</item>
+    <item type="id" name="nubia_total">false</item>
+    <item type="id" name="nubia_search_close_btn">false</item>
+    <item type="id" name="nubia_submit_area">false</item>
+    <item type="id" name="nubia_search_go_btn">false</item>
+    <item type="id" name="seekbar">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="nubia_ampm_spinner">false</item>
+    <item type="id" name="one_clone_bottombar_wechat_layout">false</item>
+    <item type="id" name="one_clone_bottombar_wechat_clone_layout">false</item>
+    <item type="id" name="action_wechat_clone">false</item>
+    <item type="id" name="one_clone_bottombar_alipay_layout">false</item>
+    <item type="id" name="one_clone_bottombar_alipay_clone_layout">false</item>
+    <item type="id" name="action_alipay_clone">false</item>
+    <item type="id" name="host_view">false</item>
+    <item type="id" name="loading_view">false</item>
+    <item type="id" name="loading_message">false</item>
+    <item type="id" name="scan_frame_layout">false</item>
+    <item type="id" name="preview_view">false</item>
+    <item type="id" name="blur_background_view">false</item>
+    <item type="id" name="viewfinder_view">false</item>
+    <item type="id" name="scan_content">false</item>
+    <item type="id" name="scan_content_card_technical_support">false</item>
+    <item type="id" name="action_scanner_group">false</item>
+    <item type="id" name="scan_code_card_layout">false</item>
+    <item type="id" name="action_scanner_code_layout">false</item>
+    <item type="id" name="action_scanner_code">false</item>
+    <item type="id" name="action_scanner_card_layout">false</item>
+    <item type="id" name="action_scanner_card">false</item>
+    <item type="id" name="switchBar">false</item>
+    <item type="id" name="not_clone_bottombar">false</item>
+    <item type="id" name="not_clone_bottombar_include">false</item>
+    <item type="id" name="action_bottom_bar_has_one_clone">false</item>
+    <item type="id" name="one_clone_bottombar_include">false</item>
+    <item type="id" name="action_bottom_bar_has_two_clone">false</item>
+    <item type="id" name="two_clone_bottombar_include">false</item>
+    <item type="id" name="blur_background_view_dialog">false</item>
+    <item type="id" name="open_galley_layout">false</item>
+    <item type="id" name="open_galley">false</item>
+    <item type="id" name="flash_layout">false</item>
+    <item type="id" name="flash_text">false</item>
+    <item type="id" name="flash_image">false</item>
+    <item type="id" name="result_image">false</item>
+    <item type="id" name="result_text">false</item>
+    <item type="id" name="touch_to_resume">false</item>
+    <item type="id" name="action_bottom_bar">false</item>
+    <item type="id" name="action_bottom_bar_qrcode_group">false</item>
+    <item type="id" name="action_wechat_layout">false</item>
+    <item type="id" name="action_alipay_layout">false</item>
+    <item type="id" name="open_flashing_layout">false</item>
+    <item type="id" name="open_flashing">false</item>
+    <item type="id" name="action_bottom_bar_businesscard_group">false</item>
+    <item type="id" name="open_galley_businesscard_layout">false</item>
+    <item type="id" name="open_galley_businesscard">false</item>
+    <item type="id" name="open_flashing_businesscard_layout">false</item>
+    <item type="id" name="open_flashing_businesscard">false</item>
+    <item type="id" name="qrcode_result_body_view_1">false</item>
+    <item type="id" name="TextViewOne">false</item>
+    <item type="id" name="TextViewTwo">false</item>
+    <item type="id" name="result_dialog">false</item>
+    <item type="id" name="title_group">false</item>
+    <item type="id" name="title_cancel">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="bottom_group">false</item>
+    <item type="id" name="bottom_hint_group">false</item>
+    <item type="id" name="bottom_hint_group_icon">false</item>
+    <item type="id" name="bottom_hint_group_text">false</item>
+    <item type="id" name="bottom_button_group">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="neutralButton">false</item>
+    <item type="id" name="two_clone_bottombar_wechat_layout">false</item>
+    <item type="id" name="two_clone_bottombar_alipay_layout">false</item>
+    <item type="id" name="two_clone_bottombar_wechat_clone_layout">false</item>
+    <item type="id" name="two_clone_bottombar_alipay_clone_layout">false</item>
+    <item type="id" name="qrcode_result_body_text_text_type_scroll">false</item>
+    <item type="id" name="qrcode_result_body_text_text_type">false</item>
+    <item type="id" name="qrcode_result_body_text_url_type_scroll">false</item>
+    <item type="id" name="qrcode_result_body_text_url_type">false</item>
+    <item type="id" name="qrcode_result_body_text_other_type">false</item>
+    <item type="id" name="qrcode_result_body_text_underline">false</item>
+    <item type="id" name="qrcode_result_body_list">false</item>
+    <item type="id" name="qrcode_result_foot_lift_button">false</item>
+    <item type="id" name="qrcode_result_foot_middle_button">false</item>
+    <item type="id" name="qrcode_result_foot_right_button">false</item>
+    <item type="id" name="qrcode_result_head_image">false</item>
+    <item type="id" name="qrcode_result_head_text">false</item>
+    <item type="id" name="nubia_on">false</item>
+    <item type="id" name="nubia_off">false</item>
+    <item type="id" name="pressed">false</item>
+    <item type="id" name="not_pressed">false</item>
+    <item type="id" name="off">false</item>
+    <item type="id" name="on">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

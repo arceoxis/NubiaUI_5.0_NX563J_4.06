@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="documents_toolbar_backbtn">
+        <item name="android:background">@drawable/public_item_selected_bg_selector</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="documents_toolbar_btn">
+        <item name="android:background">@drawable/public_item_selected_bg_selector</item>
+        <item name="android:padding">3.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="documents_file_item_wrapstyle">
+        <item name="android:paddingLeft">25.0dip</item>
+        <item name="android:paddingTop">@dimen/documents_file_item_wrapstyle_paddingtop</item>
+        <item name="android:paddingBottom">@dimen/documents_file_item_wrapstyle_paddingbottom</item>
+        <item name="android:descendantFocusability">blocksDescendants</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="documents_file_item_icon">
+        <item name="android:layout_width">@dimen/documents_files_item_btn_width</item>
+        <item name="android:layout_height">@dimen/documents_files_item_btn_height</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="documents_history_gallery_itemtype_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@drawable/color_white</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">7.0dip</item>
+        <item name="android:paddingBottom">18.0dip</item>
+        <item name="android:layout_width">52.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">HTML</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="documents_dropdown_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@drawable/color_black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/documents_headtitle</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="documents_mydocuments_details_item_title">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/documents_mydocuments_filelist_headtitle_selector</item>
+        <item name="android:paddingLeft">32.0dip</item>
+        <item name="android:paddingTop">3.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="documents_mydocuments_details_item_icon">
+        <item name="android:layout_width">45.0dip</item>
+        <item name="android:layout_height">45.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="documents_mydocument_folder_item_wrap">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingTop">9.0dip</item>
+        <item name="android:paddingBottom">9.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="documents_mydocument_folder_item_icon">
+        <item name="android:layout_width">45.0dip</item>
+        <item name="android:layout_height">45.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="documents_mydocument_folder_item_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="documents_mydocument_folder_item_path">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+    </style>
+    <style name="documents_login_title">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">21.0dip</item>
+        <item name="android:paddingRight">21.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+    </style>
+    <style name="documents_login_body">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">36.0dip</item>
+        <item name="android:paddingTop">21.0dip</item>
+        <item name="android:paddingRight">36.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="documents_storagelist_item_icon">
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">60.0dip</item>
+    </style>
+    <style name="documents_circle_progress_bar" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/public_progress_medium</item>
+    </style>
+    <style name="documents_history_record_item_color_point">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">39.0dip</item>
+        <item name="android:layout_marginTop">30.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+    </style>
+    <style name="documents_history_record_summary_file_name">
+        <item name="android:maxEms">12</item>
+    </style>
+    <style name="documents_history_record_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="documents_history_record_tap_new_icon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="documents_oper_btn">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="documents_history_delete_undo">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/documents_history_delete_undo_background</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">450.0dip</item>
+        <item name="android:layout_height">45.0dip</item>
+        <item name="android:layout_marginBottom">@dimen/docemtnts_history_delete_undo_bottom_padding</item>
+    </style>
+    <style name="documents_history_list_item_linearlayout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">14.0dip</item>
+        <item name="android:paddingBottom">14.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="documents_history_list_item_text">
+        <item name="android:textSize">@dimen/public_text_size</item>
+        <item name="android:textColor">@drawable/color_black</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="documents_operation_layout">
+        <item name="android:gravity">bottom</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">162.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/docemtnts_history_document_operation_layout_bottom_padding</item>
+        <item name="android:baselineAligned">true</item>
+    </style>
+    <style name="documents_operation_button">
+        <item name="android:layout_width">38.0dip</item>
+        <item name="android:layout_height">38.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="documents_listmenu_item_text">
+        <item name="android:textColor">@drawable/color_black</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/public_list_icon_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/public_list_icon_margin_right</item>
+        <item name="android:minWidth">80.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="simple_dropdown_item_text_style" />
+    <style name="et_prot_sheet_opt_headline">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">40.0dip</item>
+        <item name="android:layout_marginTop">20.0dip</item>
+        <item name="android:layout_marginRight">40.0dip</item>
+        <item name="android:layout_marginBottom">20.0dip</item>
+    </style>
+    <style name="et_prot_sheet_opt" parent="@style/public_image_bg_style">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">40.0dip</item>
+        <item name="android:paddingRight">40.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">72.0dip</item>
+        <item name="android:checkMark">@drawable/phone_public_checkbox_selector</item>
+    </style>
+    <style name="et_prot_sheet_sep_line">
+        <item name="android:enabled">false</item>
+        <item name="android:background">@color/public_droplist_divide_hline</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+        <item name="android:layout_marginLeft">@dimen/ss_spliter_padding_h</item>
+        <item name="android:layout_marginRight">@dimen/ss_spliter_padding_h</item>
+    </style>
+    <style name="et_common_tab_btn_line1">
+        <item name="android:enabled">false</item>
+        <item name="android:background">#ffd2d5da</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="et_common_tab_btn_line2">
+        <item name="android:enabled">false</item>
+        <item name="android:background">#fff3f4f8</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="et_complex_format_frame_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">@dimen/ss_cellsetting_frame_item_bg_width</item>
+        <item name="android:layout_height">@dimen/ss_cellsetting_frame_item_bg_width</item>
+    </style>
+    <style name="et_complex_format_frame_item">
+        <item name="android:layout_width">@dimen/ss_cellsetting_frame_item_width</item>
+        <item name="android:layout_height">@dimen/ss_cellsetting_frame_item_width</item>
+    </style>
+    <style name="NumberPickerUpButton">
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingBottom">28.0dip</item>
+        <item name="android:src">@drawable/et_numberpicker_up_btn_holo_dark</item>
+    </style>
+    <style name="NumberPickerDownButton">
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">28.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:src">@drawable/et_numberpicker_down_btn_holo_dark</item>
+    </style>
+    <style name="NumberPickerInputText" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">2.0sp</item>
+        <item name="android:paddingTop">13.0sp</item>
+        <item name="android:paddingRight">2.0sp</item>
+        <item name="android:paddingBottom">13.0sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50.0dip</item>
+        <item name="android:maxHeight">200.0dip</item>
+        <item name="android:minWidth">48.0dip</item>
+        <item name="android:solidColor">@android:color/transparent</item>
+    </style>
+    <style name="et_chartoptions_contextdivide_line">
+        <item name="android:background">@color/phone_public_contentdivide_line_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+        <item name="android:layout_marginLeft">@dimen/et_chartoptions_line_margin_left</item>
+        <item name="android:layout_marginTop">@dimen/et_chartoptions_context_padding_top</item>
+        <item name="android:layout_marginRight">@dimen/et_chartoptions_line_margin_right</item>
+    </style>
+    <style name="pdf_checkBox_style" parent="@style/public_checkbox_base">
+        <item name="android:textColor">@drawable/public_text_color_selector</item>
+        <item name="android:minHeight">@dimen/phone_public_second_panel_radiobutton_height</item>
+    </style>
+    <style name="pdf_radioButton_style" parent="@style/public_radio_button_base">
+        <item name="android:textColor">@drawable/public_text_color_selector</item>
+        <item name="android:minHeight">@dimen/phone_public_second_panel_radiobutton_height</item>
+    </style>
+    <style name="pdf_doc_info_property_type_text">
+        <item name="android:textSize">@dimen/public_file_info_title_text_size</item>
+        <item name="android:textColor">@color/phone_public_default_text_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="pdf_doc_info_property_type_text_has_margin" parent="@style/pdf_doc_info_property_type_text">
+        <item name="android:layout_marginTop">@dimen/pdf_doc_details_info_margin_top</item>
+    </style>
+    <style name="pdf_doc_info_property_info_text">
+        <item name="android:textSize">@dimen/public_file_info_content_text_size</item>
+        <item name="android:textColor">@color/public_min_gray_text_color</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">false</item>
+    </style>
+    <style name="public_toolbar_icon_image">
+        <item name="android:background">@drawable/public_grid_item_selector</item>
+        <item name="android:padding">4.5dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">33.0dip</item>
+        <item name="android:layout_height">33.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="public_toolbar_icon_linearlayout">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingTop">@dimen/public_toolbar_padding_top</item>
+        <item name="android:paddingBottom">@dimen/public_toolbar_padding_bottom</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">@dimen/public_pad_toolbar_item_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/public_pad_toolbar_item_height</item>
+    </style>
+    <style name="public_top_toolbar_btn">
+        <item name="android:background">@drawable/public_item_selected_bg_selector</item>
+        <item name="android:padding">3.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="public_app_btn">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="public_navigationbarlr_btn" parent="@style/public_image_bg_style_bounded">
+        <item name="android:textSize">@dimen/tab_navigation_text_size</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">@dimen/tab_navigation_width</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="public_navigationbarlr_divider">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@color/public_divide_vline_color</item>
+        <item name="android:layout_width">1.0dip</item>
+        <item name="android:layout_height">26.0dip</item>
+    </style>
+    <style name="public_custom_dialog_warning_text_style">
+        <item name="android:textSize">@dimen/public_default_min_text_size</item>
+        <item name="android:textColor">@drawable/color_red</item>
+    </style>
+    <style name="public_top_shadow">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/public_top_shadow</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="OfficeAppTheme" parent="@style/ThemeBase">
+        <item name="android:buttonStyle">@style/public_button</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/phone_public_scrollbar_horizontal</item>
+        <item name="android:scrollbarThumbVertical">@drawable/phone_public_scrollbar_vertical</item>
+        <item name="android:listViewStyle">@style/public_listview_style</item>
+        <item name="android:textColor">@drawable/public_button_text_selector</item>
+    </style>
+    <style name="public_button" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@drawable/public_button_text_selector</item>
+        <item name="android:background">@drawable/phone_public_ripple_white</item>
+        <item name="android:height">@dimen/public_button_height</item>
+    </style>
+    <style name="public_button_green" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@drawable/color_white</item>
+        <item name="android:background">@drawable/public_btn_green_selector</item>
+        <item name="android:height">@dimen/public_button_height</item>
+    </style>
+    <style name="document_file_selector" parent="@style/ThemeBase.Dialog" />
+    <style name="public_listview_style" parent="@android:style/Widget.ListView">
+        <item name="android:listSelector">@drawable/public_list_selector_bg</item>
+        <item name="android:cacheColorHint">@drawable/color_alpha_00</item>
+        <item name="android:divider">@color/public_listview_divide_hline</item>
+        <item name="android:dividerHeight">1.0px</item>
+    </style>
+    <style name="WriterTheme" parent="@style/OfficeAppTheme">
+        <item name="android:windowBackground">@color/color_white</item>
+        <item name="android:autoCompleteTextViewStyle">@style/writer_autoCompleteTextView</item>
+        <item name="android:checkboxStyle">@style/writer_CheckBox</item>
+        <item name="android:progressBarStyle">@style/writer_circlProgressBar_medium</item>
+        <item name="android:progressBarStyleHorizontal">@style/writer_ProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/phone_writer_seekbar_style</item>
+        <item name="android:radioButtonStyle">@style/writer_RadioButton</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/writer_circlProgressBar_large</item>
+        <item name="activity_theme_Style">@style/writer_theme_style</item>
+        <item name="activity_theme_color">@color/public_writer_theme_color</item>
+    </style>
+    <style name="PdfTheme" parent="@style/OfficeAppTheme">
+        <item name="android:windowBackground">@color/color_white</item>
+        <item name="android:checkboxStyle">@style/pdf_checkBox_style</item>
+        <item name="android:progressBarStyle">@style/pdf_circlProgressBar_medium_style</item>
+        <item name="android:seekBarStyle">@style/pdf_seekbar_style</item>
+        <item name="android:radioButtonStyle">@style/pdf_radioButton_style</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/pdf_circlProgressBar_large_style</item>
+        <item name="activity_theme_Style">@style/pdf_theme_style</item>
+    </style>
+    <style name="SpreadsheetTheme" parent="@style/OfficeAppTheme">
+        <item name="android:checkboxStyle">@style/SSPhoneCheckBox</item>
+        <item name="android:editTextStyle">@style/SSPhoneEdittext</item>
+        <item name="android:progressBarStyle">@style/phone_ss_progressbar</item>
+        <item name="android:progressBarStyleHorizontal">@style/phone_ss_ProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/phone_ss_seekbar_style</item>
+        <item name="android:radioButtonStyle">@style/SSPhoneRadioButton</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/phone_ss_progressbar</item>
+        <item name="my_autoCompleteTextViewStyle">@style/ssphone_autocomplete</item>
+        <item name="activity_theme_Style">@style/phone_ss_theme_style</item>
+        <item name="activity_theme_color">@color/public_ss_theme_color</item>
+    </style>
+    <style name="PptTheme" parent="@style/OfficeAppTheme">
+        <item name="android:textAppearance">@style/PptDefaultText</item>
+        <item name="android:windowBackground">@color/ppt_slide_bg_color</item>
+        <item name="android:checkboxStyle">@style/PptPhoneCheckBox</item>
+        <item name="android:editTextStyle">@style/PptPhoneEdittext</item>
+        <item name="android:progressBarStyle">@style/PptProgressbar</item>
+        <item name="android:progressBarStyleHorizontal">@style/PptPhoneProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/PptPhoneSeekbarStyle</item>
+        <item name="android:radioButtonStyle">@style/PptPhoneRadioButton</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:progressBarStyleLargeInverse">@style/PptPhoneCirclProgressBarLarge</item>
+        <item name="my_autoCompleteTextViewStyle">@style/Pptphone_autocomplete</item>
+        <item name="activity_theme_Style">@style/PptPhoneThemeStyle</item>
+        <item name="activity_theme_color">@color/public_ppt_theme_color</item>
+    </style>
+    <style name="HomeTheme" parent="@style/OfficeAppTheme">
+        <item name="android:checkboxStyle">@style/home_checkbox</item>
+        <item name="android:editTextStyle">@style/home_edittext</item>
+        <item name="android:progressBarStyleHorizontal">@style/home_progressbar_horizontal</item>
+        <item name="android:radioButtonStyle">@style/home_radiobutton</item>
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:progressBarStyleLargeInverse">@style/home_circle_progressbar_large</item>
+        <item name="my_autoCompleteTextViewStyle">@style/home_autocomplete</item>
+        <item name="activity_theme_Style">@style/home_theme_style</item>
+        <item name="activity_theme_color">@color/public_default_theme_color</item>
+    </style>
+    <style name="home_theme_style">
+        <item name="android:textColor">@drawable/home_theme_textcolor_selector</item>
+    </style>
+    <style name="home_radiobutton" parent="@style/public_radio_button_base">
+        <item name="android:textColor">@drawable/public_text_color_selector</item>
+        <item name="android:button">@drawable/pad_home_radio_selector</item>
+        <item name="android:minHeight">@dimen/phone_public_second_panel_radiobutton_height</item>
+    </style>
+    <style name="home_checkbox" parent="@style/public_checkbox_base">
+        <item name="android:textColor">@drawable/public_text_color_selector</item>
+        <item name="android:button">@drawable/pad_home_checkbox_selector</item>
+        <item name="android:minHeight">@dimen/phone_public_second_panel_radiobutton_height</item>
+    </style>
+    <style name="home_circle_progressbar_large" parent="@style/phone_circle_progressbar_large" />
+    <style name="home_autocomplete" parent="@style/MyAutoCompleteTextView" />
+    <style name="home_progressbar_horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_home_progress_indeterminate_horizontal_holo</item>
+        <item name="android:progressDrawable">@drawable/phone_home_progressbar_img</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="home_edittext" parent="@style/phone_public_edit_text_with_title" />
+    <style name="HomeTheme_HomeActivity" parent="@style/HomeTheme">
+        <item name="android:windowBackground">@color/color_white</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="pdf_seekbar_style" parent="@style/public_seekbar_base">
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">2.0dip</item>
+        <item name="android:progressDrawable">@drawable/phone_pdf_seekbar_progress_bar</item>
+        <item name="android:minHeight">2.0dip</item>
+        <item name="android:thumb">@drawable/phone_public_seekbar_thumb_selector</item>
+        <item name="android:thumbOffset">20.0dip</item>
+    </style>
+    <style name="pdf_circlProgressBar_large_style" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/pdf_progress_medium</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="pdf_circlProgressBar_medium_style" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/pdf_progress_medium</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="PptTheme.Transparent" parent="@style/PptTheme">
+        <item name="android:windowBackground">@drawable/color_alpha_00</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="Pptphone_autocomplete" parent="@style/MyAutoCompleteTextView" />
+    <style name="PptPhoneRadioButton" parent="@style/public_radio_button_base" />
+    <style name="PptPhoneCheckBox" parent="@style/public_checkbox_base" />
+    <style name="PptPhoneSeekbarStyle" parent="@style/public_seekbar_base">
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">3.0dip</item>
+        <item name="android:progressDrawable">@drawable/phone_public_seekbar_progress_bar</item>
+        <item name="android:minHeight">3.0dip</item>
+        <item name="android:thumb">@drawable/phone_public_seekbar_thumb_selector</item>
+        <item name="android:thumbOffset">20.0dip</item>
+    </style>
+    <style name="PptPhoneEdittext" parent="@style/editText" />
+    <style name="PptPhoneCirclProgressBarLarge" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateDrawable">@drawable/ppt_progress_medium</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="PptPhoneProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_ppt_progress_indeterminate_horizontal_holo</item>
+        <item name="android:progressDrawable">@drawable/phone_ppt_progressbar_img</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="PptPhoneThemeStyle">
+        <item name="android:textColor">@drawable/ppt_theme_textcolor_selector</item>
+    </style>
+    <style name="PptProgressbar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_ppt_progress_medium</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="ssphone_autocomplete" parent="@style/MyAutoCompleteTextView" />
+    <style name="SSPhoneRadioButton" parent="@style/public_radio_button_base" />
+    <style name="SSPhoneCheckBox" parent="@style/public_checkbox_base" />
+    <style name="phone_ss_seekbar_style" parent="@style/public_seekbar_base">
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">3.0dip</item>
+        <item name="android:progressDrawable">@drawable/phone_ss_seekbar_progress_bar</item>
+        <item name="android:minHeight">3.0dip</item>
+        <item name="android:thumb">@drawable/phone_public_seekbar_thumb_selector</item>
+        <item name="android:thumbOffset">15.0dip</item>
+    </style>
+    <style name="SSPhoneEdittext" parent="@style/editText" />
+    <style name="phone_ss_theme_style">
+        <item name="android:textColor">@drawable/ss_theme_textcolor_selector</item>
+    </style>
+    <style name="phone_ss_ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_ss_progress_indeterminate_horizontal_holo</item>
+        <item name="android:progressDrawable">@drawable/phone_ss_progressbar_img</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="writer_circlProgressBar_medium" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_writer_progress_medium</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="writer_circlProgressBar_large" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:maxWidth">36.0dip</item>
+        <item name="android:maxHeight">36.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_writer_progress_medium</item>
+        <item name="android:indeterminateDuration">500</item>
+        <item name="android:minWidth">36.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="writer_ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/phone_writer_progress_indeterminate_horizontal_holo</item>
+        <item name="android:progressDrawable">@drawable/phone_writer_progressbar_img</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="writer_autoCompleteTextView" parent="@android:style/Widget.AutoCompleteTextView">
+        <item name="android:textColor">@drawable/color_black</item>
+        <item name="android:background">@drawable/phone_public_edittext_background_selector</item>
+        <item name="android:paddingTop">@dimen/public_edittext_padding_top</item>
+        <item name="android:height">@dimen/public_edittext_hight</item>
+        <item name="android:dropDownSelector">@drawable/phone_public_list_item_selector</item>
+        <item name="android:popupBackground">@drawable/phone_public_pop_track</item>
+    </style>
+    <style name="writer_table_align_wrap_icons">
+        <item name="android:background">@drawable/public_grid_item_selector</item>
+        <item name="android:padding">3.0dip</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">60.0dip</item>
+    </style>
+    <style name="writer_RadioButton" parent="@style/public_radio_button_base">
+        <item name="android:textColor">@drawable/public_text_color_selector</item>
+        <item name="android:minHeight">@dimen/phone_public_second_panel_radiobutton_height</item>
+    </style>
+    <style name="writer_CheckBox" parent="@style/public_checkbox_base">
+        <item name="android:textColor">@drawable/public_text_color_selector</item>
+        <item name="android:minHeight">@dimen/phone_public_second_panel_radiobutton_height</item>
+    </style>
+    <style name="phone_home_toggle_button">
+        <item name="android:background">@drawable/phone_home_toggle_button_selector</item>
+        <item name="android:layout_width">65.0dip</item>
+        <item name="android:layout_height">25.0dip</item>
+        <item name="android:textOn">@null</item>
+        <item name="android:textOff">@null</item>
+    </style>
+    <style name="documents_history_record_item_color_point_widget">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">30.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+    </style>
+    <style name="PptDefaultText">
+        <item name="android:textSize">@dimen/phone_public_large_text_size</item>
+        <item name="android:textColor">@color/phone_public_default_text_color</item>
+    </style>
+</resources>

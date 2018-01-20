@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_picker">
+        <item>أزرق مخضر</item>
+        <item>أزرق</item>
+        <item>نيلي</item>
+        <item>أرجواني</item>
+        <item>قرنفلي</item>
+        <item>أحمر</item>
+    </string-array>
+</resources>

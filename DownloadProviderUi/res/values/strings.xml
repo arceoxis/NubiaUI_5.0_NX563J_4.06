@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Downloads</string>
+    <string name="download_title_sorted_by_date">Downloads - Sort by date</string>
+    <string name="download_title_sorted_by_size">Downloads - Sort by size</string>
+    <string name="no_downloads">No downloads.</string>
+    <string name="missing_title">&lt;Unknown></string>
+    <string name="button_sort_by_size">Sort by size</string>
+    <string name="button_sort_by_date">Sort by date</string>
+    <string name="download_queued">Queued</string>
+    <string name="download_running">Downloading</string>
+    <string name="download_success">Done</string>
+    <string name="download_error">Failed</string>
+    <string name="dialog_title_not_available">Unable to download</string>
+    <string name="dialog_failed_body">Do you want to retry download the file later or delete it from the queue?</string>
+    <string name="dialog_title_queued_body">Files waiting to download</string>
+    <string name="dialog_queued_body">This file is now unavailable because it is queued for download</string>
+    <string name="dialog_file_missing_body">"Can't find the downloaded file."</string>
+    <string name="dialog_insufficient_space_on_external">"Can't complete downloading due to insufficient external storage."</string>
+    <string name="dialog_insufficient_space_on_cache">"Can't finish download. There isn't enough space in internal download storage."</string>
+    <string name="dialog_cannot_resume">"Download was interrupted and can't be resumed."</string>
+    <string name="dialog_file_already_exists">"Can't download. The destination file already exists."</string>
+    <string name="dialog_media_not_found">"Can't download. The external media isn't available."</string>
+    <string name="download_no_application_title">"Can't open file"</string>
+    <string name="remove_download">Delete</string>
+    <string name="delete_download">Delete</string>
+    <string name="keep_queued_download">Reserve</string>
+    <string name="cancel_running_download">Cancel</string>
+    <string name="retry_download">Retry</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="select_all">Select all</string>
+    <string name="selected_count">%1$d selected, total %2$d</string>
+    <string name="selected_count_default">%1$d items selected</string>
+    <string name="download_share_dialog">Share via</string>
+    <string name="download_select_all">Select all</string>
+    <string name="download_unselect_all">Unselect all</string>
+    <string name="dialog_title">Delete</string>
+    <string name="dialog_message">Delete the selected item(items)?</string>
+    <string name="dialog_ok_btn">OK</string>
+    <string name="dialog_no_btn">Cancel</string>
+    <string name="menu_share">Share</string>
+    <string name="toast_share_fail">"Sharing failed. The files don't exist or are not downloaded completely"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">有公開的 Wi-Fi 網絡可以連接</item>
+        <item quantity="one">有公開的 Wi-Fi 網絡可以連接</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bookshelf_gridview_item_horizontalSpacing">5.0dip</dimen>
+    <dimen name="bookshelf_gridview_item_with">96.0dip</dimen>
+    <dimen name="guide_view_text_size">11.0sp</dimen>
+</resources>

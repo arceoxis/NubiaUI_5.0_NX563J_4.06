@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_set">
+        <item>"%1$s dans moins d'une minute."</item>
+        <item>%1$s dans %2$s.</item>
+        <item>%1$s dans %3$s.</item>
+        <item>%1$s dans %2$s et %3$s.</item>
+        <item>%1$s dans %4$s.</item>
+        <item>%1$s dans %2$s et %4$s.</item>
+        <item>%1$s dans %3$s et %4$s.</item>
+        <item>%1$s dans %2$s, %3$s et %4$s.</item>
+    </string-array>
+</resources>

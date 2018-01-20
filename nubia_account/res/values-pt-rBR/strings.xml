@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vip_account_tag">VIP</string>
+    <string name="account_details_usermane">Nome de usuário</string>
+    <string name="account_details_email">E-mail</string>
+    <string name="account_details_phone">Celular</string>
+    <string name="account_details_change_password">Alterar senha</string>
+    <string name="account_details_account_logout">Terminar sessão</string>
+    <string name="logout_dialog_eamil_address_title">E-mail:</string>
+    <string name="account_details_take_photo">Tirar foto</string>
+    <string name="str_pptv_vip" />
+</resources>

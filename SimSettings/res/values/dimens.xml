@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sim_dialog_margin_top">8.0dip</dimen>
+    <dimen name="sim_dialog_margin_bottom">16.0dip</dimen>
+    <dimen name="sim_dialog_padding">8.0dip</dimen>
+    <dimen name="sim_label_padding">16.0dip</dimen>
+    <dimen name="sim_content_padding">24.0dip</dimen>
+    <dimen name="color_swatch_size">16.0dip</dimen>
+    <dimen name="color_swatch_stroke_width">4.0dip</dimen>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MusicPicker</string>
+    <string name="unknown_artist_name">Artista sconosciuto</string>
+    <string name="unknown_album_name">Album sconosciuto</string>
+    <string name="sdcard_missing_message">Il telefono non contiene una scheda SD.</string>
+    <string name="no_recordfile">Nessun file di registrazione</string>
+    <string name="add_recordfile">Registra prima il file mediante il registratore suoni.</string>
+    <string name="no_musicfile">Nessun file di musica</string>
+    <string name="silent">Silenzioso</string>
+    <string name="cancel_picker">Annulla</string>
+    <string name="ok_picker">Ok</string>
+    <string name="custom_ring">Suoneria predefinita</string>
+    <string name="cut_fail">Impossibile tagliare il file</string>
+    <string name="cut_success">Taglio e impostazione eseguiti correttamente</string>
+    <string name="cut_copy">_copy</string>
+    <string name="dlg_wait">Taglio</string>
+    <string name="dlg_title">Impostazioni suoneria</string>
+    <string name="dlg_message">Impostare questo file come suoneria del telefono?</string>
+    <string name="dlg_yes">sì</string>
+    <string name="dlg_no">no</string>
+    <string name="internal_media">Multimediale interno</string>
+    <string name="external_media">Musica locale</string>
+    <string name="record_media">Registratore suoni</string>
+    <string name="picker_title">Suoneria e vibrazione</string>
+    <string name="picker_ringer_silent_mode">Il telefono è in stato %s, aumenta il volume</string>
+    <string name="picker_silent_mode">No audio</string>
+    <string name="picker_vibrate_mode">Vibrazione</string>
+    <string name="wait_loading">Caricamento dei dati in corso...</string>
+    <string name="music_file_unexist">Il file non esiste</string>
+</resources>

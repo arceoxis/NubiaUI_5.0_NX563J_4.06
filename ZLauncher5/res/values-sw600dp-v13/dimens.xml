@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cling_migration_logo_height">400.0dip</dimen>
+    <dimen name="cling_migration_logo_width">274.0dip</dimen>
+    <dimen name="cling_migration_bg_shift">-300.0dip</dimen>
+    <dimen name="cling_migration_content_margin">64.0dip</dimen>
+    <dimen name="cling_migration_content_width">280.0dip</dimen>
+    <dimen name="apps_customize_tab_bar_height">60.0dip</dimen>
+    <dimen name="apps_customize_tab_bar_margin_top">8.0dip</dimen>
+    <dimen name="app_icon_size">64.0dip</dimen>
+    <dimen name="app_widget_preview_label_margin_top">8.0dip</dimen>
+    <item type="dimen" name="app_widget_preview_label_margin_left">@dimen/app_widget_preview_padding_left</item>
+    <item type="dimen" name="app_widget_preview_label_margin_right">@dimen/app_widget_preview_padding_right</item>
+</resources>

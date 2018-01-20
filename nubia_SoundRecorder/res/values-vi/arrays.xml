@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Xóa, 320kbps, mp3</item>
+        <item>Tiêu chuẩn, 128kbps, mp3</item>
+        <item>Hiệu quả dùng dung lượng, 12.8kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Xóa</item>
+        <item>Tiêu chuẩn</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Điện thoại/neoRecorder</item>
+        <item>Thẻ SD/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Điện thoại/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Nhạc chuông cuộc gọi</item>
+        <item>Chuông tín hiệu báo</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>Thẻ SIM 1</item>
+        <item>Thẻ SIM 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Chụp ảnh</item>
+        <item>Chọn một bức ảnh từ Bộ Sưu tập</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Xem ảnh</item>
+        <item>Xóa ảnh</item>
+        <item>Chụp ảnh mới</item>
+        <item>Chọn một bức ảnh mới từ Bộ Sưu tập</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Lưu gộp</item>
+        <item>Lưu riêng</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Sắp xếp theo thời gian</item>
+        <item>Sắp xếp theo thẻ</item>
+        <item>Sắp xếp theo khoảng thời gian</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bookshelf_gridview_item_horizontalSpacing">5.0dip</dimen>
+    <dimen name="bookshelf_gridview_item_with">96.0dip</dimen>
+    <dimen name="bksh_recommend_content_size">14.0sp</dimen>
+    <dimen name="local_book_add_shelf_width">114.0dip</dimen>
+    <dimen name="local_book_delete_book_width">56.0dip</dimen>
+    <dimen name="local_book_font_size_medium_">14.0sp</dimen>
+    <dimen name="splash_category_icon_top">7.0dip</dimen>
+    <dimen name="cloud_book_store_status_width">60.0dip</dimen>
+    <dimen name="guide_view_text_size">14.0sp</dimen>
+</resources>

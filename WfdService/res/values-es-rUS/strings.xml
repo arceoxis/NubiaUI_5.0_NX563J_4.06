@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio Wfd</string>
+    <string name="perm_label">Stack de emisión de pantalla vía Wi-Fi de QC</string>
+    <string name="perm_desc">Acceder a las APIs del Stack de Emisión de pantalla vía Wi-Fi de Qualcomm</string>
+    <string name="wfd_service">Servicio de proyección en pantalla</string>
+    <string name="mirroring_on">El servicio de proyección en pantalla se está ejecutando</string>
+    <string name="tosat_standby">Proyección en pantalla suspendida</string>
+    <string name="wifi_display_notification_connected_title">Proyectando</string>
+    <string name="wifi_display_notification_disconnect">Desconectar</string>
+    <string name="wifi_display_notification_touch_for_detail">Tocar para más información</string>
+    <string name="wifi_display_notification_sink_detail">Por favor, no apague WLAN</string>
+</resources>

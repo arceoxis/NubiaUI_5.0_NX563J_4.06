@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daya mati dan menyala terjadwal</string>
+    <string name="timer_switch">Sakelar Timer</string>
+    <string name="switch_on">Daya menyala terjadwal</string>
+    <string name="switch_off">Pematian terjadwal</string>
+    <string name="every_day">Setiap hari</string>
+    <string name="switch_on_time">Atur waktu mulai</string>
+    <string name="switch_off_time">Atur waktu dimatikan</string>
+    <string name="date_time_24hour">Gunakan format 24 jam</string>
+    <string name="date_time_date_format">Pilih format tanggal</string>
+    <string name="label">Label</string>
+    <string name="switch_repeat">Ulangi</string>
+    <string name="expand_switch">Perluas sakelar</string>
+    <string name="collapse_switch">Ciutkan sakelar</string>
+    <string name="reset_switch">Reset sakelar</string>
+    <string name="day">1 hari</string>
+    <string name="days">%s hari</string>
+    <string name="hour">1 jam</string>
+    <string name="hours">%s jam</string>
+    <string name="minute">1 menit</string>
+    <string name="minutes">%s menit</string>
+    <string name="never">Tidak pernah</string>
+    <string name="day_concat">", "</string>
+    <string name="switch_off_dialog_cancel">Batal</string>
+    <string name="switch_off_dialog_ok">Matikan</string>
+    <string name="switch_off_dialog_title">Pematian terjadwal</string>
+    <string name="switch_off_message">Telepon Anda akan dimatikan dalam %s detik</string>
+    <string name="switch_off_message_second">Telepon Anda akan dimatikan dalam %s detik</string>
+    <string name="done_label">Selesai</string>
+    <string name="hour_picker_description">Penggeser putar jam</string>
+    <string name="minute_picker_description">Penggeser putar menit</string>
+    <string name="select_hours">Pilih jam</string>
+    <string name="select_minutes">Pilih menit</string>
+    <string name="day_picker_description">Kisi hari pada bulan</string>
+    <string name="year_picker_description">Daftar tahun</string>
+    <string name="select_day">Pilih bulan dan hari</string>
+    <string name="select_year">Pilih tahun</string>
+    <string name="item_is_selected">%1$s dipilih</string>
+    <string name="deleted_key">%1$s dihapus</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="attachment_tile_min_size">180.0dip</dimen>
+    <dimen name="attachment_tile_max_size">254.0dip</dimen>
+    <dimen name="conversation_message_content_margin_side">32.0dip</dimen>
+    <dimen name="conversation_view_margin_side">24.0dip</dimen>
+    <dimen name="conversation_view_snack_bar_margin">16.0dip</dimen>
+    <dimen name="conversation_header_padding_side">36.0dip</dimen>
+    <dimen name="conversation_border_margin_side">24.0dip</dimen>
+    <dimen name="message_details_header_padding_start_expanded">88.0dip</dimen>
+    <dimen name="message_details_header_padding_end">24.0dip</dimen>
+    <dimen name="message_header_icon_additional_margin_start">32.0dip</dimen>
+    <dimen name="message_header_action_button_margin_top">8.0dip</dimen>
+    <dimen name="message_header_text_margin_top">22.0dip</dimen>
+    <dimen name="message_header_margin_bottom">24.0dip</dimen>
+    <dimen name="super_collapsed_stroke_margin_start">52.0dip</dimen>
+    <dimen name="message_header_icon_margin">24.0dip</dimen>
+    <dimen name="snack_bar_min_width">288.0dip</dimen>
+    <dimen name="snack_bar_max_width">320.0dip</dimen>
+    <dimen name="wait_padding">32.0dip</dimen>
+    <dimen name="attachment_padding_start">32.0dip</dimen>
+    <dimen name="attachment_padding_end">24.0dip</dimen>
+    <dimen name="empty_view_text_width">380.0dip</dimen>
+    <dimen name="empty_view_space">16.0dip</dimen>
+    <dimen name="compose_wrapper_top_padding">16.0dip</dimen>
+    <dimen name="compose_wrapper_side_padding">24.0dip</dimen>
+    <dimen name="compose_area_start_padding">32.0dip</dimen>
+    <dimen name="compose_area_end_padding">32.0dip</dimen>
+    <dimen name="compose_content_start_padding">8.0dip</dimen>
+    <dimen name="compose_content_end_padding">8.0dip</dimen>
+    <dimen name="action_bar_content_inset_start">60.0dip</dimen>
+    <dimen name="chip_wrapper_start_padding">64.0dip</dimen>
+    <dimen name="search_view_width">400.0dip</dimen>
+</resources>

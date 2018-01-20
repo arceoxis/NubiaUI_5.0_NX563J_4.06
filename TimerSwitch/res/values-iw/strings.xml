@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done_label">בוצע</string>
+    <string name="hour_picker_description">מחוון שעות מעגלי</string>
+    <string name="minute_picker_description">מחוון דקות מעגלי</string>
+    <string name="select_hours">בחר שעות</string>
+    <string name="select_minutes">בחר דקות</string>
+    <string name="day_picker_description">בחירת ימים בחודש בתצוגת רשת</string>
+    <string name="year_picker_description">רשימת שנים</string>
+    <string name="select_day">בחר חודש ויום</string>
+    <string name="select_year">בחר שנה</string>
+    <string name="item_is_selected">בחרת %1$s</string>
+    <string name="deleted_key">%1$s נמחק</string>
+</resources>

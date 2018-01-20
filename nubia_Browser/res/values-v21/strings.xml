@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_transport_prev_description">Previous track</string>
+    <string name="lockscreen_transport_next_description">Next track</string>
+    <string name="lockscreen_transport_pause_description">Pause</string>
+    <string name="lockscreen_transport_play_description">Play</string>
+    <string name="lockscreen_transport_stop_description">Stop</string>
+    <string name="lockscreen_transport_rew_description">Rewind</string>
+    <string name="lockscreen_transport_ffw_description">Fast forward</string>
+</resources>

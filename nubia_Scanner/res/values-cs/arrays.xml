@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>Ne</item>
+        <item>Pon</item>
+        <item>Út</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Ned.</item>
+        <item>Pon.</item>
+        <item>Út.</item>
+        <item>Stř.</item>
+        <item>Čt.</item>
+        <item>Pá.</item>
+        <item>So.</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Led.</item>
+        <item>Únor</item>
+        <item>Bře.</item>
+        <item>Dub.</item>
+        <item>Květ.</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srp.</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>List.</item>
+        <item>Pros.</item>
+    </string-array>
+</resources>

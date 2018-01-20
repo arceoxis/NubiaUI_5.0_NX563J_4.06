@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>tanda kurung kiri</item>
+        <item>tanda kurung kanan</item>
+        <item>faktorial</item>
+        <item>logaritma asli</item>
+        <item>logaritma</item>
+        <item>punca kuasa dua</item>
+        <item>dibahagi dengan</item>
+        <item>didarab dengan</item>
+        <item>tanda campur</item>
+        <item>tolak</item>
+        <item> mata </item>
+        <item>kuasa</item>
+        <item>tangen</item>
+        <item>sinus</item>
+        <item>kosinus</item>
+        <item>pi</item>
+        <item>sama dengan</item>
+    </string-array>
+</resources>

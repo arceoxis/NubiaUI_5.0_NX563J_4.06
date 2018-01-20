@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input">"请写下意见和建议 
+ 以帮助我们改进产品"</string>
+    <string name="content">请输入内容(200字数以内)</string>
+    <string name="email">请输入您的邮箱地址</string>
+    <string name="send">发送</string>
+    <string name="cancel">取消</string>
+    <string name="email_error">您输入的邮箱格式有误</string>
+    <string name="zfeedback_network_error">网络不可用</string>
+    <string name="zfeedback_success">发送成功</string>
+    <string name="zfeedback_failure">发送失败</string>
+    <string name="zfeedback_time_out">连接超时，请稍候在试</string>
+    <string name="app_name">nubia商城</string>
+    <string name="shortcut_contact_customer_title">联系客服</string>
+    <string name="shortcut_cart">购物车</string>
+    <string name="shortcut_account">账户</string>
+</resources>

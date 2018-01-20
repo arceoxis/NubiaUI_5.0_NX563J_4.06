@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Establecerpáginamanualsimple</string>
+    <string name="action_settings">Configuración</string>
+    <string name="welcome_to_single">Bienvenido al modo manual simple</string>
+    <string name="welcome_to_single2">Haga clic en la pantalla para obtener SU modo manual simple</string>
+    <string name="test_single1">ponga su dedo en la pantalla</string>
+    <string name="test_single2">estire su dedo pulgar dibuje un arco en la pantalla</string>
+    <string name="test_single_invalid">dibuje un arco en la pantalla</string>
+    <string name="show_single">modo manual simple que mejor se ajuste a su mano</string>
+    <string name="try_more">vuelva a intentar</string>
+    <string name="begin">empiece a usar</string>
+    <string name="welcome_to_begin">Bienvenido a SU modo manual simple</string>
+</resources>

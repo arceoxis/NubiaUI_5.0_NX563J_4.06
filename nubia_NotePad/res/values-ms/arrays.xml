@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>Ahad</item>
+        <item>Isn</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Khamis</item>
+        <item>Jumaat</item>
+        <item>Sabtu</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>Aha.</item>
+        <item>Isn.</item>
+        <item>Sel.</item>
+        <item>Rab.</item>
+        <item>Kha.</item>
+        <item>Jum.</item>
+        <item>Sab.</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mac</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Julai</item>
+        <item>Ogos</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Disember</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mac</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Julai</item>
+        <item>Ogos</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Disember</item>
+    </string-array>
+    <string-array name="share_item">
+        <item>kongsi teks</item>
+        <item>kongsi gambar</item>
+    </string-array>
+    <string-array name="notepad_sync_choice">
+        <item>Teruskan</item>
+    </string-array>
+</resources>

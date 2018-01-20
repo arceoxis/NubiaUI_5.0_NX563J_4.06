@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>Wiadomość tekstowa spam</item>
+        <item>Rozmowy molestujące seksualnie</item>
+        <item>Zarządzanie blokowaniem</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>Kiedy są urodziny mojej matki?</item>
+        <item>Kiedy są urodziny mojego ojca?</item>
+        <item>Kto jest najważniejszą osobą w moim życiu?</item>
+        <item>Do jakiego miejsca lubisz najbardziej chodzić?</item>
+        <item>Jaki jest mój ulubiony kolor?</item>
+        <item>Jaki dzień jest najważniejszym dniem w moim życiu?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Akceptuj tylko od kontaktów z Białej listy</item>
+        <item>Blokuj tylko połączenia z Czarnej listy</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0.0</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>SMS spam</item>
+        <item>Pomyłki</item>
+        <item>Menedżer blokowania</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Najnowsze</item>
+        <item>Kontakt</item>
+        <item>SMS</item>
+        <item>Ręczna</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>SMS</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Zarządzanie Czarną listą</item>
+        <item>Ustawienia blokowania</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>Anuluj</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Przechwytywanie wszystkich</item>
+        <item>Przechwytywanie z Czarnej listy</item>
+        <item>Przechwytywanie od Nieznanych</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Połączenie</item>
+        <item>Dodaj czarną listę</item>
+        <item>usuń kontakty</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>Usuń numer z czarnej listy</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Dozwolone</item>
+        <item>Zignorowane</item>
+        <item>Zawsze pytaj</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Prywatność</item>
+        <item>Bezpieczeństwo</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Przybliżona lokalizacja</item>
+        <item>Dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>modyfikuj kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>modyfikuj dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Skanowanie WLAN</item>
+        <item>Powiadomienie</item>
+        <item>skan sieci mobilnej</item>
+        <item>Wykonuj połączenia</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Wyślij SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Otrzymuj awaryjne wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj WAP push</item>
+        <item>Wyślij SMS</item>
+        <item>czytaj ICC SMS</item>
+        <item>Napisz ICC SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>Włącz WLAN</item>
+        <item>Włącz Bluetooth</item>
+        <item>Włącz Dane Mobilne</item>
+        <item>Wyślij MMS-a</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Wyślij MMS-a</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>modyfikuj kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>modyfikuj dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Lokalizacja</item>
+        <item>Powiadomienie o poczcie</item>
+        <item>Lokalizacja</item>
+        <item>Wykonuj połączenia</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Wyślij SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Wyślij SMS</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>Włącz WLAN</item>
+        <item>Włącz Bluetooth</item>
+        <item>Włącz Dane Mobilne</item>
+        <item>Wyślij MMS-a</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Wyślij MMS-a</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Przybliżona lokalizacja</item>
+        <item>Dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>modyfikuj kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>modyfikuj dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Skanowanie WLAN</item>
+        <item>Powiadomienie</item>
+        <item>skan sieci mobilnej</item>
+        <item>Wykonuj połączenia</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Otrzymuj awaryjne wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj WAP push</item>
+        <item>Wyślij SMS</item>
+        <item>czytaj ICC SMS</item>
+        <item>Napisz ICC SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimedialne</item>
+        <item>ostrość dźwięku</item>
+        <item>główna głośność</item>
+        <item>Głośność głosu</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność budzika</item>
+        <item>Głośność powiadomień</item>
+        <item>Objętość Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>położenie monitora</item>
+        <item>monitoruj lokalizację o dużej mocy</item>
+        <item>Włącz WLAN</item>
+        <item>Włącz Bluetooth</item>
+        <item>Włącz Dane Mobilne</item>
+        <item>Wyślij MMS-a</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>utwórz MMS</item>
+        <item>autostart</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>modyfikuj kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>modyfikuj dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Lokalizacja</item>
+        <item>Powiadomienie o poczcie</item>
+        <item>Lokalizacja</item>
+        <item>Wykonuj połączenia</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Wyślij SMS</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimedialne</item>
+        <item>ostrość dźwięku</item>
+        <item>główna głośność</item>
+        <item>Głośność głosu</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność budzika</item>
+        <item>Głośność powiadomień</item>
+        <item>Objętość Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Włącz WLAN</item>
+        <item>Włącz Bluetooth</item>
+        <item>Włącz Dane Mobilne</item>
+        <item>Wyślij MMS-a</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>utwórz MMS</item>
+        <item>autostart</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Przybliżona lokalizacja</item>
+        <item>Dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>utwórz kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>utwórz dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Skanowanie WLAN</item>
+        <item>Powiadomienie</item>
+        <item>skan sieci mobilnej</item>
+        <item>połączenie telefoniczne</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Otrzymuj awaryjne wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj WAP push</item>
+        <item>Wyślij SMS</item>
+        <item>czytaj ICC SMS</item>
+        <item>Napisz ICC SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimedialne</item>
+        <item>ostrość dźwięku</item>
+        <item>główna głośność</item>
+        <item>Głośność głosu</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność budzika</item>
+        <item>Głośność powiadomień</item>
+        <item>Objętość Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>położenie monitora</item>
+        <item>monitoruj lokalizację o dużej mocy</item>
+        <item>uzyskaj statystyki wykorzystania</item>
+        <item>Wycisz/wyłącz wyciszenie mikrofonu</item>
+        <item>okno typu toast</item>
+        <item>multimedia projektu</item>
+        <item>VPN aktywowane</item>
+        <item>Włącz WLAN</item>
+        <item>Włącz Bluetooth</item>
+        <item>Wyślij MMS-a</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>utwórz MMS</item>
+        <item>autostart</item>
+        <item>Otwarty NFC</item>
+        <item>usuń wiadomość SMS</item>
+        <item>usuń wiadomość MMS</item>
+        <item>usuń kontakty</item>
+        <item>Usuń rejestr połączeń</item>
+        <item>Włącz Dane Mobilne</item>
+        <item>Zainstaluj skrót</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>utwórz kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>utwórz dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Lokalizacja</item>
+        <item>Powiadomienie o poczcie</item>
+        <item>Lokalizacja</item>
+        <item>połączenie telefoniczne</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Wyślij SMS</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimedialne</item>
+        <item>ostrość dźwięku</item>
+        <item>główna głośność</item>
+        <item>Głośność głosu</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność budzika</item>
+        <item>Głośność powiadomień</item>
+        <item>Objętość Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>uzyskaj statystyki wykorzystania</item>
+        <item>Wycisz/wyłącz wyciszenie mikrofonu</item>
+        <item>okno typu toast</item>
+        <item>multimedia projektu</item>
+        <item>VPN aktywowane</item>
+        <item>Włącz WLAN</item>
+        <item>Włącz Bluetooth</item>
+        <item>Wyślij MMS-a</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>utwórz MMS</item>
+        <item>autostart</item>
+        <item>Otwarty NFC</item>
+        <item>usuń wiadomość SMS</item>
+        <item>usuń wiadomość MMS</item>
+        <item>usuń kontakty</item>
+        <item>Usuń rejestr połączeń</item>
+        <item>Zmiana danych</item>
+        <item>Zainstaluj skrót</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracja</item>
+        <item>czytaj kontakty</item>
+        <item>modyfikuj kontakty</item>
+        <item>czytaj dziennik połączeń</item>
+        <item>modyfikuj dziennik połączeń</item>
+        <item>czytaj kalendarz</item>
+        <item>modyfikuj kalendarz</item>
+        <item>Lokalizacja</item>
+        <item>Powiadomienie o poczcie</item>
+        <item>Lokalizacja</item>
+        <item>połączenie telefoniczne</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Odbieraj wiadomości MMS</item>
+        <item>Odbieraj wiadomości SMS</item>
+        <item>Wyślij SMS</item>
+        <item>Czytaj SMS/MMS</item>
+        <item>Napisz SMS</item>
+        <item>modyfikuj ustawienia</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>powiadomienia dostępu</item>
+        <item>Aparat</item>
+        <item>Zapisz dźwięk</item>
+        <item>Odtwórz audio</item>
+        <item>czytaj ze schowka</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimedialne</item>
+        <item>ostrość dźwięku</item>
+        <item>główna głośność</item>
+        <item>Głośność głosu</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność budzika</item>
+        <item>Głośność powiadomień</item>
+        <item>Objętość Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>uzyskaj statystyki wykorzystania</item>
+        <item>Wycisz/wyłącz wyciszenie mikrofonu</item>
+        <item>okno typu toast</item>
+        <item>multimedia projektu</item>
+        <item>VPN aktywowane</item>
+        <item>Pisz na tapecie</item>
+        <item>Pomóż strukturze</item>
+        <item>Pomóż w wykonaniu zrzutu ekranu</item>
+        <item>czytaj stan telefonu</item>
+        <item>dodaj wiadomość głosową</item>
+        <item>użyj sip</item>
+        <item>przetwarzanie połączeń wychodzących</item>
+        <item>użyj odcisku palca</item>
+        <item>czujniki ciała</item>
+        <item>czytaj transmisje danych komórkowych</item>
+        <item>symuluj lokalizację</item>
+        <item>czytaj pamięć zewnętrzną</item>
+        <item>Pisz w pamięci zewnętrznej</item>
+        <item>włącz ekran</item>
+        <item>uzyskaj konta</item>
+        <item>zmiana wLAN</item>
+        <item>Zmień Bluetooth</item>
+        <item>Wyślij MMS-a</item>
+        <item>utwórz MMS</item>
+        <item>usuń wiadomość SMS</item>
+        <item>usuń wiadomość MMS</item>
+        <item>usuń kontrakty</item>
+        <item>Usuń rejestr połączeń</item>
+        <item>Zainstaluj skrót</item>
+        <item>uruchom w tle</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Uprawnienia</item>
+        <item>Aplikacja</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Klasa prywatności</item>
+        <item>Klasa podstawowa</item>
+        <item>Informuj klasę</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Połączenie</item>
+        <item>Kontakty</item>
+        <item>Wiadomości</item>
+        <item>MMS</item>
+        <item>Informacje o lokalizacji</item>
+        <item>Kalendarz</item>
+        <item>MIKROFON</item>
+        <item>Aparat</item>
+        <item>Czujnik ciała</item>
+        <item>Wielkość pamięci</item>
+        <item>Zmień Wifi</item>
+        <item>zmień bluetooth</item>
+        <item>Zmień ustawienia</item>
+        <item>Zainstaluj skrót</item>
+        <item>Wyświetl wyskakujące okienka</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Zainstaluj pakiet</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Zezwól</item>
+        <item>Pytaj</item>
+        <item>Zabroń</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Zezwól</item>
+        <item>Zabroń</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Klasa prywatności</item>
+        <item>Klasa podstawowa</item>
+        <item>Informuj klasę</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Ręcznie dodaj aplikacje do autostartu</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Prześlij</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Tylko ręczna kalibracja</item>
+        <item>Automatyczna kalibracja codziennie</item>
+        <item>Automatyczna kalibracja co trzy dni</item>
+        <item>Automatyczna kalibracja co tydzień</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Usuń wszystkie rekordy</item>
+        <item>Przekaż dalej</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Dodaj</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Zaproś partnera do przyłączenia się do gry Zabawa w chowanego. Wygraj gwiazdę wykonując próbę systemu antykradzieżowego!</item>
+        <item>"1. Niech twoi przyjaciele ukryją twój telefon 
+"</item>
+        <item>"2. Przyjdź i szukaj go, znalazłem 
+"</item>
+        <item>"3. Nie mogę go znaleźć. Co mam robić? 
+"</item>
+        <item>4. Nie ma sprawy! Zaufaj nubia NeoSafe!</item>
+        <item>"5. Użyj innego telefonu, aby wysłać wiadomość tekstową zawierającą 信 牛 盾 do swojego własnego telefonu i postępuj zgodnie z instrukcjami 
+"</item>
+        <item>"OK, mam gwiazdy w ręku. To takie proste! Nie martw się, gdzie położyłeś swój telefon! Pamiętaj, że twój telefon musi mieć włączoną funkcję odbierania wiadomości tekstowych. 
+Pokaż to teraz swoim znajomym!"</item>
+    </string-array>
+</resources>

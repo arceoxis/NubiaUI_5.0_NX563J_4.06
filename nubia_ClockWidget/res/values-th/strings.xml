@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClockWidget</string>
+    <string name="digital_clock_widget">นาฬิกาดิจิตอลโลก</string>
+    <string name="analog_clock_widget">นาฬิกาอนาล็อกโลก</string>
+    <string name="digital_big_clock_widget">นาฬิกาดิจิทัล</string>
+    <string name="analog_big_clock_widget">นาฬิกาอนาล็อก</string>
+    <string name="month">เดือน</string>
+    <string name="day">วัน</string>
+    <string name="am">Am</string>
+    <string name="pm">Pm</string>
+    <string name="monday">วันจันทร์</string>
+    <string name="tuesday">วันอังคาร</string>
+    <string name="wednesday">วันพุธ</string>
+    <string name="thursday">วันพฤหัสบดี</string>
+    <string name="friday">วันศุกร์</string>
+    <string name="saturday">วันเสาร์</string>
+    <string name="sunday">วันอาทิตย์</string>
+</resources>

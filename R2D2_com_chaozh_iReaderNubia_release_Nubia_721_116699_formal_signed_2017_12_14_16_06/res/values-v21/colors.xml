@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+    <color name="color_common_accent">@color/color_mix_accent</color>
+    <color name="color_common_accent_disable">@color/color_mix_accent_disable</color>
+    <color name="color_common_accent_pressed">@color/color_mix_accent_pressed</color>
+    <color name="color_common_area_pressed">@color/color_mix_area_pressed</color>
+    <color name="color_common_divider_line">@color/color_mix_divider_line</color>
+    <color name="color_common_divider_sect">@color/color_mix_divider_sect</color>
+    <color name="color_common_stub">@color/color_mix_stub</color>
+    <color name="color_common_stub_pressed">@color/color_mix_stub_pressed</color>
+    <color name="color_common_text_accent">@color/color_mix_accent</color>
+    <color name="color_common_text_accent_pressed">@color/color_mix_accent_pressed</color>
+    <color name="color_common_text_disable">@color/color_mix_disable</color>
+    <color name="color_common_text_hint">@color/color_mix_hint</color>
+    <color name="color_common_text_primary">@color/color_mix_text_primary</color>
+    <color name="color_common_text_primary_pressed">@color/color_mix_text_primary_pressed</color>
+    <color name="color_common_text_secondary">@color/color_mix_text_secondary</color>
+    <color name="color_common_text_secondary_pressed">@color/color_mix_text_secondary_pressed</color>
+    <color name="color_common_text_tertiary">@color/color_mix_text_tertiary</color>
+    <color name="color_common_text_tertiary_pressed">@color/color_mix_text_tertiary_pressed</color>
+    <color name="color_common_theme_background">@color/colorPrimary</color>
+    <color name="color_common_window_background">@color/windowBackground</color>
+    <color name="color_control_normal">@color/color_mix_control_normal</color>
+    <color name="color_dark_divider_line">@color/color_mix_dark_divider_line</color>
+    <color name="color_dark_divider_sect">@color/color_mix_dark_divider_sect</color>
+    <color name="color_dark_text_disable">@color/color_mix_dark_disable</color>
+    <color name="color_dark_text_primary">@color/color_mix_dark_text_primary</color>
+    <color name="color_dark_text_primary_pressed">@color/color_mix_dark_text_primary_pressed</color>
+    <color name="color_dark_text_secondary">@color/color_mix_dark_text_secondary</color>
+    <color name="color_dark_text_secondary_pressed">@color/color_mix_dark_text_secondary_pressed</color>
+    <color name="color_dark_text_tertiary">@color/color_mix_dark_text_tertiary</color>
+    <color name="color_dark_text_tertiary_pressed">@color/color_mix_dark_text_tertiary_pressed</color>
+    <color name="color_read_menu_control">@color/color_mix_read_menu_control</color>
+    <color name="color_read_menu_text">@color/color_mix_read_menu_text</color>
+</resources>

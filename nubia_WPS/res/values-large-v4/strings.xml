@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="history_record_gallery_view_item_textview_maxlines_horizontal">5</string>
+    <string name="history_record_gallery_view_item_textview_maxlines_vertical">5</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modo de una mano</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="welcome_to_single">Bienvenido al modo de una mano</string>
+    <string name="welcome_to_single2">Toque la pantalla para obtener el mejor modo de una mano mas apropiado</string>
+    <string name="test_single1">Ponga su pulgar</string>
+    <string name="test_single2">Tenga el teléfono con una mano Extienda su pulgar para dibujar un arco</string>
+    <string name="test_single_invalid">Ponga su pulgar en la pantalla para dibujar un arco</string>
+    <string name="show_single">Modo de una mano mas apropiado para su mano</string>
+    <string name="try_more">Intentelo nuevamente</string>
+    <string name="begin">Empezar a usar</string>
+    <string name="welcome_to_begin">Bienvenido a SU modo de una mano</string>
+</resources>

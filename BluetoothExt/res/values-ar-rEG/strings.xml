@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">مجموعة أدوات السيارة</string>
+    <string name="bluetooth_remember_choice">السماح دومًا</string>
+    <string name="dun_notif_ticker">طلب شبكة الطلب الهاتفي (DUN) عبر Bluetooth</string>
+    <string name="dun_notif_title">طلب مفتاح جلسة لشبكة الطلب الهاتفي (DUN)</string>
+    <string name="dun_notif_message">المس للاتصال بـ \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">كانت هناك مهلة لقبول الاتصال مع %1$s</string>
+    <string name="bluetooth_dun_request">طلب ‎DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">يرغب %1$s في استخدام شبكة الطلب الهاتفي (DUN). هل تريد السماح لـ %2$s بالوصول إليها؟</string>
+    <string name="ftp_acceptance_dialog_title">يرغب %1$s‏ في الوصول إلى مجلدات هاتفك. هل تريد السماح لـ %2$s بالوصول إليها؟</string>
+    <string name="ftp_acceptance_dialog_header">الوصول إلى مجلد الهاتف</string>
+    <string name="ftp_session_key_dialog_title">اكتب مفتاح الجلسة لـ %1$s</string>
+    <string name="ftp_session_key_dialog_header">مفتاح جلسة Bluetooth مطلوب</string>
+    <string name="ftp_acceptance_timeout_message">كانت هناك مهلة لقبول الاتصال مع %1$s</string>
+    <string name="ftp_authentication_timeout_message">كانت هناك مهلة لإدخال مفتاح الجلسة باستخدام %1$s</string>
+    <string name="ftp_notif_ticker">طلب الاتصال عبر Bluetooth</string>
+    <string name="ftp_notif_title">طلب مفتاح جلسة لشبكة الطلب الهاتفي (FTP)</string>
+    <string name="ftp_notif_message">المس للاتصال بـ \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">طلب Ftp</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s يريد الوصول إلى ملفاتك ومجلداتك. هل تريد منح الوصول إلى %2$s؟</string>
+    <string name="map_acceptance_dialog_title">يرغب %1$s‏ في الوصول إلى مجلدات هاتفك. هل تريد السماح لـ %2$s بالوصول إليها؟</string>
+    <string name="map_acceptance_dialog_header">الوصول إلى مجلد الهاتف</string>
+    <string name="map_session_key_dialog_title">اكتب مفتاح الجلسة لـ %1$s</string>
+    <string name="map_session_key_dialog_header">مفتاح جلسة Bluetooth مطلوب</string>
+    <string name="map_acceptance_timeout_message">كانت هناك مهلة لقبول الاتصال مع %1$s</string>
+    <string name="map_authentication_timeout_message">كانت هناك مهلة لإدخال مفتاح الجلسة باستخدام %1$s</string>
+    <string name="map_notif_ticker">طلب الاتصال عبر Bluetooth</string>
+    <string name="map_notif_title">طلب مفتاح جلسة لشبكة الطلب الهاتفي (MAP)</string>
+    <string name="map_notif_message">المس للاتصال بـ \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">فشل اتصال ‎.Bluetooth MAP</string>
+    <string name="bluetooth_mas_request">طلب الوصول إلى الرسالة</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s يريد الوصول إلى رسائلك. هل تريد منح الوصول إلى %2$s؟</string>
+    <string name="sap_notif_ticker">طلب الوصول إلى بطاقة عبر Bluetooth SIM</string>
+    <string name="sap_notif_title">طلب مفتاح الجلسة لـ SAP</string>
+    <string name="sap_notif_message">المس للاتصال بـ \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">كانت هناك مهلة لقبول الاتصال مع %1$s</string>
+    <string name="bluetooth_sap_request">طلب SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s يريد الوصول إلى SIM الخاصة بك. هل تريد منح الوصول إلى %2$s؟</string>
+</resources>

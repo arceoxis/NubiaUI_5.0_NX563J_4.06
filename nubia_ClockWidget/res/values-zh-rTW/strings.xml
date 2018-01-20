@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">時鐘widget</string>
+    <string name="digital_clock_widget">世界數字時鐘</string>
+    <string name="analog_clock_widget">世界模擬時鐘</string>
+    <string name="digital_big_clock_widget">數字時鐘</string>
+    <string name="analog_big_clock_widget">模擬時鐘</string>
+</resources>

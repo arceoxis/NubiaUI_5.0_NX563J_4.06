@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">時計Widget</string>
+    <string name="digital_clock_widget">デジタル世界時計</string>
+    <string name="analog_clock_widget">アナログ世界時計</string>
+    <string name="digital_big_clock_widget">デジタル時計</string>
+    <string name="analog_big_clock_widget">アナログ時計</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">月曜</string>
+    <string name="tuesday">火曜日</string>
+    <string name="wednesday">水曜日</string>
+    <string name="thursday">木曜日</string>
+    <string name="friday">金曜日</string>
+    <string name="saturday">土曜日</string>
+    <string name="sunday">日曜日</string>
+</resources>

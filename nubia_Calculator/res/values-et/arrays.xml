@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>Vasaksulg</item>
+        <item>Paremsulg</item>
+        <item>Faktoriaal</item>
+        <item>Naturaallogaritm</item>
+        <item>Logaritm</item>
+        <item>Ruutjuur</item>
+        <item>Jagaja</item>
+        <item>Korrutaja</item>
+        <item>Pluss</item>
+        <item>Miinus</item>
+        <item> koma </item>
+        <item>Aste</item>
+        <item>Tangens</item>
+        <item>Siinus</item>
+        <item>Koosinus</item>
+        <item>Pii</item>
+        <item>Võrdub</item>
+    </string-array>
+</resources>

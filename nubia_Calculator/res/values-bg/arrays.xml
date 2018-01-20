@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>лява кръгла скоба</item>
+        <item>дясна кръгла скоба</item>
+        <item>факториел</item>
+        <item>естествен логаритъм</item>
+        <item>логаритъм</item>
+        <item>корен квадратен</item>
+        <item>делено на</item>
+        <item>умножено по</item>
+        <item>плюс</item>
+        <item>минус</item>
+        <item> запетая </item>
+        <item>степен</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>равно на</item>
+    </string-array>
+</resources>

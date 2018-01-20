@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nubia_common_label">nubia</string>
+    <string name="nubia_app_name">nubia Společné nastavení</string>
+    <string name="nubia_capital_on">zapnuto</string>
+    <string name="nubia_capital_off">vypnuto</string>
+    <string name="nubia_time_picker_dialog_title">Nastavení času</string>
+    <string name="nubia_setting_date">Nastavení data</string>
+    <string name="nubia_date_year">rok</string>
+    <string name="nubia_date_month">měsíc</string>
+    <string name="nubia_date_day">den</string>
+    <string name="nubia_time_hour">hod</string>
+    <string name="nubia_time_minute">min</string>
+    <string name="nubia_text_pastelist">Schránka</string>
+    <string name="nubia_select">Vybrat</string>
+    <string name="nubia_text_copied">Text zkopírován do schránky.</string>
+    <string name="nubia_time_am">dop</string>
+    <string name="nubia_time_pm">odp</string>
+    <string name="nubia_searchview_description_clear">Vymazat hledání</string>
+    <string name="nubia_searchview_description_submit">Potvrdit hledání</string>
+    <string name="nubia_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="nubia_activity_resolver_use_always">Odesílat vždy</string>
+    <string name="nubia_activity_resolver_use_once">Pouze jednou</string>
+    <string name="nubia_notification_time_just_now">Právě teď</string>
+    <string name="nubia_notification_time_one_minute">Před minutou</string>
+    <string name="nubia_notification_minutes_time">%dPřed minutami</string>
+    <string name="nubia_notification_one_hours_minutes_time">Před hodinou a %d minutami</string>
+    <string name="nubia_notification_hours_minutes_time" formatted="false">%dhod a %dpřed min</string>
+    <string name="nubia_notification_time_one_hour">Před hodinou</string>
+    <string name="nubia_notification_hour_time">%dPřed hod</string>
+    <string name="nubia_notification_time_one_hour_one_minute">Před hodinou a 1 minutou</string>
+    <string name="nubia_notification_hours_one_minute_time">%dPřed hodinami a 1 minutou</string>
+    <string name="nubia_total_text">celkem %s</string>
+    <string name="nubia_more_popup_text">Zrušit</string>
+    <string name="nubia_empty_message">Obsah je prázdný</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_action_bar_home_description">Navigovat plochu</string>
+    <string name="abc_action_bar_up_description">Navigovat nahoru</string>
+    <string name="abc_action_menu_overflow_description">Další možnosti</string>
+    <string name="abc_toolbar_collapse_description">Zhroucení</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Vyhledávání</string>
+    <string name="abc_search_hint">Vyhledávání...</string>
+    <string name="abc_searchview_description_query">Vyhledat dotaz</string>
+    <string name="abc_searchview_description_clear">Vymazat hledání</string>
+    <string name="abc_searchview_description_submit">Potvrdit hledání</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_activitychooserview_choose_application">Zvolit apliakci</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s %s</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet s</string>
+</resources>

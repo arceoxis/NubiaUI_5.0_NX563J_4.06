@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NeoReader</string>
+    <string name="shortcut_label_search_book">Search books</string>
+    <string name="shortcut_label_share">Share\"NeoReader\"</string>
+    <string name="shortcut_label_sign">Sign in</string>
+</resources>

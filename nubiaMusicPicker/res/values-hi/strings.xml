@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">संगित पिकर</string>
+    <string name="unknown_artist_name">अलज्ञान कलाकार</string>
+    <string name="unknown_album_name">अलज्ञान एल्बम</string>
+    <string name="sdcard_missing_message">एसडी कार्ड इनसर्ट नहीं है</string>
+    <string name="no_recordfile">रिकार्डिंग नहीं है</string>
+    <string name="add_recordfile">आप के ध्वनि रिकार्डर से रिकार्ड करें</string>
+    <string name="no_musicfile">संगित फ़ाइल नहीं है</string>
+    <string name="silent">मौन</string>
+    <string name="cancel_picker">रद्द करें</string>
+    <string name="ok_picker">पुष्टि करें</string>
+    <string name="custom_ring">डिफ़ाल्ट संकेत ध्वनि</string>
+    <string name="cut_fail">इस फ़ाइल को काट नहीं सकता</string>
+    <string name="cut_success">काट और सेट सफ़ल है</string>
+    <string name="cut_copy">_कॉप हो रहा है</string>
+    <string name="dlg_wait">काट हो रहा है</string>
+    <string name="dlg_title">संकेत ध्वनि सेटिंग</string>
+    <string name="dlg_message">क्या आप उसे आप के संकेत ध्वनि में सेट करने की पुष्टि करें?</string>
+    <string name="dlg_yes">हां</string>
+    <string name="dlg_no">नहीं</string>
+    <string name="internal_media">आंतरिक मीडिया</string>
+    <string name="external_media">स्थानिय संगित</string>
+    <string name="record_media">रिकार्डिंग</string>
+    <string name="picker_title">संकेत ध्वनि</string>
+    <string name="picker_ringer_silent_mode">तत्काल स्थिति %s है,वोल्युम को चढ़ाएं</string>
+    <string name="picker_silent_mode">मौन</string>
+    <string name="picker_vibrate_mode">स्पंदन</string>
+    <string name="wait_loading">डाटा लॉड…</string>
+    <string name="music_file_unexist">फ़ाइल मौजूद नहीं है।</string>
+</resources>

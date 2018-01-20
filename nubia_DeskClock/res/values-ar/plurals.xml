@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nhours_description">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="one">ساعة واحدة</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="one">دقيقة واحدة</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">%d من الثواني</item>
+        <item quantity="one">ثانية واحدة</item>
+    </plurals>
+    <plurals name="snooze_duration">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="one">دقيقة واحدة</item>
+    </plurals>
+    <plurals name="snooze_picker_label">
+        <item quantity="other">دقائق</item>
+        <item quantity="one">دقيقة</item>
+    </plurals>
+    <plurals name="timers_num">
+        <item quantity="other">%d من المؤقتات</item>
+        <item quantity="one">دقيقة واحدة</item>
+    </plurals>
+    <plurals name="alarm_delete_confirmation">
+        <item quantity="other">هل تريد حذف المنبهات المحددة؟</item>
+        <item quantity="one">هل تريد حذف المنبه المحدد؟</item>
+    </plurals>
+</resources>

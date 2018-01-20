@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinesisch (GBK)</item>
+        <item>Chinesisch (Big5)</item>
+        <item>Japanisch (ISO-2022-JP)</item>
+        <item>Japanisch (SHIFT_JIS)</item>
+        <item>Japanisch (EUC-JP)</item>
+        <item>Koreanisch (EUC-KR)</item>
+        <item>@string/pref_default_text_encoding_default_value</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Immer an</item>
+        <item>Nach Bedarf</item>
+        <item>Aus</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Aktuelle Seite</item>
+        <item>Leere Seite</item>
+        <item>Standardseite</item>
+        <item>Meistbesuchte Websites</item>
+        <item>Andere</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Sehr klein</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Sehr groß</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Entfernt</item>
+        <item>Mittel</item>
+        <item>Nah</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nie</item>
+        <item>Nur bei WLAN</item>
+        <item>Immer</item>
+    </string-array>
+    <string-array name="setting_text_size">
+        <item>Klein</item>
+        <item>Standard</item>
+        <item>Groß</item>
+        <item>Sehr groß</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nie</item>
+        <item>Nur bei WLAN</item>
+        <item>Immer</item>
+    </string-array>
+    <string-array name="geolocation_settings_choices">
+        <item>Dauerhaft ablehnen</item>
+        <item>24 Stunden lang erlauben</item>
+        <item>Immer erlauben</item>
+        <item>Immer nachfragen</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Computer</item>
+    </string-array>
+    <string-array name="clear_data_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+        <item>privacy_clear_cookies</item>
+        <item>privacy_clear_form_pwd</item>
+    </string-array>
+    <string-array name="clear_data_text">
+        <item>Eingabeverlauf</item>
+        <item>Besuchsverlauf</item>
+        <item>Cache</item>
+        <item>Cookies</item>
+        <item>Form-Passwörter</item>
+    </string-array>
+    <string-array name="clear_data_default_key">
+        <item>privacy_clear_input_history</item>
+        <item>privacy_clear_visit_history</item>
+        <item>privacy_clear_cache</item>
+    </string-array>
+    <string-array name="setting_security_key">
+        <item>show_security_warnings</item>
+        <item>do_not_track</item>
+        <item>accept_cookies</item>
+        <item>save_formdata</item>
+        <item>enable_geolocation</item>
+        <item>remember_passwords</item>
+    </string-array>
+    <string-array name="setting_security_text">
+        <item>Sicherheitswarnungen</item>
+        <item>Nicht verfolgen</item>
+        <item>Cookies akzeptieren</item>
+        <item>Formulardaten merken</item>
+        <item>Standort aktivieren</item>
+        <item>Passwörter merken</item>
+    </string-array>
+    <string-array name="setting_content_key">
+        <item>block_popup_windows</item>
+        <item>enable_javascript</item>
+        <item>enable_javascript</item>
+        <item>allow_media_downloads</item>
+        <item>load_images</item>
+    </string-array>
+    <string-array name="setting_content_text">
+        <item>Pop-ups blockieren</item>
+        <item>Im Hintergrund öffnen</item>
+        <item>JavaScript aktivieren</item>
+        <item>Medien-Downloads erlauben</item>
+        <item>Bilder laden</item>
+    </string-array>
+    <string-array name="num_month_ago">
+        <item>Ein</item>
+        <item>Zwei</item>
+        <item>Drei</item>
+        <item>Vier</item>
+        <item>Fünf</item>
+        <item>Sechs</item>
+        <item>Sieben</item>
+        <item>Acht</item>
+        <item>Neun</item>
+        <item>Zehn</item>
+        <item>Elf</item>
+    </string-array>
+    <string-array name="setting_connection">
+        <item>WIFI</item>
+        <item>Mobilfunknetze</item>
+    </string-array>
+</resources>

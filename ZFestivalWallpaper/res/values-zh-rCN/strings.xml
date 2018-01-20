@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pick_wallpaper">壁纸</string>
+    <string name="wallpaper_instructions">设置壁纸</string>
+    <string name="wallpaper_instructions_lockscreen">设置锁屏</string>
+    <string name="wallpaper_instructions_both">同时设置</string>
+    <string name="wallpaper_instructions_preset">预设壁纸</string>
+</resources>

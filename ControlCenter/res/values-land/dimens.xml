@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nubia_action_bar_menu_default_height">56.0dip</dimen>
+    <dimen name="nubia_action_bar_menu_item_layout_padding">10.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+    <dimen name="nubia_tab_margin">16.0dip</dimen>
+    <dimen name="abc_action_bar_default_height_material">48.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_material">0.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12.0dip</dimen>
+    <dimen name="control_panel_width">528.0dip</dimen>
+    <dimen name="control_panel_height">344.0dip</dimen>
+    <dimen name="upper_panel_padding">56.0dip</dimen>
+    <dimen name="brightness_margin">48.0dip</dimen>
+    <dimen name="panel_tools_padding">38.0dip</dimen>
+    <dimen name="tiles_margin">36.0dip</dimen>
+    <dimen name="tiles_top">238.0dip</dimen>
+    <dimen name="brightness_marginstart">47.299988dip</dimen>
+    <dimen name="brightness_width">392.0dip</dimen>
+    <dimen name="margin_between_tools">42.665985dip</dimen>
+    <dimen name="line2_margin_top">27.0dip</dimen>
+    <dimen name="line2_margin_bottom">24.0dip</dimen>
+</resources>

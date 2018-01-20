@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_common_accent">#ffe8554d</color>
+    <color name="color_common_accent_disable">#59e8554d</color>
+    <color name="color_common_accent_pressed">#cce8554d</color>
+    <color name="color_common_area_pressed">#0d222222</color>
+    <color name="color_common_divider_line">#263d3a3a</color>
+    <color name="color_common_divider_sect">#0d3d3a3a</color>
+    <color name="color_common_stub">#ff0dace7</color>
+    <color name="color_common_stub_pressed">#cc0dace7</color>
+    <color name="color_common_text_accent">#ffe8554d</color>
+    <color name="color_common_text_accent_pressed">#cce8554d</color>
+    <color name="color_common_text_disable">#59222222</color>
+    <color name="color_common_text_hint">#59222222</color>
+    <color name="color_common_text_primary">#ff222222</color>
+    <color name="color_common_text_primary_pressed">#cc222222</color>
+    <color name="color_common_text_secondary">#a6222222</color>
+    <color name="color_common_text_secondary_pressed">#73222222</color>
+    <color name="color_common_text_tertiary">#59222222</color>
+    <color name="color_common_text_tertiary_pressed">#26222222</color>
+    <color name="color_common_theme_background">#fffcfcfc</color>
+    <color name="color_common_window_background">#fff5f5f5</color>
+    <color name="color_control_normal">#59fcfcfc</color>
+    <color name="color_dark_divider_line">#26ffffff</color>
+    <color name="color_dark_divider_sect">#0dffffff</color>
+    <color name="color_dark_text_disable">#59fcfcfc</color>
+    <color name="color_dark_text_primary">#ffffffff</color>
+    <color name="color_dark_text_primary_pressed">#ccffffff</color>
+    <color name="color_dark_text_secondary">#a6ffffff</color>
+    <color name="color_dark_text_secondary_pressed">#73ffffff</color>
+    <color name="color_dark_text_tertiary">#59ffffff</color>
+    <color name="color_dark_text_tertiary_pressed">#26ffffff</color>
+    <color name="color_read_menu_control">#59222222</color>
+    <color name="color_read_menu_text">#80fcfcfc</color>
+    <color name="color_dark_window_background">#0d000000</color>
+</resources>

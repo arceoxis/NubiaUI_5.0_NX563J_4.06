@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>Messaggi di testo Spam</item>
+        <item>Chiamate moleste</item>
+        <item>Blocca gestione</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>Quando è il compleanno di mia madre?</item>
+        <item>Quando è il compleanno di mio padre?</item>
+        <item>Qual è la persona più importante nella mia vita?</item>
+        <item>Qual è il posto in cui desideri andare?</item>
+        <item>Qual è il mio colore preferito?</item>
+        <item>Qual è il giorno più importante della mia vita?</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>Accetta solo Lista bianca</item>
+        <item>Blocca solo lista nera</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>SMS Spam</item>
+        <item>Alza volume chiamate</item>
+        <item>Gestore blocco</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>Recenti</item>
+        <item>Contatto</item>
+        <item>Messaggio di testo</item>
+        <item>Manuale</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>Messaggio di testo</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>Gestione lista nera</item>
+        <item>Impostazioni</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>Canc</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>Intercettazione di tutto</item>
+        <item>Intercettazione nero</item>
+        <item>Intercettazione estraneo</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>Chiama</item>
+        <item>Aggiungi lista nera</item>
+        <item>Cancella contatti</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>Cancella numero dalla lista nera</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>Permesso</item>
+        <item>Ignora</item>
+        <item>Chiedi sempre</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>Privacy</item>
+        <item>Sicurezza</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>Posizione approssimativa</item>
+        <item>Posizione accurata</item>
+        <item>GPS</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>modifica contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>modifica elenco chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Scan WLAN</item>
+        <item>Notifica</item>
+        <item>Scansione rete mobile</item>
+        <item>Effettua chiamate</item>
+        <item>leggi SMS/MMS</item>
+        <item>Invia SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS di emergenza</item>
+        <item>ricevi MMS</item>
+        <item>ricevi push WAP</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS ICC</item>
+        <item>scrivi SMS ICC</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>Attiva WLAN</item>
+        <item>Attiva Bluetooth</item>
+        <item>Attiva Rete dati</item>
+        <item>Invia MMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>Invia MMS</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>modifica contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>modifica elenco chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Geolocalizz.</item>
+        <item>Posta notifica</item>
+        <item>Geolocalizz.</item>
+        <item>Effettua chiamate</item>
+        <item>leggi SMS/MMS</item>
+        <item>Invia SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi MMS</item>
+        <item>ricevi SMS</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>Attiva WLAN</item>
+        <item>Attiva Bluetooth</item>
+        <item>Attiva Rete dati</item>
+        <item>Invia MMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>Invia MMS</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>Posizione approssimativa</item>
+        <item>Posizione accurata</item>
+        <item>GPS</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>modifica contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>modifica elenco chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Scan WLAN</item>
+        <item>Notifica</item>
+        <item>Scansione rete mobile</item>
+        <item>Effettua chiamate</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS di emergenza</item>
+        <item>ricevi MMS</item>
+        <item>ricevi push WAP</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS ICC</item>
+        <item>scrivi SMS ICC</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>tasti multimediali</item>
+        <item>focus audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>Volume suoneria</item>
+        <item>Volume contenuti multimediali</item>
+        <item>Volume sveglia</item>
+        <item>Volume notifiche</item>
+        <item>volume Bluetooth</item>
+        <item>Mantieni attivo</item>
+        <item>rileva posizione</item>
+        <item>rileva posizione ad alimentazione elevata</item>
+        <item>Attiva WLAN</item>
+        <item>Attiva Bluetooth</item>
+        <item>Attiva Rete dati</item>
+        <item>Invia MMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi MMS</item>
+        <item>Autoinvio</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>modifica contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>modifica elenco chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Geolocalizz.</item>
+        <item>Posta notifica</item>
+        <item>Geolocalizz.</item>
+        <item>Effettua chiamate</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi MMS</item>
+        <item>ricevi SMS</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>tasti multimediali</item>
+        <item>focus audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>Volume suoneria</item>
+        <item>Volume contenuti multimediali</item>
+        <item>Volume sveglia</item>
+        <item>Volume notifiche</item>
+        <item>volume Bluetooth</item>
+        <item>Mantieni attivo</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Attiva WLAN</item>
+        <item>Attiva Bluetooth</item>
+        <item>Attiva Rete dati</item>
+        <item>Invia MMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi MMS</item>
+        <item>Autoinvio</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>Posizione approssimativa</item>
+        <item>Posizione accurata</item>
+        <item>GPS</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>scrivi contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>scrivi registro chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Scan WLAN</item>
+        <item>Notifica</item>
+        <item>Scansione rete mobile</item>
+        <item>Chiama</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS di emergenza</item>
+        <item>ricevi MMS</item>
+        <item>ricevi push WAP</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS ICC</item>
+        <item>scrivi SMS ICC</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>tasti multimediali</item>
+        <item>focus audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>Volume suoneria</item>
+        <item>Volume contenuti multimediali</item>
+        <item>Volume sveglia</item>
+        <item>Volume notifiche</item>
+        <item>volume Bluetooth</item>
+        <item>Mantieni attivo</item>
+        <item>rileva posizione</item>
+        <item>rileva posizione ad alimentazione elevata</item>
+        <item>"ottieni statistiche sull'utilizzo"</item>
+        <item>spegni/accendi microfono</item>
+        <item>finestra toast</item>
+        <item>riproduci media</item>
+        <item>attiva VPN</item>
+        <item>Attiva WLAN</item>
+        <item>Attiva Bluetooth</item>
+        <item>Invia MMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi MMS</item>
+        <item>Autoinvio</item>
+        <item>Apri NFC</item>
+        <item>Cancella SMS</item>
+        <item>Cancella MMS</item>
+        <item>Cancella contatti</item>
+        <item>Cancella registro chiamate</item>
+        <item>Attiva Rete dati</item>
+        <item>aggiunta di scorciatoie</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>scrivi contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>scrivi registro chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Geolocalizz.</item>
+        <item>Posta notifica</item>
+        <item>Geolocalizz.</item>
+        <item>Chiama</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi MMS</item>
+        <item>ricevi SMS</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>tasti multimediali</item>
+        <item>focus audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>volume suoneria</item>
+        <item>Volume contenuti multimediali</item>
+        <item>Volume sveglia</item>
+        <item>Volume notifiche</item>
+        <item>volume Bluetooth</item>
+        <item>Mantieni attivo</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>"ottieni statistiche sull'utilizzo"</item>
+        <item>spegni/accendi microfono</item>
+        <item>finestra toast</item>
+        <item>riproduci media</item>
+        <item>attiva VPN</item>
+        <item>Attiva WLAN</item>
+        <item>Attiva Bluetooth</item>
+        <item>Invia MMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi MMS</item>
+        <item>Autoinvio</item>
+        <item>Apri NFC</item>
+        <item>Cancella SMS</item>
+        <item>Cancella MMS</item>
+        <item>Cancella contatti</item>
+        <item>Cancella registro chiamate</item>
+        <item>Cambio dati</item>
+        <item>aggiunta di scorciatoie</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>Vibrazione</item>
+        <item>leggi contatti</item>
+        <item>modifica contatti</item>
+        <item>leggi elenco chiamate</item>
+        <item>modifica elenco chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>Geolocalizz.</item>
+        <item>Posta notifica</item>
+        <item>Geolocalizz.</item>
+        <item>Chiama</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi SMS</item>
+        <item>ricevi MMS</item>
+        <item>ricevi SMS</item>
+        <item>Invia SMS</item>
+        <item>leggi SMS/MMS</item>
+        <item>scrivi SMS</item>
+        <item>modifica impostazioni</item>
+        <item>Mostra finestra popup</item>
+        <item>accedi alle notifiche</item>
+        <item>Fotocamera</item>
+        <item>Registra audio</item>
+        <item>riproduci audio</item>
+        <item>leggi appunti</item>
+        <item>modifica appunti</item>
+        <item>tasti multimediali</item>
+        <item>focus audio</item>
+        <item>volume principale</item>
+        <item>volume voce</item>
+        <item>volume suoneria</item>
+        <item>Volume contenuti multimediali</item>
+        <item>Volume sveglia</item>
+        <item>Volume notifiche</item>
+        <item>volume Bluetooth</item>
+        <item>Mantieni attivo</item>
+        <item>Geolocalizz.</item>
+        <item>Geolocalizz.</item>
+        <item>"ottieni statistiche sull'utilizzo"</item>
+        <item>spegni/accendi microfono</item>
+        <item>finestra toast</item>
+        <item>riproduci media</item>
+        <item>attiva VPN</item>
+        <item>disegna sfondo</item>
+        <item>struttura di supporto</item>
+        <item>screenshot di supporto</item>
+        <item>visualizza stato del telefono</item>
+        <item>aggiungi messaggio vocale</item>
+        <item>usa telefono sip</item>
+        <item>gestisci chiamate in uscita</item>
+        <item>usa impronte digitali</item>
+        <item>sensori corporei</item>
+        <item>leggi cell broadcast</item>
+        <item>simula posizione</item>
+        <item>leggi memoria esterna</item>
+        <item>scrivi su memoria esterna</item>
+        <item>attiva schermo</item>
+        <item>vai agli account</item>
+        <item>Attiva Wi‑Fi</item>
+        <item>Attiva Bluetooth</item>
+        <item>Invia MMS</item>
+        <item>scrivi MMS</item>
+        <item>Cancella SMS</item>
+        <item>Cancella MMS</item>
+        <item>Cancella contratti</item>
+        <item>Cancella registro chiamate</item>
+        <item>aggiunta di scorciatoie</item>
+        <item>Attiva in background</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Autorizzazioni</item>
+        <item>Applicazione</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>Classe di privacy</item>
+        <item>Classe di base</item>
+        <item>Classe di notifica</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>Chiama</item>
+        <item>Contatti</item>
+        <item>Messaggi</item>
+        <item>MMS</item>
+        <item>Info posizione</item>
+        <item>Calendario</item>
+        <item>MIC</item>
+        <item>Fotocamera</item>
+        <item>Sensore corporeo</item>
+        <item>Spazio immagazzinazione</item>
+        <item>Attiva Wi‑Fi</item>
+        <item>Cambia Bluetooth</item>
+        <item>Cambia impostazioni</item>
+        <item>aggiunta di scorciatoie</item>
+        <item>Mostra finestra popup</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>Installa pacchetto</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>Consenti</item>
+        <item>Chiedi</item>
+        <item>Non permettere</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>Consenti</item>
+        <item>Non permettere</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>Classe di privacy</item>
+        <item>Classe di base</item>
+        <item>Classe di notifica</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>Aggiungi manualmente app autostart</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>Consegna</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>Solo calibrazione manuale</item>
+        <item>Calibrazione auto ogni giorno</item>
+        <item>Calibrazione auto ogni tre giorni</item>
+        <item>Calibrazione auto ogni settimana</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>Cancella tutti i registri</item>
+        <item>Inoltra</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>Aggiungi</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>Invita un partner al gioco Nascondino. Vinci le stelle mentre completi una prova anti-furto!</item>
+        <item>"1. Fai nascondere il tuo telefono ai tuoi amici 
+"</item>
+        <item>"2. Vieni a cercarlo, ti ho trovato 
+"</item>
+        <item>3. Non riesco a trovarlo. Cosa faccio?</item>
+        <item>4. Eccotelo! Fidati di Nubia NeoSafe!</item>
+        <item>"5. Usa un altro telefono per inviare un messaggio di testo contenete Xin Nubia al tuo felefono, e segui le istruzioni 
+"</item>
+        <item>"Ok, ho delle stelle nella mano. È così semplice! Non preoccuparti se perdi il telefono! Ricorda che il tuo telefono deve essere acceso per ricevere un messaggio. 
+ Mostralo ai tuoi amici ora!"</item>
+    </string-array>
+</resources>

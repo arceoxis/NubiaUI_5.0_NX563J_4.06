@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneHandGuide</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="welcome_to_single">Willkommen zum Einhandmodus</string>
+    <string name="welcome_to_single2">Klicken Sie auf den Bildschirm, um IHREN Einhandmodus abzurufen</string>
+    <string name="test_single1">legen Sie Ihren Finger auf den Bildschirm</string>
+    <string name="test_single2">Strecken Sie Ihren Daumen zeichnen Sie einen Bogen am Bildschirm</string>
+    <string name="test_single_invalid">zeichnen Sie einen Bogen am Bildschirm</string>
+    <string name="show_single">Einhandmodus, der am besten zu Ihrer Hand passt</string>
+    <string name="try_more">Wiederholen</string>
+    <string name="begin">Nutzung beginnen</string>
+    <string name="welcome_to_begin">Willkommen zu IHREM Einhandmodus</string>
+</resources>

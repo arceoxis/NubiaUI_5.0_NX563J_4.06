@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="common_harass_categories">
+        <item>垃圾短訊</item>
+        <item>騷擾電話</item>
+        <item>攔截管理</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>我媽媽的生日是？</item>
+        <item>我爸爸的生日是？</item>
+        <item>我最重要的人是？</item>
+        <item>我最喜歡去的地方是?</item>
+        <item>我最喜歡的顏色是?</item>
+        <item>我人生中最重要的一天是？</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>只接受許可名單</item>
+        <item>只攔截黑名單</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0.0</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>垃圾短訊</item>
+        <item>騷擾電話</item>
+        <item>攔截管理</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>最近</item>
+        <item>聯絡人</item>
+        <item>短訊</item>
+        <item>手動</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>短訊</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>黑名單管理</item>
+        <item>攔截設定</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>移除</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>攔截所有人</item>
+        <item>攔截黑名單</item>
+        <item>攔截陌生人</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>撥打電話</item>
+        <item>新增黑名單</item>
+        <item>移除記錄</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>刪除黑名單</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>許可權</item>
+        <item>應用程式</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>私隱類</item>
+        <item>基礎類</item>
+        <item>通知類</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>電話</item>
+        <item>通訊錄</item>
+        <item>訊息</item>
+        <item>MMS</item>
+        <item>位置資訊</item>
+        <item>日曆</item>
+        <item>麥克風</item>
+        <item>相機</item>
+        <item>身體傳感器</item>
+        <item>讀寫手機儲存</item>
+        <item>Wi-Fi</item>
+        <item>藍牙</item>
+        <item>设置</item>
+        <item>創建案頭快捷方式</item>
+        <item>顯示懸浮窗</item>
+        <item>後台程式開啟控制</item>
+        <item>鎖屏程式開啟控制</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>允許</item>
+        <item>詢問</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>允許</item>
+        <item>禁止</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>私隱類</item>
+        <item>基礎類</item>
+        <item>通知類</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>手動新增自啟動應用程式</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>提交</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>僅手動校準</item>
+        <item>每日自動校準</item>
+        <item>每3天自動校準</item>
+        <item>每週自動校準</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>徹底移除記錄</item>
+        <item>轉寄</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>新增</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>邀請一位小夥伴，一起挑戰「躲貓貓」的手機防丟演習遊戲，給防丟加星星！</item>
+        <item>1、讓小夥伴把手機藏起來n</item>
+        <item>2、來找咯，看見你的小pp咯n</item>
+        <item>3、哪裡都找不到，怎麼辦呢？n</item>
+        <item>4、有啦！信牛盾啊！n</item>
+        <item>5、另一部手機傳送「信牛盾」給自己的手機，跟着指示操作n</item>
+        <item>哈哈，星星到手咯，簡單吧，以後不用擔心忘記手機放哪裡啦！記得手機要開着機能收到短訊才能找到哦~~n快找小夥伴來秀一下吧~~</item>
+    </string-array>
+</resources>

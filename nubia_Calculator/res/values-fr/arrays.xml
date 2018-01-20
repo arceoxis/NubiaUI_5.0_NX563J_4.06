@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operatorDescs">
+        <item>parenthèse gauche</item>
+        <item>parenthèse droite</item>
+        <item>factoriel</item>
+        <item>logarithme naturel</item>
+        <item>logarithme</item>
+        <item>racine carrée</item>
+        <item>divisé par</item>
+        <item>multiplié par</item>
+        <item>plus</item>
+        <item>moins</item>
+        <item> point </item>
+        <item>puissance</item>
+        <item>tangeante</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>égale</item>
+    </string-array>
+</resources>

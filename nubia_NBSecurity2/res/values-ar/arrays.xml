@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="common_harass_categories">
+        <item>رسائل نصية مزعجة</item>
+        <item>مكالمات هاتف مضايقة</item>
+        <item>إدارة الحظر</item>
+    </string-array>
+    <string-array name="common_pattern_safe_questions">
+        <item>ما هو تاريخ ميلاد أمي؟</item>
+        <item>ما هو تاريخ ميلاد أبي؟</item>
+        <item>من هو أهم شخص في حياتي؟</item>
+        <item>ما المكان الذي ترغب بالذهاب إليه؟</item>
+        <item>ما هو لوني المفضل؟</item>
+        <item>ما هو أهم يوم في حياتي؟</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>قبول القائمة البيضاء فقط</item>
+        <item>حظر القائمة السوداء فقط</item>
+    </string-array>
+    <string-array name="list_entries_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="harass_categories">
+        <item>رسائل SMS المزعجة</item>
+        <item>مكالمات المعاكسات</item>
+        <item>مدير الحظر</item>
+    </string-array>
+    <string-array name="add_blacklist_categories">
+        <item>الأحدث</item>
+        <item>جهات الاتصال</item>
+        <item>SMS</item>
+        <item>يدوي</item>
+    </string-array>
+    <string-array name="add_sms_to_blacklist">
+        <item>SMS</item>
+    </string-array>
+    <string-array name="harass_intercept_manager">
+        <item>إدارة القائمة السوداء</item>
+        <item>إعدادات الحظر</item>
+    </string-array>
+    <string-array name="delete_grabage_sms">
+        <item>حذف</item>
+    </string-array>
+    <string-array name="harass_strategy_category">
+        <item>اعتراض الكل</item>
+        <item>اعتراض السوداء</item>
+        <item>اعتراض الغرباء</item>
+    </string-array>
+    <string-array name="harass_call_log_more_operation">
+        <item>اتصال</item>
+        <item>إضافة القائمة السوداء</item>
+        <item>حذف جهات الاتصال</item>
+    </string-array>
+    <string-array name="harass_blacklist_number_more_operation">
+        <item>حذف رقم من القائمة السوداء</item>
+    </string-array>
+    <string-array name="app_ops_permissions">
+        <item>تم السماح</item>
+        <item>تجاهل</item>
+        <item>السؤال دائمًا</item>
+    </string-array>
+    <string-array name="app_ops_op_category">
+        <item>الخصوصية</item>
+        <item>الأمان</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_3">
+        <item>الموقع التقريبي</item>
+        <item>الموقع بدقة</item>
+        <item>GPS</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>بحث WLAN</item>
+        <item>إشعار</item>
+        <item>بحث شبكات الهاتف</item>
+        <item>إجراء المكالمات</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>إرسال SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل طوارئ SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال WAP</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل ICC SMS</item>
+        <item>اكتب ICC SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>تشغيل WLAN</item>
+        <item>تشغيل البلوتوث</item>
+        <item>تشغيل بيانات الهاتف</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_3">
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>الموقع</item>
+        <item>إشعار النشر</item>
+        <item>الموقع</item>
+        <item>إجراء المكالمات</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>إرسال SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>تشغيل WLAN</item>
+        <item>تشغيل البلوتوث</item>
+        <item>تشغيل بيانات الهاتف</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+    </string-array>
+    <string-array name="app_ops_summaries_4_4">
+        <item>الموقع التقريبي</item>
+        <item>الموقع بدقة</item>
+        <item>GPS</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>بحث WLAN</item>
+        <item>إشعار</item>
+        <item>بحث شبكات الهاتف</item>
+        <item>إجراء المكالمات</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل طوارئ SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال WAP</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل ICC SMS</item>
+        <item>اكتب ICC SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز الصوتي</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى صوت الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>صوت المنبه</item>
+        <item>مستوى صوت الإشعارات</item>
+        <item>مستوى البلوتوث</item>
+        <item>ابق متيقظًا</item>
+        <item>مراقبة الموقع</item>
+        <item>مراقبة موقع الطاقة العالية</item>
+        <item>تشغيل WLAN</item>
+        <item>تشغيل البلوتوث</item>
+        <item>تشغيل بيانات الهاتف</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>كتابة رسالة MMS</item>
+        <item>التشغيل التلقائي</item>
+    </string-array>
+    <string-array name="app_ops_labels_4_4">
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>الموقع</item>
+        <item>إشعار النشر</item>
+        <item>الموقع</item>
+        <item>إجراء المكالمات</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز الصوتي</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى صوت الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>صوت المنبه</item>
+        <item>مستوى صوت الإشعارات</item>
+        <item>مستوى البلوتوث</item>
+        <item>ابق متيقظًا</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>تشغيل WLAN</item>
+        <item>تشغيل البلوتوث</item>
+        <item>تشغيل بيانات الهاتف</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>كتابة رسالة MMS</item>
+        <item>التشغيل التلقائي</item>
+    </string-array>
+    <string-array name="app_ops_summaries_5_0">
+        <item>الموقع التقريبي</item>
+        <item>الموقع بدقة</item>
+        <item>GPS</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>كتابة جهات اتصالات</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>كتابة سجل مكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>بحث WLAN</item>
+        <item>إشعار</item>
+        <item>بحث شبكات الهاتف</item>
+        <item>اتصال هاتفي</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل طوارئ SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال WAP</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل ICC SMS</item>
+        <item>اكتب ICC SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز الصوتي</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى صوت الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>صوت المنبه</item>
+        <item>مستوى صوت الإشعارات</item>
+        <item>مستوى البلوتوث</item>
+        <item>ابق متيقظًا</item>
+        <item>مراقبة الموقع</item>
+        <item>مراقبة موقع الطاقة العالية</item>
+        <item>الحصول على احصائيات الاستخدام</item>
+        <item>كتم صوت/إلغاء كتم صوت الميكروفون</item>
+        <item>نافذة منبثقة</item>
+        <item>عرض الوسائط</item>
+        <item>تفعيل VPN</item>
+        <item>تشغيل WLAN</item>
+        <item>تشغيل البلوتوث</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>كتابة رسالة MMS</item>
+        <item>التشغيل التلقائي</item>
+        <item>فتح NFC</item>
+        <item>حذف رسالة SMS</item>
+        <item>حذف رسالة MMS</item>
+        <item>حذف جهات الاتصال</item>
+        <item>حذف سجل الاتصال</item>
+        <item>تشغيل بيانات الهاتف</item>
+        <item>تثبت الاختصار</item>
+    </string-array>
+    <string-array name="app_ops_labels_5_0">
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>كتابة جهات اتصالات</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>كتابة سجل مكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>الموقع</item>
+        <item>إشعار النشر</item>
+        <item>الموقع</item>
+        <item>اتصال هاتفي</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز الصوتي</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>صوت المنبه</item>
+        <item>مستوى صوت الإشعارات</item>
+        <item>مستوى البلوتوث</item>
+        <item>ابق متيقظًا</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الحصول على احصائيات الاستخدام</item>
+        <item>كتم صوت/إلغاء كتم صوت الميكروفون</item>
+        <item>نافذة منبثقة</item>
+        <item>عرض الوسائط</item>
+        <item>تفعيل VPN</item>
+        <item>تشغيل WLAN</item>
+        <item>تشغيل البلوتوث</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>كتابة رسالة MMS</item>
+        <item>التشغيل التلقائي</item>
+        <item>فتح NFC</item>
+        <item>حذف رسالة SMS</item>
+        <item>حذف رسالة MMS</item>
+        <item>حذف جهات الاتصال</item>
+        <item>حذف سجل الاتصال</item>
+        <item>تغيير البيانات</item>
+        <item>تثبت الاختصار</item>
+    </string-array>
+    <string-array name="app_ops_labels_6_0">
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>هزاز</item>
+        <item>قراءة جهات الاتصال</item>
+        <item>تعديل جهات الاتصال</item>
+        <item>قراءة سجل المكالمات</item>
+        <item>تعديل سجل المكالمات</item>
+        <item>قراءة التقويم</item>
+        <item>تعديل التقويم</item>
+        <item>الموقع</item>
+        <item>إشعار النشر</item>
+        <item>الموقع</item>
+        <item>اتصال هاتفي</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>استقبال رسائل MMS</item>
+        <item>استقبال رسائل SMS</item>
+        <item>إرسال SMS</item>
+        <item>قراءة رسائل SMS/MMS</item>
+        <item>اكتب رسالة SMS</item>
+        <item>تعديل الإعدادات</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>الوصول للإشعارات</item>
+        <item>الكاميرا</item>
+        <item>تسجيل صوت</item>
+        <item>تشغيل صوتي</item>
+        <item>قراءة الحافظة</item>
+        <item>تعديل الحافظة</item>
+        <item>أزرار الوسائط</item>
+        <item>التركيز الصوتي</item>
+        <item>مستوى الصوت الرئيسي</item>
+        <item>مستوى الصوت</item>
+        <item>مستوى الرنين</item>
+        <item>مستوى صوت الوسائط</item>
+        <item>صوت المنبه</item>
+        <item>مستوى صوت الإشعارات</item>
+        <item>مستوى البلوتوث</item>
+        <item>ابق متيقظًا</item>
+        <item>الموقع</item>
+        <item>الموقع</item>
+        <item>الحصول على احصائيات الاستخدام</item>
+        <item>كتم صوت/إلغاء كتم صوت الميكروفون</item>
+        <item>نافذة منبثقة</item>
+        <item>عرض الوسائط</item>
+        <item>تفعيل VPN</item>
+        <item>اكتب نافذة</item>
+        <item>مساعدة الهيكلة</item>
+        <item>مساعدة التقاط صورة الشاشة</item>
+        <item>قراءة حالة الهاتف</item>
+        <item>إضافة بريد صوتي</item>
+        <item>استخدم SIP</item>
+        <item>إجراء المكالمات الصادرة</item>
+        <item>استخدم بصمة الاصبع</item>
+        <item>استشعار الجسم</item>
+        <item>قراءة البث الخلوي</item>
+        <item>موقع المعلومات التناظرية</item>
+        <item>قراءة التخزين الخارجي</item>
+        <item>اكتب تخزين خارجي</item>
+        <item>تشغيل الشاشة</item>
+        <item>احصل على حسابات</item>
+        <item>تغيير WLAN</item>
+        <item>تغيير البلوتوث</item>
+        <item>إرسال رسالة وسائط متعددة</item>
+        <item>كتابة رسالة MMS</item>
+        <item>حذف رسالة SMS</item>
+        <item>حذف رسالة MMS</item>
+        <item>حذف جهات الاتصال</item>
+        <item>حذف سجل الاتصال</item>
+        <item>تثبت الاختصار</item>
+        <item>تشغيل في الخلفية</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>الأذونات</item>
+        <item>التطبيق</item>
+    </string-array>
+    <string-array name="app_ops_op_apk_goup">
+        <item>فئة خصوصية</item>
+        <item>فئة أساسية</item>
+        <item>فئة إخطار</item>
+    </string-array>
+    <string-array name="app_ops_op_great_permission">
+        <item>اتصال</item>
+        <item>جهات الاتصال</item>
+        <item>المراسلات</item>
+        <item>رسائل الوسائط</item>
+        <item>بحث الموقع</item>
+        <item>التقويم</item>
+        <item>ميكروفون</item>
+        <item>الكاميرا</item>
+        <item>استشعار الجسم</item>
+        <item>مساحة التخزين</item>
+        <item>تغيير WiFi</item>
+        <item>تغيير بلوتوث</item>
+        <item>إعدادات التغيير</item>
+        <item>تثبت الاختصار</item>
+        <item>عرض نافذة منبثقة</item>
+        <item>Background start activity</item>
+        <item>LockScreen display windows</item>
+        <item>تثبيت الحزمة</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips">
+        <item>سماح</item>
+        <item>طلب</item>
+        <item>منع</item>
+    </string-array>
+    <string-array name="app_ops_op_permission_tips_spec">
+        <item>سماح</item>
+        <item>منع</item>
+    </string-array>
+    <string-array name="app_ops_op_group">
+        <item>فئة خصوصية</item>
+        <item>فئة أساسية</item>
+        <item>فئة إخطار</item>
+    </string-array>
+    <string-array name="addSelfStart">
+        <item>إضافة تطبيقات التشغيل التلقائي يدويا</item>
+    </string-array>
+    <string-array name="sendsuggest_array">
+        <item>إرسال</item>
+    </string-array>
+    <string-array name="traffic_calibration_auto_check_period">
+        <item>المعايرة يدويا فقط</item>
+        <item>المعايرة التلقائية كل يوم</item>
+        <item>المعايرة التلقائية كل ثلاث أيام</item>
+        <item>المعايرة التلقائية كل أسبوع</item>
+    </string-array>
+    <string-array name="smsoperate">
+        <item>حذف السجل كله</item>
+        <item>إعادة توجيه</item>
+    </string-array>
+    <string-array name="addButton">
+        <item>إضافة</item>
+    </string-array>
+    <string-array name="remoteguard_manoeuvre_illustrate">
+        <item>قم بدعوة شريك للانضمام للعبة الاختباء والبحث. اربح النجوم عند الانتهاء من تدريب مكافحة السرقة.</item>
+        <item>"1. دع صديقك يخبئ هاتفك 
+"</item>
+        <item>"2. تعال وابحث عنه، لقد عثرت عليه 
+"</item>
+        <item>"3. لا يمكنني العثور عليه. ماذا أفعل؟ 
+"</item>
+        <item>4. لقد حصلت عليه! ثق بـ nubia NeoSafe!</item>
+        <item>"5. استخدم هاتف آخر لإرسال رسالة نصية تحتوي على 信牛盾 لهاتفك، واتبع التعليمات 
+"</item>
+        <item>"حسنا، لقد حصلت على نجوم في يدي. الأمر بسيط جدا! لا تقلق أين تضع هاتفك! تذكر يجب تشغيل هاتفك لاستقبال الرسالة النصية. 
+ اعرضه على أصدقائك الآن!"</item>
+    </string-array>
+</resources>

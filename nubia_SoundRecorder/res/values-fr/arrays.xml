@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Clair, 320kbps, mp3</item>
+        <item>Standar, 128kbps, mp3</item>
+        <item>"Économie d'espace, 12.8kbps, amr"</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Clair</item>
+        <item>Standar</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Téléphone/neoRecorder</item>
+        <item>Carte mémoire flash/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Téléphone/neoRecorder</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Sonnerie appel entrant</item>
+        <item>"Sonnerie de l'alarme"</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>Carte 1</item>
+        <item>Carte 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Prendre une photo</item>
+        <item>Sélectionner une image de la galerie</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>"Voir l'image"</item>
+        <item>"Supprimer l'image"</item>
+        <item>Prendre une nouvelle photo</item>
+        <item>Sélectionner une nouvelle image de la galerie</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Séparer pour sauvegarder</item>
+        <item>Sauvegarde indépendante</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Trier par temps</item>
+        <item>Trier par intitulé</item>
+        <item>Trier par durée</item>
+    </string-array>
+</resources>

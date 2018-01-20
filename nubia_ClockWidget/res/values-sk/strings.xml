@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniaplikáciaHodiny</string>
+    <string name="digital_clock_widget">Digitálne hodiny so svetovým časom</string>
+    <string name="analog_clock_widget">Analógové hodiny so svetovýcm časom</string>
+    <string name="digital_big_clock_widget">Digitálne hodiny</string>
+    <string name="analog_big_clock_widget">Analógové hodiny</string>
+    <string name="month">Mesiac</string>
+    <string name="day">Deň:</string>
+    <string name="am">Predp.</string>
+    <string name="pm">pop.</string>
+    <string name="monday">Pondelok</string>
+    <string name="tuesday">Utorok</string>
+    <string name="wednesday">Streda</string>
+    <string name="thursday">Štvrtok</string>
+    <string name="friday">piatok</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Nedeľa</string>
+</resources>

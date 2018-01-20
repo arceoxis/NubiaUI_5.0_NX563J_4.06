@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בוחר מוסיקה</string>
+    <string name="unknown_artist_name">אומן לא ידוע</string>
+    <string name="unknown_album_name">אלבום לא ידוע</string>
+    <string name="sdcard_missing_message">לא הוכנס כרטיס SD</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="recordlistname">My recordings</string>
+    <string name="no_recordfile">אין הקלטות</string>
+    <string name="add_recordfile">כדי להקליט קובץ תחילה באמצעות הרשמקול</string>
+    <string name="no_musicfile">אין קובצי מוסיקה</string>
+    <string name="silent">השתק</string>
+    <string name="cancel_picker">בטל</string>
+    <string name="ok_picker">אשר</string>
+    <string name="custom_ring">רינגטון ברירת מחדל</string>
+    <string name="cut_fail">לא ניתן לחתוך קובץ זה</string>
+    <string name="cut_success">נחתך והוגדר בהצלחה</string>
+    <string name="cut_copy">_מעתיק</string>
+    <string name="dlg_wait">חותך</string>
+    <string name="dlg_title">הגדרות רינגטון</string>
+    <string name="dlg_message">האם אתה בטוח שברצונך להגדיר אותו כרינגטון?</string>
+    <string name="dlg_yes">כן</string>
+    <string name="dlg_no">לא</string>
+    <string name="internal_media">מדיה פנימית</string>
+    <string name="external_media">מוסיקה מקומית</string>
+    <string name="record_media">הקלטות</string>
+    <string name="picker_title">רינגטונים</string>
+    <string name="picker_ringer_silent_mode">הטלפון במצב %s, הגבר את עוצמת הקול.</string>
+    <string name="picker_silent_mode">השתק</string>
+    <string name="picker_vibrate_mode">רטט</string>
+    <string name="wait_loading">טוען נתונים...</string>
+    <string name="music_file_unexist">הקובץ אינו קיים.</string>
+</resources>

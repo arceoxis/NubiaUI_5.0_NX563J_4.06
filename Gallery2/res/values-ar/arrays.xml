@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ztouch_photo_select_warning">
+        <item>يمكن تحديد صورة واحدة فقط!</item>
+        <item>تم تحديد صورتين!</item>
+        <item>تم تحديد 3 صور!</item>
+        <item>تم تحديد 4 صور!</item>
+    </string-array>
+</resources>

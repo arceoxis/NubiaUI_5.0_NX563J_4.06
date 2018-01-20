@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nubia_res_background_dark">#ff000000</color>
+    <color name="nubia_res_background_light">#ffffffff</color>
+    <color name="nubia_res_bright_foreground_dark">@color/nubia_res_background_light</color>
+    <color name="nubia_res_bright_foreground_light">@color/nubia_res_background_dark</color>
+    <color name="nubia_res_bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="nubia_res_bright_foreground_light_disabled">#80000000</color>
+    <color name="nubia_res_bright_foreground_dark_inverse">@color/nubia_res_bright_foreground_light</color>
+    <color name="nubia_res_bright_foreground_light_inverse">@color/nubia_res_bright_foreground_dark</color>
+    <color name="nubia_res_background_holo_dark">#ff000000</color>
+    <color name="nubia_res_background_holo_light">#fff3f3f3</color>
+    <color name="nubia_res_bright_foreground_holo_dark">@color/nubia_res_background_holo_light</color>
+    <color name="nubia_res_bright_foreground_holo_light">@color/nubia_res_background_holo_dark</color>
+    <color name="nubia_res_bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="nubia_res_bright_foreground_disabled_holo_light">#ffd2d2d2</color>
+</resources>

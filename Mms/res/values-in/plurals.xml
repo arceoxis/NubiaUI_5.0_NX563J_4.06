@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s percakapan akan dihapus.</item>
+        <item quantity="one">Satu percakapan akan dihapus.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s detik</item>
+        <item quantity="one">%sdetik</item>
+        <item quantity="few">%s detik</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s hasil untuk \"%2$s\"</item>
+        <item quantity="one">%1$s hasil untuk \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s pesan lainnya</item>
+        <item quantity="one">+%1$s pesan lainnya</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s orang</item>
+    </plurals>
+    <plurals name="confirm_delete_phrases">
+        <item quantity="other">%1$s frasa akan dihapus.</item>
+        <item quantity="one">Satu frasa akan dihapus.</item>
+    </plurals>
+    <plurals name="recipient_count_show">
+        <item quantity="other">" dan orang %1$s lain"</item>
+    </plurals>
+    <plurals name="search_recipients_results_title">
+        <item quantity="other">%1$s trit untuk \"%2$s\"</item>
+        <item quantity="one">%1$s trit untuk \"%2$s\"</item>
+    </plurals>
+    <plurals name="search_content_results_title">
+        <item quantity="other">%1$s pesan untuk \"%2$s\"</item>
+        <item quantity="one">%1$s pesan untuk \"%2$s\"</item>
+    </plurals>
+</resources>

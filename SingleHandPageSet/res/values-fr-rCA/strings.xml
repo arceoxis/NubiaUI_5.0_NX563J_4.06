@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Définition de la page simple</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="welcome_to_single">"Bienvenue au mode d'une main"</string>
+    <string name="welcome_to_single2">"Touchez l'écran pour obtenir le mode d'une seule main qui vous convient"</string>
+    <string name="test_single1">Placez votre pouce</string>
+    <string name="test_single2">"Tenez votre téléphone d'une main et étirez votre pouce Placez votre pouce sur l'écran et dessinez un arc"</string>
+    <string name="test_single_invalid">"Placez votre pouce sur l'écran et dessinez un arc"</string>
+    <string name="show_single">Petit écran qui convient le mieux à votre main</string>
+    <string name="try_more">Réessayer</string>
+    <string name="begin">Commencez à utiliser</string>
+    <string name="welcome_to_begin">"Bienvenue à l'utilisation du mode personnalisé d'une seule main"</string>
+</resources>

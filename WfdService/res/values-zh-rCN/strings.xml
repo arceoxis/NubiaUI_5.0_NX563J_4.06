@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WFD 服务</string>
+    <string name="perm_label">QC WLAN 显示堆栈</string>
+    <string name="perm_desc">访问 Qualcomm WLAN 显示堆栈 API</string>
+    <string name="wfd_service">屏幕投影服务</string>
+    <string name="mirroring_on">屏幕投影服务运行中</string>
+    <string name="tosat_standby">屏幕投影已暂停</string>
+    <string name="wifi_display_notification_connected_title">屏幕投影进行中</string>
+    <string name="wifi_display_notification_disconnect">断开</string>
+    <string name="wifi_display_notification_touch_for_detail">点击查看连接信息</string>
+    <string name="wifi_display_notification_sink_detail">请勿关闭WLAN</string>
+</resources>

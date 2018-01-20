@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="minScreenWidth">170.0dip</dimen>
+    <dimen name="maxScreenWidth">310.0dip</dimen>
+    <dimen name="LowerBarHeight">55.0dip</dimen>
+    <dimen name="HigherBarHeight">30.0dip</dimen>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nubia_weeks_full">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_weeks_short">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="nubia_months_full">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="nubia_months_short">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="country_name">
+        <item>中国(大陆)</item>
+    </string-array>
+    <string-array name="safe_question">
+        <item>无安全问题</item>
+        <item>您母亲的名字是什么 ?</item>
+        <item>您爷爷的名字是什么 ?</item>
+        <item>您父亲出生的城市是哪里 ?</item>
+        <item>您其中一位老师的名字是什么 ?</item>
+        <item>您个人计算机的型号是什么 ?</item>
+        <item>您最喜欢的餐馆叫什么名字 ?</item>
+        <item>您的驾驶执照最后四位数字是什么 ?</item>
+    </string-array>
+    <string-array name="id_card_type">
+        <item>身份证</item>
+        <item>港澳通行证</item>
+    </string-array>
+</resources>

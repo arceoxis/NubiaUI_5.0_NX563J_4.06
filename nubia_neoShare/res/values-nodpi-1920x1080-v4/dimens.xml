@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_12">12.0px</dimen>
+    <dimen name="margin_21">21.0px</dimen>
+    <dimen name="margin_36">36.0px</dimen>
+    <dimen name="margin_normal_2">48.0px</dimen>
+    <dimen name="detail_photo_size">1020.0px</dimen>
+    <dimen name="login_edittext_margin_left">52.0px</dimen>
+    <dimen name="login_edittext_margin_left2">46.0px</dimen>
+    <dimen name="margin_3">3.0px</dimen>
+    <dimen name="margin_6">6.0px</dimen>
+    <dimen name="margin_60">60.0px</dimen>
+    <dimen name="margin_normal_3">24.0px</dimen>
+    <dimen name="margin_normal_4">36.0px</dimen>
+</resources>

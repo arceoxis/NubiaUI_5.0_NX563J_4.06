@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uhr</string>
+    <string name="digital_clock_widget">Digitale Weltuhr</string>
+    <string name="analog_clock_widget">Analoge Weltuhr</string>
+    <string name="digital_big_clock_widget">Digitaluhr</string>
+    <string name="analog_big_clock_widget">Analoguhr</string>
+    <string name="month">Monat</string>
+    <string name="day">Tag</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+</resources>

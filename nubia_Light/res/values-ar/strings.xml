@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">مصباح يدوي</string>
+    <string name="close">اغلاق</string>
+    <string name="nocamere">تم تعطيل الكاميرا أو مستخدمة بواسطة جهاز آخر. يرجى تمكين إذن الكاميرا أو إغلاق التطبيقات الأخرى التي تستخدم الكاميرا.</string>
+    <string name="keepon">مرر للأعلى للحفاظ على تشغيل ضوء الفلاش دائما</string>
+    <string name="allkeepon">مضاء دائما</string>
+    <string name="light_already_open">التشغيل</string>
+    <string name="cts_tip_message">ستحتاج للسماح بالوصول للفلاش.</string>
+    <string name="cts_tip_camera">·الكاميرا</string>
+    <string name="cts_tip_phone">·الهاتف</string>
+    <string name="cts_tip_enable">تشغيل</string>
+    <string name="cts_tip_quit">إلغاء</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="nubia_preference_fragment_scrollbarStyle">0x02000000</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <integer name="LinearLayout_weight_1">1</integer>
+    <integer name="LinearLayout_weight_2">2</integer>
+    <integer name="LinearLayout_weight_7">7</integer>
+    <integer name="LinearLayout_weight_9">9</integer>
+    <integer name="LinearLayout_weight_10">10</integer>
+    <integer name="LinearLayout_weight_32">32</integer>
+    <integer name="maxLines">3</integer>
+    <integer name="userfeedback_content_maxLength">200</integer>
+    <integer name="userfeedback_email_maxLength">50</integer>
+    <integer name="handbook_title_height_show">13</integer>
+    <integer name="handbook_gridview_item_textview_line">1</integer>
+</resources>

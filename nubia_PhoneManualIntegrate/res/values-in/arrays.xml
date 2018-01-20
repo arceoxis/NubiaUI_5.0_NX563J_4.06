@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ui_3x_feedback_location_service_types">
+        <item>Sekarang ini</item>
+        <item>Cepat</item>
+    </string-array>
+    <string-array name="feature_category">
+        <item>Dingin</item>
+        <item>Kamera</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="faq_category">
+        <item>Panas</item>
+        <item>Kategori</item>
+    </string-array>
+</resources>

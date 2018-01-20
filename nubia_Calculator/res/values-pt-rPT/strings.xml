@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="error">Erro</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="sin">sen</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">reg.</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+    <string name="outoff_size">O índice atingiu o limite superior</string>
+    <string name="outoff_storage">Espaço de guarda insuficiente, favor libere o espaço antes de usar</string>
+    <string name="upgrade_title_message">Detectou uma nova versão, atualizar?</string>
+    <string name="calculator_version_upgrade_notification_title">Atualizando calculador</string>
+    <string name="alert_dialog_cancel">Cancelar</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="cts_warning_text">A aplicação precisa de obter as permissões relativas, ou a qual não vai funcionar.</string>
+    <string name="cts_warning_title">Este recurso requer que as seguintes permissões sejam ativadas, ir para configurações e ativar?</string>
+    <string name="cts_phone">"·Telefone
+"</string>
+    <string name="cts_storage">"·Guarda
+"</string>
+    <string name="go_permission_setting">Ativar</string>
+    <string name="del">ELIMINAR</string>
+    <string name="clear">LIMPAR</string>
+    <string name="basic">Painel básico</string>
+    <string name="advanced">Painel avançado</string>
+    <string name="clear_history">Limpar histórico</string>
+    <string name="text_copied_toast">Texto copiado.</string>
+    <string name="leftParenDesc">parêntese esquerdo</string>
+    <string name="rightParenDesc">parêntese direito</string>
+    <string name="factorialDesc">fatorial</string>
+    <string name="lnDesc">logaritmo natural</string>
+    <string name="lgDesc">logaritmo</string>
+    <string name="sqrtDesc">raiz quadrada</string>
+    <string name="divDesc">dividir</string>
+    <string name="mulDesc">multiplicar</string>
+    <string name="plusDesc">mais</string>
+    <string name="minusDesc">menos</string>
+    <string name="dotDesc">ponto</string>
+    <string name="powerDesc">expoente</string>
+    <string name="delDesc">eliminar</string>
+    <string name="clearDesc">limpar</string>
+    <string name="tanDesc">tangente</string>
+    <string name="sinDesc">seno</string>
+    <string name="cosDesc">cosseno</string>
+    <string name="eDesc">número de Euler</string>
+    <string name="piDesc">pi</string>
+    <string name="equalDesc">igual a</string>
+    <string name="clearAll">CA</string>
+</resources>

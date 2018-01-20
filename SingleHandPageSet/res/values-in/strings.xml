@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mode satu tangan</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="welcome_to_single">Selamat datang di mode satu tangan</string>
+    <string name="welcome_to_single2">Sentuh layar untuk mendapatkan mode satu tangan yang sesuai untuk Anda</string>
+    <string name="test_single1">Tempatkan ibu jari Anda</string>
+    <string name="test_single2">Pegang telepon dengan satu tangan Regangkan ibu jari Anda untuk menggambar busur</string>
+    <string name="test_single_invalid">Tempatkan ibu jari Anda pada layar dan gambar busur</string>
+    <string name="show_single">Mode satu tangan yang paling sesuai untuk tangan Anda</string>
+    <string name="try_more">Coba lagi</string>
+    <string name="begin">Mulai menggunakan</string>
+    <string name="welcome_to_begin">Selamat datang di mode satu tangan ANDA</string>
+</resources>

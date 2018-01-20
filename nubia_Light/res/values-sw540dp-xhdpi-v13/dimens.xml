@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cusbtn_width">129.0dip</dimen>
+    <dimen name="cusbtn_height">279.0dip</dimen>
+    <dimen name="sosbtn_width">87.0dip</dimen>
+    <dimen name="sosbtn_height">87.0dip</dimen>
+    <dimen name="soslight_width">7.0dip</dimen>
+    <dimen name="soslight_height">7.0dip</dimen>
+    <dimen name="notification_width">40.0dip</dimen>
+    <dimen name="notification_height">40.0dip</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="avd_hide_password_1">false</item>
+    <item type="drawable" name="avd_hide_password_2">false</item>
+    <item type="drawable" name="avd_hide_password_3">false</item>
+    <item type="drawable" name="avd_show_password_1">false</item>
+    <item type="drawable" name="avd_show_password_2">false</item>
+    <item type="drawable" name="avd_show_password_3">false</item>
+</resources>

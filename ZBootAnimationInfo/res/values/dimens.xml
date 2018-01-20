@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_click_info_margin_top">200.0dip</dimen>
+    <dimen name="guide_click_info_margin_left">60.0dip</dimen>
+    <dimen name="guide_click_info_text_size">18.0sp</dimen>
+    <dimen name="guide_slide_message">15.0sp</dimen>
+    <dimen name="author_text_size">18.0sp</dimen>
+    <dimen name="poweranim_info_detail_panel_height">90.0dip</dimen>
+    <dimen name="guide_button_width">140.0dip</dimen>
+    <dimen name="guide_button_height">40.0dip</dimen>
+    <dimen name="guide_button_margin_bottom">20.0dip</dimen>
+</resources>

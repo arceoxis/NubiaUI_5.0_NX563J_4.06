@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_custom_quality_array">
+        <item>Vyčistiť, 320kbps, mp3</item>
+        <item>Štandard, 128 kbps, mp3</item>
+        <item>Dostatočná pamäť, 12,8 kbps, amr</item>
+    </string-array>
+    <string-array name="record_quality_array">
+        <item>Vyčistiť, 320kbps, mp3</item>
+        <item>Štandard, 128 kbps, mp3</item>
+    </string-array>
+    <string-array name="select_save_stroage">
+        <item>Telefónny/neorekordér</item>
+        <item>SD karda/neoRecorder</item>
+    </string-array>
+    <string-array name="store_path_Phone">
+        <item>Telefónny/neorekordér</item>
+    </string-array>
+    <string-array name="set_ringtone_array">
+        <item>Vyzváňací tón prichádzajúceho hovoru</item>
+        <item>Tón zvonenia budíka</item>
+    </string-array>
+    <string-array name="double_sim_card_array">
+        <item>SIM karta 1</item>
+        <item>SIM karta 2</item>
+    </string-array>
+    <string-array name="add_picture_array">
+        <item>Zaznamenať fotografiu</item>
+        <item>Selecionar uma foto de Galeria</item>
+    </string-array>
+    <string-array name="look_picture_array">
+        <item>Ver foto</item>
+        <item>Deletar foto</item>
+        <item>Tirar uma nova foto</item>
+        <item>Selecionar uma nova foto de Galeria</item>
+    </string-array>
+    <string-array name="save_format_array">
+        <item>Guardar imergir</item>
+        <item>Guardar separar</item>
+    </string-array>
+    <string-array name="recorder_list_sort">
+        <item>Classificar por tempo</item>
+        <item>Classificar por etiqueta</item>
+        <item>Classificar por duração</item>
+    </string-array>
+</resources>

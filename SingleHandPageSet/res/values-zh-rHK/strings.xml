@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">單手模式</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_single">歡迎進入單手模式</string>
+    <string name="welcome_to_single2">點擊螢幕為你測試最適合你的單手模式</string>
+    <string name="test_single1">放置拇指</string>
+    <string name="test_single2">單手握持手機，伸直拇指平放在螢幕上畫一段圓弧</string>
+    <string name="test_single_invalid">平放在螢幕上畫一段圓弧</string>
+    <string name="show_single">最適合你的單手小螢幕</string>
+    <string name="try_more">再試一次</string>
+    <string name="begin">開始使用</string>
+    <string name="welcome_to_begin">歡迎使用為你適配的單手模式</string>
+    <string name="single_hand_cancel">取消</string>
+    <string name="single_hand_setting">去設定</string>
+    <string name="single_hand_dialog_message">%1$s已被單手模式遮罩。在頁面%1$s啟用單手模式， 需要進入系統設置-更多特色功能-單手模式-設定遮罩單手應用，更改設定。</string>
+</resources>
