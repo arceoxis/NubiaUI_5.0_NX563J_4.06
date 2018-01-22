@@ -2,7 +2,7 @@
 <resources>
     <string name="nubia_common_label">nubia</string>
     <string name="nubia_app_name">Общие Ресурсы nubia</string>
-    <string name="nubia_capital_on">ВКЛ</string>
+    <string name="nubia_capital_on">Вкл.</string>
     <string name="nubia_capital_off">Выкл.</string>
     <string name="nubia_time_picker_dialog_title">Настройка времени</string>
     <string name="nubia_setting_date">Настройка даты</string>
@@ -70,16 +70,16 @@
     <string name="account_login_welcome_txt">Регистрация уч. записи nubia</string>
     <string name="account_login_welcome_txt2">Способы регистрации:</string>
     <string name="section_login_by_email_title">Email</string>
-    <string name="section_login_by_mobile_title">Мобильный</string>
-    <string name="section_login_by_thirdrdparty_title">Третья сторона</string>
+    <string name="section_login_by_mobile_title">Мобильный телефон</string>
+    <string name="section_login_by_thirdrdparty_title">Сторонняя учетная запись</string>
     <string name="section_login_by_wechat"><a href="#">Вход посредством WeChat</a></string>
     <string name="section_login_by_qq"><a href="#">Login by QQ</a></string>
     <string name="section_login_by_weibo"><a href="#">Login by Weibo</a></string>
-    <string name="section_register_authenticating">Аутентификация…</string>
+    <string name="section_register_authenticating">Регистрация...</string>
     <string name="section_recovery_sending_email">Отправка…</string>
     <string name="section_register_registerfail">Ошибка регистрации</string>
     <string name="section_register_by_email_title">Email</string>
-    <string name="section_register_by_mobile_title">Мобильный</string>
+    <string name="section_register_by_mobile_title">Мобильный телефон</string>
     <string name="section_register_by_email_username">Имя пользователя:</string>
     <string name="section_register_by_email_email">E-mail:</string>
     <string name="section_register_by_email_password">Пароль:</string>
@@ -98,7 +98,7 @@
     <string name="register_confirm_password_hint">Подтверждение пароля</string>
     <string name="register_mobile_hint">Мобильный номер</string>
     <string name="register_answer_hint">Ответ на безопасный вопрос</string>
-    <string name="register_finish_text">Успешная регистрация!</string>
+    <string name="register_finish_text">Регистрация прошла успешно!</string>
     <string name="register_finish_button">Регистрация завершена</string>
     <string name="register_finish_tip">Код активации отправлен на ваш email</string>
     <string name="section_register_by_moible_number">Мобильный:</string>
@@ -109,6 +109,7 @@
     <string name="section_register_by_mobile_acquire_error">Ошибка получения кода активации, попробуйте снова</string>
     <string name="register_number_title">Зарегистрированный мобильный:</string>
     <string name="security_code_note">На мобильный отправлено сообщение, пожалуйста введите код активации, отправленный на мобильный номер.</string>
+
     <string name="security_code_title">Код активации:</string>
     <string name="acquire_again">Получить снова</string>
     <string name="section_register_by_mobile_next_button">Далее</string>
@@ -123,10 +124,11 @@
     <string name="section_register_by_mobile_confirm_password_title">Подтверждение:</string>
     <string name="section_register_by_mobile_password_not_same">Пароли не идентичны</string>
     <string name="section_register_by_mobile_password_error">Требуемая длина пароля от 6 до 32 символов</string>
-    <string name="nubia_account_exist">nubia уже зарегистрирована. Если вы продолжите регистраци телефон выйдет из текущей учетной записи.</string>
+    <string name="nubia_account_exist">Вы уже вошли в учетную запись nubia. Если вы продолжаете, вы выходите из текущей учетной записи.</string>
+
     <string name="section_login_authenticating">Подключение к серверу…</string>
-    <string name="section_login_loginfail_text_both">Недействительные имя пользователя или пароль, попробуйте позднее.</string>
-    <string name="section_login_loginfail_text_pwonly">Недействительный пароль, попробуйте снова.</string>
+    <string name="section_login_loginfail_text_both">Неверное имя пользователя или пароль.</string>
+    <string name="section_login_loginfail_text_pwonly">Неверный пароль, попробуйте снова.</string>
     <string name="section_login_by_email_button">Логин</string>
     <string name="section_login_username">E-mail / Имя пользователя / Мобильный</string>
     <string name="section_login_password">Введите ваш пароль</string>
@@ -156,7 +158,8 @@
     <string name="reset_password_title">Введите новый пароль</string>
     <string name="reset_password_by_email_title">Сбросить пароль</string>
     <string name="recovery_by_email_note_01">Пароль сброшен, новый пароль уже выслан на вашу почту.</string>
-    <string name="recovery_by_email_note_02">Когда вы получите письмо, перезагрузите вашу учетную запись вашей nubia</string>
+    <string name="recovery_by_email_note_02">Когда вы получили письмо, следуйте инструкциям в электронном письме, чтобы сбросить пароль учетной записи nubia.</string>
+
     <string name="authcode_has_already_send">Код активации отправлен сообщением на номер</string>
     <string name="recovery_by_mobile_acquire_authcode">Подтверждение имени пользователя…</string>
     <string name="recovery_by_mobile_new_password_hint">Новый пароль(от 6 до 32 символов)</string>
@@ -182,6 +185,7 @@
     <string name="section_register_by_email_email_exist">Email уже существует!</string>
     <string name="section_register_by_mobile_number_exist_error">Мобильный номер уже существует!</string>
     <string name="login_user_null_error">Пожалуйста введите имя пользователя</string>
+
     <string name="login_username_error">Ошибка имени пользователя(от 4 до 15 символов)</string>
     <string name="login_email_error">Ошибка формата email или превышена длина в 40 символов</string>
     <string name="login_mobile_error">Мобильный недоступен</string>
@@ -198,20 +202,24 @@
     <string name="thirdparty_login_tips">Успешный вход через %1$1s</string>
     <string name="thirdparty_qq">QQ</string>
     <string name="thirdparty_wb">Sina Weibo</string>
-    <string name="thirdparty_login_first">"КонфигурацииВаш аккаунт nubia сейчас:
-Username is %1$1s
-Пароль %2$s
-Пожалуйста, храните тщательно."</string>
-    <string name="mobile_register_info">Каждый номер телефона может получить код безопасности не более чем два раза в течение дня!</string>
+    <string name="thirdparty_login_first">"Поздравляем!
+Теперь у вас есть учетная запись nubia:
+Имя пользователя: %1$1s
+Пароль: %2$s"</string>
+    <string name="mobile_register_info">Каждый номер телефона может получить код безопасности не более двух раз в день!</string>
+    
+    
+    
+    
     <string name="please_wait">Подождите...</string>
     <string name="unknow_error">Неизвестная ошибка</string>
     <string name="mail_regist_title">Регистрация через электронную почту</string>
     <string name="switch_email_regist">Регистрация через электронную почту</string>
-    <string name="phone_numble_label">Мобильный номер</string>
+    <string name="phone_numble_label">Мобильный телефон</string>
     <string name="phone_password_label">Пароль содержит как минимум 6 символов</string>
     <string name="account_login">Логин</string>
     <string name="account_regist">Регистрация</string>
-    <string name="phone_regist_title">Регистрация через мобильный номер</string>
+    <string name="phone_regist_title">Регистрация через мобильный телефон</string>
     <string name="phone_regist_cancel">Отмена</string>
     <string name="phone_regist">Регистрация</string>
     <string name="sms_code_label">Код безопасности в SMS</string>
@@ -272,7 +280,7 @@ Username is %1$1s
     <string name="err_mailbox_already_exists">Электронная почта уже существует</string>
     <string name="err_user_not_exists">Пользователь не существует или удален</string>
     <string name="err_user_already_exists">Ник уже существует</string>
-    <string name="err_sending_sms_over_limit">SMS превысил лимит</string>
+    <string name="err_sending_sms_over_limit">Превышен лимит SMS</string>
     <string name="err_sms_code_expired">SMS-код подтверждения недействительный</string>
     <string name="err_send_sms_failed">SMS не отправлено</string>
     <string name="err_sms_format_error">Формат передачи SMS неверный</string>
@@ -288,6 +296,8 @@ Username is %1$1s
     <string name="err_reset_password_email_expired">Письмо для восстановления пароля устарело</string>
     <string name="err_already_bind_phone_or_mail">Связано с мобильным номером/электронной почтой</string>
     <string name="err_already_bind_third_part_account">Связано со с сторонней учетной записью</string>
+    <string name="err_information_format">Неверный формат географической информации</string>
+    <string name="err_nickname_retained">Зарезервированный ник</string>
     <string name="err_network_unavailable">Сбой сети, проверьте подключение к сети</string>
     <string name="err_data_format_incorrect">Неверный формат данных, ошибка разрешения</string>
     <string name="err_file_unavailable">Файл не существует или неправильный формат файла</string>
@@ -338,7 +348,7 @@ Username is %1$1s
     <string name="head_portrait_title">Редактировать портрет</string>
     <string name="head_portrait_summary">Нажмите, чтобы изменить портрет</string>
     <string name="digital_id_title">Цифровой ID</string>
-    <string name="user_name_title">ИМЯ ПОЛЬЗОВАТЕЛЯ</string>
+    <string name="user_name_title">Имя пользователя</string>
     <string name="eamil_address_title">Email</string>
     <string name="phone_number_title">Мобильный номер</string>
     <string name="district_title">Регион</string>
@@ -377,7 +387,7 @@ Username is %1$1s
     <string name="account_details_title">Данные об учетной записи</string>
     <string name="account_details_userid">Цифровой ID</string>
     <string name="account_details_userid_unset">Сбросить</string>
-    <string name="account_details_usermane">ИМЯ ПОЛЬЗОВАТЕЛЯ</string>
+    <string name="account_details_usermane">Имя пользователя</string>
     <string name="account_details_username_unset">Сбросить</string>
     <string name="account_details_email">Email</string>
     <string name="account_details_email_unset">Нажмите, чтобы привязать</string>

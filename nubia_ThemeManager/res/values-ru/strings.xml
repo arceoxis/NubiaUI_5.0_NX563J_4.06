@@ -9,9 +9,10 @@
     <string name="zfeedback_success">Успешно отправлено</string>
     <string name="zfeedback_failure">Ошибка отправки</string>
     <string name="zfeedback_time_out">Тайм-аут. Пожалуйста, попробуйте позднее</string>
+    
     <string name="nubia_common_label">nubia</string>
     <string name="nubia_app_name">Общие Ресурсы nubia</string>
-    <string name="nubia_capital_on">ВКЛ</string>
+    <string name="nubia_capital_on">Вкл.</string>
     <string name="nubia_capital_off">Выкл.</string>
     <string name="nubia_time_picker_dialog_title">Настройка времени</string>
     <string name="nubia_setting_date">Настройка даты</string>
@@ -74,7 +75,7 @@
     <string name="pull_to_refresh_pull_label">Для выполнения обновления следует нажать кнопку…</string>
     <string name="pull_to_refresh_release_label">Для выполнения обновления следует отпустить кнопку…</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
-    <string name="more_recommended_title">Контекстная помощь</string>
+    <string name="more_recommended_title">Рекомендации</string>
     <string name="setting_title">Настройка</string>
     <string name="mobile_download_switch">Для выполнения загрузки следует использовать сеть форматов 2G/3G/4G</string>
     <string name="auto_fresh">Автоматическое обновление в режиме Wi-Fi</string>
@@ -93,11 +94,11 @@
     <string name="load_fail_invalid_theme">Не удалось импортировать из-за неправильного формата пакета темы</string>
     <string name="load_fail_over_size">Размер установочного пакета темы превышает максимальный допустимый предел, выполнить импортирование не удалось</string>
     <string name="choose_theme_file">Выбрать файл темы</string>
-    <string name="can_not_find_filemanager">Пожалуйста, установите Файл Менеджер</string>
+    <string name="can_not_find_filemanager">Пожалуйста, установите Файл менеджер</string>
     <string name="waiting_download">Ожидание загрузки…</string>
     <string name="has_choose_item">(%s) выбранного</string>
     <string name="delete">Удалить</string>
-    <string name="ok">ОК</string>
+    <string name="ok">Ок</string>
     <string name="delete_info">Вы действительно хотите удалить темы?</string>
     <string name="cannot_delete_using_theme">Вы не можете удалить активную тему</string>
     <string name="cannot_delete_system_theme">Вы не можете удалить системную тему</string>
@@ -110,8 +111,8 @@
     <string name="delete_theme">Удалить</string>
     <string name="apply_theme">Применить</string>
     <string name="apply_theme_fail">Не удалось применить тему</string>
-    <string name="download_theme">Загрузить целую песню</string>
-    <string name="pausing">Приостановление</string>
+    <string name="download_theme">Загрузить</string>
+    <string name="pausing">Приостановка</string>
     <string name="importing">Импорт…</string>
     <string name="connecting_download">Соединение.</string>
     <string name="theme_update_log_title">Обновление журнала</string>
