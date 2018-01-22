@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name_def">
+        <item>Recommend</item>
+        <item>Scenery</item>
+        <item>Building</item>
+        <item>Sports</item>
+        <item>Fashion</item>
+        <item>Star</item>
+    </string-array>
+</resources>
